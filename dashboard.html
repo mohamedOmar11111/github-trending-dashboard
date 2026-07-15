@@ -1,0 +1,1288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GitHub Trending Library</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"
+            onerror="var s=document.createElement('script');s.src='https://unpkg.com/chart.js@4.4.7/dist/chart.umd.min.js';document.head.appendChild(s)">
+    </script>
+    <style>
+        /* ── Reset & Base ── */
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        :root {
+            --bg: #0b0d15;
+            --surface: #12141e;
+            --surface2: #1a1d2b;
+            --surface3: #222639;
+            --border: #2a2e42;
+            --text: #e2e6f0;
+            --text2: #949ab0;
+            --accent: #6c63ff;
+            --accent2: #e040fb;
+            --green: #00c853;
+            --orange: #ff9100;
+            --pink: #f50057;
+            --cyan: #00bcd4;
+            --radius: 12px;
+            --shadow: 0 8px 32px rgba(0,0,0,.4);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+        }
+        body {
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: var(--surface); }
+        ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+        ::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+
+        /* ── Glow effects ── */
+        .glow-orb {
+            position: fixed;
+            border-radius: 50%;
+            filter: blur(120px);
+            pointer-events: none;
+            z-index: 0;
+        }
+        .glow-orb--1 { width: 500px; height: 500px; background: var(--accent); opacity: .08; top: -200px; left: -200px; }
+        .glow-orb--2 { width: 600px; height: 600px; background: var(--accent2); opacity: .06; bottom: -250px; right: -200px; }
+
+        /* ── Header ── */
+        .header {
+            position: relative;
+            z-index: 1;
+            padding: 32px 40px 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 16px;
+            border-bottom: 1px solid var(--border);
+            background: linear-gradient(180deg, rgba(108,99,255,.04) 0%, transparent 100%);
+        }
+        .header-left { display: flex; align-items: center; gap: 16px; }
+        .logo {
+            width: 44px; height: 44px;
+            background: linear-gradient(135deg, var(--accent), var(--accent2));
+            border-radius: 12px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 22px; font-weight: 700; color: #fff;
+            box-shadow: 0 4px 16px rgba(108,99,255,.3);
+        }
+        .header h1 {
+            font-size: 24px; font-weight: 700;
+            background: linear-gradient(135deg, var(--text), var(--accent));
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .header-sub {
+            font-size: 13px; color: var(--text2); margin-top: 2px;
+            -webkit-text-fill-color: var(--text2);
+        }
+        .header-right { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+
+        /* ── Search ── */
+        .search-box {
+            position: relative;
+            width: 300px;
+        }
+        .search-box input {
+            width: 100%;
+            padding: 10px 16px 10px 40px;
+            border-radius: 10px;
+            border: 1px solid var(--border);
+            background: var(--surface2);
+            color: var(--text);
+            font-size: 14px;
+            outline: none;
+            transition: all .25s;
+        }
+        .search-box input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(108,99,255,.15); }
+        .search-box input::placeholder { color: var(--text2); }
+        .search-box .icon {
+            position: absolute; left: 12px; top: 50%; transform: translateY(-50%);
+            color: var(--text2); font-size: 16px;
+        }
+
+        /* ── Buttons ── */
+        .btn {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 9px 18px;
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            background: var(--surface2);
+            color: var(--text);
+            font-size: 13px;
+            cursor: pointer;
+            transition: all .2s;
+            white-space: nowrap;
+        }
+        .btn:hover { background: var(--surface3); border-color: var(--accent); }
+        .btn--primary {
+            background: linear-gradient(135deg, var(--accent), #7c6aff);
+            border-color: var(--accent);
+            color: #fff;
+            font-weight: 600;
+        }
+        .btn--primary:hover { box-shadow: 0 4px 20px rgba(108,99,255,.4); transform: translateY(-1px); }
+        .btn--icon { padding: 9px 12px; }
+        .btn--active { background: var(--surface3); border-color: var(--accent); color: var(--accent); }
+
+        /* ── Layout ── */
+        .app {
+            display: flex;
+            position: relative;
+            z-index: 1;
+            min-height: calc(100vh - 100px);
+        }
+
+        /* ── Sidebar ── */
+        .sidebar {
+            width: 240px;
+            flex-shrink: 0;
+            padding: 24px 16px;
+            border-right: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+        .sidebar-label {
+            font-size: 11px; text-transform: uppercase; letter-spacing: 1px;
+            color: var(--text2); padding: 12px 12px 6px; font-weight: 600;
+        }
+        .sidebar-item {
+            display: flex; align-items: center; gap: 10px;
+            padding: 10px 12px;
+            border-radius: 8px;
+            color: var(--text2);
+            font-size: 14px;
+            cursor: pointer;
+            transition: all .2s;
+            text-decoration: none;
+        }
+        .sidebar-item:hover { background: var(--surface2); color: var(--text); }
+        .sidebar-item--active {
+            background: linear-gradient(135deg, rgba(108,99,255,.15), transparent);
+            color: var(--accent);
+            border-left: 2px solid var(--accent);
+        }
+        .sidebar-item .badge {
+            margin-left: auto;
+            background: var(--surface3);
+            padding: 2px 8px;
+            border-radius: 99px;
+            font-size: 11px;
+            font-weight: 600;
+            color: var(--text2);
+        }
+
+        /* ── Main ── */
+        .main {
+            flex: 1;
+            padding: 24px 32px;
+            overflow-y: auto;
+        }
+
+        /* ── Stats Cards ── */
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 16px;
+            margin-bottom: 28px;
+        }
+        .stat-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 20px 24px;
+            transition: all .3s;
+            position: relative;
+            overflow: hidden;
+        }
+        .stat-card::before {
+            content: '';
+            position: absolute; top: 0; left: 0; right: 0; height: 3px;
+            border-radius: var(--radius) var(--radius) 0 0;
+        }
+        .stat-card:hover { transform: translateY(-2px); box-shadow: var(--shadow); }
+        .stat-card--total::before { background: linear-gradient(90deg, var(--accent), var(--accent2)); }
+        .stat-card--ai::before { background: linear-gradient(90deg, var(--green), var(--cyan)); }
+        .stat-card--lang::before { background: linear-gradient(90deg, var(--orange), var(--pink)); }
+        .stat-card--dates::before { background: linear-gradient(90deg, var(--cyan), var(--accent)); }
+        .stat-card .num {
+            font-size: 28px; font-weight: 700;
+            background: linear-gradient(135deg, var(--text), var(--accent));
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .stat-card .label { font-size: 13px; color: var(--text2); margin-top: 4px; }
+
+        /* ── Controls ── */
+        .controls {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+            align-items: center;
+        }
+        .controls .spacer { flex: 1; }
+        .control-group {
+            display: flex;
+            gap: 6px;
+            align-items: center;
+        }
+        .control-group label { font-size: 13px; color: var(--text2); }
+        select {
+            padding: 8px 12px;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            background: var(--surface2);
+            color: var(--text);
+            font-size: 13px;
+            outline: none;
+            cursor: pointer;
+            transition: border .2s;
+        }
+        select:focus { border-color: var(--accent); }
+        .view-toggle { display: flex; gap: 4px; }
+
+        /* ── Repo Grid ── */
+        .repo-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 16px;
+        }
+        .repo-grid--list {
+            grid-template-columns: 1fr;
+        }
+
+        /* ── Repo Card ── */
+        .repo-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 20px;
+            transition: all .3s;
+            cursor: pointer;
+            position: relative;
+            animation: cardIn .35s ease-out both;
+        }
+        @keyframes cardIn {
+            from { opacity: 0; transform: translateY(12px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .repo-card:hover {
+            transform: translateY(-3px);
+            box-shadow: var(--shadow);
+            border-color: var(--accent);
+        }
+        .repo-card--list {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            padding: 16px 20px;
+        }
+        .repo-card--list .repo-info { flex: 1; }
+        .repo-card--list .repo-desc {
+            display: none;
+        }
+
+        .repo-rank {
+            font-size: 12px; font-weight: 700; color: var(--text2);
+            margin-bottom: 6px;
+        }
+        .repo-name {
+            font-size: 15px; font-weight: 600;
+            color: var(--accent);
+            text-decoration: none;
+            display: block;
+            margin-bottom: 4px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        .repo-name:hover { text-decoration: underline; }
+        .repo-desc {
+            font-size: 13px; color: var(--text2);
+            line-height: 1.5;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            margin-bottom: 12px;
+        }
+        .repo-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            align-items: center;
+            font-size: 12px;
+            color: var(--text2);
+        }
+        .repo-meta span {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .repo-stars {
+            color: var(--orange);
+            font-weight: 600;
+        }
+        .repo-lang {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .repo-lang-dot {
+            width: 8px; height: 8px;
+            border-radius: 50%;
+            background: var(--accent);
+        }
+        .repo-ai-badge {
+            font-size: 10px;
+            padding: 2px 8px;
+            border-radius: 99px;
+            background: linear-gradient(135deg, rgba(0,200,83,.15), rgba(0,188,212,.15));
+            color: var(--green);
+            font-weight: 600;
+            border: 1px solid rgba(0,200,83,.2);
+        }
+        .repo-topics {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+            margin-top: 8px;
+        }
+        .repo-topic {
+            font-size: 11px;
+            padding: 2px 8px;
+            border-radius: 99px;
+            background: var(--surface2);
+            color: var(--text2);
+            border: 1px solid var(--border);
+        }
+        .repo-date {
+            font-size: 11px;
+            color: var(--text2);
+        }
+
+        /* ── Empty state ── */
+        .empty-state {
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text2);
+        }
+        .empty-state .icon { font-size: 48px; margin-bottom: 12px; opacity: .5; }
+        .empty-state h3 { font-size: 18px; margin-bottom: 6px; color: var(--text); }
+
+        /* ── Modal ── */
+        .modal-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,.7);
+            backdrop-filter: blur(8px);
+            z-index: 100;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            animation: fadeIn .2s ease-out;
+        }
+        .modal-overlay--open { display: flex; }
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+        .modal {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            max-width: 600px;
+            width: 100%;
+            max-height: 85vh;
+            overflow-y: auto;
+            padding: 32px;
+            animation: modalIn .3s ease-out;
+            box-shadow: 0 24px 80px rgba(0,0,0,.6);
+        }
+        @keyframes modalIn {
+            from { opacity: 0; transform: scale(.95) translateY(10px); }
+            to { opacity: 1; transform: scale(1) translateY(0); }
+        }
+        .modal-close {
+            float: right;
+            background: none;
+            border: none;
+            color: var(--text2);
+            font-size: 24px;
+            cursor: pointer;
+            transition: color .2s;
+            line-height: 1;
+        }
+        .modal-close:hover { color: var(--text); }
+        .modal h2 { font-size: 22px; margin-bottom: 8px; }
+        .modal h2 a { color: var(--accent); text-decoration: none; }
+        .modal h2 a:hover { text-decoration: underline; }
+        .modal .desc { color: var(--text2); line-height: 1.6; margin-bottom: 16px; }
+        .modal .field { display: flex; gap: 8px; padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 14px; }
+        .modal .field-label { color: var(--text2); min-width: 100px; flex-shrink: 0; }
+        .modal .field-value { color: var(--text); }
+        .modal .topics-wrap { display: flex; flex-wrap: wrap; gap: 4px; }
+        .modal .repo-link {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 24px;
+            background: linear-gradient(135deg, var(--accent), #7c6aff);
+            color: #fff;
+            border-radius: 10px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all .2s;
+        }
+        .modal .repo-link:hover { box-shadow: 0 4px 20px rgba(108,99,255,.4); transform: translateY(-1px); }
+
+        /* ── Charts ── */
+        .chart-section {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .chart-section h3 {
+            font-size: 15px;
+            font-weight: 600;
+            margin-bottom: 16px;
+            color: var(--text);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .charts-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+            margin-bottom: 28px;
+        }
+        @media (max-width: 900px) {
+            .charts-row { grid-template-columns: 1fr; }
+        }
+
+        /* ── Section Titles ── */
+        .section-title {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .section-result-count {
+            font-size: 13px;
+            color: var(--text2);
+            font-weight: 400;
+        }
+
+        /* ── Responsive ── */
+        @media (max-width: 768px) {
+            .header { padding: 20px; }
+            .header h1 { font-size: 20px; }
+            .search-box { width: 100%; }
+            .sidebar { display: none; }
+            .main { padding: 16px; }
+            .repo-grid { grid-template-columns: 1fr; }
+            .stats { grid-template-columns: repeat(2, 1fr); }
+            .controls { flex-direction: column; align-items: stretch; }
+            .control-group { flex-wrap: wrap; }
+        }
+
+        /* ── Loading ── */
+        .loading {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 80px 20px;
+            color: var(--text2);
+            flex-direction: column;
+            gap: 16px;
+        }
+        .spinner {
+            width: 40px; height: 40px;
+            border: 3px solid var(--border);
+            border-top-color: var(--accent);
+            border-radius: 50%;
+            animation: spin .8s linear infinite;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        /* ── Toast ── */
+        .toast {
+            position: fixed;
+            bottom: 24px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--surface2);
+            border: 1px solid var(--border);
+            padding: 12px 24px;
+            border-radius: 10px;
+            font-size: 13px;
+            color: var(--text);
+            box-shadow: var(--shadow);
+            z-index: 200;
+            display: none;
+            animation: toastIn .3s ease-out;
+        }
+        @keyframes toastIn { from { opacity: 0; transform: translateX(-50%) translateY(10px); } to { opacity: 1; transform: translateX(-50%) translateY(0); } }
+
+        /* ── Mobile sidebar toggle ── */
+        .mobile-sidebar-btn { display: none; }
+        @media (max-width: 768px) {
+            .mobile-sidebar-btn { display: inline-flex; }
+        }
+        .mobile-sidebar {
+            display: none;
+            position: fixed;
+            inset: 0;
+            z-index: 90;
+            background: rgba(0,0,0,.6);
+            backdrop-filter: blur(4px);
+        }
+        .mobile-sidebar--open { display: block; }
+        .mobile-sidebar .sidebar {
+            background: var(--surface);
+            height: 100%;
+            width: 280px;
+            border-right: 1px solid var(--border);
+            animation: slideIn .25s ease-out;
+        }
+        @keyframes slideIn { from { transform: translateX(-100%); } to { transform: translateX(0); } }
+    </style>
+</head>
+<body>
+
+    <div class="glow-orb glow-orb--1"></div>
+    <div class="glow-orb glow-orb--2"></div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="header-left">
+            <div class="logo">G</div>
+            <div>
+                <h1>GitHub Trending Library</h1>
+                <div class="header-sub" id="headerSub">Loading...</div>
+            </div>
+        </div>
+        <div class="header-right">
+            <div class="search-box">
+                <span class="icon">&#128269;</span>
+                <input type="text" id="searchInput" placeholder="Search repos by name, description..." />
+            </div>
+            <button class="btn btn--icon mobile-sidebar-btn" id="mobileSidebarToggle" title="Menu">&#9776;</button>
+            <button class="btn" id="refreshBtn">&#8635; Refresh</button>
+        </div>
+    </header>
+
+    <!-- Mobile Sidebar Overlay -->
+    <div class="mobile-sidebar" id="mobileSidebar">
+        <div class="sidebar" id="mobileSidebarContent">
+            <div class="sidebar-label">Navigation</div>
+            <div class="sidebar-item sidebar-item--active" data-view="overview">
+                <span>&#128202;</span> Overview
+            </div>
+            <div class="sidebar-item" data-view="browse">
+                <span>&#128218;</span> Browse All
+                <span class="badge" id="totalBadge">0</span>
+            </div>
+            <div class="sidebar-item" data-view="ai-dev">
+                <span>&#129302;</span> AI/DEV
+                <span class="badge" id="aiBadge">0</span>
+            </div>
+            <div class="sidebar-item" data-view="top">
+                <span>&#127942;</span> Top All-Time
+            </div>
+            <div class="sidebar-label">By Date</div>
+            <div id="dateNav"></div>
+            <div class="sidebar-label">By Language</div>
+            <div id="langNav"></div>
+        </div>
+    </div>
+
+    <!-- App -->
+    <div class="app">
+        <!-- Desktop Sidebar -->
+        <nav class="sidebar" id="desktopSidebar">
+            <div class="sidebar-label">Navigation</div>
+            <div class="sidebar-item sidebar-item--active" data-view="overview">
+                <span>&#128202;</span> Overview
+            </div>
+            <div class="sidebar-item" data-view="browse">
+                <span>&#128218;</span> Browse All
+                <span class="badge" id="totalBadgeDesktop">0</span>
+            </div>
+            <div class="sidebar-item" data-view="ai-dev">
+                <span>&#129302;</span> AI/DEV
+                <span class="badge" id="aiBadgeDesktop">0</span>
+            </div>
+            <div class="sidebar-item" data-view="top">
+                <span>&#127942;</span> Top All-Time
+            </div>
+            <div class="sidebar-label">By Date</div>
+            <div id="dateNavDesktop"></div>
+            <div class="sidebar-label">By Language</div>
+            <div id="langNavDesktop"></div>
+        </nav>
+
+        <!-- Main -->
+        <main class="main" id="mainContent">
+            <div class="loading" id="loadingState">
+                <div class="spinner"></div>
+                <span>Loading trending data...</span>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal" id="modalContent">
+            <button class="modal-close" id="modalClose">&times;</button>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+
+    <!-- Toast -->
+    <div class="toast" id="toast"></div>
+
+    <script>
+    // ════════════════════════════════════════════════════════
+    // State
+    // ════════════════════════════════════════════════════════
+    let DATA = null;
+    let currentView = 'overview';
+    let currentFilter = { search: '', language: '', date: '', sort: 'stars' };
+    let viewMode = 'grid'; // grid | list
+    let chartInstances = {};
+
+    // ════════════════════════════════════════════════════════
+    // Load Data
+    // ════════════════════════════════════════════════════════
+    async function loadData() {
+        try {
+            const res = await fetch('trending_data.json');
+            DATA = await res.json();
+            document.getElementById('headerSub').textContent =
+                `${DATA.total_repos} repos · ${DATA.total_dates} dates · ${DATA.total_unique_languages} languages`;
+            updateBadges();
+            renderOverview();
+            renderDateNav();
+            renderLangNav();
+            document.getElementById('loadingState').style.display = 'none';
+        } catch (e) {
+            document.getElementById('loadingState').innerHTML = `
+                <div style="text-align:center;color:var(--text2)">
+                    <div style="font-size:48px;margin-bottom:12px;">&#9888;</div>
+                    <h3>Could not load data</h3>
+                    <p>Make sure <code>trending_data.json</code> is available.<br>Run <code>python extract_data.py</code> first.</p>
+                </div>`;
+        }
+    }
+
+    function updateBadges() {
+        const total = DATA.total_repos;
+        const ai = DATA.repos.filter(r => r.is_ai_dev).length;
+        document.getElementById('totalBadge').textContent = total;
+        document.getElementById('totalBadgeDesktop').textContent = total;
+        document.getElementById('aiBadge').textContent = ai;
+        document.getElementById('aiBadgeDesktop').textContent = ai;
+    }
+
+    // ════════════════════════════════════════════════════════
+    // Navigation
+    // ════════════════════════════════════════════════════════
+    document.querySelectorAll('.sidebar-item[data-view]').forEach(el => {
+        el.addEventListener('click', () => navigateTo(el.dataset.view));
+    });
+
+    function navigateTo(view, sub) {
+        currentView = view;
+        document.querySelectorAll('.sidebar-item[data-view]').forEach(e => e.classList.remove('sidebar-item--active'));
+        document.querySelectorAll(`.sidebar-item[data-view="${view}"]`).forEach(e => e.classList.add('sidebar-item--active'));
+        closeMobileSidebar();
+
+        if (view === 'overview') renderOverview();
+        else if (view === 'browse') renderBrowse();
+        else if (view === 'ai-dev') { currentFilter.language = ''; renderBrowse(true); }
+        else if (view === 'top') renderTop();
+        else if (view.startsWith('date:')) {
+            currentFilter.date = view.slice(5);
+            renderBrowse();
+        } else if (view.startsWith('lang:')) {
+            currentFilter.language = view.slice(5);
+            renderBrowse();
+        }
+    }
+
+    // ════════════════════════════════════════════════════════
+    // Render: Overview
+    // ════════════════════════════════════════════════════════
+    function renderOverview() {
+        const repos = DATA.repos;
+        const aiRepos = repos.filter(r => r.is_ai_dev);
+
+        const langData = DATA.language_stats;
+        const topLangs = Object.entries(langData).slice(0, 8);
+
+        const dateLabels = Object.keys(DATA.date_stats).reverse();
+        const starOverTime = dateLabels.map(d => {
+            const stats = DATA.date_stats[d];
+            return stats ? Math.round(stats.total_stars / stats.count) : 0;
+        });
+
+        let html = `
+            <div class="stats">
+                <div class="stat-card stat-card--total">
+                    <div class="num">${DATA.total_repos.toLocaleString()}</div>
+                    <div class="label">Total Repos Collected</div>
+                </div>
+                <div class="stat-card stat-card--ai">
+                    <div class="num">${aiRepos.length.toLocaleString()}</div>
+                    <div class="label">AI/DEV Repos</div>
+                </div>
+                <div class="stat-card stat-card--lang">
+                    <div class="num">${DATA.total_unique_languages}</div>
+                    <div class="label">Languages</div>
+                </div>
+                <div class="stat-card stat-card--dates">
+                    <div class="num">${DATA.total_dates}</div>
+                    <div class="label">Days Tracked</div>
+                </div>
+            </div>
+
+            <div class="charts-row">
+                <div class="chart-section">
+                    <h3>&#128200; Languages</h3>
+                    <canvas id="langChart"></canvas>
+                </div>
+                <div class="chart-section">
+                    <h3>&#128200; Avg Stars Per Day</h3>
+                    <canvas id="starsChart"></canvas>
+                </div>
+            </div>
+
+            <div class="section-title">
+                &#127942; Top 5 All-Time Repos
+                <span class="section-result-count">by stars</span>
+            </div>
+            <div class="repo-grid">
+                ${DATA.top_50_all_time.slice(0, 5).map((r, i) => renderRepoCard(r, i + 1)).join('')}
+            </div>
+
+            <div style="margin-top:20px">
+                <div class="section-title">
+                    &#128200; Recent Activity
+                    <span class="section-result-count">last 3 dates</span>
+                </div>
+                <div class="repo-grid">
+                    ${renderRecentActivity()}
+                </div>
+            </div>
+        `;
+
+        document.getElementById('mainContent').innerHTML = html;
+
+        // Render charts on next frame
+        requestAnimationFrame(() => {
+            renderLangChart(topLangs);
+            renderStarsChart(dateLabels, starOverTime);
+        });
+    }
+
+    function renderRecentActivity() {
+        const dates = Object.keys(DATA.date_stats).sort().reverse().slice(0, 3);
+        let cards = '';
+        for (const date of dates) {
+            const dayRepos = DATA.repos.filter(r => r.date === date && r.section === 'daily').slice(0, 5);
+            for (const [i, r] of dayRepos.entries()) {
+                cards += renderRepoCard(r, i + 1);
+            }
+        }
+        return cards || '<div class="empty-state"><div class="icon">&#128196;</div><h3>No recent daily data</h3></div>';
+    }
+
+    function renderLangChart(topLangs) {
+        const ctx = document.getElementById('langChart');
+        if (!ctx) return;
+        if (chartInstances.lang) chartInstances.lang.destroy();
+        chartInstances.lang = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: topLangs.map(([lang]) => lang),
+                datasets: [{
+                    data: topLangs.map(([, v]) => v.count),
+                    backgroundColor: [
+                        '#6c63ff', '#e040fb', '#00c853', '#ff9100',
+                        '#00bcd4', '#f50057', '#ffeb3b', '#76ff03'
+                    ],
+                    borderWidth: 0,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: {
+                    legend: {
+                        position: 'right',
+                        labels: { color: '#949ab0', padding: 12, font: { size: 12 } }
+                    }
+                }
+            }
+        });
+    }
+
+    function renderStarsChart(labels, data) {
+        const ctx = document.getElementById('starsChart');
+        if (!ctx) return;
+        if (chartInstances.stars) chartInstances.stars.destroy();
+        chartInstances.stars = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels,
+                datasets: [{
+                    label: 'Avg Stars',
+                    data,
+                    borderColor: '#6c63ff',
+                    backgroundColor: 'rgba(108,99,255,.1)',
+                    fill: true,
+                    tension: .4,
+                    pointRadius: 4,
+                    pointBackgroundColor: '#6c63ff',
+                    pointBorderColor: '#12141e',
+                    pointBorderWidth: 2,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: {
+                    legend: { display: false }
+                },
+                scales: {
+                    x: {
+                        ticks: { color: '#949ab0', font: { size: 11 } },
+                        grid: { color: 'rgba(42,46,66,.5)' }
+                    },
+                    y: {
+                        ticks: { color: '#949ab0', font: { size: 11 } },
+                        grid: { color: 'rgba(42,46,66,.5)' }
+                    }
+                }
+            }
+        });
+    }
+
+    // ════════════════════════════════════════════════════════
+    // Render: Browse
+    // ════════════════════════════════════════════════════════
+    function renderBrowse(aiOnly = false) {
+        let repos = [...DATA.repos];
+
+        // Filter AI
+        if (aiOnly || currentView === 'ai-dev') {
+            repos = repos.filter(r => r.is_ai_dev);
+        }
+
+        // Filter by search
+        if (currentFilter.search) {
+            const q = currentFilter.search.toLowerCase();
+            repos = repos.filter(r =>
+                r.name.toLowerCase().includes(q) ||
+                r.description.toLowerCase().includes(q) ||
+                r.topics.some(t => t.toLowerCase().includes(q))
+            );
+        }
+
+        // Filter by language
+        if (currentFilter.language) {
+            repos = repos.filter(r => r.language === currentFilter.language);
+        }
+
+        // Filter by date
+        if (currentFilter.date) {
+            repos = repos.filter(r => r.date === currentFilter.date);
+        }
+
+        // Sort
+        const sort = currentFilter.sort;
+        repos.sort((a, b) => {
+            if (sort === 'stars') return b.stars - a.stars;
+            if (sort === 'name') return a.name.localeCompare(b.name);
+            if (sort === 'date') return b.date.localeCompare(a.date);
+            return 0;
+        });
+
+        const title = aiOnly || currentView === 'ai-dev' ? '&#129302; AI/DEV Repos' :
+                       currentFilter.date ? `&#128197; ${currentFilter.date}` :
+                       currentFilter.language ? `&#128736; ${currentFilter.language}` :
+                       '&#128218; All Repos';
+
+        let html = `
+            <div class="section-title">
+                ${title}
+                <span class="section-result-count">${repos.length} repos</span>
+            </div>
+            <div class="controls">
+                <div class="control-group">
+                    <label>&#128269;</label>
+                    <input type="text" id="browseSearch" placeholder="Filter results..." value="${currentFilter.search}"
+                           style="padding:8px 12px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);color:var(--text);font-size:13px;outline:none;width:200px" />
+                </div>
+                <div class="control-group">
+                    <label>Sort:</label>
+                    <select id="sortSelect">
+                        <option value="stars" ${sort === 'stars' ? 'selected':''}>Stars (high)</option>
+                        <option value="name" ${sort === 'name' ? 'selected':''}>Name A-Z</option>
+                        <option value="date" ${sort === 'date' ? 'selected':''}>Date (new)</option>
+                    </select>
+                </div>
+                ${!aiOnly && currentView !== 'ai-dev' ? `
+                <div class="control-group">
+                    <label>Language:</label>
+                    <select id="langSelect">
+                        <option value="">All</option>
+                        ${Object.keys(DATA.language_stats).map(l =>
+                            `<option value="${l}" ${currentFilter.language === l ? 'selected':''}>${l}</option>`
+                        ).join('')}
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label>Date:</label>
+                    <select id="dateSelect">
+                        <option value="">All</option>
+                        ${Object.keys(DATA.date_stats).sort().reverse().map(d =>
+                            `<option value="${d}" ${currentFilter.date === d ? 'selected':''}>${d}</option>`
+                        ).join('')}
+                    </select>
+                </div>` : ''}
+                <div class="spacer"></div>
+                <div class="view-toggle">
+                    <button class="btn btn--icon ${viewMode === 'grid' ? 'btn--active':''}" data-viewmode="grid" title="Grid">&#9638;</button>
+                    <button class="btn btn--icon ${viewMode === 'list' ? 'btn--active':''}" data-viewmode="list" title="List">&#9776;</button>
+                </div>
+            </div>
+            <div class="repo-grid ${viewMode === 'list' ? 'repo-grid--list' : ''}" id="browseGrid">
+                ${repos.length === 0 ? `
+                    <div class="empty-state">
+                        <div class="icon">&#128270;</div>
+                        <h3>No repos found</h3>
+                        <p>Try adjusting your filters or search terms.</p>
+                    </div>
+                ` : repos.map(r => renderRepoCard(r, null)).join('')}
+            </div>
+        `;
+
+        document.getElementById('mainContent').innerHTML = html;
+
+        // Attach events
+        setupBrowseEvents();
+    }
+
+    function setupBrowseEvents() {
+        const search = document.getElementById('browseSearch');
+        const sort = document.getElementById('sortSelect');
+        const lang = document.getElementById('langSelect');
+        const date = document.getElementById('dateSelect');
+
+        if (search) {
+            search.addEventListener('input', () => {
+                currentFilter.search = search.value;
+                renderBrowse(currentView === 'ai-dev');
+            });
+        }
+        if (sort) {
+            sort.addEventListener('change', () => {
+                currentFilter.sort = sort.value;
+                renderBrowse(currentView === 'ai-dev');
+            });
+        }
+        if (lang) {
+            lang.addEventListener('change', () => {
+                currentFilter.language = lang.value;
+                renderBrowse(currentView === 'ai-dev');
+            });
+        }
+        if (date) {
+            date.addEventListener('change', () => {
+                currentFilter.date = date.value;
+                renderBrowse(currentView === 'ai-dev');
+            });
+        }
+
+        document.querySelectorAll('[data-viewmode]').forEach(btn => {
+            btn.addEventListener('click', () => {
+                viewMode = btn.dataset.viewmode;
+                renderBrowse(currentView === 'ai-dev');
+            });
+        });
+    }
+
+    // ════════════════════════════════════════════════════════
+    // Render: Top All-Time
+    // ════════════════════════════════════════════════════════
+    function renderTop() {
+        const repos = DATA.top_50_all_time;
+        let html = `
+            <div class="section-title">
+                &#127942; Top 50 All-Time Repos
+                <span class="section-result-count">by stars</span>
+            </div>
+            <div class="controls">
+                <div class="control-group">
+                    <label>&#128269;</label>
+                    <input type="text" id="topSearch" placeholder="Search top repos..."
+                           style="padding:8px 12px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);color:var(--text);font-size:13px;outline:none;width:200px" />
+                </div>
+                <div class="spacer"></div>
+                <div class="view-toggle">
+                    <button class="btn btn--icon ${viewMode === 'grid' ? 'btn--active':''}" data-viewmode="grid" title="Grid">&#9638;</button>
+                    <button class="btn btn--icon ${viewMode === 'list' ? 'btn--active':''}" data-viewmode="list" title="List">&#9776;</button>
+                </div>
+            </div>
+            <div class="repo-grid ${viewMode === 'list' ? 'repo-grid--list' : ''}" id="topGrid">
+                ${repos.map((r, i) => renderRepoCard(r, i + 1)).join('')}
+            </div>
+        `;
+        document.getElementById('mainContent').innerHTML = html;
+
+        const search = document.getElementById('topSearch');
+        if (search) {
+            search.addEventListener('input', () => {
+                const q = search.value.toLowerCase();
+                const filtered = repos.filter(r =>
+                    r.name.toLowerCase().includes(q) ||
+                    r.description.toLowerCase().includes(q)
+                );
+                document.getElementById('topGrid').innerHTML = filtered.length === 0
+                    ? `<div class="empty-state"><div class="icon">&#128270;</div><h3>No repos found</h3></div>`
+                    : filtered.map((r, i) => renderRepoCard(r, i + 1)).join('');
+                attachCardEvents();
+            });
+        }
+
+        document.querySelectorAll('[data-viewmode]').forEach(btn => {
+            btn.addEventListener('click', () => {
+                viewMode = btn.dataset.viewmode;
+                renderTop();
+            });
+        });
+    }
+
+    // ════════════════════════════════════════════════════════
+    // Repo Card
+    // ════════════════════════════════════════════════════════
+    function renderRepoCard(repo, rank) {
+        const langColor = getLangColor(repo.language);
+        const shortName = repo.name.length > 50 ? repo.name.slice(0, 47) + '...' : repo.name;
+        const desc = repo.description || 'No description';
+        const topics = repo.topics || [];
+        const isList = viewMode === 'list';
+
+        if (isList) {
+            return `<div class="repo-card repo-card--list" data-repo="${repo.name}" data-date="${repo.date}">
+                ${rank ? `<div class="repo-rank">#${rank}</div>` : ''}
+                <div class="repo-info">
+                    <a href="${repo.url}" target="_blank" class="repo-name" onclick="event.stopPropagation()">${shortName}</a>
+                    <div class="repo-meta">
+                        <span class="repo-stars">&#11088; ${repo.stars.toLocaleString()}</span>
+                        ${repo.language ? `<span class="repo-lang"><span class="repo-lang-dot" style="background:${langColor}"></span>${repo.language}</span>` : ''}
+                        <span>&#128197; ${repo.date}</span>
+                        ${repo.is_ai_dev ? '<span class="repo-ai-badge">AI/DEV</span>' : ''}
+                    </div>
+                </div>
+            </div>`;
+        }
+
+        return `<div class="repo-card" data-repo="${repo.name}" data-date="${repo.date}" style="animation-delay:${Math.random() * .15}s">
+            ${rank ? `<div class="repo-rank">#${rank}</div>` : ''}
+            <a href="${repo.url}" target="_blank" class="repo-name" onclick="event.stopPropagation()">${shortName}</a>
+            <div class="repo-desc">${desc}</div>
+            <div class="repo-meta">
+                <span class="repo-stars">&#11088; ${repo.stars.toLocaleString()}</span>
+                ${repo.language ? `<span class="repo-lang"><span class="repo-lang-dot" style="background:${langColor}"></span>${repo.language}</span>` : ''}
+                <span>&#128197; ${repo.date}</span>
+                ${repo.is_ai_dev ? '<span class="repo-ai-badge">AI/DEV</span>' : ''}
+            </div>
+            ${topics.length > 0 ? `<div class="repo-topics">${topics.slice(0, 4).map(t => `<span class="repo-topic">${t}</span>`).join('')}</div>` : ''}
+        </div>`;
+    }
+
+    // ════════════════════════════════════════════════════════
+    // Card Click -> Modal
+    // ════════════════════════════════════════════════════════
+    function attachCardEvents() {
+        document.querySelectorAll('.repo-card').forEach(card => {
+            card.addEventListener('click', function() {
+                const name = this.dataset.repo;
+                const date = this.dataset.date;
+                const repo = DATA.repos.find(r => r.name === name && r.date === date);
+                if (repo) showModal(repo);
+            });
+        });
+    }
+
+    // Use MutationObserver to attach card click events after any DOM change
+    const observer = new MutationObserver(() => {
+        try { attachCardEvents(); } catch(e) { /* silent */ }
+    });
+    observer.observe(document.getElementById('mainContent'), { childList: true, subtree: true });
+
+    // ════════════════════════════════════════════════════════
+    // Modal
+    // ════════════════════════════════════════════════════════
+    function showModal(repo) {
+        const langColor = getLangColor(repo.language);
+        const topics = repo.topics || [];
+
+        document.getElementById('modalBody').innerHTML = `
+            <h2><a href="${repo.url}" target="_blank">${repo.name}</a></h2>
+            <p class="desc">${repo.description || 'No description provided.'}</p>
+            <div class="field">
+                <span class="field-label">&#11088; Stars</span>
+                <span class="field-value" style="color:var(--orange);font-weight:600">${repo.stars.toLocaleString()}</span>
+            </div>
+            ${repo.language ? `<div class="field">
+                <span class="field-label">&#128736; Language</span>
+                <span class="field-value"><span class="repo-lang-dot" style="background:${langColor};display:inline-block;margin-right:6px"></span>${repo.language}</span>
+            </div>` : ''}
+            <div class="field">
+                <span class="field-label">&#128197; Created</span>
+                <span class="field-value">${repo.created}</span>
+            </div>
+            <div class="field">
+                <span class="field-label">&#128200; Tracked</span>
+                <span class="field-value">${repo.date}</span>
+            </div>
+            <div class="field">
+                <span class="field-label">&#128279; Section</span>
+                <span class="field-value" style="text-transform:capitalize">${repo.section || 'N/A'}</span>
+            </div>
+            <div class="field">
+                <span class="field-label">&#129302; AI/DEV</span>
+                <span class="field-value">${repo.is_ai_dev ? 'Yes' : 'No'}</span>
+            </div>
+            ${topics.length > 0 ? `<div class="field">
+                <span class="field-label">&#127991; Topics</span>
+                <div class="field-value topics-wrap">${topics.map(t => `<span class="repo-topic">${t}</span>`).join('')}</div>
+            </div>` : ''}
+            <a href="${repo.url}" target="_blank" class="repo-link">&#128279; Open on GitHub</a>
+        `;
+
+        document.getElementById('modalOverlay').classList.add('modal-overlay--open');
+    }
+
+    document.getElementById('modalClose').addEventListener('click', closeModal);
+    document.getElementById('modalOverlay').addEventListener('click', function(e) {
+        if (e.target === this) closeModal();
+    });
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+    function closeModal() {
+        document.getElementById('modalOverlay').classList.remove('modal-overlay--open');
+    }
+
+    // ════════════════════════════════════════════════════════
+    // Date Nav
+    // ════════════════════════════════════════════════════════
+    function renderDateNav() {
+        const dates = Object.keys(DATA.date_stats).sort().reverse();
+        const renderTo = (id) => {
+            const container = document.getElementById(id);
+            container.innerHTML = dates.map(d =>
+                `<div class="sidebar-item" data-view="date:${d}">
+                    &#128197; ${d}
+                    <span class="badge">${DATA.date_stats[d].count}</span>
+                </div>`
+            ).join('');
+            container.querySelectorAll('.sidebar-item').forEach(el => {
+                el.addEventListener('click', () => navigateTo(el.dataset.view));
+            });
+        };
+        renderTo('dateNavDesktop');
+        renderTo('dateNav');
+    }
+
+    function renderLangNav() {
+        const langs = Object.entries(DATA.language_stats).slice(0, 15);
+        const renderTo = (id) => {
+            const container = document.getElementById(id);
+            container.innerHTML = langs.map(([lang, stats]) =>
+                `<div class="sidebar-item" data-view="lang:${lang}">
+                    <span class="repo-lang-dot" style="background:${getLangColor(lang)};width:6px;height:6px;flex-shrink:0"></span>
+                    ${lang}
+                    <span class="badge">${stats.count}</span>
+                </div>`
+            ).join('');
+            container.querySelectorAll('.sidebar-item').forEach(el => {
+                el.addEventListener('click', () => navigateTo(el.dataset.view));
+            });
+        };
+        renderTo('langNavDesktop');
+        renderTo('langNav');
+    }
+
+    // ════════════════════════════════════════════════════════
+    // Helpers
+    // ════════════════════════════════════════════════════════
+    function getLangColor(lang) {
+        const colors = {
+            'Python': '#3572A5', 'JavaScript': '#f1e05a', 'TypeScript': '#3178c6',
+            'Go': '#00ADD8', 'Rust': '#dea584', 'C++': '#f34b7d',
+            'C': '#555555', 'HTML': '#e34c26', 'CSS': '#563d7c',
+            'Shell': '#89e051', 'Swift': '#ffac45', 'Dockerfile': '#384d54',
+            'PowerShell': '#012456', 'Perl': '#0298c3',            'Ruby': '#701516',
+            'Java': '#b07219',
+            'Unknown': '#6c63ff', 'Kotlin': '#A97BFF', 'Jupyter Notebook': '#DA5B0B',
+        };
+        return colors[lang] || '#6c63ff';
+    }
+
+    function closeMobileSidebar() {
+        document.getElementById('mobileSidebar').classList.remove('mobile-sidebar--open');
+    }
+
+    document.getElementById('mobileSidebarToggle').addEventListener('click', () => {
+        document.getElementById('mobileSidebar').classList.toggle('mobile-sidebar--open');
+    });
+    document.getElementById('mobileSidebar').addEventListener('click', function(e) {
+        if (e.target === this) closeMobileSidebar();
+    });
+
+    // Search from header
+    document.getElementById('searchInput').addEventListener('input', function() {
+        currentFilter.search = this.value;
+        if (currentView === 'overview' || currentView === 'top') {
+            navigateTo('browse');
+        } else {
+            renderBrowse(currentView === 'ai-dev');
+        }
+    });
+
+    // Refresh button
+    document.getElementById('refreshBtn').addEventListener('click', () => {
+        showToast('Refreshing data...');
+        loadData();
+    });
+
+    function showToast(msg) {
+        const toast = document.getElementById('toast');
+        toast.textContent = msg;
+        toast.style.display = 'block';
+        setTimeout(() => { toast.style.display = 'none'; }, 2000);
+    }
+
+    // ════════════════════════════════════════════════════════
+    // Init
+    // ════════════════════════════════════════════════════════
+    document.addEventListener('DOMContentLoaded', loadData);
+    </script>
+</body>
+</html>
