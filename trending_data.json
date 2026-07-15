@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-15T10:57:08.300037",
-  "total_repos": 235,
+  "last_updated": "2026-07-15T10:59:47.418286",
+  "total_repos": 230,
   "total_dates": 7,
-  "total_unique_languages": 18,
+  "total_unique_languages": 17,
   "repos": [
     {
       "name": "MDX-Tom/gpt-5.6-instruct",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "stars": 1119,
+      "stars": 1173,
       "language": "Python",
       "created": "2026-07-11",
       "topics": [],
@@ -19,7 +19,7 @@
     {
       "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
       "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "stars": 978,
+      "stars": 984,
       "language": "Python",
       "created": "2026-07-09",
       "topics": [],
@@ -31,7 +31,7 @@
     {
       "name": "littledivy/mimic",
       "url": "https://github.com/littledivy/mimic",
-      "stars": 919,
+      "stars": 926,
       "language": "Python",
       "created": "2026-07-13",
       "topics": [],
@@ -43,7 +43,7 @@
     {
       "name": "mereyabdenbekuly-ctrl/clodex-ide",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "stars": 803,
+      "stars": 805,
       "language": "TypeScript",
       "created": "2026-07-12",
       "topics": [
@@ -65,7 +65,7 @@
     {
       "name": "AlephAITech/WorkBuddyGuide",
       "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-      "stars": 742,
+      "stars": 755,
       "language": "Python",
       "created": "2026-07-10",
       "topics": [
@@ -82,7 +82,7 @@
     {
       "name": "x4gKing/Marzban-Panel",
       "url": "https://github.com/x4gKing/Marzban-Panel",
-      "stars": 687,
+      "stars": 706,
       "language": "Dockerfile",
       "created": "2026-07-12",
       "topics": [],
@@ -94,7 +94,7 @@
     {
       "name": "Kappaemme-git/codex-first-customer-finder-skill",
       "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
-      "stars": 643,
+      "stars": 662,
       "language": "Python",
       "created": "2026-07-12",
       "topics": [
@@ -111,9 +111,39 @@
       "is_ai_dev": false
     },
     {
+      "name": "pengchujin/jzsub",
+      "url": "https://github.com/pengchujin/jzsub",
+      "stars": 631,
+      "language": "Python",
+      "created": "2026-07-10",
+      "topics": [
+        "bilingual",
+        "codex",
+        "subtitles",
+        "video",
+        "yt-dlp"
+      ],
+      "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+      "date": "2026-07-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "cosmtrek/mindwalk",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "stars": 625,
+      "language": "Go",
+      "created": "2026-07-09",
+      "topics": [],
+      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "date": "2026-07-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
       "name": "William-Lu-stack/Flawless",
       "url": "https://github.com/William-Lu-stack/Flawless",
-      "stars": 620,
+      "stars": 619,
       "language": "Python",
       "created": "2026-07-10",
       "topics": [
@@ -136,39 +166,9 @@
       "is_ai_dev": false
     },
     {
-      "name": "pengchujin/jzsub",
-      "url": "https://github.com/pengchujin/jzsub",
-      "stars": 617,
-      "language": "Python",
-      "created": "2026-07-10",
-      "topics": [
-        "bilingual",
-        "codex",
-        "subtitles",
-        "video",
-        "yt-dlp"
-      ],
-      "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
-      "date": "2026-07-15",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "cosmtrek/mindwalk",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "stars": 600,
-      "language": "Go",
-      "created": "2026-07-09",
-      "topics": [],
-      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
-      "date": "2026-07-15",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
       "name": "x4gKing/Marzban-Node",
       "url": "https://github.com/x4gKing/Marzban-Node",
-      "stars": 582,
+      "stars": 602,
       "language": "Dockerfile",
       "created": "2026-07-12",
       "topics": [],
@@ -180,7 +180,7 @@
     {
       "name": "yetone/kill-ai-slop",
       "url": "https://github.com/yetone/kill-ai-slop",
-      "stars": 447,
+      "stars": 450,
       "language": "TypeScript",
       "created": "2026-07-10",
       "topics": [],
@@ -190,21 +190,9 @@
       "is_ai_dev": false
     },
     {
-      "name": "jakubkrehel/skills",
-      "url": "https://github.com/jakubkrehel/skills",
-      "stars": 335,
-      "language": "",
-      "created": "2026-07-10",
-      "topics": [],
-      "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
-      "date": "2026-07-15",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
       "name": "oil-oil/beautify-github-readme",
       "url": "https://github.com/oil-oil/beautify-github-readme",
-      "stars": 320,
+      "stars": 380,
       "language": "Python",
       "created": "2026-07-13",
       "topics": [
@@ -220,9 +208,21 @@
       "is_ai_dev": false
     },
     {
+      "name": "jakubkrehel/skills",
+      "url": "https://github.com/jakubkrehel/skills",
+      "stars": 337,
+      "language": "Unknown",
+      "created": "2026-07-10",
+      "topics": [],
+      "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
+      "date": "2026-07-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
       "name": "JexTradesLab/scaling-octo-engine",
       "url": "https://github.com/JexTradesLab/scaling-octo-engine",
-      "stars": 311,
+      "stars": 315,
       "language": "TypeScript",
       "created": "2026-07-09",
       "topics": [],
@@ -234,7 +234,7 @@
     {
       "name": "QuantumByteOSS/quantumbyte",
       "url": "https://github.com/QuantumByteOSS/quantumbyte",
-      "stars": 302,
+      "stars": 306,
       "language": "Python",
       "created": "2026-07-14",
       "topics": [
@@ -253,37 +253,13 @@
       "is_ai_dev": false
     },
     {
-      "name": "thatmagicalcat/txm",
-      "url": "https://github.com/thatmagicalcat/txm",
-      "stars": 291,
+      "name": "CluvexStudio/Aether",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "stars": 298,
       "language": "Rust",
-      "created": "2026-07-09",
+      "created": "2026-07-14",
       "topics": [],
-      "description": "Terminal Math rendering engine",
-      "date": "2026-07-15",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "opencoredev/domain-sdk",
-      "url": "https://github.com/opencoredev/domain-sdk",
-      "stars": 281,
-      "language": "TypeScript",
-      "created": "2026-07-12",
-      "topics": [],
-      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
-      "date": "2026-07-15",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "Git-creat7/grokRegister-cpa",
-      "url": "https://github.com/Git-creat7/grokRegister-cpa",
-      "stars": 279,
-      "language": "Python",
-      "created": "2026-07-11",
-      "topics": [],
-      "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+      "description": "",
       "date": "2026-07-15",
       "section": "weekly",
       "is_ai_dev": false
@@ -291,7 +267,7 @@
     {
       "name": "Intuition-Lab/personal-model",
       "url": "https://github.com/Intuition-Lab/personal-model",
-      "stars": 275,
+      "stars": 291,
       "language": "Python",
       "created": "2026-07-10",
       "topics": [
@@ -310,10 +286,34 @@
       "is_ai_dev": false
     },
     {
+      "name": "thatmagicalcat/txm",
+      "url": "https://github.com/thatmagicalcat/txm",
+      "stars": 291,
+      "language": "Rust",
+      "created": "2026-07-09",
+      "topics": [],
+      "description": "Terminal Math rendering engine",
+      "date": "2026-07-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Git-creat7/grokRegister-cpa",
+      "url": "https://github.com/Git-creat7/grokRegister-cpa",
+      "stars": 282,
+      "language": "Python",
+      "created": "2026-07-11",
+      "topics": [],
+      "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+      "date": "2026-07-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
       "name": "my-take-dev/inspired-mino-design-skills",
       "url": "https://github.com/my-take-dev/inspired-mino-design-skills",
-      "stars": 142,
-      "language": "PowerShell",
+      "stars": 175,
+      "language": "Shell",
       "created": "2026-07-15",
       "topics": [],
       "description": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル",
@@ -322,218 +322,78 @@
       "is_ai_dev": false
     },
     {
-      "name": "EnamelSpirit/ae-animation-expressions",
-      "url": "https://github.com/EnamelSpirit/ae-animation-expressions",
-      "stars": 116,
-      "language": "HTML",
+      "name": "SunkenCost/grok-regkit",
+      "url": "https://github.com/SunkenCost/grok-regkit",
+      "stars": 38,
+      "language": "Python",
       "created": "2026-07-15",
-      "topics": [
-        "abobe",
-        "abobe-after-effects",
-        "ae",
-        "aeshare",
-        "after-effects",
-        "after-effects-2026",
-        "after-effects-plugin",
-        "ai",
-        "download",
-        "gpu",
-        "motion-graphic-ae",
-        "motion-graphics",
-        "share"
-      ],
-      "description": "Professional expression-based animation framework for After Effects 2024+.  Automates text sequencing, layer synchronization, and motion keyframe generation  with intelligent timing algorithms and adaptive animation presets. Built for motion  designers, video producers, and animation studios.",
+      "topics": [],
+      "description": "xAI/Grok account registration toolkit (browser + hybrid, SSO + CPA OIDC export)",
       "date": "2026-07-15",
       "section": "daily",
       "is_ai_dev": false
     },
     {
-      "name": "mudsoldiermove/photoshop-smart-layer-manager",
-      "url": "https://github.com/mudsoldiermove/photoshop-smart-layer-manager",
-      "stars": 116,
-      "language": "HTML",
+      "name": "Spixy-launchers/spixy",
+      "url": "https://github.com/Spixy-launchers/spixy",
+      "stars": 27,
+      "language": "Unknown",
       "created": "2026-07-15",
       "topics": [
-        "abobe",
-        "ai",
-        "layer",
-        "layer-manager",
-        "photoshop",
-        "uxp-plugin"
+        "fabric",
+        "forge",
+        "launcher",
+        "minecraft",
+        "minecraft-launcher",
+        "minecraft-server",
+        "modpack",
+        "no-code",
+        "saas"
       ],
-      "description": "Advanced layer organization and automation plugin for Adobe Photoshop CC 2024+. Intelligent grouping, bulk renaming, hierarchy detection, and smart layer management powered by adaptive algorithms. Works with design systems, production pipelines, and complex document structures. Native UXP extension.",
+      "description": "Свой лаунчер для Minecraft-сервера без кода: конструктор .exe-лаунчера с модами и автообновлением, сайт, донат-магазин, RCON. No-code Minecraft server launcher builder.",
       "date": "2026-07-15",
       "section": "daily",
       "is_ai_dev": false
     },
     {
-      "name": "mixedstormplay/photoshop-batch-export-optimizer",
-      "url": "https://github.com/mixedstormplay/photoshop-batch-export-optimizer",
-      "stars": 114,
-      "language": "HTML",
+      "name": "sorryhumans/clawdmeter-plus",
+      "url": "https://github.com/sorryhumans/clawdmeter-plus",
+      "stars": 14,
+      "language": "C",
       "created": "2026-07-15",
       "topics": [
-        "abobe",
-        "ai",
-        "batch",
-        "batch-export",
-        "batch-export-optimizer",
-        "effects",
-        "export",
-        "optimizer",
-        "photoshop",
-        "photoshop-batch"
+        "amoled",
+        "arduino",
+        "bluetooth-le",
+        "claude-code",
+        "desk-accessory",
+        "esp32",
+        "esp32-s3",
+        "lvgl",
+        "platformio",
+        "waveshare"
       ],
-      "description": "Intelligent batch export plugin for Photoshop CC 2024+ with adaptive compression,  format optimization, and automated asset organization. Export hundreds of layers  with consistent quality and minimal file sizes. Includes web, mobile, ecommerce,  and print profiles. Built for production teams and design studios.",
+      "description": "A round AMOLED desk display for your live Claude Code usage, weather, background-agent health, and a daily voice greeting. ESP32-S3 + macOS BLE daemon. Fork of Clawdmeter.",
       "date": "2026-07-15",
       "section": "daily",
       "is_ai_dev": false
     },
     {
-      "name": "ExteriorShinobi29/vegas-pro-ai-upscaler",
-      "url": "https://github.com/ExteriorShinobi29/vegas-pro-ai-upscaler",
-      "stars": 114,
-      "language": "HTML",
+      "name": "mldogs/skill-factory",
+      "url": "https://github.com/mldogs/skill-factory",
+      "stars": 12,
+      "language": "Python",
       "created": "2026-07-15",
-      "topics": [
-        "activation-tools",
-        "sony-vegas",
-        "sony-vegas-2026-full",
-        "sony-vegas-21-download",
-        "sony-vegas-full",
-        "sony-vegas-key",
-        "sony-vegas-key-free",
-        "sony-vegas-plugins-borisfx",
-        "sony-vegas-plugins-free",
-        "sony-vegas-pro-21-tutorial",
-        "sony-vegas-pro-installition"
-      ],
-      "description": "Intelligent video enhancement plugin for Sony Vegas Pro. Neural upscaling (2x-4x),  adaptive noise reduction, motion-aware sharpening, and frame interpolation.  Professional-grade restoration for filmmakers, editors & studios.",
+      "topics": [],
+      "description": "A curated collection of Claude Code skills, organized by category",
       "date": "2026-07-15",
       "section": "daily",
-      "is_ai_dev": false
-    },
-    {
-      "name": "jiang198012/workbuddian",
-      "url": "https://github.com/jiang198012/workbuddian",
-      "stars": 21,
-      "language": "TypeScript",
-      "created": "2026-07-12",
-      "topics": [
-        "agent",
-        "ai",
-        "ai-chat",
-        "codebuddy",
-        "llm",
-        "obsidian",
-        "obsidian-md",
-        "obsidian-plugin",
-        "typescript",
-        "workbuddy"
-      ],
-      "description": "Embed the WorkBuddy/CodeBuddy CLI as an AI chat agent inside Obsidian",
-      "date": "2026-07-15",
-      "section": "aidev",
-      "is_ai_dev": false
-    },
-    {
-      "name": "domdoss/Warden",
-      "url": "https://github.com/domdoss/Warden",
-      "stars": 18,
-      "language": "TypeScript",
-      "created": "2026-07-09",
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
-        "llm",
-        "llm-tools"
-      ],
-      "description": "This is a fork of the https://dockbox.dev project I made",
-      "date": "2026-07-15",
-      "section": "aidev",
-      "is_ai_dev": false
-    },
-    {
-      "name": "weidu12123/Liyuan",
-      "url": "https://github.com/weidu12123/Liyuan",
-      "stars": 17,
-      "language": "TypeScript",
-      "created": "2026-07-12",
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "ai-roleplay",
-        "character-card",
-        "llm",
-        "mcp",
-        "nodejs",
-        "roleplay",
-        "sillytavern",
-        "typescript",
-        "websocket"
-      ],
-      "description": "梨园 Liyuan — 以 AI Agent 为主体的角色扮演应用：记忆账本、决策卡、自建面板、世界线，兼容角色卡/世界书",
-      "date": "2026-07-15",
-      "section": "aidev",
-      "is_ai_dev": false
-    },
-    {
-      "name": "nothingnesses/agent-scaffold",
-      "url": "https://github.com/nothingnesses/agent-scaffold",
-      "stars": 7,
-      "language": "Rust",
-      "created": "2026-07-09",
-      "topics": [
-        "agent",
-        "agentic-workflow",
-        "agents",
-        "agents-md",
-        "ai",
-        "ai-agents",
-        "boilerplate",
-        "cli",
-        "developer-tools",
-        "harness",
-        "llm",
-        "ratatui",
-        "rust",
-        "scaffold",
-        "scaffolding",
-        "template",
-        "tui",
-        "workflow"
-      ],
-      "description": "Scaffold a repeatable agent workflow (front-load context, plan, review, implement, review) into any project. A Rust CLI and TUI that drops a canonical AGENTS.md, a plan template, reusable prompts, and a selectable set of engineering principles.",
-      "date": "2026-07-15",
-      "section": "aidev",
-      "is_ai_dev": false
-    },
-    {
-      "name": "Wholiver/metis",
-      "url": "https://github.com/Wholiver/metis",
-      "stars": 6,
-      "language": "TypeScript",
-      "created": "2026-07-11",
-      "topics": [
-        "agent",
-        "ai",
-        "cli",
-        "coding-agent",
-        "llm",
-        "tui",
-        "typescript"
-      ],
-      "description": "Metis coding agent CLI with read, bash, edit, write tools and session management",
-      "date": "2026-07-15",
-      "section": "aidev",
       "is_ai_dev": false
     },
     {
       "name": "baidu/Unlimited-OCR",
       "url": "https://github.com/baidu/Unlimited-OCR",
-      "stars": 14263,
+      "stars": 14275,
       "language": "Python",
       "created": "2026-06-18",
       "topics": [],
@@ -545,7 +405,7 @@
     {
       "name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
-      "stars": 13291,
+      "stars": 13605,
       "language": "C",
       "created": "2026-07-01",
       "topics": [],
@@ -557,7 +417,7 @@
     {
       "name": "langchain-ai/openwiki",
       "url": "https://github.com/langchain-ai/openwiki",
-      "stars": 11396,
+      "stars": 11449,
       "language": "TypeScript",
       "created": "2026-06-22",
       "topics": [],
@@ -581,7 +441,7 @@
     {
       "name": "x4gKing/X4G",
       "url": "https://github.com/x4gKing/X4G",
-      "stars": 5324,
+      "stars": 5349,
       "language": "Python",
       "created": "2026-07-04",
       "topics": [],
@@ -3864,11 +3724,11 @@
   ],
   "metadata": {
     "2026-07-15": {
-      "ai_relevant_count": 13,
+      "ai_relevant_count": 12,
       "top_ai_pick": {
         "name": "MDX-Tom/gpt-5.6-instruct",
         "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-        "stars": 1119,
+        "stars": 1173,
         "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。"
       }
     },
@@ -3929,20 +3789,22 @@
   },
   "language_stats": {
     "Python": {
-      "count": 78,
-      "total_stars": 372890,
+      "count": 80,
+      "total_stars": 373172,
       "repos": [
         "MDX-Tom/gpt-5.6-instruct",
         "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
         "littledivy/mimic",
         "AlephAITech/WorkBuddyGuide",
         "Kappaemme-git/codex-first-customer-finder-skill",
-        "William-Lu-stack/Flawless",
         "pengchujin/jzsub",
+        "William-Lu-stack/Flawless",
         "oil-oil/beautify-github-readme",
         "QuantumByteOSS/quantumbyte",
-        "Git-creat7/grokRegister-cpa",
         "Intuition-Lab/personal-model",
+        "Git-creat7/grokRegister-cpa",
+        "SunkenCost/grok-regkit",
+        "mldogs/skill-factory",
         "baidu/Unlimited-OCR",
         "deepseek-ai/DeepSpec",
         "x4gKing/X4G",
@@ -4013,17 +3875,12 @@
       ]
     },
     "TypeScript": {
-      "count": 52,
-      "total_stars": 93380,
+      "count": 47,
+      "total_stars": 93099,
       "repos": [
         "mereyabdenbekuly-ctrl/clodex-ide",
         "yetone/kill-ai-slop",
         "JexTradesLab/scaling-octo-engine",
-        "opencoredev/domain-sdk",
-        "jiang198012/workbuddian",
-        "domdoss/Warden",
-        "weidu12123/Liyuan",
-        "Wholiver/metis",
         "langchain-ai/openwiki",
         "elder-plinius/T3MP3ST",
         "LinXiaoTao/FuckClaude",
@@ -4105,10 +3962,11 @@
       ]
     },
     "Unknown": {
-      "count": 22,
-      "total_stars": 31765,
+      "count": 23,
+      "total_stars": 31794,
       "repos": [
         "jakubkrehel/skills",
+        "Spixy-launchers/spixy",
         "xuchonglang/investing-for-beginners",
         "CalmNoteDepot/MECCHA-CHAMELEON-VISION",
         "unicity-astrid/handbook",
@@ -4134,10 +3992,10 @@
     },
     "Rust": {
       "count": 9,
-      "total_stars": 956,
+      "total_stars": 1247,
       "repos": [
+        "CluvexStudio/Aether",
         "thatmagicalcat/txm",
-        "nothingnesses/agent-scaffold",
         "SuperJJ007/CSSwitch",
         "lazhenyi/behest",
         "oxbshw/Agent-Span",
@@ -4147,23 +4005,9 @@
         "lazhenyi/behest"
       ]
     },
-    "HTML": {
-      "count": 8,
-      "total_stars": 7347,
-      "repos": [
-        "EnamelSpirit/ae-animation-expressions",
-        "mudsoldiermove/photoshop-smart-layer-manager",
-        "mixedstormplay/photoshop-batch-export-optimizer",
-        "ExteriorShinobi29/vegas-pro-ai-upscaler",
-        "gunawan1996/world-forge-ai",
-        "bozhouDev/codex-orange-book",
-        "bozhouDev/codex-orange-book",
-        "bozhouDev/codex-orange-book"
-      ]
-    },
     "Go": {
       "count": 6,
-      "total_stars": 609,
+      "total_stars": 634,
       "repos": [
         "cosmtrek/mindwalk",
         "outerstellar-hq/vla",
@@ -4185,6 +4029,17 @@
         "unicity-astrid/book"
       ]
     },
+    "C": {
+      "count": 5,
+      "total_stars": 14754,
+      "repos": [
+        "sorryhumans/clawdmeter-plus",
+        "JustVugg/colibri",
+        "ricccrd/dd",
+        "ricccrd/dd",
+        "ricccrd/dd"
+      ]
+    },
     "Swift": {
       "count": 5,
       "total_stars": 2142,
@@ -4196,14 +4051,14 @@
         "m1ckc3s/claude-status-bar"
       ]
     },
-    "C": {
+    "Shell": {
       "count": 4,
-      "total_stars": 14426,
+      "total_stars": 1600,
       "repos": [
-        "JustVugg/colibri",
-        "ricccrd/dd",
-        "ricccrd/dd",
-        "ricccrd/dd"
+        "my-take-dev/inspired-mino-design-skills",
+        "jamesob/local-llm",
+        "Kulaxyz/token-diet",
+        "tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark"
       ]
     },
     "C++": {
@@ -4216,6 +4071,16 @@
         "BohemiaInteractive/CWR"
       ]
     },
+    "HTML": {
+      "count": 4,
+      "total_stars": 6887,
+      "repos": [
+        "gunawan1996/world-forge-ai",
+        "bozhouDev/codex-orange-book",
+        "bozhouDev/codex-orange-book",
+        "bozhouDev/codex-orange-book"
+      ]
+    },
     "Dart": {
       "count": 4,
       "total_stars": 284,
@@ -4226,28 +4091,12 @@
         "iebb/mithka"
       ]
     },
-    "Shell": {
-      "count": 3,
-      "total_stars": 1425,
-      "repos": [
-        "jamesob/local-llm",
-        "Kulaxyz/token-diet",
-        "tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark"
-      ]
-    },
     "Dockerfile": {
       "count": 2,
-      "total_stars": 1269,
+      "total_stars": 1308,
       "repos": [
         "x4gKing/Marzban-Panel",
         "x4gKing/Marzban-Node"
-      ]
-    },
-    "PowerShell": {
-      "count": 1,
-      "total_stars": 142,
-      "repos": [
-        "my-take-dev/inspired-mino-design-skills"
       ]
     },
     "CSS": {
@@ -4274,8 +4123,8 @@
   },
   "date_stats": {
     "2026-07-15": {
-      "count": 35,
-      "total_stars": 62748,
+      "count": 30,
+      "total_stars": 63034,
       "ai_count": 0
     },
     "2026-07-05": {
@@ -4487,11 +4336,23 @@
     {
       "name": "baidu/Unlimited-OCR",
       "url": "https://github.com/baidu/Unlimited-OCR",
-      "stars": 14263,
+      "stars": 14275,
       "language": "Python",
       "created": "2026-06-18",
       "topics": [],
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "date": "2026-07-15",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars": 13605,
+      "language": "C",
+      "created": "2026-07-01",
+      "topics": [],
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "date": "2026-07-15",
       "section": "monthly",
       "is_ai_dev": false
@@ -4505,18 +4366,6 @@
       "topics": [],
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "date": "2026-07-05",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "stars": 13291,
-      "language": "C",
-      "created": "2026-07-01",
-      "topics": [],
-      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "date": "2026-07-15",
       "section": "monthly",
       "is_ai_dev": false
     },
@@ -4577,7 +4426,7 @@
     {
       "name": "langchain-ai/openwiki",
       "url": "https://github.com/langchain-ai/openwiki",
-      "stars": 11396,
+      "stars": 11449,
       "language": "TypeScript",
       "created": "2026-06-22",
       "topics": [],
@@ -4835,7 +4684,7 @@
     {
       "name": "x4gKing/X4G",
       "url": "https://github.com/x4gKing/X4G",
-      "stars": 5324,
+      "stars": 5349,
       "language": "Python",
       "created": "2026-07-04",
       "topics": [],
@@ -4979,7 +4828,7 @@
     {
       "name": "MDX-Tom/gpt-5.6-instruct",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "stars": 1119,
+      "stars": 1173,
       "language": "Python",
       "created": "2026-07-11",
       "topics": [],
