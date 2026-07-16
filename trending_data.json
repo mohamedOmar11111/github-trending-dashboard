@@ -1,9 +1,101 @@
 {
-  "last_updated": "2026-07-15T10:59:47.418286",
-  "total_repos": 230,
-  "total_dates": 7,
-  "total_unique_languages": 17,
+  "last_updated": "2026-07-16T07:51:17.539223",
+  "total_repos": 235,
+  "total_dates": 8,
+  "total_unique_languages": 18,
   "repos": [
+    {
+      "name": "robinhood-ape/robinhood-noxa-bundler",
+      "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
+      "stars": 109,
+      "language": "TypeScript",
+      "created": "2026-07-16",
+      "topics": [
+        "bot",
+        "bundler",
+        "noxa",
+        "noxa-fun",
+        "robinhood-chain",
+        "token-launch",
+        "typescript",
+        "uniswap-v3"
+      ],
+      "description": "NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
+      "date": "2026-07-16",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "robinhood-ape/robinhood-sniper-bot",
+      "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
+      "stars": 108,
+      "language": "TypeScript",
+      "created": "2026-07-16",
+      "topics": [
+        "bot",
+        "noxa",
+        "noxa-fun",
+        "robinhood-chain",
+        "sniper-bot",
+        "trading-bot",
+        "typescript",
+        "uniswap-v3"
+      ],
+      "description": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
+      "date": "2026-07-16",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alexafinode/claude-arbitrage-bot",
+      "url": "https://github.com/alexafinode/claude-arbitrage-bot",
+      "stars": 81,
+      "language": "Solidity",
+      "created": "2026-07-16",
+      "topics": [
+        "ai",
+        "arbitrage",
+        "bot",
+        "btc",
+        "claude",
+        "codex",
+        "contract",
+        "ether",
+        "ethereum",
+        "gpt",
+        "lab",
+        "smart",
+        "sol"
+      ],
+      "description": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
+      "date": "2026-07-16",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "stars": 52,
+      "language": "JavaScript",
+      "created": "2026-07-16",
+      "topics": [],
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "date": "2026-07-16",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tree0519/Codex-Dream-Skin-Forge",
+      "url": "https://github.com/tree0519/Codex-Dream-Skin-Forge",
+      "stars": 20,
+      "language": "JavaScript",
+      "created": "2026-07-16",
+      "topics": [],
+      "description": "基于 Fei-Away/Codex-Dream-Skin 二次开发的 Codex Desktop 主题工具，新增 Windows 多主题包、应用内切换、Bug 修复与 AI 辅助主题制作。",
+      "date": "2026-07-16",
+      "section": "daily",
+      "is_ai_dev": false
+    },
     {
       "name": "MDX-Tom/gpt-5.6-instruct",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
@@ -3723,6 +3815,10 @@
     }
   ],
   "metadata": {
+    "2026-07-16": {
+      "ai_relevant_count": 0,
+      "top_ai_pick": null
+    },
     "2026-07-15": {
       "ai_relevant_count": 12,
       "top_ai_pick": {
@@ -3875,9 +3971,11 @@
       ]
     },
     "TypeScript": {
-      "count": 47,
-      "total_stars": 93099,
+      "count": 49,
+      "total_stars": 93316,
       "repos": [
+        "robinhood-ape/robinhood-noxa-bundler",
+        "robinhood-ape/robinhood-sniper-bot",
         "mereyabdenbekuly-ctrl/clodex-ide",
         "yetone/kill-ai-slop",
         "JexTradesLab/scaling-octo-engine",
@@ -3928,9 +4026,11 @@
       ]
     },
     "JavaScript": {
-      "count": 28,
-      "total_stars": 414353,
+      "count": 30,
+      "total_stars": 414425,
       "repos": [
+        "tandpfun/wardrobe",
+        "tree0519/Codex-Dream-Skin-Forge",
         "mekos2772/ios-location-spoofer",
         "xt4d/GameBlocks",
         "DietrichGebert/ponytail",
@@ -4099,6 +4199,13 @@
         "x4gKing/Marzban-Node"
       ]
     },
+    "Solidity": {
+      "count": 1,
+      "total_stars": 81,
+      "repos": [
+        "alexafinode/claude-arbitrage-bot"
+      ]
+    },
     "CSS": {
       "count": 1,
       "total_stars": 439,
@@ -4122,6 +4229,11 @@
     }
   },
   "date_stats": {
+    "2026-07-16": {
+      "count": 5,
+      "total_stars": 370,
+      "ai_count": 0
+    },
     "2026-07-15": {
       "count": 30,
       "total_stars": 63034,
