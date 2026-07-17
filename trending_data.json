@@ -1,9 +1,400 @@
 {
-  "last_updated": "2026-07-16T07:51:17.539223",
-  "total_repos": 235,
-  "total_dates": 8,
-  "total_unique_languages": 18,
+  "last_updated": "2026-07-17T07:48:32.603014",
+  "total_repos": 263,
+  "total_dates": 9,
+  "total_unique_languages": 19,
   "repos": [
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": 13792,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 7336,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MDX-Tom/gpt-5.6-instruct",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "stars": 1772,
+      "language": "Python",
+      "created": "2026-07-11",
+      "topics": [],
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "littledivy/mimic",
+      "url": "https://github.com/littledivy/mimic",
+      "stars": 1116,
+      "language": "Python",
+      "created": "2026-07-13",
+      "topics": [],
+      "description": "Intercept any app, then call it from Python like a library",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pixel-point/aval",
+      "url": "https://github.com/pixel-point/aval",
+      "stars": 1100,
+      "language": "TypeScript",
+      "created": "2026-07-13",
+      "topics": [],
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "CluvexStudio/Aether",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "stars": 968,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "x4gKing/Marzban-Panel",
+      "url": "https://github.com/x4gKing/Marzban-Panel",
+      "stars": 856,
+      "language": "Dockerfile",
+      "created": "2026-07-12",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "stars": 831,
+      "language": "TypeScript",
+      "created": "2026-07-12",
+      "topics": [
+        "agentic-ai",
+        "agentic-ide",
+        "ai-agents",
+        "developer-tools",
+        "electron",
+        "ide",
+        "local-first",
+        "typescript",
+        "zero-trust"
+      ],
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Kappaemme-git/codex-first-customer-finder-skill",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "stars": 765,
+      "language": "Python",
+      "created": "2026-07-12",
+      "topics": [
+        "codex",
+        "codex-skill",
+        "customer-discovery",
+        "early-adopters",
+        "prospecting",
+        "startup"
+      ],
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "x4gKing/Marzban-Node",
+      "url": "https://github.com/x4gKing/Marzban-Node",
+      "stars": 736,
+      "language": "Dockerfile",
+      "created": "2026-07-12",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "stars": 720,
+      "language": "JavaScript",
+      "created": "2026-07-16",
+      "topics": [],
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "oil-oil/beautify-github-readme",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "stars": 710,
+      "language": "Python",
+      "created": "2026-07-13",
+      "topics": [
+        "agent-skill",
+        "codex-skill",
+        "github-readme",
+        "readme-design",
+        "svg"
+      ],
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "KubeezMedia/kubeez-scroll-world-video",
+      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+      "stars": 611,
+      "language": "JavaScript",
+      "created": "2026-07-13",
+      "topics": [],
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MatinSenPai/Aether-GUI",
+      "url": "https://github.com/MatinSenPai/Aether-GUI",
+      "stars": 490,
+      "language": "TypeScript",
+      "created": "2026-07-14",
+      "topics": [
+        "anti-censorship",
+        "censorship-circumvention",
+        "desktop-app",
+        "proxy",
+        "react",
+        "rust",
+        "tauri",
+        "typescript"
+      ],
+      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "PengZhang64/circuit-framework",
+      "url": "https://github.com/PengZhang64/circuit-framework",
+      "stars": 389,
+      "language": "Python",
+      "created": "2026-07-16",
+      "topics": [],
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Blueturboguy07/cue",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "stars": 374,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Git-creat7/grokRegister-cpa",
+      "url": "https://github.com/Git-creat7/grokRegister-cpa",
+      "stars": 350,
+      "language": "Python",
+      "created": "2026-07-11",
+      "topics": [],
+      "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "QuantumByteOSS/quantumbyte",
+      "url": "https://github.com/QuantumByteOSS/quantumbyte",
+      "stars": 316,
+      "language": "Python",
+      "created": "2026-07-14",
+      "topics": [
+        "agents",
+        "ai",
+        "app-builder",
+        "code-generation",
+        "llm",
+        "nextjs",
+        "open-source",
+        "python"
+      ],
+      "description": "Open-source app builder engine — intent to working app",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "opencoredev/domain-sdk",
+      "url": "https://github.com/opencoredev/domain-sdk",
+      "stars": 315,
+      "language": "TypeScript",
+      "created": "2026-07-12",
+      "topics": [],
+      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "vshulcz/deja-vu",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "stars": 314,
+      "language": "Go",
+      "created": "2026-07-14",
+      "topics": [
+        "agent-memory",
+        "ai-memory",
+        "claude",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "golang",
+        "mcp",
+        "mcp-server",
+        "opencode",
+        "session-search"
+      ],
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "canonicalise/up",
+      "url": "https://github.com/canonicalise/up",
+      "stars": 14,
+      "language": "OCaml",
+      "created": "2026-07-17",
+      "topics": [],
+      "description": "Typed DMA buffers for OCaml userspace VFIO drivers",
+      "date": "2026-07-17",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "SilversmithReveal/Marvel-Rivals-Optimization",
+      "url": "https://github.com/SilversmithReveal/Marvel-Rivals-Optimization",
+      "stars": 10,
+      "language": "Unknown",
+      "created": "2026-07-17",
+      "topics": [],
+      "description": "marvel rivals optimization pc — Marvel Rivals Optimization for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize settings.",
+      "date": "2026-07-17",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "CaveWalkerPanel/Rust-FPS-Boost-Fix",
+      "url": "https://github.com/CaveWalkerPanel/Rust-FPS-Boost-Fix",
+      "stars": 10,
+      "language": "Unknown",
+      "created": "2026-07-17",
+      "topics": [],
+      "description": "rust fps tweak — Rust FPS Tweak for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize settings.",
+      "date": "2026-07-17",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "DegreeWaspShackle/Ninja-Gaiden-4-Optimization",
+      "url": "https://github.com/DegreeWaspShackle/Ninja-Gaiden-4-Optimization",
+      "stars": 10,
+      "language": "Unknown",
+      "created": "2026-07-17",
+      "topics": [],
+      "description": "ninja gaiden 4 optimization pc — Ninja Gaiden 4 Optimization for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize settings.",
+      "date": "2026-07-17",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pulverizedeersense49/Quick-GPU-Gaming-2026",
+      "url": "https://github.com/pulverizedeersense49/Quick-GPU-Gaming-2026",
+      "stars": 10,
+      "language": "Unknown",
+      "created": "2026-07-17",
+      "topics": [],
+      "description": "quick gpu download gaming scheduler tweak windows — Download Quick GPU Gaming for Windows 11 & 10. PC gaming performance tool with setup guide.",
+      "date": "2026-07-17",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars": 15168,
+      "language": "C",
+      "created": "2026-07-01",
+      "topics": [],
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "date": "2026-07-17",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "stars": 14365,
+      "language": "Python",
+      "created": "2026-06-18",
+      "topics": [],
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "date": "2026-07-17",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "langchain-ai/openwiki",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "stars": 11991,
+      "language": "TypeScript",
+      "created": "2026-06-22",
+      "topics": [],
+      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+      "date": "2026-07-17",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "robinhood-ape/robinhood-noxa-bundler",
       "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
@@ -3815,6 +4206,15 @@
     }
   ],
   "metadata": {
+    "2026-07-17": {
+      "ai_relevant_count": 12,
+      "top_ai_pick": {
+        "name": "xai-org/grok-build",
+        "url": "https://github.com/xai-org/grok-build",
+        "stars": 13792,
+        "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible."
+      }
+    },
     "2026-07-16": {
       "ai_relevant_count": 0,
       "top_ai_pick": null
@@ -3885,9 +4285,17 @@
   },
   "language_stats": {
     "Python": {
-      "count": 80,
-      "total_stars": 373172,
+      "count": 88,
+      "total_stars": 392955,
       "repos": [
+        "MDX-Tom/gpt-5.6-instruct",
+        "littledivy/mimic",
+        "Kappaemme-git/codex-first-customer-finder-skill",
+        "oil-oil/beautify-github-readme",
+        "PengZhang64/circuit-framework",
+        "Git-creat7/grokRegister-cpa",
+        "QuantumByteOSS/quantumbyte",
+        "baidu/Unlimited-OCR",
         "MDX-Tom/gpt-5.6-instruct",
         "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
         "littledivy/mimic",
@@ -3971,9 +4379,14 @@
       ]
     },
     "TypeScript": {
-      "count": 49,
-      "total_stars": 93316,
+      "count": 54,
+      "total_stars": 108043,
       "repos": [
+        "pixel-point/aval",
+        "mereyabdenbekuly-ctrl/clodex-ide",
+        "MatinSenPai/Aether-GUI",
+        "opencoredev/domain-sdk",
+        "langchain-ai/openwiki",
         "robinhood-ape/robinhood-noxa-bundler",
         "robinhood-ape/robinhood-sniper-bot",
         "mereyabdenbekuly-ctrl/clodex-ide",
@@ -4026,9 +4439,13 @@
       ]
     },
     "JavaScript": {
-      "count": 30,
-      "total_stars": 414425,
+      "count": 34,
+      "total_stars": 423466,
       "repos": [
+        "Fei-Away/Codex-Dream-Skin",
+        "tandpfun/wardrobe",
+        "KubeezMedia/kubeez-scroll-world-video",
+        "Blueturboguy07/cue",
         "tandpfun/wardrobe",
         "tree0519/Codex-Dream-Skin-Forge",
         "mekos2772/ios-location-spoofer",
@@ -4062,9 +4479,13 @@
       ]
     },
     "Unknown": {
-      "count": 23,
-      "total_stars": 31794,
+      "count": 27,
+      "total_stars": 31834,
       "repos": [
+        "SilversmithReveal/Marvel-Rivals-Optimization",
+        "CaveWalkerPanel/Rust-FPS-Boost-Fix",
+        "DegreeWaspShackle/Ninja-Gaiden-4-Optimization",
+        "pulverizedeersense49/Quick-GPU-Gaming-2026",
         "jakubkrehel/skills",
         "Spixy-launchers/spixy",
         "xuchonglang/investing-for-beginners",
@@ -4091,9 +4512,11 @@
       ]
     },
     "Rust": {
-      "count": 9,
-      "total_stars": 1247,
+      "count": 11,
+      "total_stars": 16007,
       "repos": [
+        "xai-org/grok-build",
+        "CluvexStudio/Aether",
         "CluvexStudio/Aether",
         "thatmagicalcat/txm",
         "SuperJJ007/CSSwitch",
@@ -4106,15 +4529,28 @@
       ]
     },
     "Go": {
-      "count": 6,
-      "total_stars": 634,
+      "count": 7,
+      "total_stars": 948,
       "repos": [
+        "vshulcz/deja-vu",
         "cosmtrek/mindwalk",
         "outerstellar-hq/vla",
         "gedwolmen/heretic",
         "gedwolmen/heretic",
         "gedwolmen/heretic",
         "gedwolmen/heretic"
+      ]
+    },
+    "C": {
+      "count": 6,
+      "total_stars": 29922,
+      "repos": [
+        "JustVugg/colibri",
+        "sorryhumans/clawdmeter-plus",
+        "JustVugg/colibri",
+        "ricccrd/dd",
+        "ricccrd/dd",
+        "ricccrd/dd"
       ]
     },
     "Perl": {
@@ -4129,17 +4565,6 @@
         "unicity-astrid/book"
       ]
     },
-    "C": {
-      "count": 5,
-      "total_stars": 14754,
-      "repos": [
-        "sorryhumans/clawdmeter-plus",
-        "JustVugg/colibri",
-        "ricccrd/dd",
-        "ricccrd/dd",
-        "ricccrd/dd"
-      ]
-    },
     "Swift": {
       "count": 5,
       "total_stars": 2142,
@@ -4149,6 +4574,16 @@
         "tdeverx/contained-app",
         "tdeverx/contained-app",
         "m1ckc3s/claude-status-bar"
+      ]
+    },
+    "Dockerfile": {
+      "count": 4,
+      "total_stars": 2900,
+      "repos": [
+        "x4gKing/Marzban-Panel",
+        "x4gKing/Marzban-Node",
+        "x4gKing/Marzban-Panel",
+        "x4gKing/Marzban-Node"
       ]
     },
     "Shell": {
@@ -4191,12 +4626,11 @@
         "iebb/mithka"
       ]
     },
-    "Dockerfile": {
-      "count": 2,
-      "total_stars": 1308,
+    "OCaml": {
+      "count": 1,
+      "total_stars": 14,
       "repos": [
-        "x4gKing/Marzban-Panel",
-        "x4gKing/Marzban-Node"
+        "canonicalise/up"
       ]
     },
     "Solidity": {
@@ -4229,6 +4663,11 @@
     }
   },
   "date_stats": {
+    "2026-07-17": {
+      "count": 28,
+      "total_stars": 75439,
+      "ai_count": 0
+    },
     "2026-07-16": {
       "count": 5,
       "total_stars": 370,
@@ -4446,6 +4885,30 @@
       "is_ai_dev": false
     },
     {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars": 15168,
+      "language": "C",
+      "created": "2026-07-01",
+      "topics": [],
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "date": "2026-07-17",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "stars": 14365,
+      "language": "Python",
+      "created": "2026-06-18",
+      "topics": [],
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "date": "2026-07-17",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "baidu/Unlimited-OCR",
       "url": "https://github.com/baidu/Unlimited-OCR",
       "stars": 14275,
@@ -4455,6 +4918,18 @@
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "date": "2026-07-15",
       "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": 13792,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-07-17",
+      "section": "weekly",
       "is_ai_dev": false
     },
     {
@@ -4502,6 +4977,18 @@
       "topics": [],
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "date": "2026-06-30",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "langchain-ai/openwiki",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "stars": 11991,
+      "language": "TypeScript",
+      "created": "2026-06-22",
+      "topics": [],
+      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+      "date": "2026-07-17",
       "section": "monthly",
       "is_ai_dev": false
     },
@@ -4770,6 +5257,18 @@
       "is_ai_dev": false
     },
     {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 7336,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
       "name": "deepseek-ai/DeepSpec",
       "url": "https://github.com/deepseek-ai/DeepSpec",
       "stars": 6652,
@@ -4866,6 +5365,18 @@
       "is_ai_dev": false
     },
     {
+      "name": "MDX-Tom/gpt-5.6-instruct",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "stars": 1772,
+      "language": "Python",
+      "created": "2026-07-11",
+      "topics": [],
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "date": "2026-07-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
       "name": "Yu9191/wloc",
       "url": "https://github.com/Yu9191/wloc",
       "stars": 1563,
@@ -4898,78 +5409,6 @@
       "topics": [],
       "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
       "date": "2026-06-29",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "mekos2772/ios-location-spoofer",
-      "url": "https://github.com/mekos2772/ios-location-spoofer",
-      "stars": 1312,
-      "language": "JavaScript",
-      "created": "2026-06-30",
-      "topics": [],
-      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "date": "2026-07-05",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "deepseek-ai/DeepSpec",
-      "url": "https://github.com/deepseek-ai/DeepSpec",
-      "stars": 1187,
-      "language": "Python",
-      "created": "2026-06-26",
-      "topics": [],
-      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-      "date": "2026-06-28",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "deepseek-ai/DeepSpec",
-      "url": "https://github.com/deepseek-ai/DeepSpec",
-      "stars": 1183,
-      "language": "Python",
-      "created": "2026-06-26",
-      "topics": [],
-      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-      "date": "2026-06-27",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "MDX-Tom/gpt-5.6-instruct",
-      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "stars": 1173,
-      "language": "Python",
-      "created": "2026-07-11",
-      "topics": [],
-      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "date": "2026-07-15",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "stars": 1095,
-      "language": "Python",
-      "created": "2026-06-28",
-      "topics": [],
-      "description": "",
-      "date": "2026-07-02",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "mekos2772/ios-location-spoofer",
-      "url": "https://github.com/mekos2772/ios-location-spoofer",
-      "stars": 1044,
-      "language": "JavaScript",
-      "created": "2026-06-30",
-      "topics": [],
-      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "date": "2026-07-02",
       "section": "weekly",
       "is_ai_dev": false
     }
