@@ -1,9 +1,394 @@
 {
-  "last_updated": "2026-07-17T07:48:32.603014",
-  "total_repos": 263,
-  "total_dates": 9,
+  "last_updated": "2026-07-18T07:23:08.107189",
+  "total_repos": 291,
+  "total_dates": 10,
   "total_unique_languages": 19,
   "repos": [
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": 17228,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 9101,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pixel-point/aval",
+      "url": "https://github.com/pixel-point/aval",
+      "stars": 1177,
+      "language": "TypeScript",
+      "created": "2026-07-13",
+      "topics": [],
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "CluvexStudio/Aether",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "stars": 1169,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "littledivy/mimic",
+      "url": "https://github.com/littledivy/mimic",
+      "stars": 1150,
+      "language": "Python",
+      "created": "2026-07-13",
+      "topics": [],
+      "description": "Intercept any app, then call it from Python like a library",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "stars": 932,
+      "language": "JavaScript",
+      "created": "2026-07-16",
+      "topics": [],
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "stars": 833,
+      "language": "TypeScript",
+      "created": "2026-07-12",
+      "topics": [
+        "agentic-ai",
+        "agentic-ide",
+        "ai-agents",
+        "developer-tools",
+        "electron",
+        "ide",
+        "local-first",
+        "typescript",
+        "zero-trust"
+      ],
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "x4gKing/Marzban-Panel",
+      "url": "https://github.com/x4gKing/Marzban-Panel",
+      "stars": 805,
+      "language": "Dockerfile",
+      "created": "2026-07-12",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Kappaemme-git/codex-first-customer-finder-skill",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "stars": 795,
+      "language": "Python",
+      "created": "2026-07-12",
+      "topics": [
+        "codex",
+        "codex-skill",
+        "customer-discovery",
+        "early-adopters",
+        "prospecting",
+        "startup"
+      ],
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "oil-oil/beautify-github-readme",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "stars": 774,
+      "language": "Python",
+      "created": "2026-07-13",
+      "topics": [
+        "agent-skill",
+        "codex-skill",
+        "github-readme",
+        "readme-design",
+        "svg"
+      ],
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "x4gKing/Marzban-Node",
+      "url": "https://github.com/x4gKing/Marzban-Node",
+      "stars": 683,
+      "language": "Dockerfile",
+      "created": "2026-07-12",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "KubeezMedia/kubeez-scroll-world-video",
+      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+      "stars": 648,
+      "language": "JavaScript",
+      "created": "2026-07-13",
+      "topics": [],
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MatinSenPai/Aether-GUI",
+      "url": "https://github.com/MatinSenPai/Aether-GUI",
+      "stars": 556,
+      "language": "TypeScript",
+      "created": "2026-07-14",
+      "topics": [
+        "anti-censorship",
+        "censorship-circumvention",
+        "desktop-app",
+        "proxy",
+        "react",
+        "rust",
+        "tauri",
+        "typescript"
+      ],
+      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Blueturboguy07/cue",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "stars": 505,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "PengZhang64/circuit-framework",
+      "url": "https://github.com/PengZhang64/circuit-framework",
+      "stars": 479,
+      "language": "Python",
+      "created": "2026-07-16",
+      "topics": [],
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "stars": 469,
+      "language": "TypeScript",
+      "created": "2026-07-16",
+      "topics": [],
+      "description": "yoink any video from your terminal. no shady ads.",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "stars": 374,
+      "language": "Go",
+      "created": "2026-07-17",
+      "topics": [
+        "llm-tools",
+        "steganography"
+      ],
+      "description": "Use LLMs to hide secret messages inside normal looking conversations",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Shadow-Weave/HMS",
+      "url": "https://github.com/Shadow-Weave/HMS",
+      "stars": 353,
+      "language": "Python",
+      "created": "2026-07-12",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "vshulcz/deja-vu",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "stars": 342,
+      "language": "Go",
+      "created": "2026-07-14",
+      "topics": [
+        "agent-memory",
+        "ai-memory",
+        "claude",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "golang",
+        "mcp",
+        "mcp-server",
+        "opencode",
+        "session-search"
+      ],
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "stackblitz/bolt-slides",
+      "url": "https://github.com/stackblitz/bolt-slides",
+      "stars": 327,
+      "language": "TypeScript",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "Use any agent to create stunning, interactive presentations",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Blueturboguy07/WhimprFlow",
+      "url": "https://github.com/Blueturboguy07/WhimprFlow",
+      "stars": 11,
+      "language": "Rust",
+      "created": "2026-07-18",
+      "topics": [],
+      "description": "Local-first cross-platform voice dictation (proof of concept). macOS built & working; Windows built but untested.",
+      "date": "2026-07-18",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sxnnywu/reeled-in",
+      "url": "https://github.com/sxnnywu/reeled-in",
+      "stars": 10,
+      "language": "Unknown",
+      "created": "2026-07-18",
+      "topics": [],
+      "description": "QA for continuous agents :)",
+      "date": "2026-07-18",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "uefi2333/m365-native",
+      "url": "https://github.com/uefi2333/m365-native",
+      "stars": 9,
+      "language": "Go",
+      "created": "2026-07-18",
+      "topics": [],
+      "description": "M365 ChatHub OpenAI-compatible gateway",
+      "date": "2026-07-18",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Moinuddin9777/BwAI_Bootcamp_H2S_2026_Hyd",
+      "url": "https://github.com/Moinuddin9777/BwAI_Bootcamp_H2S_2026_Hyd",
+      "stars": 9,
+      "language": "Unknown",
+      "created": "2026-07-18",
+      "topics": [],
+      "description": "Build with AI Bootcamp series by Hack 2 Skill and Google for Developers",
+      "date": "2026-07-18",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Xuanphu108/ecg_ssl",
+      "url": "https://github.com/Xuanphu108/ecg_ssl",
+      "stars": 7,
+      "language": "Python",
+      "created": "2026-07-18",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-18",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars": 15794,
+      "language": "C",
+      "created": "2026-07-01",
+      "topics": [],
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "date": "2026-07-18",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "langchain-ai/openwiki",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "stars": 12193,
+      "language": "TypeScript",
+      "created": "2026-06-22",
+      "topics": [],
+      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+      "date": "2026-07-18",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/DeepSpec",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "stars": 6688,
+      "language": "Python",
+      "created": "2026-06-26",
+      "topics": [],
+      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "date": "2026-07-18",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "xai-org/grok-build",
       "url": "https://github.com/xai-org/grok-build",
@@ -4206,6 +4591,15 @@
     }
   ],
   "metadata": {
+    "2026-07-18": {
+      "ai_relevant_count": 10,
+      "top_ai_pick": {
+        "name": "xai-org/grok-build",
+        "url": "https://github.com/xai-org/grok-build",
+        "stars": 17228,
+        "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible."
+      }
+    },
     "2026-07-17": {
       "ai_relevant_count": 12,
       "top_ai_pick": {
@@ -4285,9 +4679,16 @@
   },
   "language_stats": {
     "Python": {
-      "count": 88,
-      "total_stars": 392955,
+      "count": 95,
+      "total_stars": 403201,
       "repos": [
+        "littledivy/mimic",
+        "Kappaemme-git/codex-first-customer-finder-skill",
+        "oil-oil/beautify-github-readme",
+        "PengZhang64/circuit-framework",
+        "Shadow-Weave/HMS",
+        "Xuanphu108/ecg_ssl",
+        "deepseek-ai/DeepSpec",
         "MDX-Tom/gpt-5.6-instruct",
         "littledivy/mimic",
         "Kappaemme-git/codex-first-customer-finder-skill",
@@ -4379,9 +4780,15 @@
       ]
     },
     "TypeScript": {
-      "count": 54,
-      "total_stars": 108043,
+      "count": 60,
+      "total_stars": 123598,
       "repos": [
+        "pixel-point/aval",
+        "mereyabdenbekuly-ctrl/clodex-ide",
+        "MatinSenPai/Aether-GUI",
+        "pablostanley/yoinks",
+        "stackblitz/bolt-slides",
+        "langchain-ai/openwiki",
         "pixel-point/aval",
         "mereyabdenbekuly-ctrl/clodex-ide",
         "MatinSenPai/Aether-GUI",
@@ -4439,9 +4846,13 @@
       ]
     },
     "JavaScript": {
-      "count": 34,
-      "total_stars": 423466,
+      "count": 38,
+      "total_stars": 434652,
       "repos": [
+        "Fei-Away/Codex-Dream-Skin",
+        "tandpfun/wardrobe",
+        "KubeezMedia/kubeez-scroll-world-video",
+        "Blueturboguy07/cue",
         "Fei-Away/Codex-Dream-Skin",
         "tandpfun/wardrobe",
         "KubeezMedia/kubeez-scroll-world-video",
@@ -4479,9 +4890,11 @@
       ]
     },
     "Unknown": {
-      "count": 27,
-      "total_stars": 31834,
+      "count": 29,
+      "total_stars": 31853,
       "repos": [
+        "sxnnywu/reeled-in",
+        "Moinuddin9777/BwAI_Bootcamp_H2S_2026_Hyd",
         "SilversmithReveal/Marvel-Rivals-Optimization",
         "CaveWalkerPanel/Rust-FPS-Boost-Fix",
         "DegreeWaspShackle/Ninja-Gaiden-4-Optimization",
@@ -4512,9 +4925,12 @@
       ]
     },
     "Rust": {
-      "count": 11,
-      "total_stars": 16007,
+      "count": 14,
+      "total_stars": 34415,
       "repos": [
+        "xai-org/grok-build",
+        "CluvexStudio/Aether",
+        "Blueturboguy07/WhimprFlow",
         "xai-org/grok-build",
         "CluvexStudio/Aether",
         "CluvexStudio/Aether",
@@ -4529,9 +4945,12 @@
       ]
     },
     "Go": {
-      "count": 7,
-      "total_stars": 948,
+      "count": 10,
+      "total_stars": 1673,
       "repos": [
+        "nethical6/conversation-steganography",
+        "vshulcz/deja-vu",
+        "uefi2333/m365-native",
         "vshulcz/deja-vu",
         "cosmtrek/mindwalk",
         "outerstellar-hq/vla",
@@ -4542,15 +4961,28 @@
       ]
     },
     "C": {
-      "count": 6,
-      "total_stars": 29922,
+      "count": 7,
+      "total_stars": 45716,
       "repos": [
+        "JustVugg/colibri",
         "JustVugg/colibri",
         "sorryhumans/clawdmeter-plus",
         "JustVugg/colibri",
         "ricccrd/dd",
         "ricccrd/dd",
         "ricccrd/dd"
+      ]
+    },
+    "Dockerfile": {
+      "count": 6,
+      "total_stars": 4388,
+      "repos": [
+        "x4gKing/Marzban-Panel",
+        "x4gKing/Marzban-Node",
+        "x4gKing/Marzban-Panel",
+        "x4gKing/Marzban-Node",
+        "x4gKing/Marzban-Panel",
+        "x4gKing/Marzban-Node"
       ]
     },
     "Perl": {
@@ -4574,16 +5006,6 @@
         "tdeverx/contained-app",
         "tdeverx/contained-app",
         "m1ckc3s/claude-status-bar"
-      ]
-    },
-    "Dockerfile": {
-      "count": 4,
-      "total_stars": 2900,
-      "repos": [
-        "x4gKing/Marzban-Panel",
-        "x4gKing/Marzban-Node",
-        "x4gKing/Marzban-Panel",
-        "x4gKing/Marzban-Node"
       ]
     },
     "Shell": {
@@ -4663,6 +5085,11 @@
     }
   },
   "date_stats": {
+    "2026-07-18": {
+      "count": 28,
+      "total_stars": 73421,
+      "ai_count": 0
+    },
     "2026-07-17": {
       "count": 28,
       "total_stars": 75439,
@@ -4885,6 +5312,30 @@
       "is_ai_dev": false
     },
     {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": 17228,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars": 15794,
+      "language": "C",
+      "created": "2026-07-01",
+      "topics": [],
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "date": "2026-07-18",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "stars": 15168,
@@ -4965,6 +5416,18 @@
       "topics": [],
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "date": "2026-07-02",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "langchain-ai/openwiki",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "stars": 12193,
+      "language": "TypeScript",
+      "created": "2026-06-22",
+      "topics": [],
+      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+      "date": "2026-07-18",
       "section": "monthly",
       "is_ai_dev": false
     },
@@ -5149,6 +5612,18 @@
       "is_ai_dev": false
     },
     {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 9101,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-07-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
       "name": "unicity-astrid/book",
       "url": "https://github.com/unicity-astrid/book",
       "stars": 7557,
@@ -5271,6 +5746,18 @@
     {
       "name": "deepseek-ai/DeepSpec",
       "url": "https://github.com/deepseek-ai/DeepSpec",
+      "stars": 6688,
+      "language": "Python",
+      "created": "2026-06-26",
+      "topics": [],
+      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "date": "2026-07-18",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/DeepSpec",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
       "stars": 6652,
       "language": "Python",
       "created": "2026-06-26",
@@ -5349,66 +5836,6 @@
       "topics": [],
       "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
       "date": "2026-06-28",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "bozhouDev/codex-orange-book",
-      "url": "https://github.com/bozhouDev/codex-orange-book",
-      "stars": 2205,
-      "language": "HTML",
-      "created": "2026-06-23",
-      "topics": [],
-      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "date": "2026-06-27",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "MDX-Tom/gpt-5.6-instruct",
-      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "stars": 1772,
-      "language": "Python",
-      "created": "2026-07-11",
-      "topics": [],
-      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "date": "2026-07-17",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "Yu9191/wloc",
-      "url": "https://github.com/Yu9191/wloc",
-      "stars": 1563,
-      "language": "JavaScript",
-      "created": "2026-06-24",
-      "topics": [],
-      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "date": "2026-06-30",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "Krishnagangwal/CS-Fundamentals",
-      "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
-      "stars": 1405,
-      "language": "",
-      "created": "2026-06-28",
-      "topics": [],
-      "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
-      "date": "2026-07-02",
-      "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "Yu9191/wloc",
-      "url": "https://github.com/Yu9191/wloc",
-      "stars": 1333,
-      "language": "JavaScript",
-      "created": "2026-06-24",
-      "topics": [],
-      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "date": "2026-06-29",
       "section": "weekly",
       "is_ai_dev": false
     }
