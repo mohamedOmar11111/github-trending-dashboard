@@ -1,9 +1,439 @@
 {
-  "last_updated": "2026-07-20T08:33:32.135888",
-  "total_repos": 347,
-  "total_dates": 12,
+  "last_updated": "2026-07-21T08:05:19.468122",
+  "total_repos": 376,
+  "total_dates": 13,
   "total_unique_languages": 20,
   "repos": [
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 11305,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "stars": 1234,
+      "language": "JavaScript",
+      "created": "2026-07-16",
+      "topics": [],
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "hoainho/img2threejs",
+      "url": "https://github.com/hoainho/img2threejs",
+      "stars": 1186,
+      "language": "Python",
+      "created": "2026-07-15",
+      "topics": [
+        "3d",
+        "ai-agents",
+        "claude-code",
+        "computer-graphics",
+        "generative",
+        "image-to-3d",
+        "procedural-generation",
+        "threejs",
+        "typescript",
+        "webgl"
+      ],
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lopopolo/harness-engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "stars": 948,
+      "language": "Python",
+      "created": "2026-07-18",
+      "topics": [],
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "stars": 892,
+      "language": "TypeScript",
+      "created": "2026-07-16",
+      "topics": [],
+      "description": "yoink any video from your terminal. no shady ads.",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "stars": 885,
+      "language": "Go",
+      "created": "2026-07-17",
+      "topics": [
+        "llm-tools",
+        "steganography"
+      ],
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Blueturboguy07/cue",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "stars": 674,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "v-modal/vmodal_sdk_flutter",
+      "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+      "stars": 623,
+      "language": "Dart",
+      "created": "2026-07-16",
+      "topics": [],
+      "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xiejunjie524/handdraw-story-video",
+      "url": "https://github.com/xiejunjie524/handdraw-story-video",
+      "stars": 537,
+      "language": "Python",
+      "created": "2026-07-18",
+      "topics": [],
+      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pyang5166/gbro-collage-broll",
+      "url": "https://github.com/pyang5166/gbro-collage-broll",
+      "stars": 506,
+      "language": "Python",
+      "created": "2026-07-15",
+      "topics": [
+        "agent-skill",
+        "broll",
+        "gemini",
+        "paper-collage",
+        "video-generation"
+      ],
+      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "EthanXiang777/circuit-framework",
+      "url": "https://github.com/EthanXiang777/circuit-framework",
+      "stars": 487,
+      "language": "Python",
+      "created": "2026-07-16",
+      "topics": [],
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MIgHTy-alIeN/Trading-Bot",
+      "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+      "stars": 467,
+      "language": "Solidity",
+      "created": "2026-07-17",
+      "topics": [
+        "ai",
+        "aitradingbot",
+        "bot",
+        "btc",
+        "claude",
+        "eth",
+        "etherlab",
+        "mev",
+        "mevbots"
+      ],
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Icex0/wp2shell-poc",
+      "url": "https://github.com/Icex0/wp2shell-poc",
+      "stars": 435,
+      "language": "Python",
+      "created": "2026-07-17",
+      "topics": [
+        "cve-2026-63030",
+        "wp2shell",
+        "wp2shell-poc"
+      ],
+      "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JustinGamer191/Holo",
+      "url": "https://github.com/JustinGamer191/Holo",
+      "stars": 386,
+      "language": "Swift",
+      "created": "2026-07-17",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yuwen-cool/yuwen-publish-precheck",
+      "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+      "stars": 359,
+      "language": "Python",
+      "created": "2026-07-15",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "chinese",
+        "claude",
+        "content-compliance",
+        "cursor",
+        "douyin",
+        "wechat-channels",
+        "xiaohongshu"
+      ],
+      "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Blaizzy/nativ",
+      "url": "https://github.com/Blaizzy/nativ",
+      "stars": 346,
+      "language": "Swift",
+      "created": "2026-07-20",
+      "topics": [],
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "smixs/pohuy",
+      "url": "https://github.com/smixs/pohuy",
+      "stars": 325,
+      "language": "Unknown",
+      "created": "2026-07-17",
+      "topics": [],
+      "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "PromptPartner/agentsmith",
+      "url": "https://github.com/PromptPartner/agentsmith",
+      "stars": 315,
+      "language": "Shell",
+      "created": "2026-07-16",
+      "topics": [
+        "agentic-ai",
+        "agentic-coding",
+        "ai-agents",
+        "ai-tools",
+        "automation",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "developer-tools",
+        "gemini",
+        "llm",
+        "llm-agents",
+        "open-source",
+        "prompt-engineering",
+        "vibe-coding"
+      ],
+      "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "thesysdev/appless",
+      "url": "https://github.com/thesysdev/appless",
+      "stars": 302,
+      "language": "TypeScript",
+      "created": "2026-07-16",
+      "topics": [
+        "generative-ui",
+        "llm",
+        "react-native"
+      ],
+      "description": "What if your phone had no apps",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "my-take-dev/inspired-mino-design-skills",
+      "url": "https://github.com/my-take-dev/inspired-mino-design-skills",
+      "stars": 295,
+      "language": "Shell",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル",
+      "date": "2026-07-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "midisec/fastjson-1.2.83-gadget-rce",
+      "url": "https://github.com/midisec/fastjson-1.2.83-gadget-rce",
+      "stars": 72,
+      "language": "Python",
+      "created": "2026-07-21",
+      "topics": [],
+      "description": "Fastjson 1.2.68 ~ 1.2.83 RCE，jdk8、17、21和25全版本，支持批量urls进行poc验证。",
+      "date": "2026-07-21",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sudsudop/kiddionmenu-modest",
+      "url": "https://github.com/sudsudop/kiddionmenu-modest",
+      "stars": 30,
+      "language": "Unknown",
+      "created": "2026-07-21",
+      "topics": [
+        "5m",
+        "external-menu",
+        "fivem-mod-menu-exe",
+        "gta-editor",
+        "gta-modding-tools",
+        "gta-v-trainer",
+        "kiddions-modmenu",
+        "lunacy",
+        "modest-menu"
+      ],
+      "description": "Kiddion's ModMenu is one of the most renowned external mod menus for *Grand Theft Auto V*.",
+      "date": "2026-07-21",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "c9nny/mirror",
+      "url": "https://github.com/c9nny/mirror",
+      "stars": 29,
+      "language": "OCaml",
+      "created": "2026-07-21",
+      "topics": [],
+      "description": "lexical structure inference for incomplete programs",
+      "date": "2026-07-21",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "c9nny/linnaea",
+      "url": "https://github.com/c9nny/linnaea",
+      "stars": 27,
+      "language": "OCaml",
+      "created": "2026-07-21",
+      "topics": [],
+      "description": "workbench for inspecting a typed fragment of C through parser output",
+      "date": "2026-07-21",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "hahhforest/pi-textbook",
+      "url": "https://github.com/hahhforest/pi-textbook",
+      "stars": 26,
+      "language": "TypeScript",
+      "created": "2026-07-21",
+      "topics": [
+        "agent-engineering",
+        "ai-agent",
+        "chinese",
+        "llm",
+        "textbook",
+        "typescript"
+      ],
+      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "date": "2026-07-21",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": 21065,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-07-21",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars": 17147,
+      "language": "C",
+      "created": "2026-07-01",
+      "topics": [],
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "date": "2026-07-21",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "langchain-ai/openwiki",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "stars": 12688,
+      "language": "TypeScript",
+      "created": "2026-06-22",
+      "topics": [],
+      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+      "date": "2026-07-21",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/DeepSpec",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "stars": 6713,
+      "language": "Python",
+      "created": "2026-06-26",
+      "topics": [],
+      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "date": "2026-07-21",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "xai-org/grok-build",
       "url": "https://github.com/xai-org/grok-build",
@@ -5395,6 +5825,15 @@
     }
   ],
   "metadata": {
+    "2026-07-21": {
+      "ai_relevant_count": 15,
+      "top_ai_pick": {
+        "name": "tandpfun/wardrobe",
+        "url": "https://github.com/tandpfun/wardrobe",
+        "stars": 1234,
+        "description": "Your clothes, extracted and organized with gpt-image."
+      }
+    },
     "2026-07-20": {
       "ai_relevant_count": 14,
       "top_ai_pick": {
@@ -5501,9 +5940,18 @@
   },
   "language_stats": {
     "Python": {
-      "count": 112,
-      "total_stars": 423129,
+      "count": 121,
+      "total_stars": 434372,
       "repos": [
+        "hoainho/img2threejs",
+        "lopopolo/harness-engineering",
+        "xiejunjie524/handdraw-story-video",
+        "pyang5166/gbro-collage-broll",
+        "EthanXiang777/circuit-framework",
+        "Icex0/wp2shell-poc",
+        "yuwen-cool/yuwen-publish-precheck",
+        "midisec/fastjson-1.2.83-gadget-rce",
+        "deepseek-ai/DeepSpec",
         "hoainho/img2threejs",
         "lopopolo/harness-engineering",
         "PengZhang64/circuit-framework",
@@ -5619,9 +6067,13 @@
       ]
     },
     "TypeScript": {
-      "count": 69,
-      "total_stars": 153201,
+      "count": 73,
+      "total_stars": 167109,
       "repos": [
+        "pablostanley/yoinks",
+        "thesysdev/appless",
+        "hahhforest/pi-textbook",
+        "langchain-ai/openwiki",
         "pablostanley/yoinks",
         "MatinSenPai/Aether-GUI",
         "stackblitz/bolt-slides",
@@ -5694,9 +6146,12 @@
       ]
     },
     "JavaScript": {
-      "count": 46,
-      "total_stars": 459848,
+      "count": 49,
+      "total_stars": 473061,
       "repos": [
+        "Fei-Away/Codex-Dream-Skin",
+        "tandpfun/wardrobe",
+        "Blueturboguy07/cue",
         "Fei-Away/Codex-Dream-Skin",
         "tandpfun/wardrobe",
         "Blueturboguy07/cue",
@@ -5746,9 +6201,11 @@
       ]
     },
     "Unknown": {
-      "count": 32,
-      "total_stars": 32192,
+      "count": 34,
+      "total_stars": 32547,
       "repos": [
+        "smixs/pohuy",
+        "sudsudop/kiddionmenu-modest",
         "TobiasLee/Rebuttal-Skill",
         "KinetiNode/claude-fable-5-system-prompt-clean",
         "oi88boi/hanime-viewer1.0.0",
@@ -5784,9 +6241,10 @@
       ]
     },
     "Rust": {
-      "count": 19,
-      "total_stars": 76875,
+      "count": 20,
+      "total_stars": 97940,
       "repos": [
+        "xai-org/grok-build",
         "xai-org/grok-build",
         "CluvexStudio/Aether",
         "Jacoblauritzen/Openreach",
@@ -5809,9 +6267,10 @@
       ]
     },
     "Go": {
-      "count": 14,
-      "total_stars": 4004,
+      "count": 15,
+      "total_stars": 4889,
       "repos": [
+        "nethical6/conversation-steganography",
         "nethical6/conversation-steganography",
         "vshulcz/deja-vu",
         "nethical6/conversation-steganography",
@@ -5829,9 +6288,11 @@
       ]
     },
     "Swift": {
-      "count": 9,
-      "total_stars": 3211,
+      "count": 11,
+      "total_stars": 3943,
       "repos": [
+        "JustinGamer191/Holo",
+        "Blaizzy/nativ",
         "andyhuo520/MacCheck",
         "JustinGamer191/Holo",
         "frank890417/open-dictate",
@@ -5844,9 +6305,10 @@
       ]
     },
     "C": {
-      "count": 9,
-      "total_stars": 78520,
+      "count": 10,
+      "total_stars": 95667,
       "repos": [
+        "JustVugg/colibri",
         "JustVugg/colibri",
         "JustVugg/colibri",
         "JustVugg/colibri",
@@ -5856,6 +6318,30 @@
         "ricccrd/dd",
         "ricccrd/dd",
         "ricccrd/dd"
+      ]
+    },
+    "Dart": {
+      "count": 6,
+      "total_stars": 1532,
+      "repos": [
+        "v-modal/vmodal_sdk_flutter",
+        "v-modal/vmodal_sdk_flutter",
+        "std-microblock/NovelHub",
+        "std-microblock/NovelHub",
+        "std-microblock/NovelHub",
+        "iebb/mithka"
+      ]
+    },
+    "Shell": {
+      "count": 6,
+      "total_stars": 2210,
+      "repos": [
+        "PromptPartner/agentsmith",
+        "my-take-dev/inspired-mino-design-skills",
+        "my-take-dev/inspired-mino-design-skills",
+        "jamesob/local-llm",
+        "Kulaxyz/token-diet",
+        "tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark"
       ]
     },
     "HTML": {
@@ -5894,27 +6380,6 @@
         "unicity-astrid/book"
       ]
     },
-    "Dart": {
-      "count": 5,
-      "total_stars": 909,
-      "repos": [
-        "v-modal/vmodal_sdk_flutter",
-        "std-microblock/NovelHub",
-        "std-microblock/NovelHub",
-        "std-microblock/NovelHub",
-        "iebb/mithka"
-      ]
-    },
-    "Shell": {
-      "count": 4,
-      "total_stars": 1600,
-      "repos": [
-        "my-take-dev/inspired-mino-design-skills",
-        "jamesob/local-llm",
-        "Kulaxyz/token-diet",
-        "tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark"
-      ]
-    },
     "C++": {
       "count": 4,
       "total_stars": 1886,
@@ -5925,25 +6390,28 @@
         "BohemiaInteractive/CWR"
       ]
     },
+    "OCaml": {
+      "count": 3,
+      "total_stars": 70,
+      "repos": [
+        "c9nny/mirror",
+        "c9nny/linnaea",
+        "canonicalise/up"
+      ]
+    },
+    "Solidity": {
+      "count": 2,
+      "total_stars": 548,
+      "repos": [
+        "MIgHTy-alIeN/Trading-Bot",
+        "alexafinode/claude-arbitrage-bot"
+      ]
+    },
     "C#": {
       "count": 1,
       "total_stars": 124,
       "repos": [
         "PostmanReminisce/Wisp-VPN"
-      ]
-    },
-    "OCaml": {
-      "count": 1,
-      "total_stars": 14,
-      "repos": [
-        "canonicalise/up"
-      ]
-    },
-    "Solidity": {
-      "count": 1,
-      "total_stars": 81,
-      "repos": [
-        "alexafinode/claude-arbitrage-bot"
       ]
     },
     "CSS": {
@@ -5969,6 +6437,11 @@
     }
   },
   "date_stats": {
+    "2026-07-21": {
+      "count": 29,
+      "total_stars": 80304,
+      "ai_count": 0
+    },
     "2026-07-20": {
       "count": 28,
       "total_stars": 78115,
@@ -6208,6 +6681,18 @@
     {
       "name": "xai-org/grok-build",
       "url": "https://github.com/xai-org/grok-build",
+      "stars": 21065,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-07-21",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
       "stars": 20408,
       "language": "Rust",
       "created": "2026-07-14",
@@ -6239,6 +6724,18 @@
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "date": "2026-07-18",
       "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars": 17147,
+      "language": "C",
+      "created": "2026-07-01",
+      "topics": [],
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "date": "2026-07-21",
+      "section": "monthly",
       "is_ai_dev": false
     },
     {
@@ -6364,6 +6861,18 @@
     {
       "name": "langchain-ai/openwiki",
       "url": "https://github.com/langchain-ai/openwiki",
+      "stars": 12688,
+      "language": "TypeScript",
+      "created": "2026-06-22",
+      "topics": [],
+      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+      "date": "2026-07-21",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "langchain-ai/openwiki",
+      "url": "https://github.com/langchain-ai/openwiki",
       "stars": 12540,
       "language": "TypeScript",
       "created": "2026-06-22",
@@ -6461,6 +6970,18 @@
       "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
       "date": "2026-07-15",
       "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 11305,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-07-21",
+      "section": "weekly",
       "is_ai_dev": false
     },
     {
@@ -6683,54 +7204,6 @@
       "description": "The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.",
       "date": "2026-07-05",
       "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "unicity-astrid/handbook",
-      "url": "https://github.com/unicity-astrid/handbook",
-      "stars": 7489,
-      "language": "",
-      "created": "2026-06-06",
-      "topics": [],
-      "description": "How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.",
-      "date": "2026-06-30",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "unicity-astrid/handbook",
-      "url": "https://github.com/unicity-astrid/handbook",
-      "stars": 7484,
-      "language": "",
-      "created": "2026-06-06",
-      "topics": [],
-      "description": "How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.",
-      "date": "2026-07-02",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "unicity-astrid/handbook",
-      "url": "https://github.com/unicity-astrid/handbook",
-      "stars": 7480,
-      "language": "",
-      "created": "2026-06-06",
-      "topics": [],
-      "description": "How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.",
-      "date": "2026-07-05",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "Fei-Away/Codex-Dream-Skin",
-      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-      "stars": 7336,
-      "language": "JavaScript",
-      "created": "2026-07-15",
-      "topics": [],
-      "description": "Codex Dream Skin",
-      "date": "2026-07-17",
-      "section": "weekly",
       "is_ai_dev": false
     }
   ]
