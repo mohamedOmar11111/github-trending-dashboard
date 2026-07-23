@@ -1,9 +1,445 @@
 {
-  "last_updated": "2026-07-22T08:03:49.857454",
-  "total_repos": 406,
-  "total_dates": 14,
-  "total_unique_languages": 20,
+  "last_updated": "2026-07-23T08:06:37.992305",
+  "total_repos": 436,
+  "total_dates": 15,
+  "total_unique_languages": 21,
   "repos": [
+    {
+      "name": "lopopolo/harness-engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "stars": 2214,
+      "language": "Python",
+      "created": "2026-07-18",
+      "topics": [],
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "stars": 1022,
+      "language": "Go",
+      "created": "2026-07-17",
+      "topics": [
+        "llm-tools",
+        "steganography"
+      ],
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "stars": 920,
+      "language": "Solidity",
+      "created": "2026-07-17",
+      "topics": [
+        "ai",
+        "aitradingbot",
+        "bot",
+        "btc",
+        "claude",
+        "eth",
+        "etherlab",
+        "mev",
+        "mevbots"
+      ],
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Blaizzy/nativ",
+      "url": "https://github.com/Blaizzy/nativ",
+      "stars": 777,
+      "language": "Swift",
+      "created": "2026-07-20",
+      "topics": [],
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "stars": 697,
+      "language": "TypeScript",
+      "created": "2026-07-21",
+      "topics": [],
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nyblnet/bento",
+      "url": "https://github.com/nyblnet/bento",
+      "stars": 684,
+      "language": "TypeScript",
+      "created": "2026-07-17",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xiejunjie524/handdraw-story-video",
+      "url": "https://github.com/xiejunjie524/handdraw-story-video",
+      "stars": 624,
+      "language": "Python",
+      "created": "2026-07-18",
+      "topics": [],
+      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "powerycy/goutoujunshi",
+      "url": "https://github.com/powerycy/goutoujunshi",
+      "stars": 580,
+      "language": "Python",
+      "created": "2026-07-20",
+      "topics": [
+        "ai-agent",
+        "chinese",
+        "codex",
+        "codex-skill",
+        "lgbtq",
+        "psychology",
+        "relationship-advice"
+      ],
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "stars": 581,
+      "language": "TypeScript",
+      "created": "2026-07-19",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-video",
+        "claude-code",
+        "claude-code-skills",
+        "claude-skills",
+        "codex",
+        "motion-design",
+        "motion-graphics",
+        "product-video",
+        "promo-video",
+        "remotion",
+        "video-generation",
+        "video-production"
+      ],
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pireel/pireel",
+      "url": "https://github.com/pireel/pireel",
+      "stars": 560,
+      "language": "TypeScript",
+      "created": "2026-07-20",
+      "topics": [
+        "ai-video",
+        "capcut",
+        "captions",
+        "talking-head",
+        "video-editor"
+      ],
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "smixs/pohuy",
+      "url": "https://github.com/smixs/pohuy",
+      "stars": 547,
+      "language": "Unknown",
+      "created": "2026-07-17",
+      "topics": [],
+      "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "0xhype/hyperliquid-tracker",
+      "url": "https://github.com/0xhype/hyperliquid-tracker",
+      "stars": 503,
+      "language": "TypeScript",
+      "created": "2026-07-21",
+      "topics": [],
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Icex0/wp2shell-poc",
+      "url": "https://github.com/Icex0/wp2shell-poc",
+      "stars": 493,
+      "language": "Python",
+      "created": "2026-07-17",
+      "topics": [
+        "cve-2026-63030",
+        "wp2shell",
+        "wp2shell-poc"
+      ],
+      "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "gnipbao/story-to-handdrawn-video",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "stars": 455,
+      "language": "JavaScript",
+      "created": "2026-07-21",
+      "topics": [],
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JustinGamer191/Holo",
+      "url": "https://github.com/JustinGamer191/Holo",
+      "stars": 451,
+      "language": "Swift",
+      "created": "2026-07-17",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+      "stars": 383,
+      "language": "Unknown",
+      "created": "2026-07-19",
+      "topics": [],
+      "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yc-duan/fastctx",
+      "url": "https://github.com/yc-duan/fastctx",
+      "stars": 368,
+      "language": "Rust",
+      "created": "2026-07-17",
+      "topics": [],
+      "description": "Fast, context-efficient repository tools for AI agents (MCP)",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Kritt-ai/open-kritt",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "stars": 339,
+      "language": "JavaScript",
+      "created": "2026-07-20",
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "bug-bounty",
+        "bugbounty",
+        "bugbounty-tools",
+        "security",
+        "security-research"
+      ],
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "thebuggeddev/football-stadium",
+      "url": "https://github.com/thebuggeddev/football-stadium",
+      "stars": 327,
+      "language": "HTML",
+      "created": "2026-07-17",
+      "topics": [],
+      "description": "A 3D football stadium to visualize where you sit in the seat before you buy it",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "AdelanSoulX/PM-Sniper",
+      "url": "https://github.com/AdelanSoulX/PM-Sniper",
+      "stars": 312,
+      "language": "Python",
+      "created": "2026-07-20",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dboudreau00/Delpheed-Delphi-Call-Hijacker",
+      "url": "https://github.com/dboudreau00/Delpheed-Delphi-Call-Hijacker",
+      "stars": 29,
+      "language": "Pascal",
+      "created": "2026-07-23",
+      "topics": [],
+      "description": "A Delphi-aware reverse-engineering toolkit — recover the class model from any Delphi PE, and unpack packed ones to get there.",
+      "date": "2026-07-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sunny-glow/Auto-BenchMax",
+      "url": "https://github.com/sunny-glow/Auto-BenchMax",
+      "stars": 19,
+      "language": "Python",
+      "created": "2026-07-23",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "schowdary75/moonsconfig",
+      "url": "https://github.com/schowdary75/moonsconfig",
+      "stars": 15,
+      "language": "TypeScript",
+      "created": "2026-07-23",
+      "topics": [
+        "ai-agent",
+        "asterisk",
+        "booking",
+        "customer-support",
+        "express",
+        "itinerary",
+        "itinerary-builder",
+        "mysql",
+        "prisma",
+        "react",
+        "redis",
+        "rfq",
+        "route-maps",
+        "saas",
+        "team-chat",
+        "travel-automation",
+        "travel-crm",
+        "travel-tech",
+        "typescript",
+        "vendor-management"
+      ],
+      "description": "Open travel OS with Maya AI for calls, support chat, RFQs, vendor outreach, itinerary curation, route maps, packages, hotels, cars, CRM, bookings, and multi-tenant SaaS.",
+      "date": "2026-07-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "0xShe/FUCK-CDN",
+      "url": "https://github.com/0xShe/FUCK-CDN",
+      "stars": 14,
+      "language": "Unknown",
+      "created": "2026-07-23",
+      "topics": [],
+      "description": "一键绕过CDN获取真实IP",
+      "date": "2026-07-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xhz2127-art/k230-steel-ball-detection",
+      "url": "https://github.com/xhz2127-art/k230-steel-ball-detection",
+      "stars": 9,
+      "language": "Python",
+      "created": "2026-07-23",
+      "topics": [],
+      "description": "YOLOv8 steel-ball detection demo for CanMV K230",
+      "date": "2026-07-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": 21941,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-07-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars": 18059,
+      "language": "C",
+      "created": "2026-07-01",
+      "topics": [],
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "date": "2026-07-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 11949,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-07-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "unicity-aos/aos-ce",
+      "url": "https://github.com/unicity-aos/aos-ce",
+      "stars": 6760,
+      "language": "Rust",
+      "created": "2026-07-12",
+      "topics": [],
+      "description": "AOS Community Edition: the open agent operating system.",
+      "date": "2026-07-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/DeepSpec",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "stars": 6745,
+      "language": "Python",
+      "created": "2026-06-26",
+      "topics": [],
+      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "date": "2026-07-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "lopopolo/harness-engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
@@ -6269,6 +6705,15 @@
     }
   ],
   "metadata": {
+    "2026-07-23": {
+      "ai_relevant_count": 14,
+      "top_ai_pick": {
+        "name": "lopopolo/harness-engineering",
+        "url": "https://github.com/lopopolo/harness-engineering",
+        "stars": 2214,
+        "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering"
+      }
+    },
     "2026-07-22": {
       "ai_relevant_count": 15,
       "top_ai_pick": {
@@ -6393,9 +6838,17 @@
   },
   "language_stats": {
     "Python": {
-      "count": 130,
-      "total_stars": 451416,
+      "count": 138,
+      "total_stars": 462412,
       "repos": [
+        "lopopolo/harness-engineering",
+        "xiejunjie524/handdraw-story-video",
+        "powerycy/goutoujunshi",
+        "Icex0/wp2shell-poc",
+        "AdelanSoulX/PM-Sniper",
+        "sunny-glow/Auto-BenchMax",
+        "xhz2127-art/k230-steel-ball-detection",
+        "deepseek-ai/DeepSpec",
         "lopopolo/harness-engineering",
         "xiejunjie524/handdraw-story-video",
         "EthanXiang777/circuit-framework",
@@ -6529,9 +6982,15 @@
       ]
     },
     "TypeScript": {
-      "count": 76,
-      "total_stars": 168886,
+      "count": 82,
+      "total_stars": 171926,
       "repos": [
+        "Jakubantalik/thinking-orbs",
+        "nyblnet/bento",
+        "Vincentwei1021/video-shotcraft",
+        "pireel/pireel",
+        "0xhype/hyperliquid-tracker",
+        "schowdary75/moonsconfig",
         "pablostanley/yoinks",
         "Vincentwei1021/video-shotcraft",
         "thesysdev/appless",
@@ -6611,9 +7070,12 @@
       ]
     },
     "JavaScript": {
-      "count": 51,
-      "total_stars": 486031,
+      "count": 54,
+      "total_stars": 498774,
       "repos": [
+        "gnipbao/story-to-handdrawn-video",
+        "Kritt-ai/open-kritt",
+        "Fei-Away/Codex-Dream-Skin",
         "tandpfun/wardrobe",
         "Fei-Away/Codex-Dream-Skin",
         "Fei-Away/Codex-Dream-Skin",
@@ -6668,9 +7130,12 @@
       ]
     },
     "Unknown": {
-      "count": 39,
-      "total_stars": 33442,
+      "count": 42,
+      "total_stars": 34386,
       "repos": [
+        "smixs/pohuy",
+        "KinetiNode/claude-fable-5-system-prompt-clean",
+        "0xShe/FUCK-CDN",
         "smixs/pohuy",
         "KinetiNode/claude-fable-5-system-prompt-clean",
         "AlayaLab/AlayaRenderer-Flash",
@@ -6713,9 +7178,12 @@
       ]
     },
     "Rust": {
-      "count": 23,
-      "total_stars": 120204,
+      "count": 26,
+      "total_stars": 149273,
       "repos": [
+        "yc-duan/fastctx",
+        "xai-org/grok-build",
+        "unicity-aos/aos-ce",
         "mesamirh/MovieBox-Tui",
         "yc-duan/fastctx",
         "xai-org/grok-build",
@@ -6742,9 +7210,10 @@
       ]
     },
     "Go": {
-      "count": 16,
-      "total_stars": 5814,
+      "count": 17,
+      "total_stars": 6836,
       "repos": [
+        "nethical6/conversation-steganography",
         "nethical6/conversation-steganography",
         "nethical6/conversation-steganography",
         "nethical6/conversation-steganography",
@@ -6764,9 +7233,11 @@
       ]
     },
     "Swift": {
-      "count": 13,
-      "total_stars": 5025,
+      "count": 15,
+      "total_stars": 6253,
       "repos": [
+        "Blaizzy/nativ",
+        "JustinGamer191/Holo",
         "Blaizzy/nativ",
         "JustinGamer191/Holo",
         "JustinGamer191/Holo",
@@ -6783,9 +7254,10 @@
       ]
     },
     "C": {
-      "count": 11,
-      "total_stars": 113346,
+      "count": 12,
+      "total_stars": 131405,
       "repos": [
+        "JustVugg/colibri",
         "JustVugg/colibri",
         "JustVugg/colibri",
         "JustVugg/colibri",
@@ -6799,6 +7271,20 @@
         "ricccrd/dd"
       ]
     },
+    "HTML": {
+      "count": 8,
+      "total_stars": 7553,
+      "repos": [
+        "thebuggeddev/football-stadium",
+        "thebuggeddev/football-stadium",
+        "andrewcrtscott5703/3008-vip-scripts-hub",
+        "jordan-hughespjen5950/adopt-me-lua-script-executor",
+        "gunawan1996/world-forge-ai",
+        "bozhouDev/codex-orange-book",
+        "bozhouDev/codex-orange-book",
+        "bozhouDev/codex-orange-book"
+      ]
+    },
     "Dart": {
       "count": 7,
       "total_stars": 2341,
@@ -6810,19 +7296,6 @@
         "std-microblock/NovelHub",
         "std-microblock/NovelHub",
         "iebb/mithka"
-      ]
-    },
-    "HTML": {
-      "count": 7,
-      "total_stars": 7226,
-      "repos": [
-        "thebuggeddev/football-stadium",
-        "andrewcrtscott5703/3008-vip-scripts-hub",
-        "jordan-hughespjen5950/adopt-me-lua-script-executor",
-        "gunawan1996/world-forge-ai",
-        "bozhouDev/codex-orange-book",
-        "bozhouDev/codex-orange-book",
-        "bozhouDev/codex-orange-book"
       ]
     },
     "Shell": {
@@ -6862,6 +7335,16 @@
         "unicity-astrid/book"
       ]
     },
+    "Solidity": {
+      "count": 4,
+      "total_stars": 2207,
+      "repos": [
+        "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+        "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+        "MIgHTy-alIeN/Trading-Bot",
+        "alexafinode/claude-arbitrage-bot"
+      ]
+    },
     "C++": {
       "count": 4,
       "total_stars": 1886,
@@ -6872,15 +7355,6 @@
         "BohemiaInteractive/CWR"
       ]
     },
-    "Solidity": {
-      "count": 3,
-      "total_stars": 1287,
-      "repos": [
-        "MIgHTy-alIeN/MEV-Arbitrage-Bot",
-        "MIgHTy-alIeN/Trading-Bot",
-        "alexafinode/claude-arbitrage-bot"
-      ]
-    },
     "OCaml": {
       "count": 3,
       "total_stars": 70,
@@ -6888,6 +7362,13 @@
         "c9nny/mirror",
         "c9nny/linnaea",
         "canonicalise/up"
+      ]
+    },
+    "Pascal": {
+      "count": 1,
+      "total_stars": 29,
+      "repos": [
+        "dboudreau00/Delpheed-Delphi-Call-Hijacker"
       ]
     },
     "C#": {
@@ -6920,6 +7401,11 @@
     }
   },
   "date_stats": {
+    "2026-07-23": {
+      "count": 30,
+      "total_stars": 78377,
+      "ai_count": 0
+    },
     "2026-07-22": {
       "count": 30,
       "total_stars": 76817,
@@ -7169,6 +7655,18 @@
     {
       "name": "xai-org/grok-build",
       "url": "https://github.com/xai-org/grok-build",
+      "stars": 21941,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-07-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
       "stars": 21587,
       "language": "Rust",
       "created": "2026-07-14",
@@ -7212,6 +7710,18 @@
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "date": "2026-07-19",
       "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars": 18059,
+      "language": "C",
+      "created": "2026-07-01",
+      "topics": [],
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "date": "2026-07-23",
+      "section": "monthly",
       "is_ai_dev": false
     },
     {
@@ -7443,6 +7953,18 @@
       "is_ai_dev": false
     },
     {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 11949,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-07-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "baidu/Unlimited-OCR",
       "url": "https://github.com/baidu/Unlimited-OCR",
       "stars": 11828,
@@ -7656,42 +8178,6 @@
       "description": "Codex Dream Skin",
       "date": "2026-07-18",
       "section": "weekly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "unicity-astrid/book",
-      "url": "https://github.com/unicity-astrid/book",
-      "stars": 7557,
-      "language": "Perl",
-      "created": "2026-06-06",
-      "topics": [],
-      "description": "The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.",
-      "date": "2026-06-28",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "unicity-astrid/book",
-      "url": "https://github.com/unicity-astrid/book",
-      "stars": 7557,
-      "language": "Perl",
-      "created": "2026-06-06",
-      "topics": [],
-      "description": "The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.",
-      "date": "2026-06-27",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "unicity-astrid/book",
-      "url": "https://github.com/unicity-astrid/book",
-      "stars": 7544,
-      "language": "Perl",
-      "created": "2026-06-06",
-      "topics": [],
-      "description": "The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.",
-      "date": "2026-06-29",
-      "section": "monthly",
       "is_ai_dev": false
     }
   ]
