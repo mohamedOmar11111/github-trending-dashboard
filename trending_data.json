@@ -1,9 +1,370 @@
 {
-  "last_updated": "2026-07-23T08:06:37.992305",
-  "total_repos": 436,
-  "total_dates": 15,
+  "last_updated": "2026-07-24T08:03:04.743527",
+  "total_repos": 461,
+  "total_dates": 16,
   "total_unique_languages": 21,
   "repos": [
+    {
+      "name": "lopopolo/harness-engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "stars": 2294,
+      "language": "Python",
+      "created": "2026-07-18",
+      "topics": [],
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "stars": 2176,
+      "language": "Python",
+      "created": "2026-07-20",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "stars": 1141,
+      "language": "TypeScript",
+      "created": "2026-07-19",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-video",
+        "claude-code",
+        "claude-code-skills",
+        "claude-skills",
+        "codex",
+        "motion-design",
+        "motion-graphics",
+        "product-video",
+        "promo-video",
+        "remotion",
+        "video-generation",
+        "video-production"
+      ],
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "stars": 865,
+      "language": "TypeScript",
+      "created": "2026-07-21",
+      "topics": [],
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Blaizzy/nativ",
+      "url": "https://github.com/Blaizzy/nativ",
+      "stars": 827,
+      "language": "Swift",
+      "created": "2026-07-20",
+      "topics": [],
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "powerycy/goutoujunshi",
+      "url": "https://github.com/powerycy/goutoujunshi",
+      "stars": 731,
+      "language": "Python",
+      "created": "2026-07-20",
+      "topics": [
+        "ai-agent",
+        "chinese",
+        "codex",
+        "codex-skill",
+        "lgbtq",
+        "psychology",
+        "relationship-advice"
+      ],
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pireel/pireel",
+      "url": "https://github.com/pireel/pireel",
+      "stars": 679,
+      "language": "TypeScript",
+      "created": "2026-07-20",
+      "topics": [
+        "ai-video",
+        "capcut",
+        "captions",
+        "chatcut",
+        "openchatcut",
+        "talking-head",
+        "video-editor"
+      ],
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xiejunjie524/handdraw-story-video",
+      "url": "https://github.com/xiejunjie524/handdraw-story-video",
+      "stars": 639,
+      "language": "Python",
+      "created": "2026-07-18",
+      "topics": [],
+      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "gnipbao/story-to-handdrawn-video",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "stars": 587,
+      "language": "JavaScript",
+      "created": "2026-07-21",
+      "topics": [],
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "0xhype/hyperliquid-tracker",
+      "url": "https://github.com/0xhype/hyperliquid-tracker",
+      "stars": 508,
+      "language": "TypeScript",
+      "created": "2026-07-21",
+      "topics": [],
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "CatsJuice/sticker-forge",
+      "url": "https://github.com/CatsJuice/sticker-forge",
+      "stars": 473,
+      "language": "JavaScript",
+      "created": "2026-07-20",
+      "topics": [
+        "sticker",
+        "webgl"
+      ],
+      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+      "stars": 397,
+      "language": "Unknown",
+      "created": "2026-07-19",
+      "topics": [],
+      "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Kritt-ai/open-kritt",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "stars": 366,
+      "language": "JavaScript",
+      "created": "2026-07-20",
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "bug-bounty",
+        "bugbounty",
+        "bugbounty-tools",
+        "security",
+        "security-research"
+      ],
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Charles-0509/Grok-Register",
+      "url": "https://github.com/Charles-0509/Grok-Register",
+      "stars": 364,
+      "language": "Go",
+      "created": "2026-07-20",
+      "topics": [],
+      "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "AdelanSoulX/PM-Sniper",
+      "url": "https://github.com/AdelanSoulX/PM-Sniper",
+      "stars": 359,
+      "language": "Python",
+      "created": "2026-07-20",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "AdelanSupport/adelan-support",
+      "url": "https://github.com/AdelanSupport/adelan-support",
+      "stars": 357,
+      "language": "Python",
+      "created": "2026-07-21",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "berabuddies/redis-poc",
+      "url": "https://github.com/berabuddies/redis-poc",
+      "stars": 350,
+      "language": "Python",
+      "created": "2026-07-22",
+      "topics": [],
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "SeanJ1ang/design-judge-skills",
+      "url": "https://github.com/SeanJ1ang/design-judge-skills",
+      "stars": 312,
+      "language": "Python",
+      "created": "2026-07-18",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "design-awards",
+        "design-evaluation",
+        "design-research",
+        "hermes-agent",
+        "industrial-design",
+        "openclaw",
+        "opencode",
+        "python"
+      ],
+      "description": "Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness.",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lyu0805/OpenBrowser",
+      "url": "https://github.com/lyu0805/OpenBrowser",
+      "stars": 300,
+      "language": "JavaScript",
+      "created": "2026-07-19",
+      "topics": [
+        "chromium",
+        "electron",
+        "fingerprint-browser",
+        "proxy",
+        "rpa"
+      ],
+      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dacnay816y62-hub/cinema-dna-21x9x3",
+      "url": "https://github.com/dacnay816y62-hub/cinema-dna-21x9x3",
+      "stars": 293,
+      "language": "Unknown",
+      "created": "2026-07-20",
+      "topics": [],
+      "description": "高级感电影画面生成",
+      "date": "2026-07-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kingenbomb/Nodes",
+      "url": "https://github.com/kingenbomb/Nodes",
+      "stars": 36,
+      "language": "Python",
+      "created": "2026-07-24",
+      "topics": [],
+      "description": "节点注册机",
+      "date": "2026-07-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Qq7777-cyber/driver-monitoring-system",
+      "url": "https://github.com/Qq7777-cyber/driver-monitoring-system",
+      "stars": 19,
+      "language": "Unknown",
+      "created": "2026-07-24",
+      "topics": [],
+      "description": "Windows 驾驶员监控与座舱手势交互系统｜疲劳与分心检测、人脸识别、手势 HMI、本地数据管理 Visibility：Public",
+      "date": "2026-07-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dudscode/criando-roadmap",
+      "url": "https://github.com/dudscode/criando-roadmap",
+      "stars": 17,
+      "language": "HTML",
+      "created": "2026-07-24",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "rockthemike712/mission-control-board",
+      "url": "https://github.com/rockthemike712/mission-control-board",
+      "stars": 16,
+      "language": "HTML",
+      "created": "2026-07-24",
+      "topics": [],
+      "description": "Single-file, zero-dependency task board: owner-vs-agent plates, a dependency map, tap-to-complete.",
+      "date": "2026-07-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "keshi2003111-wei/guitar-posture-assistant",
+      "url": "https://github.com/keshi2003111-wei/guitar-posture-assistant",
+      "stars": 16,
+      "language": "Python",
+      "created": "2026-07-24",
+      "topics": [],
+      "description": "Real-time guitar posture assistant using OpenCV + MediaPipe. Detects hunching, head tilt, wrist bending, and finger positioning via webcam.",
+      "date": "2026-07-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
     {
       "name": "lopopolo/harness-engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
@@ -6705,6 +7066,15 @@
     }
   ],
   "metadata": {
+    "2026-07-24": {
+      "ai_relevant_count": 11,
+      "top_ai_pick": {
+        "name": "lopopolo/harness-engineering",
+        "url": "https://github.com/lopopolo/harness-engineering",
+        "stars": 2294,
+        "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering"
+      }
+    },
     "2026-07-23": {
       "ai_relevant_count": 14,
       "top_ai_pick": {
@@ -6838,9 +7208,19 @@
   },
   "language_stats": {
     "Python": {
-      "count": 138,
-      "total_stars": 462412,
+      "count": 148,
+      "total_stars": 469682,
       "repos": [
+        "lopopolo/harness-engineering",
+        "andrewyng/openworker",
+        "powerycy/goutoujunshi",
+        "xiejunjie524/handdraw-story-video",
+        "AdelanSoulX/PM-Sniper",
+        "AdelanSupport/adelan-support",
+        "berabuddies/redis-poc",
+        "SeanJ1ang/design-judge-skills",
+        "kingenbomb/Nodes",
+        "keshi2003111-wei/guitar-posture-assistant",
         "lopopolo/harness-engineering",
         "xiejunjie524/handdraw-story-video",
         "powerycy/goutoujunshi",
@@ -6982,9 +7362,13 @@
       ]
     },
     "TypeScript": {
-      "count": 82,
-      "total_stars": 171926,
+      "count": 86,
+      "total_stars": 175119,
       "repos": [
+        "Vincentwei1021/video-shotcraft",
+        "Jakubantalik/thinking-orbs",
+        "pireel/pireel",
+        "0xhype/hyperliquid-tracker",
         "Jakubantalik/thinking-orbs",
         "nyblnet/bento",
         "Vincentwei1021/video-shotcraft",
@@ -7070,9 +7454,13 @@
       ]
     },
     "JavaScript": {
-      "count": 54,
-      "total_stars": 498774,
+      "count": 58,
+      "total_stars": 500500,
       "repos": [
+        "gnipbao/story-to-handdrawn-video",
+        "CatsJuice/sticker-forge",
+        "Kritt-ai/open-kritt",
+        "lyu0805/OpenBrowser",
         "gnipbao/story-to-handdrawn-video",
         "Kritt-ai/open-kritt",
         "Fei-Away/Codex-Dream-Skin",
@@ -7130,9 +7518,12 @@
       ]
     },
     "Unknown": {
-      "count": 42,
-      "total_stars": 34386,
+      "count": 45,
+      "total_stars": 35095,
       "repos": [
+        "KinetiNode/claude-fable-5-system-prompt-clean",
+        "dacnay816y62-hub/cinema-dna-21x9x3",
+        "Qq7777-cyber/driver-monitoring-system",
         "smixs/pohuy",
         "KinetiNode/claude-fable-5-system-prompt-clean",
         "0xShe/FUCK-CDN",
@@ -7210,9 +7601,10 @@
       ]
     },
     "Go": {
-      "count": 17,
-      "total_stars": 6836,
+      "count": 18,
+      "total_stars": 7200,
       "repos": [
+        "Charles-0509/Grok-Register",
         "nethical6/conversation-steganography",
         "nethical6/conversation-steganography",
         "nethical6/conversation-steganography",
@@ -7233,9 +7625,10 @@
       ]
     },
     "Swift": {
-      "count": 15,
-      "total_stars": 6253,
+      "count": 16,
+      "total_stars": 7080,
       "repos": [
+        "Blaizzy/nativ",
         "Blaizzy/nativ",
         "JustinGamer191/Holo",
         "Blaizzy/nativ",
@@ -7272,9 +7665,11 @@
       ]
     },
     "HTML": {
-      "count": 8,
-      "total_stars": 7553,
+      "count": 10,
+      "total_stars": 7586,
       "repos": [
+        "dudscode/criando-roadmap",
+        "rockthemike712/mission-control-board",
         "thebuggeddev/football-stadium",
         "thebuggeddev/football-stadium",
         "andrewcrtscott5703/3008-vip-scripts-hub",
@@ -7401,6 +7796,11 @@
     }
   },
   "date_stats": {
+    "2026-07-24": {
+      "count": 25,
+      "total_stars": 14122,
+      "ai_count": 0
+    },
     "2026-07-23": {
       "count": 30,
       "total_stars": 78377,
