@@ -1,9 +1,494 @@
 {
-  "last_updated": "2026-07-29T08:14:18.997161",
-  "total_repos": 611,
-  "total_dates": 21,
+  "last_updated": "2026-07-30T08:02:38.485181",
+  "total_repos": 641,
+  "total_dates": 22,
   "total_unique_languages": 23,
   "repos": [
+    {
+      "name": "MoonshotAI/Kimi-K3",
+      "url": "https://github.com/MoonshotAI/Kimi-K3",
+      "stars": 6846,
+      "language": "Unknown",
+      "created": "2026-07-27",
+      "topics": [],
+      "description": "Open Frontier Intelligence",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mshumer/Claude-of-Duty",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "stars": 2301,
+      "language": "JavaScript",
+      "created": "2026-07-25",
+      "topics": [],
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "digimata/quill",
+      "url": "https://github.com/digimata/quill",
+      "stars": 1715,
+      "language": "Swift",
+      "created": "2026-07-24",
+      "topics": [],
+      "description": "Ultra-minimalist macOS recording + transcription.",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mikiarlo3/ai-copywriter",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "stars": 1052,
+      "language": "Python",
+      "created": "2026-07-24",
+      "topics": [],
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "VictorTaelin/OptMem",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "stars": 888,
+      "language": "Python",
+      "created": "2026-07-25",
+      "topics": [],
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MoonshotAI/MoonEP",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "stars": 885,
+      "language": "Python",
+      "created": "2026-07-24",
+      "topics": [],
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xikhar/persona",
+      "url": "https://github.com/xikhar/persona",
+      "stars": 600,
+      "language": "JavaScript",
+      "created": "2026-07-28",
+      "topics": [],
+      "description": "Bringing real-time voice to life.",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "0xwilliamortiz/openclaude-improved",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "stars": 557,
+      "language": "TypeScript",
+      "created": "2026-07-26",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "ai-coding-agent",
+        "ai-coding-agents",
+        "ai-coding-assistant",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cli",
+        "coding-agent",
+        "gemini",
+        "gemini-ai",
+        "gemini-cli",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "openrouter"
+      ],
+      "description": "runs anywhere. uses anything",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "0xwilliamortiz/ponytail-improved",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "stars": 553,
+      "language": "JavaScript",
+      "created": "2026-07-28",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "claude-skills",
+        "cursor-rules",
+        "ponytail",
+        "prompt-engineering",
+        "prompt-optimization",
+        "yagni"
+      ],
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mikehasa/agentacct",
+      "url": "https://github.com/mikehasa/agentacct",
+      "stars": 534,
+      "language": "Python",
+      "created": "2026-07-24",
+      "topics": [
+        "agent-observability",
+        "ai-agents",
+        "analytics",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agent",
+        "cost-tracking",
+        "dashboard",
+        "developer-tools",
+        "devtools",
+        "llm",
+        "llmops",
+        "local-first",
+        "mcp",
+        "observability",
+        "opencode",
+        "python",
+        "token-usage"
+      ],
+      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "talivia-group/talivia",
+      "url": "https://github.com/talivia-group/talivia",
+      "stars": 468,
+      "language": "TypeScript",
+      "created": "2026-07-29",
+      "topics": [
+        "analytics",
+        "bing",
+        "datafast",
+        "dodopayments",
+        "google-search",
+        "lemonsqueezy",
+        "polar",
+        "product-analytics",
+        "revenue-analytics",
+        "revenue-attribution",
+        "session-replay",
+        "stripe",
+        "web-analytics"
+      ],
+      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NikolayS/PGSimCity",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "stars": 409,
+      "language": "TypeScript",
+      "created": "2026-07-25",
+      "topics": [],
+      "description": "An explorable 3D city that shows how Postgres actually works",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "gavamedia/deltafin",
+      "url": "https://github.com/gavamedia/deltafin",
+      "stars": 367,
+      "language": "Python",
+      "created": "2026-07-28",
+      "topics": [
+        "kimi",
+        "kimi-k3",
+        "local-ai",
+        "local-llm"
+      ],
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wassgha/rescript",
+      "url": "https://github.com/wassgha/rescript",
+      "stars": 362,
+      "language": "TypeScript",
+      "created": "2026-07-26",
+      "topics": [
+        "audio",
+        "media",
+        "media-editing",
+        "media-editor",
+        "transcribe",
+        "transcription",
+        "video",
+        "video-editing",
+        "video-editor",
+        "video-processing"
+      ],
+      "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deerwork-ai/deer-workflow",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "stars": 349,
+      "language": "TypeScript",
+      "created": "2026-07-26",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-coding",
+        "bun",
+        "dynamic-workflow",
+        "dynamic-workflows",
+        "graph-engineering",
+        "llm",
+        "workflow"
+      ],
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "achimala/TheLongSilence",
+      "url": "https://github.com/achimala/TheLongSilence",
+      "stars": 335,
+      "language": "JavaScript",
+      "created": "2026-07-27",
+      "topics": [],
+      "description": "A space exploration game built by Claude Opus 5",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Eversmile12/leaked-llm-prompts",
+      "url": "https://github.com/Eversmile12/leaked-llm-prompts",
+      "stars": 329,
+      "language": "Unknown",
+      "created": "2026-07-24",
+      "topics": [],
+      "description": "collections-of-leaked-prompts",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "chrissotraidis/harkinianpad",
+      "url": "https://github.com/chrissotraidis/harkinianpad",
+      "stars": 289,
+      "language": "Shell",
+      "created": "2026-07-24",
+      "topics": [
+        "game-controller",
+        "ios",
+        "ipados",
+        "libultraship",
+        "metal",
+        "ocarina-of-time",
+        "sdl2",
+        "ship-of-harkinian",
+        "source-port",
+        "touch-controls",
+        "zelda"
+      ],
+      "description": "Ocarina of Time native on iOS and iPadOS via Ship of Harkinian with Metal rendering, touch controls, controller support, and ROM-free reproducible builds.",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "PipeNetwork/kimi-k3-mlx",
+      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+      "stars": 281,
+      "language": "Python",
+      "created": "2026-07-27",
+      "topics": [],
+      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "stars": 280,
+      "language": "Python",
+      "created": "2026-07-25",
+      "topics": [],
+      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+      "date": "2026-07-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "codermyxiaoc/sub2api-guardian",
+      "url": "https://github.com/codermyxiaoc/sub2api-guardian",
+      "stars": 169,
+      "language": "Go",
+      "created": "2026-07-30",
+      "topics": [],
+      "description": "sub2api-guardian",
+      "date": "2026-07-30",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Crushflalead/DragonSword-Awakening-Trainer",
+      "url": "https://github.com/Crushflalead/DragonSword-Awakening-Trainer",
+      "stars": 21,
+      "language": "Python",
+      "created": "2026-07-30",
+      "topics": [
+        "dragonsword-awakeing-mod",
+        "dragonsword-awakening",
+        "game-trainer",
+        "rpg",
+        "rpg-game",
+        "single-player",
+        "single-player-trainer",
+        "windows"
+      ],
+      "description": "A feature-rich trainer for DragonSword: Awakening that provides quality-of-life enhancements and gameplay customization. Includes combat, movement, exploration, and progression modules with adjustable values and an easy-to-use in-game menu.",
+      "date": "2026-07-30",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wjyzhixing/coding-workflow-toolkit-project-skill-discovery",
+      "url": "https://github.com/wjyzhixing/coding-workflow-toolkit-project-skill-discovery",
+      "stars": 13,
+      "language": "TypeScript",
+      "created": "2026-07-30",
+      "topics": [],
+      "description": "代码工作流引导工具",
+      "date": "2026-07-30",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "hmh323/mubai-ears",
+      "url": "https://github.com/hmh323/mubai-ears",
+      "stars": 13,
+      "language": "Python",
+      "created": "2026-07-30",
+      "topics": [],
+      "description": "给AI伴侣装耳朵——本地语音转写＋韵律分析",
+      "date": "2026-07-30",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wutongyuonce/pi-tool-offloading",
+      "url": "https://github.com/wutongyuonce/pi-tool-offloading",
+      "stars": 11,
+      "language": "TypeScript",
+      "created": "2026-07-30",
+      "topics": [],
+      "description": "用于 Pi 的上下文卸载扩展：将过大的工具结果移到会话 sidecar 文件中，在需要时可用原生 `read` 取回，并在结果被模型使用后从后续请求中移除正文。",
+      "date": "2026-07-30",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": 23467,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-07-30",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars": 21068,
+      "language": "C",
+      "created": "2026-07-01",
+      "topics": [],
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "date": "2026-07-30",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 12724,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-07-30",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "stars": 10782,
+      "language": "Python",
+      "created": "2026-07-20",
+      "topics": [],
+      "description": "",
+      "date": "2026-07-30",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "img2threejs/img2threejs",
+      "url": "https://github.com/img2threejs/img2threejs",
+      "stars": 8335,
+      "language": "Python",
+      "created": "2026-07-15",
+      "topics": [
+        "3d",
+        "ai-agents",
+        "claude-code",
+        "computer-graphics",
+        "generative",
+        "image-to-3d",
+        "procedural-generation",
+        "threejs",
+        "typescript",
+        "webgl"
+      ],
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "date": "2026-07-30",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "MoonshotAI/Kimi-K3",
       "url": "https://github.com/MoonshotAI/Kimi-K3",
@@ -9216,6 +9701,15 @@
     }
   ],
   "metadata": {
+    "2026-07-30": {
+      "ai_relevant_count": 15,
+      "top_ai_pick": {
+        "name": "MoonshotAI/Kimi-K3",
+        "url": "https://github.com/MoonshotAI/Kimi-K3",
+        "stars": 6846,
+        "description": "Open Frontier Intelligence"
+      }
+    },
     "2026-07-29": {
       "ai_relevant_count": 17,
       "top_ai_pick": {
@@ -9403,9 +9897,20 @@
   },
   "language_stats": {
     "Python": {
-      "count": 203,
-      "total_stars": 552585,
+      "count": 214,
+      "total_stars": 576023,
       "repos": [
+        "mikiarlo3/ai-copywriter",
+        "VictorTaelin/OptMem",
+        "MoonshotAI/MoonEP",
+        "mikehasa/agentacct",
+        "gavamedia/deltafin",
+        "PipeNetwork/kimi-k3-mlx",
+        "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+        "Crushflalead/DragonSword-Awakening-Trainer",
+        "hmh323/mubai-ears",
+        "andrewyng/openworker",
+        "img2threejs/img2threejs",
         "slvDev/esp32-ai",
         "mikiarlo3/ai-copywriter",
         "VictorTaelin/OptMem",
@@ -9612,9 +10117,16 @@
       ]
     },
     "TypeScript": {
-      "count": 108,
-      "total_stars": 190750,
+      "count": 115,
+      "total_stars": 192919,
       "repos": [
+        "0xwilliamortiz/openclaude-improved",
+        "talivia-group/talivia",
+        "NikolayS/PGSimCity",
+        "wassgha/rescript",
+        "deerwork-ai/deer-workflow",
+        "wjyzhixing/coding-workflow-toolkit-project-skill-discovery",
+        "wutongyuonce/pi-tool-offloading",
         "0xwilliamortiz/openclaude-improved",
         "RongleCat/grok-app",
         "NikolayS/PGSimCity",
@@ -9726,9 +10238,14 @@
       ]
     },
     "JavaScript": {
-      "count": 85,
-      "total_stars": 573629,
+      "count": 90,
+      "total_stars": 590142,
       "repos": [
+        "mshumer/Claude-of-Duty",
+        "xikhar/persona",
+        "0xwilliamortiz/ponytail-improved",
+        "achimala/TheLongSilence",
+        "Fei-Away/Codex-Dream-Skin",
         "mshumer/Claude-of-Duty",
         "0xwilliamortiz/ponytail-improved",
         "Fei-Away/Codex-Dream-Skin",
@@ -9817,9 +10334,11 @@
       ]
     },
     "Unknown": {
-      "count": 57,
-      "total_stars": 43453,
+      "count": 59,
+      "total_stars": 50628,
       "repos": [
+        "MoonshotAI/Kimi-K3",
+        "Eversmile12/leaked-llm-prompts",
         "MoonshotAI/Kimi-K3",
         "Eversmile12/leaked-llm-prompts",
         "LotusDecoder/zhixin-companion",
@@ -9880,9 +10399,10 @@
       ]
     },
     "Rust": {
-      "count": 38,
-      "total_stars": 295956,
+      "count": 39,
+      "total_stars": 319423,
       "repos": [
+        "xai-org/grok-build",
         "kvcache-ai/AgentENV",
         "xai-org/grok-build",
         "kvcache-ai/AgentENV",
@@ -9924,9 +10444,10 @@
       ]
     },
     "Swift": {
-      "count": 22,
-      "total_stars": 10579,
+      "count": 23,
+      "total_stars": 12294,
       "repos": [
+        "digimata/quill",
         "digimata/quill",
         "didriksg/Crisp",
         "didriksg/Crisp",
@@ -9952,9 +10473,10 @@
       ]
     },
     "Go": {
-      "count": 20,
-      "total_stars": 8101,
+      "count": 21,
+      "total_stars": 8270,
       "repos": [
+        "codermyxiaoc/sub2api-guardian",
         "Charles-0509/Grok-Register",
         "Charles-0509/Grok-Register",
         "Charles-0509/Grok-Register",
@@ -9978,9 +10500,10 @@
       ]
     },
     "C": {
-      "count": 18,
-      "total_stars": 230235,
+      "count": 19,
+      "total_stars": 251303,
       "repos": [
+        "JustVugg/colibri",
         "JustVugg/colibri",
         "nsdkinx/twell",
         "JustVugg/colibri",
@@ -10017,6 +10540,21 @@
         "bozhouDev/codex-orange-book"
       ]
     },
+    "Shell": {
+      "count": 9,
+      "total_stars": 3173,
+      "repos": [
+        "chrissotraidis/harkinianpad",
+        "AARomanov1985/Audio-Cassette-Simulation",
+        "PromptPartner/agentsmith",
+        "PromptPartner/agentsmith",
+        "my-take-dev/inspired-mino-design-skills",
+        "my-take-dev/inspired-mino-design-skills",
+        "jamesob/local-llm",
+        "Kulaxyz/token-diet",
+        "tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark"
+      ]
+    },
     "Solidity": {
       "count": 8,
       "total_stars": 3245,
@@ -10029,20 +10567,6 @@
         "MIgHTy-alIeN/MEV-Arbitrage-Bot",
         "MIgHTy-alIeN/Trading-Bot",
         "alexafinode/claude-arbitrage-bot"
-      ]
-    },
-    "Shell": {
-      "count": 8,
-      "total_stars": 2884,
-      "repos": [
-        "AARomanov1985/Audio-Cassette-Simulation",
-        "PromptPartner/agentsmith",
-        "PromptPartner/agentsmith",
-        "my-take-dev/inspired-mino-design-skills",
-        "my-take-dev/inspired-mino-design-skills",
-        "jamesob/local-llm",
-        "Kulaxyz/token-diet",
-        "tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark"
       ]
     },
     "Dart": {
@@ -10153,6 +10677,11 @@
     }
   },
   "date_stats": {
+    "2026-07-30": {
+      "count": 30,
+      "total_stars": 96003,
+      "ai_count": 0
+    },
     "2026-07-29": {
       "count": 30,
       "total_stars": 93128,
@@ -10437,6 +10966,18 @@
     {
       "name": "xai-org/grok-build",
       "url": "https://github.com/xai-org/grok-build",
+      "stars": 23467,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-07-30",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
       "stars": 23324,
       "language": "Rust",
       "created": "2026-07-14",
@@ -10515,6 +11056,18 @@
       "topics": [],
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "date": "2026-07-22",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars": 21068,
+      "language": "C",
+      "created": "2026-07-01",
+      "topics": [],
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "date": "2026-07-30",
       "section": "monthly",
       "is_ai_dev": false
     },
@@ -10783,6 +11336,18 @@
       "is_ai_dev": false
     },
     {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 12724,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-07-30",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "langchain-ai/openwiki",
       "url": "https://github.com/langchain-ai/openwiki",
       "stars": 12688,
@@ -10887,42 +11452,6 @@
       "topics": [],
       "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
       "date": "2026-07-18",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "baidu/Unlimited-OCR",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "stars": 12162,
-      "language": "Python",
-      "created": "2026-06-18",
-      "topics": [],
-      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "date": "2026-06-30",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "langchain-ai/openwiki",
-      "url": "https://github.com/langchain-ai/openwiki",
-      "stars": 11991,
-      "language": "TypeScript",
-      "created": "2026-06-22",
-      "topics": [],
-      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
-      "date": "2026-07-17",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "Fei-Away/Codex-Dream-Skin",
-      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-      "stars": 11949,
-      "language": "JavaScript",
-      "created": "2026-07-15",
-      "topics": [],
-      "description": "Codex Dream Skin",
-      "date": "2026-07-23",
       "section": "monthly",
       "is_ai_dev": false
     }
