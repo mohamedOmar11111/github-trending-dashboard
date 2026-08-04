@@ -1,9 +1,494 @@
 {
-  "last_updated": "2026-08-03T08:55:48.722578",
-  "total_repos": 761,
-  "total_dates": 26,
-  "total_unique_languages": 27,
+  "last_updated": "2026-08-04T08:13:12.637518",
+  "total_repos": 790,
+  "total_dates": 27,
+  "total_unique_languages": 28,
   "repos": [
+    {
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "stars": 10393,
+      "language": "TypeScript",
+      "created": "2026-07-29",
+      "topics": [],
+      "description": "Multiplayer agent harness for work",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "bashalarmistalt/decimen-optical-transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "stars": 4357,
+      "language": "TypeScript",
+      "created": "2026-07-30",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "stars": 3702,
+      "language": "TypeScript",
+      "created": "2026-07-31",
+      "topics": [],
+      "description": "An open-source, agentic-first CRM.",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "stars": 2448,
+      "language": "Unknown",
+      "created": "2026-07-30",
+      "topics": [],
+      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "microsoft/skill-recorder",
+      "url": "https://github.com/microsoft/skill-recorder",
+      "stars": 1566,
+      "language": "TypeScript",
+      "created": "2026-07-29",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "automation",
+        "copilot",
+        "copilot-cli",
+        "copilot-cowork",
+        "copilot-studio",
+        "electron",
+        "microsoft-scout",
+        "screen-recording"
+      ],
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "stars": 1438,
+      "language": "C",
+      "created": "2026-08-01",
+      "topics": [
+        "avx2",
+        "c99",
+        "cpu-inference",
+        "deep-learning",
+        "from-scratch",
+        "inference-engine",
+        "kimi-k3",
+        "linear-attention",
+        "llm",
+        "llm-inference",
+        "machine-learning",
+        "memory-efficient",
+        "mixture-of-experts",
+        "moe",
+        "mxfp4",
+        "quantization",
+        "simd",
+        "systems-programming",
+        "transformer",
+        "zero-dependencies"
+      ],
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "imsai-sh/zhuzhiliao",
+      "url": "https://github.com/imsai-sh/zhuzhiliao",
+      "stars": 1193,
+      "language": "HTML",
+      "created": "2026-08-01",
+      "topics": [],
+      "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "DannyMac180/sol-advisor",
+      "url": "https://github.com/DannyMac180/sol-advisor",
+      "stars": 1167,
+      "language": "Shell",
+      "created": "2026-08-01",
+      "topics": [],
+      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "stars": 907,
+      "language": "TypeScript",
+      "created": "2026-07-31",
+      "topics": [
+        "ai",
+        "docx",
+        "electron",
+        "office-suite",
+        "pdf",
+        "pptx",
+        "xlsx"
+      ],
+      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "thebuggeddev/anatomy",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "stars": 902,
+      "language": "TypeScript",
+      "created": "2026-08-02",
+      "topics": [],
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "WilonityDev/WilonityLoader",
+      "url": "https://github.com/WilonityDev/WilonityLoader",
+      "stars": 899,
+      "language": "Unknown",
+      "created": "2026-07-31",
+      "topics": [
+        "arc-raiders",
+        "counter-strike-2",
+        "game",
+        "hack",
+        "meccha-chameleon-tools",
+        "minecraft"
+      ],
+      "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "talivia-group/talivia",
+      "url": "https://github.com/talivia-group/talivia",
+      "stars": 682,
+      "language": "TypeScript",
+      "created": "2026-07-29",
+      "topics": [
+        "analytics",
+        "bing",
+        "datafast",
+        "dodopayments",
+        "google-search",
+        "lemonsqueezy",
+        "polar",
+        "product-analytics",
+        "revenue-analytics",
+        "revenue-attribution",
+        "session-replay",
+        "stripe",
+        "web-analytics"
+      ],
+      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "x4gKing/3x-ui-multi",
+      "url": "https://github.com/x4gKing/3x-ui-multi",
+      "stars": 585,
+      "language": "JavaScript",
+      "created": "2026-08-01",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "0xwilliamortiz/humanizer-cli",
+      "url": "https://github.com/0xwilliamortiz/humanizer-cli",
+      "stars": 563,
+      "language": "JavaScript",
+      "created": "2026-08-01",
+      "topics": [
+        "ai-slop",
+        "ai-slop-detection",
+        "ai-slop-detector",
+        "ai-slop-fixer",
+        "ai-slop-remover",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex",
+        "codex-cli",
+        "codex-plugin",
+        "codex-skill",
+        "human",
+        "humanization",
+        "humanize",
+        "humanize-ai",
+        "humanize-ai-text",
+        "humanize-text",
+        "humanized",
+        "humanizer"
+      ],
+      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "s1dashu/animated-voiceover",
+      "url": "https://github.com/s1dashu/animated-voiceover",
+      "stars": 482,
+      "language": "Unknown",
+      "created": "2026-07-31",
+      "topics": [
+        "ai-video",
+        "animated-video",
+        "codex-skill",
+        "voiceover"
+      ],
+      "description": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ddoemonn/interior",
+      "url": "https://github.com/ddoemonn/interior",
+      "stars": 477,
+      "language": "TypeScript",
+      "created": "2026-07-30",
+      "topics": [
+        "animation",
+        "micro-interactions",
+        "motion",
+        "react",
+        "ui-components"
+      ],
+      "description": "micro-interactions for react, built for the half-second after a click",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "openai/ten-proofs",
+      "url": "https://github.com/openai/ten-proofs",
+      "stars": 450,
+      "language": "Lean",
+      "created": "2026-08-01",
+      "topics": [],
+      "description": "Lean certificates accompanying proofs in mathematics and theoretical computer science",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "0xwilliamortiz/ratchet",
+      "url": "https://github.com/0xwilliamortiz/ratchet",
+      "stars": 426,
+      "language": "JavaScript",
+      "created": "2026-07-31",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "code-quality",
+        "developer-tools",
+        "hooks",
+        "llm",
+        "ratchet",
+        "rate-limiting",
+        "static-analysis",
+        "yagni"
+      ],
+      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lij768423-svg/grok-register-panel",
+      "url": "https://github.com/lij768423-svg/grok-register-panel",
+      "stars": 408,
+      "language": "Python",
+      "created": "2026-07-29",
+      "topics": [],
+      "description": "Grok register engine (Camoufox) + live web monitor panel",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "brookfacehe2421/flashloan-scalper-bot",
+      "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
+      "stars": 407,
+      "language": "JavaScript",
+      "created": "2026-08-01",
+      "topics": [
+        "bot",
+        "ethereum",
+        "javascript",
+        "profits",
+        "scalping"
+      ],
+      "description": "Quick profit scalper using flashloan mechanics",
+      "date": "2026-08-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "AMAP-ML/LongHorizon-Harness",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "stars": 85,
+      "language": "Python",
+      "created": "2026-08-04",
+      "topics": [
+        "agent",
+        "claude",
+        "claude-code",
+        "claude-plugin",
+        "cli",
+        "codex",
+        "codex-desktop",
+        "codex-plugin",
+        "cua",
+        "gui",
+        "harness",
+        "long-horizon",
+        "long-horizon-agents",
+        "longhorizon-harness"
+      ],
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "date": "2026-08-04",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "simon-weber51/betterfly-windows-pet-app",
+      "url": "https://github.com/simon-weber51/betterfly-windows-pet-app",
+      "stars": 49,
+      "language": "HTML",
+      "created": "2026-08-04",
+      "topics": [],
+      "description": "BetterFly is a lightweight Windows desktop virtual pet that lives in an interactive overlay, provides commentary, changes mood over time, and lets you personalize its appearance and pet options.",
+      "date": "2026-08-04",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "adriantaylor234/apkpremium-app-store-bot",
+      "url": "https://github.com/adriantaylor234/apkpremium-app-store-bot",
+      "stars": 48,
+      "language": "HTML",
+      "created": "2026-08-04",
+      "topics": [],
+      "description": "APKPremium Store is a Telegram bot project for organizing and displaying APK and premium application listings through a store-like interface, with setup, deployment, requirements, FAQ, and update guidance for 2026.",
+      "date": "2026-08-04",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "h9-tec/llm-architecture-ar",
+      "url": "https://github.com/h9-tec/llm-architecture-ar",
+      "stars": 19,
+      "language": "Unknown",
+      "created": "2026-08-04",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-04",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "livid/exe",
+      "url": "https://github.com/livid/exe",
+      "stars": 15,
+      "language": "Go",
+      "created": "2026-08-04",
+      "topics": [],
+      "description": "A personal VM cloud for macOS: Virtualization.framework VMs, Ollama vibecoding agent, Cloudflare Tunnel publishing — one Go binary",
+      "date": "2026-08-04",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": 24070,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-08-04",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 13123,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-08-04",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "stars": 12597,
+      "language": "Python",
+      "created": "2026-07-20",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-04",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "img2threejs/img2threejs",
+      "url": "https://github.com/img2threejs/img2threejs",
+      "stars": 9470,
+      "language": "Python",
+      "created": "2026-07-15",
+      "topics": [
+        "3d",
+        "ai-agents",
+        "claude-code",
+        "computer-graphics",
+        "generative",
+        "image-to-3d",
+        "procedural-generation",
+        "threejs",
+        "typescript",
+        "webgl"
+      ],
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "date": "2026-08-04",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "yc-software/qm",
       "url": "https://github.com/yc-software/qm",
@@ -11569,6 +12054,15 @@
     }
   ],
   "metadata": {
+    "2026-08-04": {
+      "ai_relevant_count": 13,
+      "top_ai_pick": {
+        "name": "yc-software/qm",
+        "url": "https://github.com/yc-software/qm",
+        "stars": 10393,
+        "description": "Multiplayer agent harness for work"
+      }
+    },
     "2026-08-03": {
       "ai_relevant_count": 14,
       "top_ai_pick": {
@@ -11801,9 +12295,13 @@
   },
   "language_stats": {
     "Python": {
-      "count": 234,
-      "total_stars": 662210,
+      "count": 238,
+      "total_stars": 684770,
       "repos": [
+        "lij768423-svg/grok-register-panel",
+        "AMAP-ML/LongHorizon-Harness",
+        "andrewyng/openworker",
+        "img2threejs/img2threejs",
         "andrewyng/openworker",
         "img2threejs/img2threejs",
         "gavamedia/deltafin",
@@ -12041,9 +12539,17 @@
       ]
     },
     "TypeScript": {
-      "count": 142,
-      "total_stars": 231572,
+      "count": 150,
+      "total_stars": 254558,
       "repos": [
+        "yc-software/qm",
+        "bashalarmistalt/decimen-optical-transfer",
+        "trycompai/crm",
+        "microsoft/skill-recorder",
+        "genspark-ai/genoffice",
+        "thebuggeddev/anatomy",
+        "talivia-group/talivia",
+        "ddoemonn/interior",
         "yc-software/qm",
         "bashalarmistalt/decimen-optical-transfer",
         "trycompai/crm",
@@ -12189,9 +12695,14 @@
       ]
     },
     "JavaScript": {
-      "count": 119,
-      "total_stars": 657349,
+      "count": 124,
+      "total_stars": 672453,
       "repos": [
+        "x4gKing/3x-ui-multi",
+        "0xwilliamortiz/humanizer-cli",
+        "0xwilliamortiz/ratchet",
+        "brookfacehe2421/flashloan-scalper-bot",
+        "Fei-Away/Codex-Dream-Skin",
         "xikhar/persona",
         "0xwilliamortiz/ponytail-improved",
         "0xwilliamortiz/humanizer-cli",
@@ -12314,9 +12825,13 @@
       ]
     },
     "Unknown": {
-      "count": 74,
-      "total_stars": 81713,
+      "count": 78,
+      "total_stars": 85561,
       "repos": [
+        "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+        "WilonityDev/WilonityLoader",
+        "s1dashu/animated-voiceover",
+        "h9-tec/llm-architecture-ar",
         "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
         "WilonityDev/WilonityLoader",
         "s1dashu/animated-voiceover",
@@ -12394,9 +12909,10 @@
       ]
     },
     "Rust": {
-      "count": 48,
-      "total_stars": 449012,
+      "count": 49,
+      "total_stars": 473082,
       "repos": [
+        "xai-org/grok-build",
         "gavamedia/deltafin",
         "xai-org/grok-build",
         "unicity-aos/aos-ce",
@@ -12447,6 +12963,36 @@
         "lazhenyi/behest"
       ]
     },
+    "C": {
+      "count": 24,
+      "total_stars": 255728,
+      "repos": [
+        "FareedKhan-dev/kimi-k3-in-c",
+        "sqliteai/waste",
+        "FareedKhan-dev/kimi-k3-in-c",
+        "sqliteai/waste",
+        "sqliteai/waste",
+        "JustVugg/colibri",
+        "JustVugg/colibri",
+        "nsdkinx/twell",
+        "JustVugg/colibri",
+        "JustVugg/colibri",
+        "JustVugg/colibri",
+        "JustVugg/colibri",
+        "JustVugg/colibri",
+        "JustVugg/colibri",
+        "JustVugg/colibri",
+        "JustVugg/colibri",
+        "JustVugg/colibri",
+        "JustVugg/colibri",
+        "JustVugg/colibri",
+        "sorryhumans/clawdmeter-plus",
+        "JustVugg/colibri",
+        "ricccrd/dd",
+        "ricccrd/dd",
+        "ricccrd/dd"
+      ]
+    },
     "Swift": {
       "count": 24,
       "total_stars": 12330,
@@ -12477,39 +13023,11 @@
         "m1ckc3s/claude-status-bar"
       ]
     },
-    "C": {
-      "count": 23,
-      "total_stars": 254290,
-      "repos": [
-        "sqliteai/waste",
-        "FareedKhan-dev/kimi-k3-in-c",
-        "sqliteai/waste",
-        "sqliteai/waste",
-        "JustVugg/colibri",
-        "JustVugg/colibri",
-        "nsdkinx/twell",
-        "JustVugg/colibri",
-        "JustVugg/colibri",
-        "JustVugg/colibri",
-        "JustVugg/colibri",
-        "JustVugg/colibri",
-        "JustVugg/colibri",
-        "JustVugg/colibri",
-        "JustVugg/colibri",
-        "JustVugg/colibri",
-        "JustVugg/colibri",
-        "JustVugg/colibri",
-        "sorryhumans/clawdmeter-plus",
-        "JustVugg/colibri",
-        "ricccrd/dd",
-        "ricccrd/dd",
-        "ricccrd/dd"
-      ]
-    },
     "Go": {
-      "count": 21,
-      "total_stars": 8270,
+      "count": 22,
+      "total_stars": 8285,
       "repos": [
+        "livid/exe",
         "codermyxiaoc/sub2api-guardian",
         "Charles-0509/Grok-Register",
         "Charles-0509/Grok-Register",
@@ -12534,9 +13052,12 @@
       ]
     },
     "HTML": {
-      "count": 16,
-      "total_stars": 7863,
+      "count": 19,
+      "total_stars": 9153,
       "repos": [
+        "imsai-sh/zhuzhiliao",
+        "simon-weber51/betterfly-windows-pet-app",
+        "adriantaylor234/apkpremium-app-store-bot",
         "JunzFundz/ITS300_WEBDEV",
         "gabefishercb508/abay-bot-workflow-tools",
         "danielmillersr2593/3d-print-tools-editor",
@@ -12556,9 +13077,10 @@
       ]
     },
     "Shell": {
-      "count": 11,
-      "total_stars": 4010,
+      "count": 12,
+      "total_stars": 5177,
       "repos": [
+        "DannyMac180/sol-advisor",
         "DannyMac180/sol-advisor",
         "cyberxiaowan/xiaowan-wechat-layout-skill",
         "chrissotraidis/harkinianpad",
@@ -12667,6 +13189,13 @@
         "harinishrisaravanan/Polllu-Sence"
       ]
     },
+    "Lean": {
+      "count": 1,
+      "total_stars": 450,
+      "repos": [
+        "openai/ten-proofs"
+      ]
+    },
     "Makefile": {
       "count": 1,
       "total_stars": 15,
@@ -12725,6 +13254,11 @@
     }
   },
   "date_stats": {
+    "2026-08-04": {
+      "count": 29,
+      "total_stars": 92928,
+      "ai_count": 0
+    },
     "2026-08-03": {
       "count": 30,
       "total_stars": 94084,
@@ -13028,6 +13562,18 @@
       ],
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "date": "2026-06-27",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": 24070,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-08-04",
       "section": "monthly",
       "is_ai_dev": false
     },
@@ -13442,6 +13988,18 @@
     {
       "name": "Fei-Away/Codex-Dream-Skin",
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 13123,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-08-04",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
       "stars": 13034,
       "language": "JavaScript",
       "created": "2026-07-15",
@@ -13496,30 +14054,6 @@
       "topics": [],
       "description": "Codex Dream Skin",
       "date": "2026-07-31",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "Fei-Away/Codex-Dream-Skin",
-      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-      "stars": 12724,
-      "language": "JavaScript",
-      "created": "2026-07-15",
-      "topics": [],
-      "description": "Codex Dream Skin",
-      "date": "2026-07-30",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "langchain-ai/openwiki",
-      "url": "https://github.com/langchain-ai/openwiki",
-      "stars": 12688,
-      "language": "TypeScript",
-      "created": "2026-06-22",
-      "topics": [],
-      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
-      "date": "2026-07-21",
       "section": "monthly",
       "is_ai_dev": false
     }
