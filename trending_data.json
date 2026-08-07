@@ -1,9 +1,463 @@
 {
-  "last_updated": "2026-08-05T08:12:04.156533",
-  "total_repos": 819,
-  "total_dates": 28,
-  "total_unique_languages": 28,
+  "last_updated": "2026-08-07T06:56:44.568627",
+  "total_repos": 849,
+  "total_dates": 29,
+  "total_unique_languages": 29,
   "repos": [
+    {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "stars": 9282,
+      "language": "Rust",
+      "created": "2026-08-03",
+      "topics": [],
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "stars": 2936,
+      "language": "C",
+      "created": "2026-08-01",
+      "topics": [
+        "avx2",
+        "c99",
+        "cpu-inference",
+        "deep-learning",
+        "from-scratch",
+        "inference-engine",
+        "kimi-k3",
+        "linear-attention",
+        "llm",
+        "llm-inference",
+        "machine-learning",
+        "memory-efficient",
+        "mixture-of-experts",
+        "moe",
+        "mxfp4",
+        "quantization",
+        "simd",
+        "systems-programming",
+        "transformer",
+        "zero-dependencies"
+      ],
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "imsai-sh/zhuzhiliao",
+      "url": "https://github.com/imsai-sh/zhuzhiliao",
+      "stars": 2350,
+      "language": "HTML",
+      "created": "2026-08-01",
+      "topics": [],
+      "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "thebuggeddev/anatomy",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "stars": 1900,
+      "language": "TypeScript",
+      "created": "2026-08-02",
+      "topics": [],
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "DannyMac180/sol-advisor",
+      "url": "https://github.com/DannyMac180/sol-advisor",
+      "stars": 1733,
+      "language": "Shell",
+      "created": "2026-08-01",
+      "topics": [],
+      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "stars": 1722,
+      "language": "Python",
+      "created": "2026-08-05",
+      "topics": [
+        "agent-skills",
+        "chinese-writing",
+        "creative-writing",
+        "writing-skill"
+      ],
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Binaryify/open-kimi-ppt-skill",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "stars": 1562,
+      "language": "Python",
+      "created": "2026-08-05",
+      "topics": [],
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ZzzLc0405/photo-abstract-editorial",
+      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "stars": 1217,
+      "language": "Unknown",
+      "created": "2026-08-04",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Accio-org/RealReplicaBench",
+      "url": "https://github.com/Accio-org/RealReplicaBench",
+      "stars": 1038,
+      "language": "HTML",
+      "created": "2026-08-02",
+      "topics": [],
+      "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "x4gKing/3x-ui-multi",
+      "url": "https://github.com/x4gKing/3x-ui-multi",
+      "stars": 881,
+      "language": "JavaScript",
+      "created": "2026-08-01",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "guillermolg00/morphicons",
+      "url": "https://github.com/guillermolg00/morphicons",
+      "stars": 821,
+      "language": "TypeScript",
+      "created": "2026-08-01",
+      "topics": [
+        "animation",
+        "icons",
+        "morphing",
+        "react",
+        "svg",
+        "typescript"
+      ],
+      "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mikiarlo3/awesome-growth-hacking-skills",
+      "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+      "stars": 654,
+      "language": "Shell",
+      "created": "2026-08-04",
+      "topics": [],
+      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Zeejay0/gathered-scenes-zine-skill",
+      "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
+      "stars": 607,
+      "language": "Unknown",
+      "created": "2026-08-01",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sophiamyang/finger-frame-effect-ai",
+      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+      "stars": 591,
+      "language": "JavaScript",
+      "created": "2026-08-02",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "0xwilliamortiz/humanizer-cli",
+      "url": "https://github.com/0xwilliamortiz/humanizer-cli",
+      "stars": 582,
+      "language": "JavaScript",
+      "created": "2026-08-01",
+      "topics": [
+        "ai-slop",
+        "ai-slop-detection",
+        "ai-slop-detector",
+        "ai-slop-fixer",
+        "ai-slop-remover",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex",
+        "codex-cli",
+        "codex-plugin",
+        "codex-skill",
+        "human",
+        "humanization",
+        "humanize",
+        "humanize-ai",
+        "humanize-ai-text",
+        "humanize-text",
+        "humanized",
+        "humanizer"
+      ],
+      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "magicrew/doc7",
+      "url": "https://github.com/magicrew/doc7",
+      "stars": 565,
+      "language": "Go",
+      "created": "2026-08-02",
+      "topics": [
+        "document-ai",
+        "docx-to-markdown",
+        "local-ai",
+        "markdown",
+        "multimodal",
+        "open-source",
+        "pdf-to-markdown",
+        "vision-language-model"
+      ],
+      "description": "Turn documents into AI-ready Markdown with visual understanding",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "brookfacehe2421/flashloan-scalper-bot",
+      "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
+      "stars": 556,
+      "language": "JavaScript",
+      "created": "2026-08-01",
+      "topics": [
+        "bot",
+        "ethereum",
+        "javascript",
+        "profits",
+        "scalping"
+      ],
+      "description": "Quick profit scalper using flashloan mechanics",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MarcosSete/awesome-free-ai-course-notes",
+      "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+      "stars": 508,
+      "language": "Unknown",
+      "created": "2026-08-03",
+      "topics": [],
+      "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "disler/super-simple-software-factory",
+      "url": "https://github.com/disler/super-simple-software-factory",
+      "stars": 475,
+      "language": "Python",
+      "created": "2026-08-02",
+      "topics": [],
+      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nfzerox/VirtualMacOniPad",
+      "url": "https://github.com/nfzerox/VirtualMacOniPad",
+      "stars": 472,
+      "language": "Objective-C",
+      "created": "2026-08-03",
+      "topics": [],
+      "description": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to run directly on device. Requires iPad Pro (M1, M2) or iPad Air (M1) running iPadOS 16 up to 16.3.1.",
+      "date": "2026-08-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jnchen/code_dejavu",
+      "url": "https://github.com/jnchen/code_dejavu",
+      "stars": 10,
+      "language": "Rust",
+      "created": "2026-08-07",
+      "topics": [],
+      "description": "Code Déjà Vu 是一个基于 Tauri、SvelteKit 与 Rust 的本地桌面工具，用于统一浏览和管理 Claude Code、Codex CLI 与 OpenCode 留在本机的会话、指令和配置资料。",
+      "date": "2026-08-07",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "poxiao33/toSub2",
+      "url": "https://github.com/poxiao33/toSub2",
+      "stars": 9,
+      "language": "JavaScript",
+      "created": "2026-08-07",
+      "topics": [
+        "chatgpt",
+        "codex",
+        "nodejs",
+        "oauth",
+        "sub2api"
+      ],
+      "description": "通过协议登录 ChatGPT、完成 Codex 授权并生成 sub2api 导入文件",
+      "date": "2026-08-07",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tonyd2wild/ds4-h3-video-gen-factory",
+      "url": "https://github.com/tonyd2wild/ds4-h3-video-gen-factory",
+      "stars": 9,
+      "language": "Python",
+      "created": "2026-08-07",
+      "topics": [],
+      "description": "Run DeepSeek-V4-Flash at full 1M context AND two MiniMax H3 video instances on the same two DGX Sparks. Benchmarked C1-C6.",
+      "date": "2026-08-07",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "WoodpeckerEmpty/beast-of-reincarnation-mod-menu",
+      "url": "https://github.com/WoodpeckerEmpty/beast-of-reincarnation-mod-menu",
+      "stars": 8,
+      "language": "C++",
+      "created": "2026-08-07",
+      "topics": [
+        "beast-of-reincarnation",
+        "game-trainer",
+        "menu",
+        "mod",
+        "trainer",
+        "tweak",
+        "utility",
+        "windows"
+      ],
+      "description": "Beast of Reincarnation Mod Menu featuring gameplay hacks, such as god mode, movement speed changes, one-hit kill (huge damage), etc.",
+      "date": "2026-08-07",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "flowing-water1/codex-watchdog",
+      "url": "https://github.com/flowing-water1/codex-watchdog",
+      "stars": 8,
+      "language": "JavaScript",
+      "created": "2026-08-07",
+      "topics": [],
+      "description": "为 Codex CLI 的瞬时故障、重试耗尽和上下文耗尽提供自动恢复",
+      "date": "2026-08-07",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": 24330,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-08-07",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 13355,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-08-07",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "stars": 13351,
+      "language": "Python",
+      "created": "2026-07-20",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-07",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "stars": 12112,
+      "language": "TypeScript",
+      "created": "2026-07-29",
+      "topics": [],
+      "description": "Multiplayer agent harness for work",
+      "date": "2026-08-07",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "img2threejs/img2threejs",
+      "url": "https://github.com/img2threejs/img2threejs",
+      "stars": 10099,
+      "language": "Python",
+      "created": "2026-07-15",
+      "topics": [
+        "3d",
+        "ai-agents",
+        "claude-code",
+        "computer-graphics",
+        "generative",
+        "image-to-3d",
+        "procedural-generation",
+        "threejs",
+        "typescript",
+        "webgl"
+      ],
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "date": "2026-08-07",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "trycompai/crm",
       "url": "https://github.com/trycompai/crm",
@@ -12522,6 +12976,15 @@
     }
   ],
   "metadata": {
+    "2026-08-07": {
+      "ai_relevant_count": 13,
+      "top_ai_pick": {
+        "name": "FareedKhan-dev/kimi-k3-in-c",
+        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+        "stars": 2936,
+        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU."
+      }
+    },
     "2026-08-05": {
       "ai_relevant_count": 13,
       "top_ai_pick": {
@@ -12772,9 +13235,15 @@
   },
   "language_stats": {
     "Python": {
-      "count": 242,
-      "total_stars": 708092,
+      "count": 248,
+      "total_stars": 735310,
       "repos": [
+        "KKKKhazix/human-writing",
+        "Binaryify/open-kimi-ppt-skill",
+        "disler/super-simple-software-factory",
+        "tonyd2wild/ds4-h3-video-gen-factory",
+        "andrewyng/openworker",
+        "img2threejs/img2threejs",
         "KKKKhazix/human-writing",
         "mika50000/gpt-link",
         "andrewyng/openworker",
@@ -13020,9 +13489,12 @@
       ]
     },
     "TypeScript": {
-      "count": 158,
-      "total_stars": 279627,
+      "count": 161,
+      "total_stars": 294460,
       "repos": [
+        "thebuggeddev/anatomy",
+        "guillermolg00/morphicons",
+        "yc-software/qm",
         "trycompai/crm",
         "bashalarmistalt/decimen-optical-transfer",
         "genspark-ai/genoffice",
@@ -13184,9 +13656,16 @@
       ]
     },
     "JavaScript": {
-      "count": 130,
-      "total_stars": 688037,
+      "count": 137,
+      "total_stars": 704019,
       "repos": [
+        "x4gKing/3x-ui-multi",
+        "sophiamyang/finger-frame-effect-ai",
+        "0xwilliamortiz/humanizer-cli",
+        "brookfacehe2421/flashloan-scalper-bot",
+        "poxiao33/toSub2",
+        "flowing-water1/codex-watchdog",
+        "Fei-Away/Codex-Dream-Skin",
         "x4gKing/3x-ui-multi",
         "0xwilliamortiz/humanizer-cli",
         "brookfacehe2421/flashloan-scalper-bot",
@@ -13320,9 +13799,12 @@
       ]
     },
     "Unknown": {
-      "count": 82,
-      "total_stars": 90058,
+      "count": 85,
+      "total_stars": 92390,
       "repos": [
+        "ZzzLc0405/photo-abstract-editorial",
+        "Zeejay0/gathered-scenes-zine-skill",
+        "MarcosSete/awesome-free-ai-course-notes",
         "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
         "WilonityDev/WilonityLoader",
         "s1dashu/animated-voiceover",
@@ -13408,9 +13890,12 @@
       ]
     },
     "Rust": {
-      "count": 51,
-      "total_stars": 499729,
+      "count": 54,
+      "total_stars": 533351,
       "repos": [
+        "firecrawl/anydoc",
+        "jnchen/code_dejavu",
+        "xai-org/grok-build",
         "firecrawl/anydoc",
         "xai-org/grok-build",
         "xai-org/grok-build",
@@ -13465,9 +13950,10 @@
       ]
     },
     "C": {
-      "count": 25,
-      "total_stars": 257924,
+      "count": 26,
+      "total_stars": 260860,
       "repos": [
+        "FareedKhan-dev/kimi-k3-in-c",
         "FareedKhan-dev/kimi-k3-in-c",
         "FareedKhan-dev/kimi-k3-in-c",
         "sqliteai/waste",
@@ -13525,10 +14011,40 @@
         "m1ckc3s/claude-status-bar"
       ]
     },
-    "Go": {
-      "count": 22,
-      "total_stars": 8285,
+    "HTML": {
+      "count": 23,
+      "total_stars": 14906,
       "repos": [
+        "imsai-sh/zhuzhiliao",
+        "Accio-org/RealReplicaBench",
+        "imsai-sh/zhuzhiliao",
+        "Accio-Lab/RealReplicaBench",
+        "imsai-sh/zhuzhiliao",
+        "simon-weber51/betterfly-windows-pet-app",
+        "adriantaylor234/apkpremium-app-store-bot",
+        "JunzFundz/ITS300_WEBDEV",
+        "gabefishercb508/abay-bot-workflow-tools",
+        "danielmillersr2593/3d-print-tools-editor",
+        "ryanphqross9118/seliware-executor-script-update",
+        "noah-scottqkh6962/addon-ez-bedrock-loader",
+        "cooperchrispeo7238/delta-windows-script-executor",
+        "dudscode/criando-roadmap",
+        "rockthemike712/mission-control-board",
+        "thebuggeddev/football-stadium",
+        "thebuggeddev/football-stadium",
+        "andrewcrtscott5703/3008-vip-scripts-hub",
+        "jordan-hughespjen5950/adopt-me-lua-script-executor",
+        "gunawan1996/world-forge-ai",
+        "bozhouDev/codex-orange-book",
+        "bozhouDev/codex-orange-book",
+        "bozhouDev/codex-orange-book"
+      ]
+    },
+    "Go": {
+      "count": 23,
+      "total_stars": 8850,
+      "repos": [
+        "magicrew/doc7",
         "livid/exe",
         "codermyxiaoc/sub2api-guardian",
         "Charles-0509/Grok-Register",
@@ -13553,37 +14069,12 @@
         "gedwolmen/heretic"
       ]
     },
-    "HTML": {
-      "count": 21,
-      "total_stars": 11518,
-      "repos": [
-        "imsai-sh/zhuzhiliao",
-        "Accio-Lab/RealReplicaBench",
-        "imsai-sh/zhuzhiliao",
-        "simon-weber51/betterfly-windows-pet-app",
-        "adriantaylor234/apkpremium-app-store-bot",
-        "JunzFundz/ITS300_WEBDEV",
-        "gabefishercb508/abay-bot-workflow-tools",
-        "danielmillersr2593/3d-print-tools-editor",
-        "ryanphqross9118/seliware-executor-script-update",
-        "noah-scottqkh6962/addon-ez-bedrock-loader",
-        "cooperchrispeo7238/delta-windows-script-executor",
-        "dudscode/criando-roadmap",
-        "rockthemike712/mission-control-board",
-        "thebuggeddev/football-stadium",
-        "thebuggeddev/football-stadium",
-        "andrewcrtscott5703/3008-vip-scripts-hub",
-        "jordan-hughespjen5950/adopt-me-lua-script-executor",
-        "gunawan1996/world-forge-ai",
-        "bozhouDev/codex-orange-book",
-        "bozhouDev/codex-orange-book",
-        "bozhouDev/codex-orange-book"
-      ]
-    },
     "Shell": {
-      "count": 13,
-      "total_stars": 6535,
+      "count": 15,
+      "total_stars": 8922,
       "repos": [
+        "DannyMac180/sol-advisor",
+        "mikiarlo3/awesome-growth-hacking-skills",
         "DannyMac180/sol-advisor",
         "DannyMac180/sol-advisor",
         "DannyMac180/sol-advisor",
@@ -13626,6 +14117,18 @@
         "iebb/mithka"
       ]
     },
+    "C++": {
+      "count": 6,
+      "total_stars": 1909,
+      "repos": [
+        "WoodpeckerEmpty/beast-of-reincarnation-mod-menu",
+        "MasterLocksmithTrim/BoosterX-PRO-Crack",
+        "ammaarreshi/Generals-Mac-iOS-iPad",
+        "BohemiaInteractive/CWR",
+        "Used4Work/ariadne-cpp",
+        "BohemiaInteractive/CWR"
+      ]
+    },
     "Dockerfile": {
       "count": 6,
       "total_stars": 4388,
@@ -13648,17 +14151,6 @@
         "unicity-astrid/book",
         "unicity-astrid/book",
         "unicity-astrid/book"
-      ]
-    },
-    "C++": {
-      "count": 5,
-      "total_stars": 1901,
-      "repos": [
-        "MasterLocksmithTrim/BoosterX-PRO-Crack",
-        "ammaarreshi/Generals-Mac-iOS-iPad",
-        "BohemiaInteractive/CWR",
-        "Used4Work/ariadne-cpp",
-        "BohemiaInteractive/CWR"
       ]
     },
     "OCaml": {
@@ -13700,6 +14192,13 @@
       "repos": [
         "harinishri2204-cpu/Pollu-Sence",
         "harinishrisaravanan/Polllu-Sence"
+      ]
+    },
+    "Objective-C": {
+      "count": 1,
+      "total_stars": 472,
+      "repos": [
+        "nfzerox/VirtualMacOniPad"
       ]
     },
     "Makefile": {
@@ -13760,6 +14259,11 @@
     }
   },
   "date_stats": {
+    "2026-08-07": {
+      "count": 30,
+      "total_stars": 103743,
+      "ai_count": 0
+    },
     "2026-08-05": {
       "count": 29,
       "total_stars": 101515,
@@ -14073,6 +14577,18 @@
       ],
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "date": "2026-06-27",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": 24330,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-08-07",
       "section": "monthly",
       "is_ai_dev": false
     },
@@ -14497,6 +15013,30 @@
       "is_ai_dev": false
     },
     {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 13355,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-08-07",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "stars": 13351,
+      "language": "Python",
+      "created": "2026-07-20",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-07",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "baidu/Unlimited-OCR",
       "url": "https://github.com/baidu/Unlimited-OCR",
       "stars": 13319,
@@ -14529,42 +15069,6 @@
       "topics": [],
       "description": "Codex Dream Skin",
       "date": "2026-08-04",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "Fei-Away/Codex-Dream-Skin",
-      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-      "stars": 13034,
-      "language": "JavaScript",
-      "created": "2026-07-15",
-      "topics": [],
-      "description": "Codex Dream Skin",
-      "date": "2026-08-03",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "baidu/Unlimited-OCR",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "stars": 12986,
-      "language": "Python",
-      "created": "2026-06-18",
-      "topics": [],
-      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "date": "2026-07-02",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "Fei-Away/Codex-Dream-Skin",
-      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-      "stars": 12954,
-      "language": "JavaScript",
-      "created": "2026-07-15",
-      "topics": [],
-      "description": "Codex Dream Skin",
-      "date": "2026-08-02",
       "section": "monthly",
       "is_ai_dev": false
     }
