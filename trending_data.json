@@ -1,9 +1,460 @@
 {
-  "last_updated": "2026-08-11T16:15:44.636464",
-  "total_repos": 967,
-  "total_dates": 33,
+  "last_updated": "2026-08-12T07:03:13.292910",
+  "total_repos": 997,
+  "total_dates": 34,
   "total_unique_languages": 31,
   "repos": [
+    {
+      "name": "ShawnPana/phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "stars": 1552,
+      "language": "Python",
+      "created": "2026-08-07",
+      "topics": [
+        "agent",
+        "ai",
+        "automation",
+        "developer-tools"
+      ],
+      "description": "let your agent control your phone",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "oil-oil/oil-motion",
+      "url": "https://github.com/oil-oil/oil-motion",
+      "stars": 1499,
+      "language": "Python",
+      "created": "2026-08-07",
+      "topics": [],
+      "description": "Create smooth, responsive interactive web animations.",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "stars": 1479,
+      "language": "TypeScript",
+      "created": "2026-08-10",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "antirez/h3.c",
+      "url": "https://github.com/antirez/h3.c",
+      "stars": 1394,
+      "language": "C",
+      "created": "2026-08-09",
+      "topics": [],
+      "description": "MiniMax H3 inference engine for Mac computers",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eternityspring/shuohao-skills",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "stars": 997,
+      "language": "JavaScript",
+      "created": "2026-08-06",
+      "topics": [],
+      "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sohaibdevv/youtube-music",
+      "url": "https://github.com/sohaibdevv/youtube-music",
+      "stars": 836,
+      "language": "TypeScript",
+      "created": "2026-08-11",
+      "topics": [
+        "ad-free",
+        "audio-streaming",
+        "background-playback",
+        "desktop-app",
+        "free",
+        "music",
+        "music-player",
+        "no-ads",
+        "open-source",
+        "player",
+        "playlist-manager",
+        "streaming",
+        "windows",
+        "youtube",
+        "youtube-music",
+        "yt-music"
+      ],
+      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MengTo/kage",
+      "url": "https://github.com/MengTo/kage",
+      "stars": 827,
+      "language": "HTML",
+      "created": "2026-08-08",
+      "topics": [
+        "creative-coding",
+        "generative-art",
+        "interactive-storytelling",
+        "japanese-design",
+        "threejs",
+        "webgl"
+      ],
+      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xoreaxeaxeax/asm-hall-of-shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "stars": 776,
+      "language": "C",
+      "created": "2026-08-06",
+      "topics": [],
+      "description": "Racing to the bottom of CPU performance",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Flaminis/Dalaran",
+      "url": "https://github.com/Flaminis/Dalaran",
+      "stars": 773,
+      "language": "Rust",
+      "created": "2026-08-07",
+      "topics": [
+        "apache2",
+        "computer-vision",
+        "lidar",
+        "pointcloud",
+        "python",
+        "robotics",
+        "ros2",
+        "rust",
+        "time-series",
+        "visualization"
+      ],
+      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sv-number/mcp-server",
+      "url": "https://github.com/sv-number/mcp-server",
+      "stars": 631,
+      "language": "JavaScript",
+      "created": "2026-08-07",
+      "topics": [
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "cline",
+        "cursor",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "otp",
+        "phone-verification",
+        "sms",
+        "sms-verification",
+        "typescript",
+        "virtual-phone-number",
+        "windsurf"
+      ],
+      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "SaladDay/pi-from-scratch",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "stars": 631,
+      "language": "TypeScript",
+      "created": "2026-08-09",
+      "topics": [
+        "agent-loop",
+        "ai-agent",
+        "coding-agent",
+        "llm",
+        "llm-agent",
+        "pi",
+        "pi-agent",
+        "tool-calling",
+        "typescript",
+        "typescript-tutorial"
+      ],
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "shadcn-ui/chatbot-template",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "stars": 483,
+      "language": "TypeScript",
+      "created": "2026-08-11",
+      "topics": [],
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "gvzdv/claudish-to-english",
+      "url": "https://github.com/gvzdv/claudish-to-english",
+      "stars": 459,
+      "language": "Shell",
+      "created": "2026-08-10",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Appllama/top-welcome-screens",
+      "url": "https://github.com/Appllama/top-welcome-screens",
+      "stars": 455,
+      "language": "TypeScript",
+      "created": "2026-08-08",
+      "topics": [
+        "design",
+        "design-patterns",
+        "expo",
+        "ios",
+        "ios-app",
+        "motion",
+        "react",
+        "react-native",
+        "uiux-design"
+      ],
+      "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mewamew/my_ai_town",
+      "url": "https://github.com/mewamew/my_ai_town",
+      "stars": 451,
+      "language": "GDScript",
+      "created": "2026-08-07",
+      "topics": [],
+      "description": "我的AI小镇",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NikoDemon80/ComfyUI-H3-Motion-Context",
+      "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+      "stars": 429,
+      "language": "Python",
+      "created": "2026-08-07",
+      "topics": [
+        "comfyui",
+        "comfyui-nodes",
+        "minimax",
+        "video-generation"
+      ],
+      "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+      "url": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+      "stars": 397,
+      "language": "Python",
+      "created": "2026-08-06",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jmarshall23/Quake_4_Alpha",
+      "url": "https://github.com/jmarshall23/Quake_4_Alpha",
+      "stars": 374,
+      "language": "C++",
+      "created": "2026-08-06",
+      "topics": [],
+      "description": "Quake 4 alpha released for preservation purposes only.",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "achrefelouafi/LinearAbiltyCastingThreeJS",
+      "url": "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS",
+      "stars": 357,
+      "language": "JavaScript",
+      "created": "2026-08-06",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Sateezg/codex-bridge",
+      "url": "https://github.com/Sateezg/codex-bridge",
+      "stars": 357,
+      "language": "Shell",
+      "created": "2026-08-09",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "gpt-5",
+        "gpt-image-2",
+        "image-generation",
+        "openai"
+      ],
+      "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
+      "date": "2026-08-12",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sgnihttcejbo/chainlink-example",
+      "url": "https://github.com/sgnihttcejbo/chainlink-example",
+      "stars": 69,
+      "language": "Solidity",
+      "created": "2026-08-12",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-12",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "LOGO-CUHKSZ/Ex-Omni-2D-Code",
+      "url": "https://github.com/LOGO-CUHKSZ/Ex-Omni-2D-Code",
+      "stars": 11,
+      "language": "Python",
+      "created": "2026-08-12",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-12",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jsrjfya/adaptive-learning-obsidian",
+      "url": "https://github.com/jsrjfya/adaptive-learning-obsidian",
+      "stars": 10,
+      "language": "JavaScript",
+      "created": "2026-08-12",
+      "topics": [],
+      "description": "A local-first family learning tracker that turns study records, mistakes, and knowledge points into explainable review plans and Obsidian notes.",
+      "date": "2026-08-12",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "zqlrts60/mCodex",
+      "url": "https://github.com/zqlrts60/mCodex",
+      "stars": 10,
+      "language": "TypeScript",
+      "created": "2026-08-12",
+      "topics": [],
+      "description": "A Windows-first mobile companion for Codex Desktop.",
+      "date": "2026-08-12",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "banmu123/LoomFlow",
+      "url": "https://github.com/banmu123/LoomFlow",
+      "stars": 9,
+      "language": "TypeScript",
+      "created": "2026-08-12",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-12",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": 24723,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-08-12",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "stars": 14679,
+      "language": "Rust",
+      "created": "2026-08-03",
+      "topics": [],
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "date": "2026-08-12",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "stars": 14246,
+      "language": "Python",
+      "created": "2026-07-20",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-12",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 13595,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-08-12",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "stars": 13151,
+      "language": "TypeScript",
+      "created": "2026-07-29",
+      "topics": [],
+      "description": "Multiplayer agent harness for work",
+      "date": "2026-08-12",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "KKKKhazix/human-writing",
       "url": "https://github.com/KKKKhazix/human-writing",
@@ -14656,6 +15107,15 @@
     }
   ],
   "metadata": {
+    "2026-08-12": {
+      "ai_relevant_count": 11,
+      "top_ai_pick": {
+        "name": "ShawnPana/phone-harness",
+        "url": "https://github.com/ShawnPana/phone-harness",
+        "stars": 1552,
+        "description": "let your agent control your phone"
+      }
+    },
     "2026-08-11": {
       "ai_relevant_count": 12,
       "top_ai_pick": {
@@ -14951,9 +15411,15 @@
   },
   "language_stats": {
     "Python": {
-      "count": 281,
-      "total_stars": 810772,
+      "count": 287,
+      "total_stars": 828906,
       "repos": [
+        "ShawnPana/phone-harness",
+        "oil-oil/oil-motion",
+        "NikoDemon80/ComfyUI-H3-Motion-Context",
+        "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+        "LOGO-CUHKSZ/Ex-Omni-2D-Code",
+        "andrewyng/openworker",
         "KKKKhazix/human-writing",
         "ShawnPana/phone-harness",
         "oil-oil/oil-motion",
@@ -15238,9 +15704,17 @@
       ]
     },
     "TypeScript": {
-      "count": 175,
-      "total_stars": 351062,
+      "count": 183,
+      "total_stars": 368116,
       "repos": [
+        "SMNETSTUDIO/WeChat-AI",
+        "sohaibdevv/youtube-music",
+        "SaladDay/pi-from-scratch",
+        "shadcn-ui/chatbot-template",
+        "Appllama/top-welcome-screens",
+        "zqlrts60/mCodex",
+        "banmu123/LoomFlow",
+        "yc-software/qm",
         "SMNETSTUDIO/WeChat-AI",
         "Appllama/top-welcome-screens",
         "tanishqkancharla/calldiff",
@@ -15419,9 +15893,14 @@
       ]
     },
     "JavaScript": {
-      "count": 154,
-      "total_stars": 763737,
+      "count": 159,
+      "total_stars": 779327,
       "repos": [
+        "eternityspring/shuohao-skills",
+        "sv-number/mcp-server",
+        "achrefelouafi/LinearAbiltyCastingThreeJS",
+        "jsrjfya/adaptive-learning-obsidian",
+        "Fei-Away/Codex-Dream-Skin",
         "eternityspring/shuohao-skills",
         "sv-number/mcp-server",
         "dengzi008/DramaLens",
@@ -15684,9 +16163,12 @@
       ]
     },
     "Rust": {
-      "count": 62,
-      "total_stars": 681770,
+      "count": 65,
+      "total_stars": 721945,
       "repos": [
+        "Flaminis/Dalaran",
+        "xai-org/grok-build",
+        "firecrawl/anydoc",
         "xai-org/grok-build",
         "firecrawl/anydoc",
         "xai-org/grok-build",
@@ -15752,9 +16234,11 @@
       ]
     },
     "C": {
-      "count": 32,
-      "total_stars": 263518,
+      "count": 34,
+      "total_stars": 265688,
       "repos": [
+        "antirez/h3.c",
+        "xoreaxeaxeax/asm-hall-of-shame",
         "xoreaxeaxeax/asm-hall-of-shame",
         "antirez/h3.c",
         "forcequitOS/bad_query",
@@ -15825,9 +16309,10 @@
       ]
     },
     "HTML": {
-      "count": 27,
-      "total_stars": 17461,
+      "count": 28,
+      "total_stars": 18288,
       "repos": [
+        "MengTo/kage",
         "MengTo/kage",
         "MengTo/kage",
         "webernils1/script-utility-loader-hub",
@@ -15888,9 +16373,11 @@
       ]
     },
     "Shell": {
-      "count": 20,
-      "total_stars": 11934,
+      "count": 22,
+      "total_stars": 12750,
       "repos": [
+        "gvzdv/claudish-to-english",
+        "Sateezg/codex-bridge",
         "Sateezg/codex-bridge",
         "mikiarlo3/awesome-growth-hacking-skills",
         "Sateezg/codex-bridge",
@@ -15914,9 +16401,10 @@
       ]
     },
     "C++": {
-      "count": 9,
-      "total_stars": 2290,
+      "count": 10,
+      "total_stars": 2664,
       "repos": [
+        "jmarshall23/Quake_4_Alpha",
         "jmarshall23/Quake_4_Alpha",
         "GOROman/vibewatch",
         "ZiggyMar/unreal-mcp",
@@ -15929,9 +16417,10 @@
       ]
     },
     "Solidity": {
-      "count": 8,
-      "total_stars": 3245,
+      "count": 9,
+      "total_stars": 3314,
       "repos": [
+        "sgnihttcejbo/chainlink-example",
         "YaponsRH/yapons",
         "rustyharbor308774/Ethereum-bot",
         "rustyharbor308774/Ethereum-bot",
@@ -16007,6 +16496,14 @@
         "canonicalise/up"
       ]
     },
+    "GDScript": {
+      "count": 2,
+      "total_stars": 838,
+      "repos": [
+        "mewamew/my_ai_town",
+        "mewamew/my_ai_town"
+      ]
+    },
     "C#": {
       "count": 2,
       "total_stars": 134,
@@ -16045,13 +16542,6 @@
       "repos": [
         "harinishri2204-cpu/Pollu-Sence",
         "harinishrisaravanan/Polllu-Sence"
-      ]
-    },
-    "GDScript": {
-      "count": 1,
-      "total_stars": 387,
-      "repos": [
-        "mewamew/my_ai_town"
       ]
     },
     "PowerShell": {
@@ -16105,6 +16595,11 @@
     }
   },
   "date_stats": {
+    "2026-08-12": {
+      "count": 30,
+      "total_stars": 95660,
+      "ai_count": 0
+    },
     "2026-08-11": {
       "count": 30,
       "total_stars": 94086,
@@ -16443,6 +16938,18 @@
       ],
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "date": "2026-06-27",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": 24723,
+      "language": "Rust",
+      "created": "2026-07-14",
+      "topics": [],
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "date": "2026-08-12",
       "section": "monthly",
       "is_ai_dev": false
     },
@@ -16879,6 +17386,18 @@
       "is_ai_dev": false
     },
     {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "stars": 14679,
+      "language": "Rust",
+      "created": "2026-08-03",
+      "topics": [],
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "date": "2026-08-12",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "baidu/Unlimited-OCR",
       "url": "https://github.com/baidu/Unlimited-OCR",
       "stars": 14365,
@@ -16905,36 +17424,12 @@
     {
       "name": "andrewyng/openworker",
       "url": "https://github.com/andrewyng/openworker",
-      "stars": 14122,
+      "stars": 14246,
       "language": "Python",
       "created": "2026-07-20",
       "topics": [],
       "description": "",
-      "date": "2026-08-11",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "andrewyng/openworker",
-      "url": "https://github.com/andrewyng/openworker",
-      "stars": 14013,
-      "language": "Python",
-      "created": "2026-07-20",
-      "topics": [],
-      "description": "",
-      "date": "2026-08-10",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "andrewyng/openworker",
-      "url": "https://github.com/andrewyng/openworker",
-      "stars": 13846,
-      "language": "Python",
-      "created": "2026-07-20",
-      "topics": [],
-      "description": "",
-      "date": "2026-08-09",
+      "date": "2026-08-12",
       "section": "monthly",
       "is_ai_dev": false
     }
