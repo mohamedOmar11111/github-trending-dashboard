@@ -1,9 +1,512 @@
 {
-  "last_updated": "2026-08-12T07:03:13.292910",
-  "total_repos": 997,
-  "total_dates": 34,
+  "last_updated": "2026-08-13T07:07:10.471115",
+  "total_repos": 1027,
+  "total_dates": 35,
   "total_unique_languages": 31,
   "repos": [
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "stars": 3158,
+      "language": "Python",
+      "created": "2026-08-11",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "c2pa",
+        "claude",
+        "provenance",
+        "synthid",
+        "watermark"
+      ],
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ShawnPana/phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "stars": 1673,
+      "language": "Python",
+      "created": "2026-08-07",
+      "topics": [
+        "agent",
+        "ai",
+        "automation",
+        "developer-tools"
+      ],
+      "description": "let your agent control your phone",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "antirez/h3.c",
+      "url": "https://github.com/antirez/h3.c",
+      "stars": 1658,
+      "language": "C",
+      "created": "2026-08-09",
+      "topics": [],
+      "description": "MiniMax H3 inference engine for Mac computers",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "oil-oil/oil-motion",
+      "url": "https://github.com/oil-oil/oil-motion",
+      "stars": 1642,
+      "language": "Python",
+      "created": "2026-08-07",
+      "topics": [],
+      "description": "Create smooth, responsive interactive web animations.",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "stars": 1632,
+      "language": "TypeScript",
+      "created": "2026-08-10",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Flaminis/Dalaran",
+      "url": "https://github.com/Flaminis/Dalaran",
+      "stars": 914,
+      "language": "Rust",
+      "created": "2026-08-07",
+      "topics": [
+        "apache2",
+        "computer-vision",
+        "lidar",
+        "pointcloud",
+        "python",
+        "robotics",
+        "ros2",
+        "rust",
+        "time-series",
+        "visualization"
+      ],
+      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MengTo/kage",
+      "url": "https://github.com/MengTo/kage",
+      "stars": 866,
+      "language": "HTML",
+      "created": "2026-08-08",
+      "topics": [
+        "creative-coding",
+        "generative-art",
+        "interactive-storytelling",
+        "japanese-design",
+        "threejs",
+        "webgl"
+      ],
+      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sohaibdevv/youtube-music",
+      "url": "https://github.com/sohaibdevv/youtube-music",
+      "stars": 851,
+      "language": "TypeScript",
+      "created": "2026-08-11",
+      "topics": [
+        "ad-free",
+        "audio-streaming",
+        "background-playback",
+        "desktop-app",
+        "free",
+        "music",
+        "music-player",
+        "no-ads",
+        "open-source",
+        "player",
+        "playlist-manager",
+        "streaming",
+        "windows",
+        "youtube",
+        "youtube-music",
+        "yt-music"
+      ],
+      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "SaladDay/pi-from-scratch",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "stars": 820,
+      "language": "TypeScript",
+      "created": "2026-08-09",
+      "topics": [
+        "agent-loop",
+        "ai-agent",
+        "coding-agent",
+        "llm",
+        "llm-agent",
+        "pi",
+        "pi-agent",
+        "tool-calling",
+        "typescript",
+        "typescript-tutorial"
+      ],
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "gvzdv/claudish-to-english",
+      "url": "https://github.com/gvzdv/claudish-to-english",
+      "stars": 687,
+      "language": "Shell",
+      "created": "2026-08-10",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "stars": 680,
+      "language": "TypeScript",
+      "created": "2026-08-11",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "shadcn-ui/chatbot-template",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "stars": 607,
+      "language": "TypeScript",
+      "created": "2026-08-11",
+      "topics": [],
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sv-number/mcp-server",
+      "url": "https://github.com/sv-number/mcp-server",
+      "stars": 604,
+      "language": "JavaScript",
+      "created": "2026-08-07",
+      "topics": [
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "cline",
+        "cursor",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "otp",
+        "phone-verification",
+        "sms",
+        "sms-verification",
+        "typescript",
+        "virtual-phone-number",
+        "windsurf"
+      ],
+      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mewamew/my_ai_town",
+      "url": "https://github.com/mewamew/my_ai_town",
+      "stars": 494,
+      "language": "GDScript",
+      "created": "2026-08-07",
+      "topics": [],
+      "description": "我的AI小镇",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NikoDemon80/ComfyUI-H3-Motion-Context",
+      "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+      "stars": 491,
+      "language": "Python",
+      "created": "2026-08-07",
+      "topics": [
+        "comfyui",
+        "comfyui-nodes",
+        "minimax",
+        "video-generation"
+      ],
+      "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Appllama/top-welcome-screens",
+      "url": "https://github.com/Appllama/top-welcome-screens",
+      "stars": 463,
+      "language": "TypeScript",
+      "created": "2026-08-08",
+      "topics": [
+        "design",
+        "design-patterns",
+        "expo",
+        "ios",
+        "ios-app",
+        "motion",
+        "react",
+        "react-native",
+        "uiux-design"
+      ],
+      "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "stars": 444,
+      "language": "TypeScript",
+      "created": "2026-08-12",
+      "topics": [
+        "agent-skills",
+        "linting",
+        "oxlint",
+        "typescript"
+      ],
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MSNightmare/ShieldBreak",
+      "url": "https://github.com/MSNightmare/ShieldBreak",
+      "stars": 443,
+      "language": "C++",
+      "created": "2026-08-11",
+      "topics": [],
+      "description": "Windows Defender 0day vulnerability",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "0xnyn/airship",
+      "url": "https://github.com/0xnyn/airship",
+      "stars": 388,
+      "language": "TypeScript",
+      "created": "2026-08-10",
+      "topics": [],
+      "description": "Figma like visual editor built for Claude Code, Codex and OpenCode",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ayi-ai/nie-grassroots-logic",
+      "url": "https://github.com/ayi-ai/nie-grassroots-logic",
+      "stars": 380,
+      "language": "HTML",
+      "created": "2026-08-10",
+      "topics": [
+        "agent-skills",
+        "china",
+        "cursor-skills",
+        "governance",
+        "methodology"
+      ],
+      "description": "聂·基层运行逻辑 · Agent Skill：基于聂辉华《基层中国的运行逻辑》的方法论工具箱（不含原书全文）",
+      "date": "2026-08-13",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "thangnqdev/codex-oss-agent-kit",
+      "url": "https://github.com/thangnqdev/codex-oss-agent-kit",
+      "stars": 58,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-13",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "duy90utc528/repo-publication-audit",
+      "url": "https://github.com/duy90utc528/repo-publication-audit",
+      "stars": 57,
+      "language": "Python",
+      "created": "2026-08-13",
+      "topics": [
+        "devtools",
+        "github-action",
+        "github-actions",
+        "open-source",
+        "python",
+        "secrets-detection",
+        "security"
+      ],
+      "description": "Dependency-free preflight checks for repositories before making them public",
+      "date": "2026-08-13",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "vuphongle/oss-pr-reviewer",
+      "url": "https://github.com/vuphongle/oss-pr-reviewer",
+      "stars": 55,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai",
+        "cli",
+        "code-review",
+        "developer-tools",
+        "github",
+        "llm",
+        "maintainer-tools",
+        "open-source",
+        "pull-request",
+        "typescript"
+      ],
+      "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
+      "date": "2026-08-13",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "loveisbl1nd/linksift",
+      "url": "https://github.com/loveisbl1nd/linksift",
+      "stars": 53,
+      "language": "HTML",
+      "created": "2026-08-13",
+      "topics": [
+        "docker",
+        "ffmpeg",
+        "flask",
+        "media-downloader",
+        "self-hosted",
+        "yt-dlp"
+      ],
+      "description": "Local-first, self-hosted media downloader powered by yt-dlp, Flask, Docker, and ffmpeg.",
+      "date": "2026-08-13",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dukz2003/lum_codex",
+      "url": "https://github.com/dukz2003/lum_codex",
+      "stars": 53,
+      "language": "Python",
+      "created": "2026-08-13",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-13",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "stars": 15250,
+      "language": "Rust",
+      "created": "2026-08-03",
+      "topics": [],
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "date": "2026-08-13",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "stars": 14348,
+      "language": "Python",
+      "created": "2026-07-20",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-13",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": 13632,
+      "language": "JavaScript",
+      "created": "2026-07-15",
+      "topics": [],
+      "description": "Codex Dream Skin",
+      "date": "2026-08-13",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "stars": 13301,
+      "language": "TypeScript",
+      "created": "2026-07-29",
+      "topics": [
+        "ai",
+        "assistant",
+        "harness",
+        "qm"
+      ],
+      "description": "Multiplayer agent harness for work. https://qm.ycombinator.com",
+      "date": "2026-08-13",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "img2threejs/img2threejs",
+      "url": "https://github.com/img2threejs/img2threejs",
+      "stars": 11487,
+      "language": "Python",
+      "created": "2026-07-15",
+      "topics": [
+        "3d",
+        "ai-agents",
+        "claude-code",
+        "computer-graphics",
+        "generative",
+        "image-to-3d",
+        "procedural-generation",
+        "threejs",
+        "typescript",
+        "webgl"
+      ],
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "date": "2026-08-13",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "ShawnPana/phone-harness",
       "url": "https://github.com/ShawnPana/phone-harness",
@@ -15107,6 +15610,15 @@
     }
   ],
   "metadata": {
+    "2026-08-13": {
+      "ai_relevant_count": 13,
+      "top_ai_pick": {
+        "name": "guillaumemeyer/watermarks-remover",
+        "url": "https://github.com/guillaumemeyer/watermarks-remover",
+        "stars": 3158,
+        "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD"
+      }
+    },
     "2026-08-12": {
       "ai_relevant_count": 11,
       "top_ai_pick": {
@@ -15411,9 +15923,17 @@
   },
   "language_stats": {
     "Python": {
-      "count": 287,
-      "total_stars": 828906,
+      "count": 295,
+      "total_stars": 861815,
       "repos": [
+        "guillaumemeyer/watermarks-remover",
+        "ShawnPana/phone-harness",
+        "oil-oil/oil-motion",
+        "NikoDemon80/ComfyUI-H3-Motion-Context",
+        "duy90utc528/repo-publication-audit",
+        "dukz2003/lum_codex",
+        "andrewyng/openworker",
+        "img2threejs/img2threejs",
         "ShawnPana/phone-harness",
         "oil-oil/oil-motion",
         "NikoDemon80/ComfyUI-H3-Motion-Context",
@@ -15704,9 +16224,20 @@
       ]
     },
     "TypeScript": {
-      "count": 183,
-      "total_stars": 368116,
+      "count": 194,
+      "total_stars": 387415,
       "repos": [
+        "SMNETSTUDIO/WeChat-AI",
+        "sohaibdevv/youtube-music",
+        "SaladDay/pi-from-scratch",
+        "milind-soni/OpenMausBot",
+        "shadcn-ui/chatbot-template",
+        "Appllama/top-welcome-screens",
+        "dmmulroy/anti-slop",
+        "0xnyn/airship",
+        "thangnqdev/codex-oss-agent-kit",
+        "vuphongle/oss-pr-reviewer",
+        "yc-software/qm",
         "SMNETSTUDIO/WeChat-AI",
         "sohaibdevv/youtube-music",
         "SaladDay/pi-from-scratch",
@@ -15893,9 +16424,11 @@
       ]
     },
     "JavaScript": {
-      "count": 159,
-      "total_stars": 779327,
+      "count": 161,
+      "total_stars": 793563,
       "repos": [
+        "sv-number/mcp-server",
+        "Fei-Away/Codex-Dream-Skin",
         "eternityspring/shuohao-skills",
         "sv-number/mcp-server",
         "achrefelouafi/LinearAbiltyCastingThreeJS",
@@ -16163,9 +16696,11 @@
       ]
     },
     "Rust": {
-      "count": 65,
-      "total_stars": 721945,
+      "count": 67,
+      "total_stars": 738109,
       "repos": [
+        "Flaminis/Dalaran",
+        "firecrawl/anydoc",
         "Flaminis/Dalaran",
         "xai-org/grok-build",
         "firecrawl/anydoc",
@@ -16234,9 +16769,10 @@
       ]
     },
     "C": {
-      "count": 34,
-      "total_stars": 265688,
+      "count": 35,
+      "total_stars": 267346,
       "repos": [
+        "antirez/h3.c",
         "antirez/h3.c",
         "xoreaxeaxeax/asm-hall-of-shame",
         "xoreaxeaxeax/asm-hall-of-shame",
@@ -16271,6 +16807,43 @@
         "ricccrd/dd",
         "ricccrd/dd",
         "ricccrd/dd"
+      ]
+    },
+    "HTML": {
+      "count": 31,
+      "total_stars": 19587,
+      "repos": [
+        "MengTo/kage",
+        "ayi-ai/nie-grassroots-logic",
+        "loveisbl1nd/linksift",
+        "MengTo/kage",
+        "MengTo/kage",
+        "MengTo/kage",
+        "webernils1/script-utility-loader-hub",
+        "Accio-org/RealReplicaBench",
+        "imsai-sh/zhuzhiliao",
+        "Accio-org/RealReplicaBench",
+        "imsai-sh/zhuzhiliao",
+        "Accio-Lab/RealReplicaBench",
+        "imsai-sh/zhuzhiliao",
+        "simon-weber51/betterfly-windows-pet-app",
+        "adriantaylor234/apkpremium-app-store-bot",
+        "JunzFundz/ITS300_WEBDEV",
+        "gabefishercb508/abay-bot-workflow-tools",
+        "danielmillersr2593/3d-print-tools-editor",
+        "ryanphqross9118/seliware-executor-script-update",
+        "noah-scottqkh6962/addon-ez-bedrock-loader",
+        "cooperchrispeo7238/delta-windows-script-executor",
+        "dudscode/criando-roadmap",
+        "rockthemike712/mission-control-board",
+        "thebuggeddev/football-stadium",
+        "thebuggeddev/football-stadium",
+        "andrewcrtscott5703/3008-vip-scripts-hub",
+        "jordan-hughespjen5950/adopt-me-lua-script-executor",
+        "gunawan1996/world-forge-ai",
+        "bozhouDev/codex-orange-book",
+        "bozhouDev/codex-orange-book",
+        "bozhouDev/codex-orange-book"
       ]
     },
     "Swift": {
@@ -16308,40 +16881,6 @@
         "m1ckc3s/claude-status-bar"
       ]
     },
-    "HTML": {
-      "count": 28,
-      "total_stars": 18288,
-      "repos": [
-        "MengTo/kage",
-        "MengTo/kage",
-        "MengTo/kage",
-        "webernils1/script-utility-loader-hub",
-        "Accio-org/RealReplicaBench",
-        "imsai-sh/zhuzhiliao",
-        "Accio-org/RealReplicaBench",
-        "imsai-sh/zhuzhiliao",
-        "Accio-Lab/RealReplicaBench",
-        "imsai-sh/zhuzhiliao",
-        "simon-weber51/betterfly-windows-pet-app",
-        "adriantaylor234/apkpremium-app-store-bot",
-        "JunzFundz/ITS300_WEBDEV",
-        "gabefishercb508/abay-bot-workflow-tools",
-        "danielmillersr2593/3d-print-tools-editor",
-        "ryanphqross9118/seliware-executor-script-update",
-        "noah-scottqkh6962/addon-ez-bedrock-loader",
-        "cooperchrispeo7238/delta-windows-script-executor",
-        "dudscode/criando-roadmap",
-        "rockthemike712/mission-control-board",
-        "thebuggeddev/football-stadium",
-        "thebuggeddev/football-stadium",
-        "andrewcrtscott5703/3008-vip-scripts-hub",
-        "jordan-hughespjen5950/adopt-me-lua-script-executor",
-        "gunawan1996/world-forge-ai",
-        "bozhouDev/codex-orange-book",
-        "bozhouDev/codex-orange-book",
-        "bozhouDev/codex-orange-book"
-      ]
-    },
     "Go": {
       "count": 24,
       "total_stars": 9566,
@@ -16373,9 +16912,10 @@
       ]
     },
     "Shell": {
-      "count": 22,
-      "total_stars": 12750,
+      "count": 23,
+      "total_stars": 13437,
       "repos": [
+        "gvzdv/claudish-to-english",
         "gvzdv/claudish-to-english",
         "Sateezg/codex-bridge",
         "Sateezg/codex-bridge",
@@ -16401,9 +16941,10 @@
       ]
     },
     "C++": {
-      "count": 10,
-      "total_stars": 2664,
+      "count": 11,
+      "total_stars": 3107,
       "repos": [
+        "MSNightmare/ShieldBreak",
         "jmarshall23/Quake_4_Alpha",
         "jmarshall23/Quake_4_Alpha",
         "GOROman/vibewatch",
@@ -16478,6 +17019,15 @@
         "nfzerox/VirtualMacOniPad"
       ]
     },
+    "GDScript": {
+      "count": 3,
+      "total_stars": 1332,
+      "repos": [
+        "mewamew/my_ai_town",
+        "mewamew/my_ai_town",
+        "mewamew/my_ai_town"
+      ]
+    },
     "Vue": {
       "count": 3,
       "total_stars": 1580,
@@ -16494,14 +17044,6 @@
         "c9nny/mirror",
         "c9nny/linnaea",
         "canonicalise/up"
-      ]
-    },
-    "GDScript": {
-      "count": 2,
-      "total_stars": 838,
-      "repos": [
-        "mewamew/my_ai_town",
-        "mewamew/my_ai_town"
       ]
     },
     "C#": {
@@ -16595,6 +17137,11 @@
     }
   },
   "date_stats": {
+    "2026-08-13": {
+      "count": 30,
+      "total_stars": 87189,
+      "ai_count": 0
+    },
     "2026-08-12": {
       "count": 30,
       "total_stars": 95660,
@@ -17374,6 +17921,18 @@
       "is_ai_dev": false
     },
     {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "stars": 15250,
+      "language": "Rust",
+      "created": "2026-08-03",
+      "topics": [],
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "date": "2026-08-13",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "stars": 15168,
@@ -17410,26 +17969,14 @@
       "is_ai_dev": false
     },
     {
-      "name": "baidu/Unlimited-OCR",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "stars": 14275,
-      "language": "Python",
-      "created": "2026-06-18",
-      "topics": [],
-      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "date": "2026-07-15",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
       "name": "andrewyng/openworker",
       "url": "https://github.com/andrewyng/openworker",
-      "stars": 14246,
+      "stars": 14348,
       "language": "Python",
       "created": "2026-07-20",
       "topics": [],
       "description": "",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "section": "monthly",
       "is_ai_dev": false
     }
