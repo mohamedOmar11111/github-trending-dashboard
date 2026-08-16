@@ -1,9 +1,487 @@
 {
-  "last_updated": "2026-08-15T06:16:21.723832",
-  "total_repos": 1084,
-  "total_dates": 37,
+  "last_updated": "2026-08-16T06:18:38.228381",
+  "total_repos": 1112,
+  "total_dates": 38,
   "total_unique_languages": 32,
   "repos": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 119977,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "stars": 10015,
+      "language": "Python",
+      "created": "2026-08-11",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "c2pa",
+        "claude",
+        "provenance",
+        "synthid",
+        "watermark"
+      ],
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "stars": 6923,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": 3405,
+      "language": "Python",
+      "created": "2026-08-13",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "stars": 2899,
+      "language": "TypeScript",
+      "created": "2026-08-12",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "web-ui"
+      ],
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xiaobright/dsh-anchored-standard",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "stars": 2472,
+      "language": "JavaScript",
+      "created": "2026-08-14",
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm-agent"
+      ],
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
+      "stars": 2101,
+      "language": "PowerShell",
+      "created": "2026-08-14",
+      "topics": [],
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "stars": 1752,
+      "language": "TypeScript",
+      "created": "2026-08-10",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "stars": 1688,
+      "language": "C",
+      "created": "2026-08-13",
+      "topics": [],
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "cordiverse/paper",
+      "url": "https://github.com/cordiverse/paper",
+      "stars": 1683,
+      "language": "Unknown",
+      "created": "2026-08-13",
+      "topics": [],
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "stars": 1381,
+      "language": "TypeScript",
+      "created": "2026-08-12",
+      "topics": [
+        "agent-skills",
+        "linting",
+        "oxlint",
+        "typescript"
+      ],
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "stars": 1343,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "claude-code",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "ink",
+        "react",
+        "terminal",
+        "tui"
+      ],
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "gvzdv/claudish-to-english",
+      "url": "https://github.com/gvzdv/claudish-to-english",
+      "stars": 1206,
+      "language": "Shell",
+      "created": "2026-08-10",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "stars": 1136,
+      "language": "Python",
+      "created": "2026-08-13",
+      "topics": [
+        "agent",
+        "agent-memory",
+        "agent-skill",
+        "agent-skills",
+        "agentic",
+        "agentic-ai",
+        "agents",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "github-copilot",
+        "pdf",
+        "pdf-document",
+        "pdf-generation",
+        "pdf-parser",
+        "pdf-tools",
+        "pdf-viewer",
+        "skill-generator"
+      ],
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "stars": 1046,
+      "language": "TypeScript",
+      "created": "2026-08-11",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Small-tailqwq/dsh-deep-whale",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "stars": 950,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sohaibdevv/youtube-music",
+      "url": "https://github.com/sohaibdevv/youtube-music",
+      "stars": 858,
+      "language": "TypeScript",
+      "created": "2026-08-11",
+      "topics": [
+        "ad-free",
+        "audio-streaming",
+        "background-playback",
+        "desktop-app",
+        "free",
+        "music",
+        "music-player",
+        "no-ads",
+        "open-source",
+        "player",
+        "playlist-manager",
+        "streaming",
+        "windows",
+        "youtube",
+        "youtube-music",
+        "yt-music"
+      ],
+      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Hisn00w/ASu-skills",
+      "url": "https://github.com/Hisn00w/ASu-skills",
+      "stars": 812,
+      "language": "HTML",
+      "created": "2026-08-12",
+      "topics": [],
+      "description": "简历包装",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alchaincyf/deepseek-harness-orange-book",
+      "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "stars": 807,
+      "language": "HTML",
+      "created": "2026-08-14",
+      "topics": [],
+      "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "vercel-labs/eve-software-factory-template",
+      "url": "https://github.com/vercel-labs/eve-software-factory-template",
+      "stars": 797,
+      "language": "TypeScript",
+      "created": "2026-08-12",
+      "topics": [
+        "agent",
+        "ai",
+        "eve",
+        "vercel"
+      ],
+      "description": "Meet Foreman, an eve Software Factory.",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alphaparkinc/genpark-llm-inference-throughput-hardware-benchmark-skill",
+      "url": "https://github.com/alphaparkinc/genpark-llm-inference-throughput-hardware-benchmark-skill",
+      "stars": 8,
+      "language": "Python",
+      "created": "2026-08-16",
+      "topics": [
+        "agentic-ai",
+        "ai-agent",
+        "automation",
+        "genpark",
+        "llm-tools",
+        "mcp-server",
+        "python"
+      ],
+      "description": "Real-time LLM inference throughput profiler & benchmark (Inferock Bench style)",
+      "date": "2026-08-16",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alphaparkinc/genpark-proactive-founder-calendar-negotiation-copilot-skill",
+      "url": "https://github.com/alphaparkinc/genpark-proactive-founder-calendar-negotiation-copilot-skill",
+      "stars": 8,
+      "language": "Python",
+      "created": "2026-08-16",
+      "topics": [
+        "agentic-ai",
+        "ai-agent",
+        "automation",
+        "genpark",
+        "llm-tools",
+        "mcp-server",
+        "python"
+      ],
+      "description": "Proactive founder calendar negotiation copilot & meeting triage (Hey Noah style)",
+      "date": "2026-08-16",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alphaparkinc/genpark-enterprise-agent-permission-boundary-governor-skill",
+      "url": "https://github.com/alphaparkinc/genpark-enterprise-agent-permission-boundary-governor-skill",
+      "stars": 8,
+      "language": "Python",
+      "created": "2026-08-16",
+      "topics": [
+        "agentic-ai",
+        "ai-agent",
+        "automation",
+        "genpark",
+        "llm-tools",
+        "mcp-server",
+        "python"
+      ],
+      "description": "Enterprise agent execution environment & permission boundary governor (Tines style)",
+      "date": "2026-08-16",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alphaparkinc/genpark-ai-native-devops-iac-synthesizer-skill",
+      "url": "https://github.com/alphaparkinc/genpark-ai-native-devops-iac-synthesizer-skill",
+      "stars": 8,
+      "language": "Python",
+      "created": "2026-08-16",
+      "topics": [
+        "agentic-ai",
+        "ai-agent",
+        "automation",
+        "genpark",
+        "llm-tools",
+        "mcp-server",
+        "python"
+      ],
+      "description": "AI-native DevOps workspace, Terraform IaC synthesizer & drift detector (Nuphos style)",
+      "date": "2026-08-16",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alphaparkinc/genpark-viral-social-ad-variant-generator-skill",
+      "url": "https://github.com/alphaparkinc/genpark-viral-social-ad-variant-generator-skill",
+      "stars": 8,
+      "language": "Python",
+      "created": "2026-08-16",
+      "topics": [
+        "agentic-ai",
+        "ai-agent",
+        "automation",
+        "genpark",
+        "llm-tools",
+        "mcp-server",
+        "python"
+      ],
+      "description": "Viral social ad variant generator & hook resonance predictor (AdAnt style)",
+      "date": "2026-08-16",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "stars": 16306,
+      "language": "Rust",
+      "created": "2026-08-03",
+      "topics": [],
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "date": "2026-08-16",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "stars": 14574,
+      "language": "Python",
+      "created": "2026-07-20",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-16",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "stars": 13647,
+      "language": "TypeScript",
+      "created": "2026-07-29",
+      "topics": [
+        "ai",
+        "assistant",
+        "harness",
+        "qm"
+      ],
+      "description": "Multiplayer agent harness for work.",
+      "date": "2026-08-16",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
@@ -16540,6 +17018,15 @@
     }
   ],
   "metadata": {
+    "2026-08-16": {
+      "ai_relevant_count": 11,
+      "top_ai_pick": {
+        "name": "deepseek-ai/deepseek-harness",
+        "url": "https://github.com/deepseek-ai/deepseek-harness",
+        "stars": 119977,
+        "description": "DeepSeek Harness: Everything is a Plugin."
+      }
+    },
     "2026-08-15": {
       "ai_relevant_count": 11,
       "top_ai_pick": {
@@ -16871,9 +17358,18 @@
   },
   "language_stats": {
     "Python": {
-      "count": 304,
-      "total_stars": 909255,
+      "count": 313,
+      "total_stars": 938425,
       "repos": [
+        "guillaumemeyer/watermarks-remover",
+        "awesome-dsh-plugin/awesome-dsh-plugin",
+        "Leutenegger/book-to-skill",
+        "alphaparkinc/genpark-llm-inference-throughput-hardware-benchmark-skill",
+        "alphaparkinc/genpark-proactive-founder-calendar-negotiation-copilot-skill",
+        "alphaparkinc/genpark-enterprise-agent-permission-boundary-governor-skill",
+        "alphaparkinc/genpark-ai-native-devops-iac-synthesizer-skill",
+        "alphaparkinc/genpark-viral-social-ad-variant-generator-skill",
+        "andrewyng/openworker",
         "guillaumemeyer/watermarks-remover",
         "awesome-dsh-plugin/awesome-dsh-plugin",
         "Leutenegger/book-to-skill",
@@ -17181,9 +17677,20 @@
       ]
     },
     "TypeScript": {
-      "count": 218,
-      "total_stars": 612338,
+      "count": 229,
+      "total_stars": 763911,
       "repos": [
+        "deepseek-ai/deepseek-harness",
+        "anywhere-labs/deepseek-harness-desktop",
+        "zhu1090093659/dsh-web-ui",
+        "SMNETSTUDIO/WeChat-AI",
+        "dmmulroy/anti-slop",
+        "ccch1mneyyy/dsh-TUI",
+        "milind-soni/OpenMausBot",
+        "Small-tailqwq/dsh-deep-whale",
+        "sohaibdevv/youtube-music",
+        "vercel-labs/eve-software-factory-template",
+        "yc-software/qm",
         "deepseek-ai/deepseek-harness",
         "anywhere-labs/deepseek-harness-desktop",
         "zhu1090093659/dsh-web-ui",
@@ -17405,9 +17912,10 @@
       ]
     },
     "JavaScript": {
-      "count": 164,
-      "total_stars": 794634,
+      "count": 165,
+      "total_stars": 797106,
       "repos": [
+        "xiaobright/dsh-anchored-standard",
         "xiaobright/dsh-anchored-standard",
         "liceses/dsh-gitbash-preset",
         "Francis-Xavier-code/dsh-balance-plugin",
@@ -17575,9 +18083,10 @@
       ]
     },
     "Unknown": {
-      "count": 103,
-      "total_stars": 117945,
+      "count": 104,
+      "total_stars": 119628,
       "repos": [
+        "cordiverse/paper",
         "cordiverse/paper",
         "cordiverse/paper",
         "N-allpass/modex-mh-agent",
@@ -17684,9 +18193,10 @@
       ]
     },
     "Rust": {
-      "count": 69,
-      "total_stars": 770111,
+      "count": 70,
+      "total_stars": 786417,
       "repos": [
+        "firecrawl/anydoc",
         "firecrawl/anydoc",
         "firecrawl/anydoc",
         "Flaminis/Dalaran",
@@ -17759,9 +18269,10 @@
       ]
     },
     "C": {
-      "count": 39,
-      "total_stars": 273795,
+      "count": 40,
+      "total_stars": 275483,
       "repos": [
+        "xoreaxeaxeax/skitter-creek-bath-salts",
         "antirez/h3.c",
         "xoreaxeaxeax/skitter-creek-bath-salts",
         "antirez/h3.c",
@@ -17804,9 +18315,11 @@
       ]
     },
     "HTML": {
-      "count": 36,
-      "total_stars": 22564,
+      "count": 38,
+      "total_stars": 24183,
       "repos": [
+        "Hisn00w/ASu-skills",
+        "alchaincyf/deepseek-harness-orange-book",
         "Hisn00w/ASu-skills",
         "MengTo/kage",
         "Hisn00w/ASu-skills",
@@ -17881,9 +18394,10 @@
       ]
     },
     "Shell": {
-      "count": 25,
-      "total_stars": 15523,
+      "count": 26,
+      "total_stars": 16729,
       "repos": [
+        "gvzdv/claudish-to-english",
         "gvzdv/claudish-to-english",
         "gvzdv/claudish-to-english",
         "gvzdv/claudish-to-english",
@@ -18021,6 +18535,15 @@
         "nfzerox/VirtualMacOniPad"
       ]
     },
+    "PowerShell": {
+      "count": 3,
+      "total_stars": 2121,
+      "repos": [
+        "yjh051108/dsh-routing-suite",
+        "olicesx/kixparadigm",
+        "tybhy/tybhy-workflow"
+      ]
+    },
     "C#": {
       "count": 3,
       "total_stars": 140,
@@ -18055,14 +18578,6 @@
         "c9nny/mirror",
         "c9nny/linnaea",
         "canonicalise/up"
-      ]
-    },
-    "PowerShell": {
-      "count": 2,
-      "total_stars": 20,
-      "repos": [
-        "olicesx/kixparadigm",
-        "tybhy/tybhy-workflow"
       ]
     },
     "Lean": {
@@ -18148,6 +18663,11 @@
     }
   },
   "date_stats": {
+    "2026-08-16": {
+      "count": 28,
+      "total_stars": 207818,
+      "ai_count": 0
+    },
     "2026-08-15": {
       "count": 28,
       "total_stars": 177802,
@@ -18335,6 +18855,23 @@
     }
   },
   "top_50_all_time": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 119977,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-08-16",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
     {
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
@@ -18951,6 +19488,18 @@
       "is_ai_dev": false
     },
     {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "stars": 16306,
+      "language": "Rust",
+      "created": "2026-08-03",
+      "topics": [],
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "date": "2026-08-16",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "stars": 16203,
@@ -18983,30 +19532,6 @@
       "topics": [],
       "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
       "date": "2026-08-14",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "stars": 15794,
-      "language": "C",
-      "created": "2026-07-01",
-      "topics": [],
-      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "date": "2026-07-18",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "firecrawl/anydoc",
-      "url": "https://github.com/firecrawl/anydoc",
-      "stars": 15250,
-      "language": "Rust",
-      "created": "2026-08-03",
-      "topics": [],
-      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "date": "2026-08-13",
       "section": "monthly",
       "is_ai_dev": false
     }
