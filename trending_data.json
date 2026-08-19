@@ -1,9 +1,487 @@
 {
-  "last_updated": "2026-08-18T06:20:58.194875",
-  "total_repos": 1169,
-  "total_dates": 40,
+  "last_updated": "2026-08-19T06:21:36.716186",
+  "total_repos": 1197,
+  "total_dates": 41,
   "total_unique_languages": 32,
   "repos": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 162666,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "stars": 14129,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": 9316,
+      "language": "Python",
+      "created": "2026-08-13",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
+      "stars": 6141,
+      "language": "PowerShell",
+      "created": "2026-08-14",
+      "topics": [],
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xiaobright/dsh-anchored-standard",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "stars": 3587,
+      "language": "JavaScript",
+      "created": "2026-08-14",
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm-agent"
+      ],
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yetone/cumora",
+      "url": "https://github.com/yetone/cumora",
+      "stars": 2506,
+      "language": "TypeScript",
+      "created": "2026-08-17",
+      "topics": [],
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "cordiverse/paper",
+      "url": "https://github.com/cordiverse/paper",
+      "stars": 2326,
+      "language": "Unknown",
+      "created": "2026-08-13",
+      "topics": [],
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "stars": 2018,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "claude-code",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "ink",
+        "react",
+        "terminal",
+        "tui"
+      ],
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "stars": 1829,
+      "language": "C",
+      "created": "2026-08-13",
+      "topics": [],
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Small-tailqwq/dsh-deep-whale",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "stars": 1406,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "stars": 1194,
+      "language": "Python",
+      "created": "2026-08-13",
+      "topics": [
+        "agent",
+        "agent-memory",
+        "agent-skill",
+        "agent-skills",
+        "agentic",
+        "agentic-ai",
+        "agents",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "github-copilot",
+        "pdf",
+        "pdf-document",
+        "pdf-generation",
+        "pdf-parser",
+        "pdf-tools",
+        "pdf-viewer",
+        "skill-generator"
+      ],
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "s1dashu/ip-as-logo-skill",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "stars": 1194,
+      "language": "Unknown",
+      "created": "2026-08-18",
+      "topics": [
+        "codex",
+        "codex-skill",
+        "image-generation",
+        "logo-design",
+        "mascot-design"
+      ],
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "cinderline/northcinder",
+      "url": "https://github.com/cinderline/northcinder",
+      "stars": 1159,
+      "language": "JavaScript",
+      "created": "2026-08-17",
+      "topics": [
+        "agentic-commerce",
+        "human-in-the-loop",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "privacy",
+        "self-hosted",
+        "shopping-agent",
+        "typescript"
+      ],
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dsh-market/dsh-market",
+      "url": "https://github.com/dsh-market/dsh-market",
+      "stars": 1109,
+      "language": "TypeScript",
+      "created": "2026-08-14",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "marketplace"
+      ],
+      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alchaincyf/deepseek-harness-orange-book",
+      "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "stars": 1051,
+      "language": "HTML",
+      "created": "2026-08-14",
+      "topics": [],
+      "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+      "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+      "stars": 1011,
+      "language": "Unknown",
+      "created": "2026-08-16",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "benchmark",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dataelement/dsh-desktop",
+      "url": "https://github.com/dataelement/dsh-desktop",
+      "stars": 984,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "desktop",
+        "dsh-plugins"
+      ],
+      "description": "DeepSeek Harness Desktop",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ZSvirt/zsvirt",
+      "url": "https://github.com/ZSvirt/zsvirt",
+      "stars": 922,
+      "language": "Java",
+      "created": "2026-08-14",
+      "topics": [
+        "cloud-native",
+        "hypervisor",
+        "infrastructure",
+        "kvm",
+        "proxmox",
+        "virtual-machine",
+        "virtualization",
+        "vm",
+        "vmware-labs",
+        "vsphere"
+      ],
+      "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "zouyuxuan122/Deepseek-Harness-EAC",
+      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+      "stars": 878,
+      "language": "JavaScript",
+      "created": "2026-08-14",
+      "topics": [
+        "ai-agent",
+        "deepseek",
+        "desktop-app",
+        "dsh",
+        "electron",
+        "windows"
+      ],
+      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "stars": 863,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "chatgpt",
+        "docker",
+        "electron",
+        "expo",
+        "grok",
+        "llm",
+        "self-hosted",
+        "typescript"
+      ],
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pgnzbl-ux/crucible",
+      "url": "https://github.com/pgnzbl-ux/crucible",
+      "stars": 71,
+      "language": "Python",
+      "created": "2026-08-19",
+      "topics": [
+        "ai-agents",
+        "code-au",
+        "docker",
+        "fastapi",
+        "python",
+        "reac",
+        "vulnerability-verification"
+      ],
+      "description": "AI 驱动的漏洞自动验证平台：提交仓库与漏洞描述，在隔离沙箱中白盒审计、搭靶场复现并出具中文报告。",
+      "date": "2026-08-19",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "clayzhang-TW/claude-academic-workflow-zh",
+      "url": "https://github.com/clayzhang-TW/claude-academic-workflow-zh",
+      "stars": 13,
+      "language": "Unknown",
+      "created": "2026-08-19",
+      "topics": [],
+      "description": "教育研究者的 Claude 學術工作流",
+      "date": "2026-08-19",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "thomassolcia/DiscordGoLiveBypass",
+      "url": "https://github.com/thomassolcia/DiscordGoLiveBypass",
+      "stars": 12,
+      "language": "Go",
+      "created": "2026-08-19",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-19",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tororae/talkflow-public",
+      "url": "https://github.com/tororae/talkflow-public",
+      "stars": 7,
+      "language": "Swift",
+      "created": "2026-08-19",
+      "topics": [],
+      "description": "카카오톡 대화에 넣는 봇 퍼블릭버전",
+      "date": "2026-08-19",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Xeron2000/fx-gateway-proxy",
+      "url": "https://github.com/Xeron2000/fx-gateway-proxy",
+      "stars": 6,
+      "language": "Python",
+      "created": "2026-08-19",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-19",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "stars": 17069,
+      "language": "Rust",
+      "created": "2026-08-03",
+      "topics": [],
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "date": "2026-08-19",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "stars": 14669,
+      "language": "Python",
+      "created": "2026-08-11",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "c2pa",
+        "claude",
+        "provenance",
+        "synthid",
+        "watermark"
+      ],
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "date": "2026-08-19",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "stars": 13910,
+      "language": "TypeScript",
+      "created": "2026-07-29",
+      "topics": [
+        "ai",
+        "assistant",
+        "harness",
+        "qm"
+      ],
+      "description": "Multiplayer agent harness for work.",
+      "date": "2026-08-19",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
@@ -17951,6 +18429,15 @@
     }
   ],
   "metadata": {
+    "2026-08-19": {
+      "ai_relevant_count": 14,
+      "top_ai_pick": {
+        "name": "deepseek-ai/deepseek-harness",
+        "url": "https://github.com/deepseek-ai/deepseek-harness",
+        "stars": 162666,
+        "description": "DeepSeek Harness: Everything is a Plugin."
+      }
+    },
     "2026-08-18": {
       "ai_relevant_count": 13,
       "top_ai_pick": {
@@ -18309,9 +18796,14 @@
   },
   "language_stats": {
     "Python": {
-      "count": 328,
-      "total_stars": 1010497,
+      "count": 333,
+      "total_stars": 1035753,
       "repos": [
+        "awesome-dsh-plugin/awesome-dsh-plugin",
+        "Leutenegger/book-to-skill",
+        "pgnzbl-ux/crucible",
+        "Xeron2000/fx-gateway-proxy",
+        "guillaumemeyer/watermarks-remover",
         "awesome-dsh-plugin/awesome-dsh-plugin",
         "Leutenegger/book-to-skill",
         "air-embodied-brain/Zetta-Embodiment",
@@ -18643,9 +19135,18 @@
       ]
     },
     "TypeScript": {
-      "count": 254,
-      "total_stars": 1135608,
+      "count": 263,
+      "total_stars": 1335199,
       "repos": [
+        "deepseek-ai/deepseek-harness",
+        "anywhere-labs/deepseek-harness-desktop",
+        "yetone/cumora",
+        "ccch1mneyyy/dsh-TUI",
+        "Small-tailqwq/dsh-deep-whale",
+        "dsh-market/dsh-market",
+        "dataelement/dsh-desktop",
+        "elie222/rakazo",
+        "yc-software/qm",
         "deepseek-ai/deepseek-harness",
         "anywhere-labs/deepseek-harness-desktop",
         "zhu1090093659/dsh-web-ui",
@@ -18903,9 +19404,12 @@
       ]
     },
     "JavaScript": {
-      "count": 169,
-      "total_stars": 804609,
+      "count": 172,
+      "total_stars": 810233,
       "repos": [
+        "xiaobright/dsh-anchored-standard",
+        "cinderline/northcinder",
+        "zouyuxuan122/Deepseek-Harness-EAC",
         "xiaobright/dsh-anchored-standard",
         "zouyuxuan122/Deepseek-Harness-EAC",
         "xiaobright/dsh-anchored-standard",
@@ -19078,9 +19582,13 @@
       ]
     },
     "Unknown": {
-      "count": 106,
-      "total_stars": 123780,
+      "count": 110,
+      "total_stars": 128324,
       "repos": [
+        "cordiverse/paper",
+        "s1dashu/ip-as-logo-skill",
+        "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+        "clayzhang-TW/claude-academic-workflow-zh",
         "cordiverse/paper",
         "cordiverse/paper",
         "cordiverse/paper",
@@ -19190,9 +19698,10 @@
       ]
     },
     "Rust": {
-      "count": 72,
-      "total_stars": 819724,
+      "count": 73,
+      "total_stars": 836793,
       "repos": [
+        "firecrawl/anydoc",
         "firecrawl/anydoc",
         "firecrawl/anydoc",
         "firecrawl/anydoc",
@@ -19268,9 +19777,10 @@
       ]
     },
     "HTML": {
-      "count": 43,
-      "total_stars": 28261,
+      "count": 44,
+      "total_stars": 29312,
       "repos": [
+        "alchaincyf/deepseek-harness-orange-book",
         "Hisn00w/ASu-skills",
         "alchaincyf/deepseek-harness-orange-book",
         "flatcentipedeturbine/claude-ai-unlimited",
@@ -19317,9 +19827,10 @@
       ]
     },
     "C": {
-      "count": 42,
-      "total_stars": 279006,
+      "count": 43,
+      "total_stars": 280835,
       "repos": [
+        "xoreaxeaxeax/skitter-creek-bath-salts",
         "xoreaxeaxeax/skitter-creek-bath-salts",
         "xoreaxeaxeax/skitter-creek-bath-salts",
         "xoreaxeaxeax/skitter-creek-bath-salts",
@@ -19365,9 +19876,10 @@
       ]
     },
     "Swift": {
-      "count": 29,
-      "total_stars": 14409,
+      "count": 30,
+      "total_stars": 14416,
       "repos": [
+        "tororae/talkflow-public",
         "pengchujin/tower",
         "leonickson1/Swiftlet",
         "zqxwce/vphone-ws",
@@ -19432,9 +19944,10 @@
       ]
     },
     "Go": {
-      "count": 24,
-      "total_stars": 9566,
+      "count": 25,
+      "total_stars": 9578,
       "repos": [
+        "thomassolcia/DiscordGoLiveBypass",
         "magicrew/doc7",
         "magicrew/doc7",
         "livid/exe",
@@ -19507,6 +20020,18 @@
         "iebb/mithka"
       ]
     },
+    "PowerShell": {
+      "count": 6,
+      "total_stars": 16976,
+      "repos": [
+        "yjh051108/dsh-routing-suite",
+        "yjh051108/dsh-routing-suite",
+        "yjh051108/dsh-routing-suite",
+        "yjh051108/dsh-routing-suite",
+        "olicesx/kixparadigm",
+        "tybhy/tybhy-workflow"
+      ]
+    },
     "Dockerfile": {
       "count": 6,
       "total_stars": 4388,
@@ -19529,17 +20054,6 @@
         "unicity-astrid/book",
         "unicity-astrid/book",
         "unicity-astrid/book"
-      ]
-    },
-    "PowerShell": {
-      "count": 5,
-      "total_stars": 10835,
-      "repos": [
-        "yjh051108/dsh-routing-suite",
-        "yjh051108/dsh-routing-suite",
-        "yjh051108/dsh-routing-suite",
-        "olicesx/kixparadigm",
-        "tybhy/tybhy-workflow"
       ]
     },
     "Objective-C": {
@@ -19586,6 +20100,14 @@
         "c9nny/mirror",
         "c9nny/linnaea",
         "canonicalise/up"
+      ]
+    },
+    "Java": {
+      "count": 2,
+      "total_stars": 954,
+      "repos": [
+        "ZSvirt/zsvirt",
+        "SmellyToes67/Calculate-Minecraft-Coordinates-From-Bedrock-Formation-"
       ]
     },
     "Lean": {
@@ -19641,13 +20163,6 @@
         "THARUNRAJ15/Student-Expense-Tracker"
       ]
     },
-    "Java": {
-      "count": 1,
-      "total_stars": 32,
-      "repos": [
-        "SmellyToes67/Calculate-Minecraft-Coordinates-From-Bedrock-Formation-"
-      ]
-    },
     "Pascal": {
       "count": 1,
       "total_stars": 29,
@@ -19671,6 +20186,11 @@
     }
   },
   "date_stats": {
+    "2026-08-19": {
+      "count": 28,
+      "total_stars": 262046,
+      "ai_count": 0
+    },
     "2026-08-18": {
       "count": 29,
       "total_stars": 265935,
@@ -19873,6 +20393,23 @@
     }
   },
   "top_50_all_time": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 162666,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-08-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
     {
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
@@ -20530,36 +21067,24 @@
     {
       "name": "firecrawl/anydoc",
       "url": "https://github.com/firecrawl/anydoc",
-      "stars": 16788,
+      "stars": 17069,
       "language": "Rust",
       "created": "2026-08-03",
       "topics": [],
       "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "date": "2026-08-18",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "stars": 16601,
-      "language": "C",
-      "created": "2026-07-01",
-      "topics": [],
-      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "date": "2026-07-20",
+      "date": "2026-08-19",
       "section": "monthly",
       "is_ai_dev": false
     },
     {
       "name": "firecrawl/anydoc",
       "url": "https://github.com/firecrawl/anydoc",
-      "stars": 16519,
+      "stars": 16788,
       "language": "Rust",
       "created": "2026-08-03",
       "topics": [],
       "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "section": "monthly",
       "is_ai_dev": false
     }
