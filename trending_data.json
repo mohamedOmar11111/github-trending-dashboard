@@ -1,9 +1,547 @@
 {
-  "last_updated": "2026-08-22T06:17:36.456046",
-  "total_repos": 1286,
-  "total_dates": 44,
+  "last_updated": "2026-08-23T06:19:20.301012",
+  "total_repos": 1316,
+  "total_dates": 45,
   "total_unique_languages": 32,
   "repos": [
+    {
+      "name": "s1dashu/ip-as-logo-skill",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "stars": 3816,
+      "language": "Unknown",
+      "created": "2026-08-18",
+      "topics": [
+        "codex",
+        "codex-skill",
+        "image-generation",
+        "logo-design",
+        "mascot-design"
+      ],
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yetone/cumora",
+      "url": "https://github.com/yetone/cumora",
+      "stars": 2906,
+      "language": "TypeScript",
+      "created": "2026-08-17",
+      "topics": [],
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "stars": 2361,
+      "language": "TypeScript",
+      "created": "2026-08-17",
+      "topics": [
+        "ag-ui",
+        "agent-governance",
+        "ai-agents",
+        "browser-automation",
+        "copilotkit",
+        "generative-ui",
+        "mcp"
+      ],
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MengTo/threeui",
+      "url": "https://github.com/MengTo/threeui",
+      "stars": 2113,
+      "language": "HTML",
+      "created": "2026-08-21",
+      "topics": [
+        "react",
+        "shaders",
+        "threejs",
+        "ui-components",
+        "webgl"
+      ],
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wang2122/sprix-sage-router",
+      "url": "https://github.com/wang2122/sprix-sage-router",
+      "stars": 1243,
+      "language": "Python",
+      "created": "2026-08-18",
+      "topics": [
+        "a2a",
+        "agent-orchestration",
+        "agent-routing",
+        "ai-agents",
+        "multi-agent-systems",
+        "python",
+        "sprix-ai",
+        "task-scheduling"
+      ],
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "cinderline/northcinder",
+      "url": "https://github.com/cinderline/northcinder",
+      "stars": 1206,
+      "language": "JavaScript",
+      "created": "2026-08-17",
+      "topics": [
+        "agentic-commerce",
+        "human-in-the-loop",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "privacy",
+        "self-hosted",
+        "shopping-agent",
+        "typescript"
+      ],
+      "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "vvxw/deploy-vercel",
+      "url": "https://github.com/vvxw/deploy-vercel",
+      "stars": 1158,
+      "language": "JavaScript",
+      "created": "2026-08-18",
+      "topics": [],
+      "description": "Install Command：npm install",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Leutenegger/watermarks-remover",
+      "url": "https://github.com/Leutenegger/watermarks-remover",
+      "stars": 936,
+      "language": "Python",
+      "created": "2026-08-19",
+      "topics": [
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "codex-cli",
+        "codex-desktop",
+        "codex-plugin",
+        "codex-skill",
+        "codex-skills",
+        "grok",
+        "grok-45",
+        "grok-ai",
+        "grok-build",
+        "grok-cli",
+        "watermark",
+        "watermark-detection",
+        "watermark-tools",
+        "watermarks"
+      ],
+      "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Leutenegger/vanity-eth",
+      "url": "https://github.com/Leutenegger/vanity-eth",
+      "stars": 803,
+      "language": "Python",
+      "created": "2026-08-21",
+      "topics": [],
+      "description": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Spielewoy/autoprompt-skill",
+      "url": "https://github.com/Spielewoy/autoprompt-skill",
+      "stars": 719,
+      "language": "JavaScript",
+      "created": "2026-08-17",
+      "topics": [
+        "agent-orchestration",
+        "agent-skills",
+        "agentic-workflows",
+        "ai-agents",
+        "ai-coding",
+        "automated-testing",
+        "autonomous-agents",
+        "claude-code",
+        "cli",
+        "code-review",
+        "codex",
+        "coding-agent",
+        "developer-tools",
+        "github-copilot",
+        "multi-agent-systems",
+        "opencode",
+        "prompt-engineering",
+        "subagents",
+        "test-driven-development",
+        "workflow-automation"
+      ],
+      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "browser-use/macos-harness",
+      "url": "https://github.com/browser-use/macos-harness",
+      "stars": 709,
+      "language": "Python",
+      "created": "2026-08-17",
+      "topics": [
+        "accessibility",
+        "agent",
+        "automation",
+        "cdp",
+        "computer-use",
+        "macos",
+        "python"
+      ],
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "DenisSergeevitch/desktop-fly",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "stars": 694,
+      "language": "Swift",
+      "created": "2026-08-18",
+      "topics": [],
+      "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "SigmanticAI/apex-inference-chip",
+      "url": "https://github.com/SigmanticAI/apex-inference-chip",
+      "stars": 680,
+      "language": "Python",
+      "created": "2026-08-17",
+      "topics": [],
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Leutenegger/coldcard-airgap",
+      "url": "https://github.com/Leutenegger/coldcard-airgap",
+      "stars": 608,
+      "language": "Python",
+      "created": "2026-08-20",
+      "topics": [
+        "airgap",
+        "airgap-devkit",
+        "airgap-download",
+        "airgap-setup",
+        "airgap-tutorial",
+        "bitcoin",
+        "bitcoin-wallet",
+        "coldcard",
+        "coldcard-mk2",
+        "coldcard-mk4",
+        "cryptography",
+        "cryptography-algorithms",
+        "cryptography-tools",
+        "ledger",
+        "ledger-cli",
+        "ledger-wallet",
+        "metamask",
+        "metamask-desktop"
+      ],
+      "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "missuo/herdrm",
+      "url": "https://github.com/missuo/herdrm",
+      "stars": 607,
+      "language": "Swift",
+      "created": "2026-08-19",
+      "topics": [],
+      "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "stars": 594,
+      "language": "JavaScript",
+      "created": "2026-08-18",
+      "topics": [
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "floating-widget",
+        "plugin"
+      ],
+      "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Leutenegger/claudish-to-english",
+      "url": "https://github.com/Leutenegger/claudish-to-english",
+      "stars": 581,
+      "language": "Shell",
+      "created": "2026-08-21",
+      "topics": [],
+      "description": "Claude Code plugin that rewrites each assistant message into plain language on screen only. Local ollama by default; also codex CLI, Anthropic, or any OpenAI-compatible API. Fail-open. Optional Markdown rewrite.",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lanicer/cve-2026-41940-PoC",
+      "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+      "stars": 526,
+      "language": "Python",
+      "created": "2026-08-19",
+      "topics": [
+        "cpanel",
+        "cve",
+        "cve-2026-41940",
+        "cve-scanning",
+        "vulnerability-research"
+      ],
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "flaqai/backlink_skills",
+      "url": "https://github.com/flaqai/backlink_skills",
+      "stars": 525,
+      "language": "Python",
+      "created": "2026-08-17",
+      "topics": [
+        "backlinks",
+        "codex",
+        "codex-skill",
+        "free-backlinks",
+        "freebacklinks",
+        "seo",
+        "seo-optimization",
+        "seo-skills",
+        "seo-skills-for-ai-agents",
+        "seo-tools"
+      ],
+      "description": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "amirh00sain/SpiderPanel",
+      "url": "https://github.com/amirh00sain/SpiderPanel",
+      "stars": 518,
+      "language": "Python",
+      "created": "2026-08-18",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "joeseesun/qmreader-ios",
+      "url": "https://github.com/joeseesun/qmreader-ios",
+      "stars": 21,
+      "language": "Swift",
+      "created": "2026-08-23",
+      "topics": [
+        "chinese",
+        "ios",
+        "open-source",
+        "qiaomu",
+        "reader-app",
+        "rss-reader",
+        "swiftui",
+        "translation"
+      ],
+      "description": "专注中文长文、翻译与乔木改写的原生 iOS 阅读器 | Native iOS reader for Chinese long-form reading, translation, and Qiaomu rewrites.",
+      "date": "2026-08-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yeying-xingchen/qualification-test",
+      "url": "https://github.com/yeying-xingchen/qualification-test",
+      "stars": 16,
+      "language": "Python",
+      "created": "2026-08-23",
+      "topics": [],
+      "description": "Test your openai account gcash pay qualification",
+      "date": "2026-08-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MervLis/chatgpt-rebind-standalone",
+      "url": "https://github.com/MervLis/chatgpt-rebind-standalone",
+      "stars": 8,
+      "language": "Python",
+      "created": "2026-08-23",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "TeleHuman/WNM-3D",
+      "url": "https://github.com/TeleHuman/WNM-3D",
+      "stars": 6,
+      "language": "Python",
+      "created": "2026-08-23",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kelvinagyareyeboah/Driftnote",
+      "url": "https://github.com/kelvinagyareyeboah/Driftnote",
+      "stars": 5,
+      "language": "TypeScript",
+      "created": "2026-08-23",
+      "topics": [],
+      "description": "Offline-first React Native note app built with Expo SDK 54, SQLite persistence, background sync engine, and Expo Router.",
+      "date": "2026-08-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 185806,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-08-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "stars": 18520,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-08-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "stars": 17961,
+      "language": "Rust",
+      "created": "2026-08-03",
+      "topics": [],
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "date": "2026-08-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "stars": 17138,
+      "language": "Python",
+      "created": "2026-08-11",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "anthropic",
+        "c2pa",
+        "chatgpt",
+        "claude",
+        "gemini",
+        "openai",
+        "provenance",
+        "synthid",
+        "watermark",
+        "watermark-detection",
+        "watermark-tools",
+        "watermarking",
+        "watermarks"
+      ],
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "date": "2026-08-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "stars": 14084,
+      "language": "TypeScript",
+      "created": "2026-07-29",
+      "topics": [
+        "ai",
+        "assistant",
+        "harness",
+        "qm"
+      ],
+      "description": "Multiplayer agent harness for work.",
+      "date": "2026-08-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "s1dashu/ip-as-logo-skill",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
@@ -20026,6 +20564,15 @@
     }
   ],
   "metadata": {
+    "2026-08-23": {
+      "ai_relevant_count": 16,
+      "top_ai_pick": {
+        "name": "s1dashu/ip-as-logo-skill",
+        "url": "https://github.com/s1dashu/ip-as-logo-skill",
+        "stars": 3816,
+        "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos."
+      }
+    },
     "2026-08-22": {
       "ai_relevant_count": 16,
       "top_ai_pick": {
@@ -20420,9 +20967,22 @@
   },
   "language_stats": {
     "Python": {
-      "count": 366,
-      "total_stars": 1098897,
+      "count": 379,
+      "total_stars": 1122613,
       "repos": [
+        "wang2122/sprix-sage-router",
+        "Leutenegger/watermarks-remover",
+        "Leutenegger/vanity-eth",
+        "browser-use/macos-harness",
+        "SigmanticAI/apex-inference-chip",
+        "Leutenegger/coldcard-airgap",
+        "lanicer/cve-2026-41940-PoC",
+        "flaqai/backlink_skills",
+        "amirh00sain/SpiderPanel",
+        "yeying-xingchen/qualification-test",
+        "MervLis/chatgpt-rebind-standalone",
+        "TeleHuman/WNM-3D",
+        "guillaumemeyer/watermarks-remover",
         "wang2122/sprix-sage-router",
         "Leutenegger/watermarks-remover",
         "Leutenegger/vanity-eth",
@@ -20792,9 +21352,15 @@
       ]
     },
     "TypeScript": {
-      "count": 283,
-      "total_stars": 1972761,
+      "count": 289,
+      "total_stars": 2196443,
       "repos": [
+        "yetone/cumora",
+        "CopilotKit/OpenBot",
+        "kelvinagyareyeboah/Driftnote",
+        "deepseek-ai/deepseek-harness",
+        "anywhere-labs/deepseek-harness-desktop",
+        "yc-software/qm",
         "yetone/cumora",
         "CopilotKit/OpenBot",
         "deepseek-ai/deepseek-harness",
@@ -21081,9 +21647,13 @@
       ]
     },
     "JavaScript": {
-      "count": 184,
-      "total_stars": 822025,
+      "count": 188,
+      "total_stars": 825702,
       "repos": [
+        "cinderline/northcinder",
+        "vvxw/deploy-vercel",
+        "Spielewoy/autoprompt-skill",
+        "MeteorNOX/DeepSeek-Balance-Whale-Widget",
         "cinderline/northcinder",
         "vvxw/deploy-vercel",
         "Spielewoy/autoprompt-skill",
@@ -21271,9 +21841,10 @@
       ]
     },
     "Unknown": {
-      "count": 117,
-      "total_stars": 140615,
+      "count": 118,
+      "total_stars": 144431,
       "repos": [
+        "s1dashu/ip-as-logo-skill",
         "s1dashu/ip-as-logo-skill",
         "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
         "RedDog007/http-retry-client",
@@ -21394,9 +21965,10 @@
       ]
     },
     "Rust": {
-      "count": 77,
-      "total_stars": 890162,
+      "count": 78,
+      "total_stars": 908123,
       "repos": [
+        "firecrawl/anydoc",
         "firecrawl/anydoc",
         "firecrawl/anydoc",
         "hairyf/deepseek-harness-desktop",
@@ -21477,9 +22049,10 @@
       ]
     },
     "HTML": {
-      "count": 48,
-      "total_stars": 31701,
+      "count": 49,
+      "total_stars": 33814,
       "repos": [
+        "MengTo/threeui",
         "MengTo/threeui",
         "liugg-blip/ai-quant-engine-main",
         "jaredrhod/barehands",
@@ -21580,9 +22153,12 @@
       ]
     },
     "Swift": {
-      "count": 35,
-      "total_stars": 17448,
+      "count": 38,
+      "total_stars": 18770,
       "repos": [
+        "DenisSergeevitch/desktop-fly",
+        "missuo/herdrm",
+        "joeseesun/qmreader-ios",
         "DenisSergeevitch/desktop-fly",
         "missuo/herdrm",
         "DenisSergeevitch/desktop-fly",
@@ -21621,9 +22197,10 @@
       ]
     },
     "Shell": {
-      "count": 27,
-      "total_stars": 17308,
+      "count": 28,
+      "total_stars": 17889,
       "repos": [
+        "Leutenegger/claudish-to-english",
         "Leutenegger/claudish-to-english",
         "gvzdv/claudish-to-english",
         "gvzdv/claudish-to-english",
@@ -21899,6 +22476,11 @@
     }
   },
   "date_stats": {
+    "2026-08-23": {
+      "count": 30,
+      "total_stars": 276868,
+      "ai_count": 0
+    },
     "2026-08-22": {
       "count": 30,
       "total_stars": 270132,
@@ -22121,6 +22703,23 @@
     }
   },
   "top_50_all_time": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 185806,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-08-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
@@ -22796,33 +23395,9 @@
       "is_ai_dev": false
     },
     {
-      "name": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "stars": 18059,
-      "language": "C",
-      "created": "2026-07-01",
-      "topics": [],
-      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "date": "2026-07-23",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "firecrawl/anydoc",
-      "url": "https://github.com/firecrawl/anydoc",
-      "stars": 17801,
-      "language": "Rust",
-      "created": "2026-08-03",
-      "topics": [],
-      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "date": "2026-08-22",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
       "name": "anywhere-labs/deepseek-harness-desktop",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "stars": 17778,
+      "stars": 18520,
       "language": "TypeScript",
       "created": "2026-08-13",
       "topics": [
@@ -22836,7 +23411,19 @@
         "dsh-plugin-desktop"
       ],
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars": 18059,
+      "language": "C",
+      "created": "2026-07-01",
+      "topics": [],
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "date": "2026-07-23",
       "section": "monthly",
       "is_ai_dev": false
     }
