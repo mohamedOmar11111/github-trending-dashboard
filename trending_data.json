@@ -1,9 +1,513 @@
 {
-  "last_updated": "2026-08-23T06:19:20.301012",
-  "total_repos": 1316,
-  "total_dates": 45,
-  "total_unique_languages": 32,
+  "last_updated": "2026-08-24T06:31:19.442324",
+  "total_repos": 1346,
+  "total_dates": 46,
+  "total_unique_languages": 34,
   "repos": [
+    {
+      "name": "s1dashu/ip-as-logo-skill",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "stars": 3977,
+      "language": "Unknown",
+      "created": "2026-08-18",
+      "topics": [
+        "codex",
+        "codex-skill",
+        "image-generation",
+        "logo-design",
+        "mascot-design"
+      ],
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MengTo/threeui",
+      "url": "https://github.com/MengTo/threeui",
+      "stars": 3110,
+      "language": "HTML",
+      "created": "2026-08-21",
+      "topics": [
+        "react",
+        "shaders",
+        "threejs",
+        "ui-components",
+        "webgl"
+      ],
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wang2122/sprix-sage-router",
+      "url": "https://github.com/wang2122/sprix-sage-router",
+      "stars": 1606,
+      "language": "Python",
+      "created": "2026-08-18",
+      "topics": [
+        "a2a",
+        "agent-orchestration",
+        "agent-routing",
+        "ai-agents",
+        "multi-agent-systems",
+        "python",
+        "sprix-ai",
+        "task-scheduling"
+      ],
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "vvxw/deploy-vercel",
+      "url": "https://github.com/vvxw/deploy-vercel",
+      "stars": 1239,
+      "language": "JavaScript",
+      "created": "2026-08-18",
+      "topics": [],
+      "description": "Install Command：npm install",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "duty1g/x64dbg-mcp-server",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "stars": 1005,
+      "language": "Zig",
+      "created": "2026-08-22",
+      "topics": [
+        "ai-agents",
+        "ai-debugging",
+        "binary-analysis",
+        "claude",
+        "claude-code",
+        "malware-analysis",
+        "malware-research",
+        "malware-scanner",
+        "mcp",
+        "mcp-server",
+        "mcp-servers",
+        "x64dbg",
+        "x64dbg-mcp",
+        "x64dbg-plugin",
+        "x64dbg-tools",
+        "xdbg",
+        "zig",
+        "zig-lang",
+        "ziglang"
+      ],
+      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "stars": 761,
+      "language": "JavaScript",
+      "created": "2026-08-18",
+      "topics": [
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "floating-widget",
+        "plugin"
+      ],
+      "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ShadowAqueduct/watermark-remover",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "stars": 760,
+      "language": "Python",
+      "created": "2026-08-23",
+      "topics": [
+        "claude-ai",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex",
+        "codex-cli",
+        "codex-skill",
+        "codex-skills",
+        "watermark"
+      ],
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "cclank/lanshu-create-ai-presenter-video",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "stars": 718,
+      "language": "Python",
+      "created": "2026-08-20",
+      "topics": [
+        "ai-video",
+        "codex",
+        "codex-skill",
+        "digital-human",
+        "video-generation"
+      ],
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "DenisSergeevitch/desktop-fly",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "stars": 707,
+      "language": "Swift",
+      "created": "2026-08-18",
+      "topics": [],
+      "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "amirh00sain/SpiderPanel",
+      "url": "https://github.com/amirh00sain/SpiderPanel",
+      "stars": 620,
+      "language": "Python",
+      "created": "2026-08-18",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "missuo/herdrm",
+      "url": "https://github.com/missuo/herdrm",
+      "stars": 615,
+      "language": "Swift",
+      "created": "2026-08-19",
+      "topics": [],
+      "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "iAmCorey/Wake",
+      "url": "https://github.com/iAmCorey/Wake",
+      "stars": 561,
+      "language": "Rust",
+      "created": "2026-08-18",
+      "topics": [],
+      "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nateherkai/scroll-craft",
+      "url": "https://github.com/nateherkai/scroll-craft",
+      "stars": 529,
+      "language": "JavaScript",
+      "created": "2026-08-22",
+      "topics": [
+        "accessibility",
+        "agent-skills",
+        "ai-web-design",
+        "anthropic",
+        "claude-code",
+        "claude-code-plugin",
+        "creative-coding",
+        "design-system",
+        "frontend",
+        "interaction-design",
+        "landing-page",
+        "scroll-animation",
+        "scrollytelling",
+        "typography",
+        "web-design"
+      ],
+      "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lanicer/cve-2026-41940-PoC",
+      "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+      "stars": 527,
+      "language": "Python",
+      "created": "2026-08-19",
+      "topics": [
+        "cpanel",
+        "cve",
+        "cve-2026-41940",
+        "cve-scanning",
+        "vulnerability-research"
+      ],
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Forsy-AI/biosecurity-agent",
+      "url": "https://github.com/Forsy-AI/biosecurity-agent",
+      "stars": 511,
+      "language": "TypeScript",
+      "created": "2026-08-22",
+      "topics": [],
+      "description": "AI agent that builds a live biosecurity world around any target.",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tobi/walgit",
+      "url": "https://github.com/tobi/walgit",
+      "stars": 489,
+      "language": "Rust",
+      "created": "2026-08-23",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xdreizein666/getcontact-cli",
+      "url": "https://github.com/xdreizein666/getcontact-cli",
+      "stars": 482,
+      "language": "Python",
+      "created": "2026-08-20",
+      "topics": [],
+      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "PentagonConure42/youtube-downloader-zen",
+      "url": "https://github.com/PentagonConure42/youtube-downloader-zen",
+      "stars": 461,
+      "language": "Unknown",
+      "created": "2026-08-18",
+      "topics": [
+        "4k-downloader-multithreaded-downloads",
+        "8k-download",
+        "media-downloader",
+        "python-youtube-api",
+        "video-cut-tool",
+        "youtube-4k-downloader",
+        "youtube-clip-downloader",
+        "youtube-dl-android",
+        "youtube-downloader-gui",
+        "youtube-videos-downloader",
+        "yt-downloader"
+      ],
+      "description": "Youtube Downloader Zen",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "amagine-ai/Amagine3D",
+      "url": "https://github.com/amagine-ai/Amagine3D",
+      "stars": 358,
+      "language": "TypeScript",
+      "created": "2026-08-19",
+      "topics": [],
+      "description": "Amagine3D: From hardware requirements to editable 3D designs",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mrhlaingbwardev/Telegram-Secure-Storage-Bot",
+      "url": "https://github.com/mrhlaingbwardev/Telegram-Secure-Storage-Bot",
+      "stars": 343,
+      "language": "JavaScript",
+      "created": "2026-08-19",
+      "topics": [],
+      "description": "A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
+      "date": "2026-08-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "halarewich/slotstream",
+      "url": "https://github.com/halarewich/slotstream",
+      "stars": 39,
+      "language": "Rust",
+      "created": "2026-08-24",
+      "topics": [],
+      "description": "Polyglot real-time observability platform for the Solana blockchain",
+      "date": "2026-08-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "bryllim/workout-guide",
+      "url": "https://github.com/bryllim/workout-guide",
+      "stars": 18,
+      "language": "Astro",
+      "created": "2026-08-24",
+      "topics": [
+        "exercise",
+        "expo",
+        "fitness",
+        "npm-package",
+        "open-source",
+        "react-native",
+        "workout"
+      ],
+      "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+      "date": "2026-08-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "DEVENDRA-5470/eks-cluster",
+      "url": "https://github.com/DEVENDRA-5470/eks-cluster",
+      "stars": 18,
+      "language": "Unknown",
+      "created": "2026-08-24",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ns2250225/jiditie",
+      "url": "https://github.com/ns2250225/jiditie",
+      "stars": 16,
+      "language": "TypeScript",
+      "created": "2026-08-24",
+      "topics": [],
+      "description": "挤地铁小游戏，你能挤上广州地铁3号线吗",
+      "date": "2026-08-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "haishishushu/auth-center",
+      "url": "https://github.com/haishishushu/auth-center",
+      "stars": 13,
+      "language": "Java",
+      "created": "2026-08-24",
+      "topics": [],
+      "description": "鉴权中台服务：面向多单体应用与微服务的统一认证授权平台（IAM/RBAC）。基于 Spring Boot 3、Spring Security、Vue 3、JWT、MySQL 与 Redis，集中管理用户、角色、权限、API Key、会话和审计日志，支持 Spring Boot Starter 与跨语言（如python、C++） HTTP API 快速接入。",
+      "date": "2026-08-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 189340,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-08-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "stars": 19240,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-08-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "stars": 18139,
+      "language": "Rust",
+      "created": "2026-08-03",
+      "topics": [],
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "date": "2026-08-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "stars": 17568,
+      "language": "Python",
+      "created": "2026-08-11",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "anthropic",
+        "c2pa",
+        "chatgpt",
+        "claude",
+        "gemini",
+        "openai",
+        "provenance",
+        "synthid",
+        "watermark",
+        "watermark-detection",
+        "watermark-tools",
+        "watermarking",
+        "watermarks"
+      ],
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "date": "2026-08-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "stars": 14124,
+      "language": "TypeScript",
+      "created": "2026-07-29",
+      "topics": [
+        "ai",
+        "assistant",
+        "harness",
+        "qm"
+      ],
+      "description": "Multiplayer agent harness for work.",
+      "date": "2026-08-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "s1dashu/ip-as-logo-skill",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
@@ -20564,6 +21068,15 @@
     }
   ],
   "metadata": {
+    "2026-08-24": {
+      "ai_relevant_count": 15,
+      "top_ai_pick": {
+        "name": "s1dashu/ip-as-logo-skill",
+        "url": "https://github.com/s1dashu/ip-as-logo-skill",
+        "stars": 3977,
+        "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos."
+      }
+    },
     "2026-08-23": {
       "ai_relevant_count": 16,
       "top_ai_pick": {
@@ -20967,9 +21480,16 @@
   },
   "language_stats": {
     "Python": {
-      "count": 379,
-      "total_stars": 1122613,
+      "count": 386,
+      "total_stars": 1144894,
       "repos": [
+        "wang2122/sprix-sage-router",
+        "ShadowAqueduct/watermark-remover",
+        "cclank/lanshu-create-ai-presenter-video",
+        "amirh00sain/SpiderPanel",
+        "lanicer/cve-2026-41940-PoC",
+        "xdreizein666/getcontact-cli",
+        "guillaumemeyer/watermarks-remover",
         "wang2122/sprix-sage-router",
         "Leutenegger/watermarks-remover",
         "Leutenegger/vanity-eth",
@@ -21352,9 +21872,15 @@
       ]
     },
     "TypeScript": {
-      "count": 289,
-      "total_stars": 2196443,
+      "count": 295,
+      "total_stars": 2420032,
       "repos": [
+        "Forsy-AI/biosecurity-agent",
+        "amagine-ai/Amagine3D",
+        "ns2250225/jiditie",
+        "deepseek-ai/deepseek-harness",
+        "anywhere-labs/deepseek-harness-desktop",
+        "yc-software/qm",
         "yetone/cumora",
         "CopilotKit/OpenBot",
         "kelvinagyareyeboah/Driftnote",
@@ -21647,9 +22173,13 @@
       ]
     },
     "JavaScript": {
-      "count": 188,
-      "total_stars": 825702,
+      "count": 192,
+      "total_stars": 828574,
       "repos": [
+        "vvxw/deploy-vercel",
+        "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+        "nateherkai/scroll-craft",
+        "mrhlaingbwardev/Telegram-Secure-Storage-Bot",
         "cinderline/northcinder",
         "vvxw/deploy-vercel",
         "Spielewoy/autoprompt-skill",
@@ -21841,9 +22371,12 @@
       ]
     },
     "Unknown": {
-      "count": 118,
-      "total_stars": 144431,
+      "count": 121,
+      "total_stars": 148887,
       "repos": [
+        "s1dashu/ip-as-logo-skill",
+        "PentagonConure42/youtube-downloader-zen",
+        "DEVENDRA-5470/eks-cluster",
         "s1dashu/ip-as-logo-skill",
         "s1dashu/ip-as-logo-skill",
         "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
@@ -21965,9 +22498,13 @@
       ]
     },
     "Rust": {
-      "count": 78,
-      "total_stars": 908123,
+      "count": 82,
+      "total_stars": 927351,
       "repos": [
+        "iAmCorey/Wake",
+        "tobi/walgit",
+        "halarewich/slotstream",
+        "firecrawl/anydoc",
         "firecrawl/anydoc",
         "firecrawl/anydoc",
         "firecrawl/anydoc",
@@ -22049,9 +22586,10 @@
       ]
     },
     "HTML": {
-      "count": 49,
-      "total_stars": 33814,
+      "count": 50,
+      "total_stars": 36924,
       "repos": [
+        "MengTo/threeui",
         "MengTo/threeui",
         "MengTo/threeui",
         "liugg-blip/ai-quant-engine-main",
@@ -22153,9 +22691,11 @@
       ]
     },
     "Swift": {
-      "count": 38,
-      "total_stars": 18770,
+      "count": 40,
+      "total_stars": 20092,
       "repos": [
+        "DenisSergeevitch/desktop-fly",
+        "missuo/herdrm",
         "DenisSergeevitch/desktop-fly",
         "missuo/herdrm",
         "joeseesun/qmreader-ios",
@@ -22344,6 +22884,16 @@
         "unicity-astrid/book"
       ]
     },
+    "Java": {
+      "count": 4,
+      "total_stars": 2060,
+      "repos": [
+        "haishishushu/auth-center",
+        "ZSvirt/zsvirt",
+        "ZSvirt/zsvirt",
+        "SmellyToes67/Calculate-Minecraft-Coordinates-From-Bedrock-Formation-"
+      ]
+    },
     "Objective-C": {
       "count": 4,
       "total_stars": 1568,
@@ -22352,15 +22902,6 @@
         "nfzerox/VirtualMacOniPad",
         "nfzerox/VirtualMacOniPad",
         "nfzerox/VirtualMacOniPad"
-      ]
-    },
-    "Java": {
-      "count": 3,
-      "total_stars": 2047,
-      "repos": [
-        "ZSvirt/zsvirt",
-        "ZSvirt/zsvirt",
-        "SmellyToes67/Calculate-Minecraft-Coordinates-From-Bedrock-Formation-"
       ]
     },
     "C#": {
@@ -22439,6 +22980,20 @@
         "harinishrisaravanan/Polllu-Sence"
       ]
     },
+    "Zig": {
+      "count": 1,
+      "total_stars": 1005,
+      "repos": [
+        "duty1g/x64dbg-mcp-server"
+      ]
+    },
+    "Astro": {
+      "count": 1,
+      "total_stars": 18,
+      "repos": [
+        "bryllim/workout-guide"
+      ]
+    },
     "Kotlin": {
       "count": 1,
       "total_stars": 6,
@@ -22476,6 +23031,11 @@
     }
   },
   "date_stats": {
+    "2026-08-24": {
+      "count": 30,
+      "total_stars": 277894,
+      "ai_count": 0
+    },
     "2026-08-23": {
       "count": 30,
       "total_stars": 276868,
@@ -22703,6 +23263,23 @@
     }
   },
   "top_50_all_time": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 189340,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-08-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
@@ -23371,6 +23948,27 @@
       "is_ai_dev": false
     },
     {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "stars": 19240,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-08-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "stars": 19228,
@@ -23391,39 +23989,6 @@
       "topics": [],
       "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "date": "2026-07-25",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "anywhere-labs/deepseek-harness-desktop",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "stars": 18520,
-      "language": "TypeScript",
-      "created": "2026-08-13",
-      "topics": [
-        "cordis",
-        "cordis-plugin",
-        "deepseek",
-        "deepseek-harness",
-        "desktop",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugin-desktop"
-      ],
-      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "date": "2026-08-23",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "stars": 18059,
-      "language": "C",
-      "created": "2026-07-01",
-      "topics": [],
-      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "date": "2026-07-23",
       "section": "monthly",
       "is_ai_dev": false
     }
