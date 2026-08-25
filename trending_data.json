@@ -1,9 +1,536 @@
 {
-  "last_updated": "2026-08-24T06:31:19.442324",
-  "total_repos": 1346,
-  "total_dates": 46,
+  "last_updated": "2026-08-25T06:22:32.374073",
+  "total_repos": 1376,
+  "total_dates": 47,
   "total_unique_languages": 34,
   "repos": [
+    {
+      "name": "MengTo/threeui",
+      "url": "https://github.com/MengTo/threeui",
+      "stars": 3650,
+      "language": "HTML",
+      "created": "2026-08-21",
+      "topics": [
+        "react",
+        "shaders",
+        "threejs",
+        "ui-components",
+        "webgl"
+      ],
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "b-nnett/grok-bot-0.18-reconstructed",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "stars": 2074,
+      "language": "TypeScript",
+      "created": "2026-08-23",
+      "topics": [],
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "duty1g/x64dbg-mcp-server",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "stars": 1275,
+      "language": "Zig",
+      "created": "2026-08-22",
+      "topics": [
+        "ai-agents",
+        "ai-debugging",
+        "binary-analysis",
+        "claude",
+        "claude-code",
+        "malware-analysis",
+        "malware-research",
+        "malware-scanner",
+        "mcp",
+        "mcp-server",
+        "mcp-servers",
+        "x64dbg",
+        "x64dbg-mcp",
+        "x64dbg-plugin",
+        "x64dbg-tools",
+        "xdbg",
+        "zig",
+        "zig-lang",
+        "ziglang"
+      ],
+      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tobi/walgit",
+      "url": "https://github.com/tobi/walgit",
+      "stars": 1192,
+      "language": "Rust",
+      "created": "2026-08-23",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "cclank/lanshu-create-ai-presenter-video",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "stars": 853,
+      "language": "Python",
+      "created": "2026-08-20",
+      "topics": [
+        "ai-video",
+        "codex",
+        "codex-skill",
+        "digital-human",
+        "video-generation"
+      ],
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ShadowAqueduct/watermark-remover",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "stars": 778,
+      "language": "Python",
+      "created": "2026-08-23",
+      "topics": [
+        "claude-ai",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex",
+        "codex-cli",
+        "codex-skill",
+        "codex-skills",
+        "watermark"
+      ],
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nateherkai/scroll-craft",
+      "url": "https://github.com/nateherkai/scroll-craft",
+      "stars": 689,
+      "language": "JavaScript",
+      "created": "2026-08-22",
+      "topics": [
+        "accessibility",
+        "agent-skills",
+        "ai-web-design",
+        "anthropic",
+        "claude-code",
+        "claude-code-plugin",
+        "creative-coding",
+        "design-system",
+        "frontend",
+        "interaction-design",
+        "landing-page",
+        "scroll-animation",
+        "scrollytelling",
+        "typography",
+        "web-design"
+      ],
+      "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "missuo/herdrm",
+      "url": "https://github.com/missuo/herdrm",
+      "stars": 625,
+      "language": "Swift",
+      "created": "2026-08-19",
+      "topics": [],
+      "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lanicer/cve-2026-41940-PoC",
+      "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+      "stars": 528,
+      "language": "Python",
+      "created": "2026-08-19",
+      "topics": [
+        "cpanel",
+        "cve",
+        "cve-2026-41940",
+        "cve-scanning",
+        "vulnerability-research"
+      ],
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Forsy-AI/biosecurity-agent",
+      "url": "https://github.com/Forsy-AI/biosecurity-agent",
+      "stars": 513,
+      "language": "TypeScript",
+      "created": "2026-08-22",
+      "topics": [],
+      "description": "AI agent that builds a live biosecurity world around any target.",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xdreizein666/getcontact-cli",
+      "url": "https://github.com/xdreizein666/getcontact-cli",
+      "stars": 485,
+      "language": "Python",
+      "created": "2026-08-20",
+      "topics": [],
+      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Zyrexnn/Cybermes",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "stars": 481,
+      "language": "Python",
+      "created": "2026-08-19",
+      "topics": [
+        "ai-agent",
+        "appsec",
+        "bug-bounty",
+        "cvss-v3",
+        "cybersecurity",
+        "devsecops",
+        "exploit-validation",
+        "hermes-agent",
+        "infosec",
+        "llm-security",
+        "nuclei",
+        "offensive-security",
+        "penetration-testing",
+        "playwright",
+        "reconnaissance",
+        "red-teaming",
+        "security-tools",
+        "sqlmap",
+        "threat-research",
+        "vulnerability-scanner"
+      ],
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "localai-org/kimodo.cpp",
+      "url": "https://github.com/localai-org/kimodo.cpp",
+      "stars": 443,
+      "language": "C++",
+      "created": "2026-08-22",
+      "topics": [],
+      "description": "NVIDIA Kimodo ported to C++/GGML",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "amagine-ai/Amagine3D",
+      "url": "https://github.com/amagine-ai/Amagine3D",
+      "stars": 426,
+      "language": "TypeScript",
+      "created": "2026-08-19",
+      "topics": [],
+      "description": "Amagine3D: From hardware requirements to editable 3D designs",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "LB623/no-negative-echo",
+      "url": "https://github.com/LB623/no-negative-echo",
+      "stars": 357,
+      "language": "Python",
+      "created": "2026-08-21",
+      "topics": [
+        "agent-skills",
+        "chinese",
+        "codex",
+        "codex-skill",
+        "prompt-engineering"
+      ],
+      "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mrhlaingbwardev/Telegram-Secure-Storage-Bot",
+      "url": "https://github.com/mrhlaingbwardev/Telegram-Secure-Storage-Bot",
+      "stars": 345,
+      "language": "JavaScript",
+      "created": "2026-08-19",
+      "topics": [],
+      "description": "A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kgoedecke/doop",
+      "url": "https://github.com/kgoedecke/doop",
+      "stars": 333,
+      "language": "TypeScript",
+      "created": "2026-08-22",
+      "topics": [
+        "ai-agents",
+        "canvas",
+        "claude",
+        "claude-code",
+        "claude-design",
+        "design",
+        "design-tool",
+        "mcp",
+        "multiplayer"
+      ],
+      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ApodexAI/FrontierAgent",
+      "url": "https://github.com/ApodexAI/FrontierAgent",
+      "stars": 323,
+      "language": "Python",
+      "created": "2026-08-22",
+      "topics": [
+        "agent-orchestration",
+        "agentic-ai",
+        "agentic-framework",
+        "ai-agents",
+        "harness",
+        "multi-agent",
+        "terminal-agent",
+        "tui"
+      ],
+      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "rome-os/rome",
+      "url": "https://github.com/rome-os/rome",
+      "stars": 300,
+      "language": "TypeScript",
+      "created": "2026-08-23",
+      "topics": [
+        "agent",
+        "agent-os",
+        "claude-code",
+        "codex",
+        "llm"
+      ],
+      "description": "Rome is the agentic OS.",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "inkboard/system-atlas",
+      "url": "https://github.com/inkboard/system-atlas",
+      "stars": 270,
+      "language": "HTML",
+      "created": "2026-08-20",
+      "topics": [],
+      "description": "An agent skill that turns an architecture discussion into an explorable isometric atlas: one data file, an interactive map and a generated SYSTEM.md",
+      "date": "2026-08-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MediatorAxle/How-To-Fish-Trainer",
+      "url": "https://github.com/MediatorAxle/How-To-Fish-Trainer",
+      "stars": 250,
+      "language": "C++",
+      "created": "2026-08-25",
+      "topics": [
+        "how-to-fish",
+        "how-to-fish-2026",
+        "how-to-fish-cheat",
+        "how-to-fish-cheats",
+        "how-to-fish-hack",
+        "how-to-fish-mod",
+        "how-to-fish-mod-menu",
+        "how-to-fish-trainer"
+      ],
+      "description": "How to Fish trainer for PC — infinite money and ammo, never lose a fish, birds stop stealing your catch, unlock every weapon and island, guaranteed rare variants. 45+ options across 5 sections. Host-only guard on by default, fishing-minigame skips tagged and disabled. Steam, 1-4 player co-op.",
+      "date": "2026-08-25",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dragthelake/ambient-context",
+      "url": "https://github.com/dragthelake/ambient-context",
+      "stars": 18,
+      "language": "Rust",
+      "created": "2026-08-25",
+      "topics": [],
+      "description": "A menu bar app that keeps a written record of what you worked on.",
+      "date": "2026-08-25",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "backtrue/budget-review-skill",
+      "url": "https://github.com/backtrue/budget-review-skill",
+      "stars": 10,
+      "language": "Unknown",
+      "created": "2026-08-25",
+      "topics": [],
+      "description": "",
+      "date": "2026-08-25",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "adnogpu/TXCaptcha",
+      "url": "https://github.com/adnogpu/TXCaptcha",
+      "stars": 10,
+      "language": "Python",
+      "created": "2026-08-25",
+      "topics": [
+        "captcha",
+        "curl-cffi",
+        "onnx",
+        "opencv",
+        "python",
+        "tencent"
+      ],
+      "description": "tx防水墙验证码自动化求解器：滑块、图形点选、文字点选三种类型。Python + OpenCV + ONNX 实现，curl-cffi 模拟 Chrome TLS 指纹。仅供学习用途。",
+      "date": "2026-08-25",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pokemon225/ax-platform-mcp",
+      "url": "https://github.com/pokemon225/ax-platform-mcp",
+      "stars": 10,
+      "language": "HTML",
+      "created": "2026-08-25",
+      "topics": [],
+      "description": "aX - agent-native collaboration network for long-running agents. Remote MCP server: messaging, tasks, shared context, search, MCP Apps.",
+      "date": "2026-08-25",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 193052,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-08-25",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "stars": 19881,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-08-25",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "stars": 18332,
+      "language": "Rust",
+      "created": "2026-08-03",
+      "topics": [],
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "date": "2026-08-25",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "stars": 18011,
+      "language": "Python",
+      "created": "2026-08-11",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "anthropic",
+        "c2pa",
+        "chatgpt",
+        "claude",
+        "gemini",
+        "openai",
+        "provenance",
+        "synthid",
+        "watermark",
+        "watermark-detection",
+        "watermark-tools",
+        "watermarking",
+        "watermarks"
+      ],
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "date": "2026-08-25",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "stars": 14165,
+      "language": "TypeScript",
+      "created": "2026-07-29",
+      "topics": [
+        "ai",
+        "assistant",
+        "harness",
+        "qm"
+      ],
+      "description": "Multiplayer agent harness for work.",
+      "date": "2026-08-25",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "s1dashu/ip-as-logo-skill",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
@@ -21068,6 +21595,15 @@
     }
   ],
   "metadata": {
+    "2026-08-25": {
+      "ai_relevant_count": 16,
+      "top_ai_pick": {
+        "name": "duty1g/x64dbg-mcp-server",
+        "url": "https://github.com/duty1g/x64dbg-mcp-server",
+        "stars": 1275,
+        "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros"
+      }
+    },
     "2026-08-24": {
       "ai_relevant_count": 15,
       "top_ai_pick": {
@@ -21480,9 +22016,18 @@
   },
   "language_stats": {
     "Python": {
-      "count": 386,
-      "total_stars": 1144894,
+      "count": 395,
+      "total_stars": 1166720,
       "repos": [
+        "cclank/lanshu-create-ai-presenter-video",
+        "ShadowAqueduct/watermark-remover",
+        "lanicer/cve-2026-41940-PoC",
+        "xdreizein666/getcontact-cli",
+        "Zyrexnn/Cybermes",
+        "LB623/no-negative-echo",
+        "ApodexAI/FrontierAgent",
+        "adnogpu/TXCaptcha",
+        "guillaumemeyer/watermarks-remover",
         "wang2122/sprix-sage-router",
         "ShadowAqueduct/watermark-remover",
         "cclank/lanshu-create-ai-presenter-video",
@@ -21872,9 +22417,17 @@
       ]
     },
     "TypeScript": {
-      "count": 295,
-      "total_stars": 2420032,
+      "count": 303,
+      "total_stars": 2650776,
       "repos": [
+        "b-nnett/grok-bot-0.18-reconstructed",
+        "Forsy-AI/biosecurity-agent",
+        "amagine-ai/Amagine3D",
+        "kgoedecke/doop",
+        "rome-os/rome",
+        "deepseek-ai/deepseek-harness",
+        "anywhere-labs/dsh-desktop",
+        "yc-software/qm",
         "Forsy-AI/biosecurity-agent",
         "amagine-ai/Amagine3D",
         "ns2250225/jiditie",
@@ -22173,9 +22726,11 @@
       ]
     },
     "JavaScript": {
-      "count": 192,
-      "total_stars": 828574,
+      "count": 194,
+      "total_stars": 829608,
       "repos": [
+        "nateherkai/scroll-craft",
+        "mrhlaingbwardev/Telegram-Secure-Storage-Bot",
         "vvxw/deploy-vercel",
         "MeteorNOX/DeepSeek-Balance-Whale-Widget",
         "nateherkai/scroll-craft",
@@ -22371,9 +22926,10 @@
       ]
     },
     "Unknown": {
-      "count": 121,
-      "total_stars": 148887,
+      "count": 122,
+      "total_stars": 148897,
       "repos": [
+        "backtrue/budget-review-skill",
         "s1dashu/ip-as-logo-skill",
         "PentagonConure42/youtube-downloader-zen",
         "DEVENDRA-5470/eks-cluster",
@@ -22498,9 +23054,12 @@
       ]
     },
     "Rust": {
-      "count": 82,
-      "total_stars": 927351,
+      "count": 85,
+      "total_stars": 946893,
       "repos": [
+        "tobi/walgit",
+        "dragthelake/ambient-context",
+        "firecrawl/anydoc",
         "iAmCorey/Wake",
         "tobi/walgit",
         "halarewich/slotstream",
@@ -22586,9 +23145,12 @@
       ]
     },
     "HTML": {
-      "count": 50,
-      "total_stars": 36924,
+      "count": 53,
+      "total_stars": 40854,
       "repos": [
+        "MengTo/threeui",
+        "inkboard/system-atlas",
+        "pokemon225/ax-platform-mcp",
         "MengTo/threeui",
         "MengTo/threeui",
         "MengTo/threeui",
@@ -22691,9 +23253,10 @@
       ]
     },
     "Swift": {
-      "count": 40,
-      "total_stars": 20092,
+      "count": 41,
+      "total_stars": 20717,
       "repos": [
+        "missuo/herdrm",
         "DenisSergeevitch/desktop-fly",
         "missuo/herdrm",
         "DenisSergeevitch/desktop-fly",
@@ -22802,9 +23365,11 @@
       ]
     },
     "C++": {
-      "count": 12,
-      "total_stars": 3623,
+      "count": 14,
+      "total_stars": 4316,
       "repos": [
+        "localai-org/kimodo.cpp",
+        "MediatorAxle/How-To-Fish-Trainer",
         "MSNightmare/ShieldBreak",
         "MSNightmare/ShieldBreak",
         "jmarshall23/Quake_4_Alpha",
@@ -22940,6 +23505,14 @@
         "canonicalise/up"
       ]
     },
+    "Zig": {
+      "count": 2,
+      "total_stars": 2280,
+      "repos": [
+        "duty1g/x64dbg-mcp-server",
+        "duty1g/x64dbg-mcp-server"
+      ]
+    },
     "QML": {
       "count": 2,
       "total_stars": 486,
@@ -22978,13 +23551,6 @@
       "repos": [
         "harinishri2204-cpu/Pollu-Sence",
         "harinishrisaravanan/Polllu-Sence"
-      ]
-    },
-    "Zig": {
-      "count": 1,
-      "total_stars": 1005,
-      "repos": [
-        "duty1g/x64dbg-mcp-server"
       ]
     },
     "Astro": {
@@ -23031,6 +23597,11 @@
     }
   },
   "date_stats": {
+    "2026-08-25": {
+      "count": 30,
+      "total_stars": 279679,
+      "ai_count": 0
+    },
     "2026-08-24": {
       "count": 30,
       "total_stars": 277894,
@@ -23263,6 +23834,23 @@
     }
   },
   "top_50_all_time": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 193052,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-08-25",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
@@ -23924,6 +24512,27 @@
       "is_ai_dev": false
     },
     {
+      "name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "stars": 19881,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-08-25",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "stars": 19817,
@@ -23965,30 +24574,6 @@
       ],
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "date": "2026-08-24",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "stars": 19228,
-      "language": "C",
-      "created": "2026-07-01",
-      "topics": [],
-      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "date": "2026-07-26",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "stars": 18746,
-      "language": "C",
-      "created": "2026-07-01",
-      "topics": [],
-      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "date": "2026-07-25",
       "section": "monthly",
       "is_ai_dev": false
     }
