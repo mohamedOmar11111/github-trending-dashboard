@@ -1,9 +1,578 @@
 {
-  "last_updated": "2026-09-02T10:02:24.327738",
-  "total_repos": 1614,
-  "total_dates": 55,
+  "last_updated": "2026-09-03T10:12:51.485189",
+  "total_repos": 1644,
+  "total_dates": 56,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "stars": 2326,
+      "language": "TypeScript",
+      "created": "2026-08-28",
+      "topics": [
+        "ai-agents",
+        "chatgpt",
+        "codex",
+        "mcp",
+        "model-context-protocol",
+        "oauth"
+      ],
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Nanako0129/sepia",
+      "url": "https://github.com/Nanako0129/sepia",
+      "stars": 1737,
+      "language": "Python",
+      "created": "2026-08-28",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "fiction",
+        "grok",
+        "humanizer",
+        "llm",
+        "prompt-engineering",
+        "writing-tools"
+      ],
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MetaMask-AI/metamask-desktop",
+      "url": "https://github.com/MetaMask-AI/metamask-desktop",
+      "stars": 1230,
+      "language": "CSS",
+      "created": "2026-08-28",
+      "topics": [
+        "bitcoin",
+        "bitcoin-wallet",
+        "crypto",
+        "cryptocoins",
+        "cryptocompare-api",
+        "cryptocurrency",
+        "dapp",
+        "ethereum",
+        "ethereum-blockchain",
+        "ethereum-wallet",
+        "evm",
+        "evm-wallet",
+        "macos",
+        "metamask",
+        "metamask-dapp",
+        "metamask-desktop",
+        "metamask-io",
+        "solana",
+        "web3",
+        "windows"
+      ],
+      "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "cbrock84/headcount",
+      "url": "https://github.com/cbrock84/headcount",
+      "stars": 1141,
+      "language": "Markdown",
+      "created": "2026-08-28",
+      "topics": [
+        "agent-marketplace",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-plugin",
+        "claude-skills",
+        "mcp"
+      ],
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anthropics/commerce-agents",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "stars": 1002,
+      "language": "Python",
+      "created": "2026-09-01",
+      "topics": [],
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "GangTailorUpgrade/undress-service",
+      "url": "https://github.com/GangTailorUpgrade/undress-service",
+      "stars": 963,
+      "language": "Python",
+      "created": "2026-08-31",
+      "topics": [
+        "18comic",
+        "coomer",
+        "coomer-downloader",
+        "coomer-party",
+        "coomer-porn",
+        "coomer-su",
+        "doujin-moe",
+        "ehviewer",
+        "ex-hentai",
+        "explicit-content",
+        "hitomi-la",
+        "kemono",
+        "kemono-downloader",
+        "kemono-oarty",
+        "kemono-party",
+        "kemono-porn",
+        "kemono-su",
+        "nudity",
+        "sex",
+        "unrestricted-ai"
+      ],
+      "description": "Dress AI Sponsor",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "rakanki911/DLSS5-Swapper",
+      "url": "https://github.com/rakanki911/DLSS5-Swapper",
+      "stars": 790,
+      "language": "JavaScript",
+      "created": "2026-08-29",
+      "topics": [],
+      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "shadcn-ui/cn",
+      "url": "https://github.com/shadcn-ui/cn",
+      "stars": 768,
+      "language": "TypeScript",
+      "created": "2026-08-31",
+      "topics": [
+        "clsx",
+        "cn",
+        "shadcn",
+        "tailwind-merge",
+        "tailwindcss"
+      ],
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "chrisgreg/boop",
+      "url": "https://github.com/chrisgreg/boop",
+      "stars": 691,
+      "language": "Go",
+      "created": "2026-08-28",
+      "topics": [],
+      "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Player-YN/PawWork_ZhuaZhua",
+      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+      "stars": 663,
+      "language": "JavaScript",
+      "created": "2026-08-28",
+      "topics": [
+        "ai-agent",
+        "browser-agent",
+        "byok",
+        "chrome-extension",
+        "llm",
+        "pptx",
+        "tldraw",
+        "univer"
+      ],
+      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "2akouwu/reverify",
+      "url": "https://github.com/2akouwu/reverify",
+      "stars": 661,
+      "language": "Python",
+      "created": "2026-08-31",
+      "topics": [
+        "agentic-workflow",
+        "ai-agents",
+        "automation",
+        "binary-analysis",
+        "codex",
+        "codex-cli",
+        "ctf",
+        "developer-tools",
+        "disassembler",
+        "execution-first",
+        "frida",
+        "hooks",
+        "malware-analysis",
+        "mcp",
+        "openai",
+        "powershell",
+        "prompt-engineering",
+        "reverse-engineering",
+        "skills",
+        "windows"
+      ],
+      "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jlrouzies-fr/DLSS5-Feeder",
+      "url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
+      "stars": 625,
+      "language": "C++",
+      "created": "2026-08-29",
+      "topics": [],
+      "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "fanhao375/microduck-replica",
+      "url": "https://github.com/fanhao375/microduck-replica",
+      "stars": 399,
+      "language": "Python",
+      "created": "2026-08-28",
+      "topics": [],
+      "description": "Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lightorigins/LightNav-0",
+      "url": "https://github.com/lightorigins/LightNav-0",
+      "stars": 379,
+      "language": "Python",
+      "created": "2026-08-28",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+      "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+      "stars": 376,
+      "language": "Shell",
+      "created": "2026-08-29",
+      "topics": [
+        "ai-seo",
+        "backlinks",
+        "claude",
+        "claude-skills",
+        "dataforseo",
+        "generative-engine-optimization",
+        "geo",
+        "keyword-research",
+        "mcp",
+        "mcp-server",
+        "open-source-seo",
+        "rank-tracking",
+        "seo",
+        "seo-audit"
+      ],
+      "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "subsy/skill-cabinet",
+      "url": "https://github.com/subsy/skill-cabinet",
+      "stars": 374,
+      "language": "JavaScript",
+      "created": "2026-08-31",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "aimen08/noty",
+      "url": "https://github.com/aimen08/noty",
+      "stars": 335,
+      "language": "HTML",
+      "created": "2026-08-29",
+      "topics": [],
+      "description": "Sticky notes that live at the edge of your screen. Native macOS, SwiftUI + AppKit, local-only with encrypted note bodies.",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Merserk/dlss5-visual-enhancer",
+      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+      "stars": 326,
+      "language": "Python",
+      "created": "2026-08-30",
+      "topics": [
+        "ai-upscaling",
+        "dlss",
+        "dlss-5",
+        "dlssg",
+        "frame-generation",
+        "frame-interpolation",
+        "image-enhancement",
+        "image-upscaling",
+        "neural-rendering",
+        "nvidia",
+        "nvidia-rtx",
+        "video-enhancement",
+        "video-upscaling"
+      ],
+      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "siknet/FreePEP",
+      "url": "https://github.com/siknet/FreePEP",
+      "stars": 317,
+      "language": "Python",
+      "created": "2026-08-31",
+      "topics": [],
+      "description": "人教社电子教材下载器",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "faisalkindi/DLSS5oneclick",
+      "url": "https://github.com/faisalkindi/DLSS5oneclick",
+      "stars": 283,
+      "language": "Rust",
+      "created": "2026-08-31",
+      "topics": [],
+      "description": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
+      "date": "2026-09-03",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MSNightmare/FalconFlank",
+      "url": "https://github.com/MSNightmare/FalconFlank",
+      "stars": 202,
+      "language": "C",
+      "created": "2026-09-03",
+      "topics": [],
+      "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+      "date": "2026-09-03",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "blendi-remade/unreel",
+      "url": "https://github.com/blendi-remade/unreel",
+      "stars": 53,
+      "language": "TypeScript",
+      "created": "2026-09-03",
+      "topics": [],
+      "description": "your personal AI video streaming service",
+      "date": "2026-09-03",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "adenaufal/nafkah",
+      "url": "https://github.com/adenaufal/nafkah",
+      "stars": 45,
+      "language": "TypeScript",
+      "created": "2026-09-03",
+      "topics": [
+        "choropleth",
+        "cost-of-living",
+        "data-visualization",
+        "indonesia",
+        "minimum-wage",
+        "nextjs",
+        "open-data"
+      ],
+      "description": "Peta interaktif kecukupan UMK/UMP terhadap biaya hidup di 514 kabupaten/kota Indonesia. Static Next.js, data CC BY 4.0.",
+      "date": "2026-09-03",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "StillChill-code/Roblox-Script",
+      "url": "https://github.com/StillChill-code/Roblox-Script",
+      "stars": 39,
+      "language": "Unknown",
+      "created": "2026-09-03",
+      "topics": [
+        "adoptme-automation",
+        "adoptme-helper",
+        "adoptme-pet",
+        "adoptme-tools",
+        "adoptmepc",
+        "delta",
+        "delta-executor-for-win",
+        "delta-executor-lua",
+        "injector-games",
+        "injector-x64",
+        "lua",
+        "rbx-scripts",
+        "rbxlua",
+        "roblox",
+        "roblox-script-hub-2026",
+        "roblox-script-hub-free",
+        "roblox-script-hub-free-download",
+        "roblox-script-hub-latest",
+        "roblox-script-hub-windows",
+        "script"
+      ],
+      "description": "",
+      "date": "2026-09-03",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "R44VC0RP/superlocal",
+      "url": "https://github.com/R44VC0RP/superlocal",
+      "stars": 24,
+      "language": "TypeScript",
+      "created": "2026-09-03",
+      "topics": [
+        "email",
+        "fast",
+        "local-first"
+      ],
+      "description": "An email client & provider gateway so you can build your best email experience.",
+      "date": "2026-09-03",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 210432,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-09-03",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "stars": 23223,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-09-03",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "stars": 20178,
+      "language": "Python",
+      "created": "2026-08-11",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "anthropic",
+        "c2pa",
+        "chatgpt",
+        "claude",
+        "gemini",
+        "openai",
+        "provenance",
+        "synthid",
+        "watermark",
+        "watermark-detection",
+        "watermark-tools",
+        "watermarking",
+        "watermarks"
+      ],
+      "description": "A privacy-first app that strips AI watermarks from content you own.",
+      "date": "2026-09-03",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": 14312,
+      "language": "Python",
+      "created": "2026-08-13",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "date": "2026-09-03",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
+      "stars": 7040,
+      "language": "JavaScript",
+      "created": "2026-08-14",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "date": "2026-09-03",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "sapientinc/PRAXIST",
       "url": "https://github.com/sapientinc/PRAXIST",
@@ -25756,6 +26325,15 @@
     }
   ],
   "metadata": {
+    "2026-09-03": {
+      "ai_relevant_count": 13,
+      "top_ai_pick": {
+        "name": "XiaoDuoYa/codex-with-chatgpt",
+        "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+        "stars": 2326,
+        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness."
+      }
+    },
     "2026-09-02": {
       "ai_relevant_count": 13,
       "top_ai_pick": {
@@ -26249,9 +26827,19 @@
   },
   "language_stats": {
     "Python": {
-      "count": 474,
-      "total_stars": 1470092,
+      "count": 484,
+      "total_stars": 1510366,
       "repos": [
+        "Nanako0129/sepia",
+        "anthropics/commerce-agents",
+        "GangTailorUpgrade/undress-service",
+        "2akouwu/reverify",
+        "fanhao375/microduck-replica",
+        "lightorigins/LightNav-0",
+        "Merserk/dlss5-visual-enhancer",
+        "siknet/FreePEP",
+        "guillaumemeyer/watermarks-remover",
+        "awesome-dsh-plugin/awesome-dsh-plugin",
         "sapientinc/PRAXIST",
         "Nanako0129/sepia",
         "damejan80/tokentab",
@@ -26729,9 +27317,16 @@
       ]
     },
     "TypeScript": {
-      "count": 357,
-      "total_stars": 4516923,
+      "count": 364,
+      "total_stars": 4753794,
       "repos": [
+        "XiaoDuoYa/codex-with-chatgpt",
+        "shadcn-ui/cn",
+        "blendi-remade/unreel",
+        "adenaufal/nafkah",
+        "R44VC0RP/superlocal",
+        "deepseek-ai/deepseek-harness",
+        "anywhere-labs/dsh-desktop",
         "XiaoDuoYa/codex-with-chatgpt",
         "Git-Agni/prod-FARM-IOS-Core",
         "Wh1tZz/Tibo-Please",
@@ -27092,9 +27687,13 @@
       ]
     },
     "JavaScript": {
-      "count": 208,
-      "total_stars": 836129,
+      "count": 212,
+      "total_stars": 844996,
       "repos": [
+        "rakanki911/DLSS5-Swapper",
+        "Player-YN/PawWork_ZhuaZhua",
+        "subsy/skill-cabinet",
+        "yjh051108/dsh-routing-suite",
         "Player-YN/PawWork_ZhuaZhua",
         "OnlyTerp/opengrok",
         "PAICNI/CFBox",
@@ -27306,9 +27905,10 @@
       ]
     },
     "Unknown": {
-      "count": 142,
-      "total_stars": 157146,
+      "count": 143,
+      "total_stars": 157185,
       "repos": [
+        "StillChill-code/Roblox-Script",
         "Mr-Karan3376/code-unnati-3rd-Year",
         "4n5rud/focus-one-feature-backend",
         "Nanako0129/sepia",
@@ -27454,9 +28054,10 @@
       ]
     },
     "Rust": {
-      "count": 103,
-      "total_stars": 1094203,
+      "count": 104,
+      "total_stars": 1094486,
       "repos": [
+        "faisalkindi/DLSS5oneclick",
         "crmne/fastpotify",
         "crmne/fastpotify",
         "soirihiroka/shrimply",
@@ -27563,9 +28164,10 @@
       ]
     },
     "HTML": {
-      "count": 57,
-      "total_stars": 49184,
+      "count": 58,
+      "total_stars": 49519,
       "repos": [
+        "aimen08/noty",
         "MengTo/threeui",
         "MengTo/threeui",
         "terriblecap/Albion-Online-Resource-Radar",
@@ -27626,9 +28228,10 @@
       ]
     },
     "C": {
-      "count": 43,
-      "total_stars": 280835,
+      "count": 44,
+      "total_stars": 281037,
       "repos": [
+        "MSNightmare/FalconFlank",
         "xoreaxeaxeax/skitter-creek-bath-salts",
         "xoreaxeaxeax/skitter-creek-bath-salts",
         "xoreaxeaxeax/skitter-creek-bath-salts",
@@ -27723,9 +28326,10 @@
       ]
     },
     "Shell": {
-      "count": 33,
-      "total_stars": 20295,
+      "count": 34,
+      "total_stars": 20671,
       "repos": [
+        "Ryze-AI-Adgent/open-seo-mcp-skills",
         "Nanako0129/sepia",
         "themartiano/try-omarchy",
         "Nanako0129/sepia",
@@ -27762,9 +28366,10 @@
       ]
     },
     "Go": {
-      "count": 31,
-      "total_stars": 13395,
+      "count": 32,
+      "total_stars": 14086,
       "repos": [
+        "chrisgreg/boop",
         "chrisgreg/boop",
         "chrisgreg/boop",
         "chrisgreg/boop",
@@ -27799,9 +28404,10 @@
       ]
     },
     "C++": {
-      "count": 22,
-      "total_stars": 6931,
+      "count": 23,
+      "total_stars": 7556,
       "repos": [
+        "jlrouzies-fr/DLSS5-Feeder",
         "jlrouzies-fr/DLSS5-Feeder",
         "jlrouzies-fr/DLSS5-Feeder",
         "tsouth89/omakade",
@@ -27827,9 +28433,10 @@
       ]
     },
     "CSS": {
-      "count": 9,
-      "total_stars": 6516,
+      "count": 10,
+      "total_stars": 7746,
       "repos": [
+        "MetaMask-AI/metamask-desktop",
         "MetaMask-AI/metamask-desktop",
         "MetaMask-AI/metamask-desktop",
         "s0xDk/refactoring-ui-skill",
@@ -27930,6 +28537,17 @@
         "unicity-astrid/book"
       ]
     },
+    "Markdown": {
+      "count": 5,
+      "total_stars": 4271,
+      "repos": [
+        "cbrock84/headcount",
+        "cbrock84/headcount",
+        "cbrock84/headcount",
+        "cbrock84/headcount",
+        "cbrock84/headcount"
+      ]
+    },
     "Java": {
       "count": 5,
       "total_stars": 2132,
@@ -27950,16 +28568,6 @@
         "duty1g/x64dbg-mcp-server",
         "duty1g/x64dbg-mcp-server",
         "duty1g/x64dbg-mcp-server"
-      ]
-    },
-    "Markdown": {
-      "count": 4,
-      "total_stars": 3130,
-      "repos": [
-        "cbrock84/headcount",
-        "cbrock84/headcount",
-        "cbrock84/headcount",
-        "cbrock84/headcount"
       ]
     },
     "C#": {
@@ -28080,6 +28688,11 @@
     }
   },
   "date_stats": {
+    "2026-09-03": {
+      "count": 30,
+      "total_stars": 290934,
+      "ai_count": 0
+    },
     "2026-09-02": {
       "count": 30,
       "total_stars": 299598,
@@ -28357,6 +28970,23 @@
     }
   },
   "top_50_all_time": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 210432,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-09-03",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
@@ -29039,6 +29669,27 @@
       "is_ai_dev": false
     },
     {
+      "name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "stars": 23223,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-09-03",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "xai-org/grok-build",
       "url": "https://github.com/xai-org/grok-build",
       "stars": 23120,
@@ -29113,39 +29764,6 @@
       "topics": [],
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "date": "2026-07-26",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "xai-org/grok-build",
-      "url": "https://github.com/xai-org/grok-build",
-      "stars": 22405,
-      "language": "Rust",
-      "created": "2026-07-14",
-      "topics": [],
-      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "date": "2026-07-25",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "anywhere-labs/dsh-desktop",
-      "url": "https://github.com/anywhere-labs/dsh-desktop",
-      "stars": 22350,
-      "language": "TypeScript",
-      "created": "2026-08-13",
-      "topics": [
-        "cordis",
-        "cordis-plugin",
-        "deepseek",
-        "deepseek-harness",
-        "desktop",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugin-desktop"
-      ],
-      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "date": "2026-08-31",
       "section": "monthly",
       "is_ai_dev": false
     }
