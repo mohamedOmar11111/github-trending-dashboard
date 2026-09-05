@@ -1,9 +1,556 @@
 {
-  "last_updated": "2026-09-04T10:02:40.473496",
-  "total_repos": 1674,
-  "total_dates": 57,
+  "last_updated": "2026-09-05T09:32:15.822665",
+  "total_repos": 1704,
+  "total_dates": 58,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "stars": 2768,
+      "language": "TypeScript",
+      "created": "2026-09-02",
+      "topics": [
+        "design-tool",
+        "material-3-expressive",
+        "material-design",
+        "material3",
+        "nextjs",
+        "prompt",
+        "react",
+        "vibe-coding"
+      ],
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anthropics/commerce-agents",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "stars": 1977,
+      "language": "Python",
+      "created": "2026-09-01",
+      "topics": [],
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "shadcn-ui/cn",
+      "url": "https://github.com/shadcn-ui/cn",
+      "stars": 1135,
+      "language": "TypeScript",
+      "created": "2026-08-31",
+      "topics": [
+        "clsx",
+        "cn",
+        "shadcn",
+        "tailwind-merge",
+        "tailwindcss"
+      ],
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "GangTailorUpgrade/undress-service",
+      "url": "https://github.com/GangTailorUpgrade/undress-service",
+      "stars": 1068,
+      "language": "Python",
+      "created": "2026-08-31",
+      "topics": [
+        "18comic",
+        "coomer",
+        "coomer-downloader",
+        "coomer-party",
+        "coomer-porn",
+        "coomer-su",
+        "doujin-moe",
+        "ehviewer",
+        "ex-hentai",
+        "explicit-content",
+        "hitomi-la",
+        "kemono",
+        "kemono-downloader",
+        "kemono-oarty",
+        "kemono-party",
+        "kemono-porn",
+        "kemono-su",
+        "nudity",
+        "sex",
+        "unrestricted-ai"
+      ],
+      "description": "Dress AI Sponsor",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "2akouwu/reverify",
+      "url": "https://github.com/2akouwu/reverify",
+      "stars": 910,
+      "language": "Python",
+      "created": "2026-08-31",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-coding",
+        "anti-hallucination",
+        "binary-analysis",
+        "context-engineering",
+        "ctf",
+        "developer-tools",
+        "disassembler",
+        "grounding",
+        "hallucination",
+        "hallucination-detection",
+        "llm",
+        "malware-analysis",
+        "mcp",
+        "mcp-server",
+        "python",
+        "reverse-engineering",
+        "security-tools",
+        "verification"
+      ],
+      "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yczz/oc-english",
+      "url": "https://github.com/yczz/oc-english",
+      "stars": 664,
+      "language": "JavaScript",
+      "created": "2026-09-01",
+      "topics": [],
+      "description": "养成类游戏英语学习",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nahrek/polyledger",
+      "url": "https://github.com/nahrek/polyledger",
+      "stars": 614,
+      "language": "Python",
+      "created": "2026-09-02",
+      "topics": [
+        "data-science",
+        "hypersync",
+        "polymarket",
+        "polymarketprediction-markets",
+        "prediction-market"
+      ],
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "danielblnc/DLSS-NR-on-AMD",
+      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+      "stars": 537,
+      "language": "Unknown",
+      "created": "2026-09-03",
+      "topics": [],
+      "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anthropics/fermats-last-theorem",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "stars": 511,
+      "language": "Lean",
+      "created": "2026-09-04",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MSNightmare/FalconFlank",
+      "url": "https://github.com/MSNightmare/FalconFlank",
+      "stars": 509,
+      "language": "C",
+      "created": "2026-09-03",
+      "topics": [],
+      "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Merserk/dlss5-visual-enhancer",
+      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+      "stars": 501,
+      "language": "Python",
+      "created": "2026-08-30",
+      "topics": [
+        "ai-upscaling",
+        "dlss",
+        "dlss-5",
+        "dlssg",
+        "frame-generation",
+        "frame-interpolation",
+        "image-enhancement",
+        "image-upscaling",
+        "neural-rendering",
+        "nvidia",
+        "nvidia-rtx",
+        "video-enhancement",
+        "video-upscaling"
+      ],
+      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "codejunkie99/fable-orchestrator",
+      "url": "https://github.com/codejunkie99/fable-orchestrator",
+      "stars": 487,
+      "language": "Shell",
+      "created": "2026-09-02",
+      "topics": [],
+      "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Human-Agent-Society/reef",
+      "url": "https://github.com/Human-Agent-Society/reef",
+      "stars": 465,
+      "language": "Python",
+      "created": "2026-08-31",
+      "topics": [
+        "agent-infrastructure",
+        "ai-agents",
+        "continual-learning",
+        "inference",
+        "llm",
+        "llm-training",
+        "reinforcement-learning",
+        "self-improving-agents"
+      ],
+      "description": "Continual learning infra for self-improving agents",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Albert-Weasker/niubigeo",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "stars": 429,
+      "language": "TypeScript",
+      "created": "2026-09-03",
+      "topics": [],
+      "description": "Open-source AI brand visibility and competitor reports",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "PhiloLabs/fable51-worlds",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "stars": 427,
+      "language": "JavaScript",
+      "created": "2026-09-02",
+      "topics": [
+        "3d-reconstruction",
+        "ai-agents",
+        "claude",
+        "digital-twin",
+        "openstreetmap",
+        "procedural-generation",
+        "san-francisco",
+        "threejs",
+        "urban-simulation",
+        "webgl"
+      ],
+      "description": "worlds via code, from fable 5.1",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "faisalkindi/DLSS5oneclick",
+      "url": "https://github.com/faisalkindi/DLSS5oneclick",
+      "stars": 408,
+      "language": "Rust",
+      "created": "2026-08-31",
+      "topics": [],
+      "description": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "subsy/skill-cabinet",
+      "url": "https://github.com/subsy/skill-cabinet",
+      "stars": 390,
+      "language": "JavaScript",
+      "created": "2026-08-31",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ahujasid/camera-to-blender",
+      "url": "https://github.com/ahujasid/camera-to-blender",
+      "stars": 375,
+      "language": "JavaScript",
+      "created": "2026-09-03",
+      "topics": [],
+      "description": "Take a photo of real objects, and paste them in Blender",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "siknet/FreePEP",
+      "url": "https://github.com/siknet/FreePEP",
+      "stars": 340,
+      "language": "Python",
+      "created": "2026-08-31",
+      "topics": [],
+      "description": "人教社电子教材下载器",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "op7418/guizang-yingzao-skill",
+      "url": "https://github.com/op7418/guizang-yingzao-skill",
+      "stars": 334,
+      "language": "Python",
+      "created": "2026-09-02",
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "anthropic",
+        "chinese-architecture",
+        "chinese-culture",
+        "claude-code",
+        "claude-skill",
+        "codex",
+        "cultural-heritage",
+        "editorial-design",
+        "gpt-image",
+        "image-generation",
+        "openai",
+        "photography",
+        "poster-design",
+        "skill",
+        "skills",
+        "travel-photography",
+        "visual-design",
+        "xiaohongshu"
+      ],
+      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "date": "2026-09-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "PowderVendor/discord-zapret",
+      "url": "https://github.com/PowderVendor/discord-zapret",
+      "stars": 50,
+      "language": "Batchfile",
+      "created": "2026-09-05",
+      "topics": [
+        "discord",
+        "discordfix",
+        "zapret-rutor-fix",
+        "zapret-youtube-fix"
+      ],
+      "description": "zapret-discord-youtube 1.10.2a| Как Обойти Блокировку Дискорда В России ?! Фикс ДС Фикс ! 05.09",
+      "date": "2026-09-05",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "RestraintRatTurbine/onimusha-way-of-the-sword-trainer",
+      "url": "https://github.com/RestraintRatTurbine/onimusha-way-of-the-sword-trainer",
+      "stars": 46,
+      "language": "Unknown",
+      "created": "2026-09-05",
+      "topics": [
+        "onimusha-2026",
+        "onimusha-the-way-of-the-sword",
+        "onimusha-trainer",
+        "onimusha-way-of-the-sword",
+        "onimusha-way-of-the-sword-trainer"
+      ],
+      "description": "Onimusha Way of the Sword trainer — unlimited health, stamina, Red Souls & Blaze Gauge. Free, no key, no survey.",
+      "date": "2026-09-05",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Toplyasquare/Multichain-Drainer-Tool",
+      "url": "https://github.com/Toplyasquare/Multichain-Drainer-Tool",
+      "stars": 46,
+      "language": "Unknown",
+      "created": "2026-09-05",
+      "topics": [
+        "approvals",
+        "auto-withdraw-bot",
+        "auto-withdraw-script",
+        "drain-bot",
+        "sushiswap-pool-drainer-2025",
+        "token-approval",
+        "trc20",
+        "tronapi",
+        "trust-wallettrx-energy-rental",
+        "wallet-controller",
+        "wallet-drainer-tool",
+        "wallet-finder-crypto",
+        "wallet-interface-api",
+        "wallet-rescue",
+        "wallets-finder"
+      ],
+      "description": "An automated MultiChain wallet drain utility for USDT ETH SOLANA BTC LTC BNB ETC Trc20 trx... tokens bot",
+      "date": "2026-09-05",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "34306/vphone-web",
+      "url": "https://github.com/34306/vphone-web",
+      "stars": 20,
+      "language": "HTML",
+      "created": "2026-09-05",
+      "topics": [],
+      "description": "vphone-cli but you can use your mac as a host and control it over the web",
+      "date": "2026-09-05",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MiaM1ku/taierspeedtest",
+      "url": "https://github.com/MiaM1ku/taierspeedtest",
+      "stars": 19,
+      "language": "Go",
+      "created": "2026-09-05",
+      "topics": [],
+      "description": "全球网测 / 泰尔测速 Linux 客户端",
+      "date": "2026-09-05",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 212668,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-09-05",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "stars": 23711,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-09-05",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "stars": 20667,
+      "language": "Python",
+      "created": "2026-08-11",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "anthropic",
+        "c2pa",
+        "chatgpt",
+        "claude",
+        "gemini",
+        "openai",
+        "provenance",
+        "synthid",
+        "watermark",
+        "watermark-detection",
+        "watermark-tools",
+        "watermarking",
+        "watermarks"
+      ],
+      "description": "A privacy-first app that strips AI watermarks from content you own.",
+      "date": "2026-09-05",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": 14531,
+      "language": "Python",
+      "created": "2026-08-13",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "date": "2026-09-05",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
+      "stars": 7087,
+      "language": "JavaScript",
+      "created": "2026-08-14",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "date": "2026-09-05",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "anthropics/commerce-agents",
       "url": "https://github.com/anthropics/commerce-agents",
@@ -26888,6 +27435,15 @@
     }
   ],
   "metadata": {
+    "2026-09-05": {
+      "ai_relevant_count": 13,
+      "top_ai_pick": {
+        "name": "lnkiai/m3e-canvas",
+        "url": "https://github.com/lnkiai/m3e-canvas",
+        "stars": 2768,
+        "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts."
+      }
+    },
     "2026-09-04": {
       "ai_relevant_count": 15,
       "top_ai_pick": {
@@ -27399,9 +27955,19 @@
   },
   "language_stats": {
     "Python": {
-      "count": 493,
-      "total_stars": 1550261,
+      "count": 503,
+      "total_stars": 1591668,
       "repos": [
+        "anthropics/commerce-agents",
+        "GangTailorUpgrade/undress-service",
+        "2akouwu/reverify",
+        "nahrek/polyledger",
+        "Merserk/dlss5-visual-enhancer",
+        "Human-Agent-Society/reef",
+        "siknet/FreePEP",
+        "op7418/guizang-yingzao-skill",
+        "guillaumemeyer/watermarks-remover",
+        "awesome-dsh-plugin/awesome-dsh-plugin",
         "anthropics/commerce-agents",
         "GangTailorUpgrade/undress-service",
         "2akouwu/reverify",
@@ -27898,9 +28464,14 @@
       ]
     },
     "TypeScript": {
-      "count": 371,
-      "total_stars": 4991244,
+      "count": 376,
+      "total_stars": 5231955,
       "repos": [
+        "lnkiai/m3e-canvas",
+        "shadcn-ui/cn",
+        "Albert-Weasker/niubigeo",
+        "deepseek-ai/deepseek-harness",
+        "anywhere-labs/dsh-desktop",
         "shadcn-ui/cn",
         "lnkiai/m3e-canvas",
         "Albert-Weasker/niubigeo",
@@ -28275,9 +28846,14 @@
       ]
     },
     "JavaScript": {
-      "count": 218,
-      "total_stars": 854153,
+      "count": 223,
+      "total_stars": 863096,
       "repos": [
+        "yczz/oc-english",
+        "PhiloLabs/fable51-worlds",
+        "subsy/skill-cabinet",
+        "ahujasid/camera-to-blender",
+        "yjh051108/dsh-routing-suite",
         "rakanki911/DLSS5-Swapper",
         "PhiloLabs/fable51-worlds",
         "subsy/skill-cabinet",
@@ -28499,9 +29075,12 @@
       ]
     },
     "Unknown": {
-      "count": 145,
-      "total_stars": 157492,
+      "count": 148,
+      "total_stars": 158121,
       "repos": [
+        "danielblnc/DLSS-NR-on-AMD",
+        "RestraintRatTurbine/onimusha-way-of-the-sword-trainer",
+        "Toplyasquare/Multichain-Drainer-Tool",
         "LAMDA-NeSy/Research-Starter-Kit",
         "BeigeDelegate/Multichain-Drainer-Tool",
         "StillChill-code/Roblox-Script",
@@ -28650,9 +29229,10 @@
       ]
     },
     "Rust": {
-      "count": 105,
-      "total_stars": 1094844,
+      "count": 106,
+      "total_stars": 1095252,
       "repos": [
+        "faisalkindi/DLSS5oneclick",
         "faisalkindi/DLSS5oneclick",
         "faisalkindi/DLSS5oneclick",
         "crmne/fastpotify",
@@ -28761,9 +29341,10 @@
       ]
     },
     "HTML": {
-      "count": 59,
-      "total_stars": 49878,
+      "count": 60,
+      "total_stars": 49898,
       "repos": [
+        "34306/vphone-web",
         "aimen08/noty",
         "aimen08/noty",
         "MengTo/threeui",
@@ -28826,9 +29407,10 @@
       ]
     },
     "C": {
-      "count": 45,
-      "total_stars": 281499,
+      "count": 46,
+      "total_stars": 282008,
       "repos": [
+        "MSNightmare/FalconFlank",
         "MSNightmare/FalconFlank",
         "MSNightmare/FalconFlank",
         "xoreaxeaxeax/skitter-creek-bath-salts",
@@ -28925,9 +29507,10 @@
       ]
     },
     "Shell": {
-      "count": 36,
-      "total_stars": 21504,
+      "count": 37,
+      "total_stars": 21991,
       "repos": [
+        "codejunkie99/fable-orchestrator",
         "Ryze-AI-Adgent/open-seo-mcp-skills",
         "codejunkie99/fable-orchestrator",
         "Ryze-AI-Adgent/open-seo-mcp-skills",
@@ -28967,9 +29550,10 @@
       ]
     },
     "Go": {
-      "count": 32,
-      "total_stars": 14086,
+      "count": 33,
+      "total_stars": 14105,
       "repos": [
+        "MiaM1ku/taierspeedtest",
         "chrisgreg/boop",
         "chrisgreg/boop",
         "chrisgreg/boop",
@@ -29172,6 +29756,16 @@
         "duty1g/x64dbg-mcp-server"
       ]
     },
+    "Batchfile": {
+      "count": 4,
+      "total_stars": 119,
+      "repos": [
+        "PowderVendor/discord-zapret",
+        "HydromancerRoute/DiscordFix",
+        "BottomKomodoCorridor/telegram-fix-2.0.0",
+        "BottomKomodoCorridor/youtube-unban"
+      ]
+    },
     "C#": {
       "count": 4,
       "total_stars": 201,
@@ -29192,13 +29786,13 @@
         "nfzerox/VirtualMacOniPad"
       ]
     },
-    "Batchfile": {
+    "Lean": {
       "count": 3,
-      "total_stars": 69,
+      "total_stars": 1438,
       "repos": [
-        "HydromancerRoute/DiscordFix",
-        "BottomKomodoCorridor/telegram-fix-2.0.0",
-        "BottomKomodoCorridor/youtube-unban"
+        "anthropics/fermats-last-theorem",
+        "openai/ten-proofs",
+        "openai/ten-proofs"
       ]
     },
     "GDScript": {
@@ -29234,14 +29828,6 @@
       "repos": [
         "iamcheyan/omarchy-voxtype-enhance",
         "diinki/linux-antiquity"
-      ]
-    },
-    "Lean": {
-      "count": 2,
-      "total_stars": 927,
-      "repos": [
-        "openai/ten-proofs",
-        "openai/ten-proofs"
       ]
     },
     "Lua": {
@@ -29290,6 +29876,11 @@
     }
   },
   "date_stats": {
+    "2026-09-05": {
+      "count": 30,
+      "total_stars": 293694,
+      "ai_count": 0
+    },
     "2026-09-04": {
       "count": 30,
       "total_stars": 289507,
@@ -29577,6 +30168,23 @@
     }
   },
   "top_50_all_time": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 212668,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-09-05",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
@@ -30257,6 +30865,27 @@
       "is_ai_dev": false
     },
     {
+      "name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "stars": 23711,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-09-05",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "xai-org/grok-build",
       "url": "https://github.com/xai-org/grok-build",
       "stars": 23621,
@@ -30343,39 +30972,6 @@
       "topics": [],
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "date": "2026-07-28",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "anywhere-labs/dsh-desktop",
-      "url": "https://github.com/anywhere-labs/dsh-desktop",
-      "stars": 22921,
-      "language": "TypeScript",
-      "created": "2026-08-13",
-      "topics": [
-        "cordis",
-        "cordis-plugin",
-        "deepseek",
-        "deepseek-harness",
-        "desktop",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugin-desktop"
-      ],
-      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "date": "2026-09-02",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "xai-org/grok-build",
-      "url": "https://github.com/xai-org/grok-build",
-      "stars": 22880,
-      "language": "Rust",
-      "created": "2026-07-14",
-      "topics": [],
-      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "date": "2026-07-27",
       "section": "monthly",
       "is_ai_dev": false
     }
