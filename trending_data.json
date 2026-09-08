@@ -1,9 +1,498 @@
 {
-  "last_updated": "2026-09-07T10:51:12.519224",
-  "total_repos": 1763,
-  "total_dates": 60,
+  "last_updated": "2026-09-08T10:10:18.661981",
+  "total_repos": 1793,
+  "total_dates": 61,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "stars": 4861,
+      "language": "TypeScript",
+      "created": "2026-09-02",
+      "topics": [
+        "design-tool",
+        "material-3-expressive",
+        "material-design",
+        "material3",
+        "nextjs",
+        "prompt",
+        "react",
+        "vibe-coding"
+      ],
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ashemag/human-atlas",
+      "url": "https://github.com/ashemag/human-atlas",
+      "stars": 2252,
+      "language": "TypeScript",
+      "created": "2026-09-05",
+      "topics": [],
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Rion-Wu-tech/wechat-intelligence-hub",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "stars": 1897,
+      "language": "Python",
+      "created": "2026-09-04",
+      "topics": [],
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pierrenade/short-video-generator-AI",
+      "url": "https://github.com/pierrenade/short-video-generator-AI",
+      "stars": 1209,
+      "language": "Python",
+      "created": "2026-09-05",
+      "topics": [
+        "ai",
+        "ai-video",
+        "python",
+        "short-video-maker",
+        "video-generation"
+      ],
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "EverettFish/holo-card-studio",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "stars": 1010,
+      "language": "Python",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "vinzdg/codenotch",
+      "url": "https://github.com/vinzdg/codenotch",
+      "stars": 984,
+      "language": "Swift",
+      "created": "2026-09-05",
+      "topics": [],
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anthropics/fermats-last-theorem",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "stars": 955,
+      "language": "Lean",
+      "created": "2026-09-04",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "danielblnc/DLSS-NR-on-AMD",
+      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+      "stars": 888,
+      "language": "Unknown",
+      "created": "2026-09-03",
+      "topics": [],
+      "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ahujasid/camera-to-blender",
+      "url": "https://github.com/ahujasid/camera-to-blender",
+      "stars": 755,
+      "language": "JavaScript",
+      "created": "2026-09-03",
+      "topics": [],
+      "description": "Take a photo of real objects, and paste them in Blender",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Albert-Weasker/niubigeo",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "stars": 704,
+      "language": "TypeScript",
+      "created": "2026-09-03",
+      "topics": [],
+      "description": "Open-source AI brand visibility and competitor reports",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "KJGX66F/usque-custom-pro",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "stars": 644,
+      "language": "JavaScript",
+      "created": "2026-09-04",
+      "topics": [],
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nahrek/polyledger",
+      "url": "https://github.com/nahrek/polyledger",
+      "stars": 621,
+      "language": "Python",
+      "created": "2026-09-02",
+      "topics": [
+        "data-science",
+        "hypersync",
+        "polymarket",
+        "polymarketprediction-markets",
+        "prediction-market"
+      ],
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sonicloudco/recorder",
+      "url": "https://github.com/sonicloudco/recorder",
+      "stars": 581,
+      "language": "HTML",
+      "created": "2026-09-02",
+      "topics": [],
+      "description": "声云录音卡 Recorder 是一套面向开发者和行业客户的智能录音硬件接入方案。 项目以录音卡片硬件为核心，开放 BLE 协议 SDK 及 Android、iOS、鸿蒙、Flutter 接入示例，同时提供 Windows/macOS 桌面端 Demo，支持设备连接、录音控制、实时音频、文件传输、OTA 升级和语音转写等能力，帮助开发者快速将录音硬件接入自己的 App、桌面软件或行业系统。 如需获取硬件规格、样机、完整协议、SDK 资料或定制服务，请联系安徽声云",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Jarvis322/macos-sysdata",
+      "url": "https://github.com/Jarvis322/macos-sysdata",
+      "stars": 577,
+      "language": "Swift",
+      "created": "2026-09-05",
+      "topics": [
+        "disk-cleanup",
+        "macos",
+        "menubar",
+        "swiftui",
+        "system-data",
+        "xcode"
+      ],
+      "description": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "codejunkie99/fable-orchestrator",
+      "url": "https://github.com/codejunkie99/fable-orchestrator",
+      "stars": 569,
+      "language": "Shell",
+      "created": "2026-09-02",
+      "topics": [],
+      "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MSNightmare/FalconFlank",
+      "url": "https://github.com/MSNightmare/FalconFlank",
+      "stars": 555,
+      "language": "C",
+      "created": "2026-09-03",
+      "topics": [],
+      "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "burakgon/stop-stutter",
+      "url": "https://github.com/burakgon/stop-stutter",
+      "stars": 496,
+      "language": "Swift",
+      "created": "2026-09-04",
+      "topics": [
+        "awdl",
+        "game-streaming",
+        "geforce-now",
+        "latency",
+        "liquid-glass",
+        "macos",
+        "moonlight",
+        "parsec",
+        "steam-link",
+        "stutter",
+        "swiftui"
+      ],
+      "description": "Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, Punktfunk, Parsec & Steam Link. Native SwiftUI + Liquid Glass. MIT.",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "byJoey/warp-masque-actions",
+      "url": "https://github.com/byJoey/warp-masque-actions",
+      "stars": 489,
+      "language": "JavaScript",
+      "created": "2026-09-04",
+      "topics": [],
+      "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "okf-memory/okf-agent-memory",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "stars": 478,
+      "language": "Go",
+      "created": "2026-09-05",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "bm25",
+        "coding-agents",
+        "developer-tools",
+        "git-native",
+        "go",
+        "golang",
+        "knowledge-base",
+        "knowledge-graph",
+        "llm-memory",
+        "markdown",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "okf",
+        "open-knowledge-format",
+        "persistent-memory"
+      ],
+      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "PhiloLabs/fable51-worlds",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "stars": 469,
+      "language": "JavaScript",
+      "created": "2026-09-02",
+      "topics": [
+        "3d-reconstruction",
+        "ai-agents",
+        "claude",
+        "digital-twin",
+        "openstreetmap",
+        "procedural-generation",
+        "san-francisco",
+        "threejs",
+        "urban-simulation",
+        "webgl"
+      ],
+      "description": "worlds via code, from fable 5.1",
+      "date": "2026-09-08",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tristanbuckmaster/fluid_lean",
+      "url": "https://github.com/tristanbuckmaster/fluid_lean",
+      "stars": 71,
+      "language": "Lean",
+      "created": "2026-09-08",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-08",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "gazijarin/itsgiving",
+      "url": "https://github.com/gazijarin/itsgiving",
+      "stars": 43,
+      "language": "Python",
+      "created": "2026-09-08",
+      "topics": [],
+      "description": "Express yourself in meetings (with memes, of course).",
+      "date": "2026-09-08",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "andrewroxby/claude-style-patch",
+      "url": "https://github.com/andrewroxby/claude-style-patch",
+      "stars": 38,
+      "language": "Unknown",
+      "created": "2026-09-08",
+      "topics": [],
+      "description": "A drop-in CLAUDE.md style section that changes how Claude writes prose.",
+      "date": "2026-09-08",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yufen0922/verifigen",
+      "url": "https://github.com/yufen0922/verifigen",
+      "stars": 24,
+      "language": "Python",
+      "created": "2026-09-08",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-08",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "FemtoCoppersmith/facebook-reporting-bot",
+      "url": "https://github.com/FemtoCoppersmith/facebook-reporting-bot",
+      "stars": 21,
+      "language": "Unknown",
+      "created": "2026-09-08",
+      "topics": [
+        "autobot",
+        "autobots",
+        "ban-account",
+        "ban-facebook-bot",
+        "ban-facebook-tool",
+        "facebook-ban-bot-far",
+        "facebook-ban-bot-snpys",
+        "facebook-tool",
+        "facebook-tool-for-banning",
+        "facebook-tool-for-reporting",
+        "facebook-tool-hacking",
+        "facebook-tools",
+        "fb-bot",
+        "report-facebook-bot",
+        "reporter-facebook-bot"
+      ],
+      "description": "Bots are automated tools designed to streamline the process of submitting reports on FaceBook accounts that may violate the platform’s Community Guidelines. They can assist with reporting issues such as spam, report reporter mass acc ban bot page group impersonation, fake profile account, or other policy violations. Depending on their functionality",
+      "date": "2026-09-08",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 215723,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-09-08",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "stars": 24427,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-09-08",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "stars": 21317,
+      "language": "Python",
+      "created": "2026-08-11",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "anthropic",
+        "c2pa",
+        "chatgpt",
+        "claude",
+        "gemini",
+        "openai",
+        "provenance",
+        "synthid",
+        "watermark",
+        "watermark-detection",
+        "watermark-tools",
+        "watermarking",
+        "watermarks"
+      ],
+      "description": "A privacy-first app that strips AI watermarks from content you own.",
+      "date": "2026-09-08",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": 14860,
+      "language": "Python",
+      "created": "2026-08-13",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "date": "2026-09-08",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "zhu1090093659/dsh-web",
+      "url": "https://github.com/zhu1090093659/dsh-web",
+      "stars": 7140,
+      "language": "TypeScript",
+      "created": "2026-08-12",
+      "topics": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-web",
+        "dsh-web-ui"
+      ],
+      "description": "DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
+      "date": "2026-09-08",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "lnkiai/m3e-canvas",
       "url": "https://github.com/lnkiai/m3e-canvas",
@@ -28387,6 +28876,15 @@
     }
   ],
   "metadata": {
+    "2026-09-08": {
+      "ai_relevant_count": 10,
+      "top_ai_pick": {
+        "name": "lnkiai/m3e-canvas",
+        "url": "https://github.com/lnkiai/m3e-canvas",
+        "stars": 4861,
+        "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts."
+      }
+    },
     "2026-09-07": {
       "ai_relevant_count": 11,
       "top_ai_pick": {
@@ -28925,9 +29423,17 @@
   },
   "language_stats": {
     "Python": {
-      "count": 523,
-      "total_stars": 1676121,
+      "count": 531,
+      "total_stars": 1717102,
       "repos": [
+        "Rion-Wu-tech/wechat-intelligence-hub",
+        "pierrenade/short-video-generator-AI",
+        "EverettFish/holo-card-studio",
+        "nahrek/polyledger",
+        "gazijarin/itsgiving",
+        "yufen0922/verifigen",
+        "guillaumemeyer/watermarks-remover",
+        "awesome-dsh-plugin/awesome-dsh-plugin",
         "anthropics/commerce-agents",
         "Rion-Wu-tech/wechat-intelligence-hub",
         "pierrenade/short-video-generator-AI",
@@ -29454,9 +29960,15 @@
       ]
     },
     "TypeScript": {
-      "count": 388,
-      "total_stars": 5721721,
+      "count": 394,
+      "total_stars": 5976828,
       "repos": [
+        "lnkiai/m3e-canvas",
+        "ashemag/human-atlas",
+        "Albert-Weasker/niubigeo",
+        "deepseek-ai/deepseek-harness",
+        "anywhere-labs/dsh-desktop",
+        "zhu1090093659/dsh-web",
         "lnkiai/m3e-canvas",
         "ashemag/human-atlas",
         "Albert-Weasker/niubigeo",
@@ -29848,9 +30360,13 @@
       ]
     },
     "JavaScript": {
-      "count": 233,
-      "total_stars": 881048,
+      "count": 237,
+      "total_stars": 883405,
       "repos": [
+        "ahujasid/camera-to-blender",
+        "KJGX66F/usque-custom-pro",
+        "byJoey/warp-masque-actions",
+        "PhiloLabs/fable51-worlds",
         "yczz/oc-english",
         "KJGX66F/usque-custom-pro",
         "ahujasid/camera-to-blender",
@@ -30087,9 +30603,12 @@
       ]
     },
     "Unknown": {
-      "count": 151,
-      "total_stars": 159637,
+      "count": 154,
+      "total_stars": 160584,
       "repos": [
+        "danielblnc/DLSS-NR-on-AMD",
+        "andrewroxby/claude-style-patch",
+        "FemtoCoppersmith/facebook-reporting-bot",
         "danielblnc/DLSS-NR-on-AMD",
         "danielblnc/DLSS-NR-on-AMD",
         "ProbiusOfficial/windows-ir-skill",
@@ -30357,9 +30876,10 @@
       ]
     },
     "HTML": {
-      "count": 61,
-      "total_stars": 50401,
+      "count": 62,
+      "total_stars": 50982,
       "repos": [
+        "sonicloudco/recorder",
         "sonicloudco/recorder",
         "34306/vphone-web",
         "aimen08/noty",
@@ -30424,9 +30944,10 @@
       ]
     },
     "C": {
-      "count": 48,
-      "total_stars": 283063,
+      "count": 49,
+      "total_stars": 283618,
       "repos": [
+        "MSNightmare/FalconFlank",
         "MSNightmare/FalconFlank",
         "MSNightmare/FalconFlank",
         "MSNightmare/FalconFlank",
@@ -30478,9 +30999,12 @@
       ]
     },
     "Swift": {
-      "count": 44,
-      "total_stars": 22802,
+      "count": 47,
+      "total_stars": 24859,
       "repos": [
+        "vinzdg/codenotch",
+        "Jarvis322/macos-sysdata",
+        "burakgon/stop-stutter",
         "vinzdg/codenotch",
         "burakgon/stop-stutter",
         "themartiano/try-omarchy",
@@ -30528,9 +31052,10 @@
       ]
     },
     "Shell": {
-      "count": 39,
-      "total_stars": 23069,
+      "count": 40,
+      "total_stars": 23638,
       "repos": [
+        "codejunkie99/fable-orchestrator",
         "codejunkie99/fable-orchestrator",
         "codejunkie99/fable-orchestrator",
         "codejunkie99/fable-orchestrator",
@@ -30573,9 +31098,10 @@
       ]
     },
     "Go": {
-      "count": 34,
-      "total_stars": 14136,
+      "count": 35,
+      "total_stars": 14614,
       "repos": [
+        "okf-memory/okf-agent-memory",
         "pcm469768-droid/llm-api-speedtest",
         "MiaM1ku/taierspeedtest",
         "chrisgreg/boop",
@@ -30675,6 +31201,19 @@
         "alexafinode/claude-arbitrage-bot"
       ]
     },
+    "Lean": {
+      "count": 7,
+      "total_stars": 4104,
+      "repos": [
+        "anthropics/fermats-last-theorem",
+        "tristanbuckmaster/fluid_lean",
+        "anthropics/fermats-last-theorem",
+        "anthropics/fermats-last-theorem",
+        "anthropics/fermats-last-theorem",
+        "openai/ten-proofs",
+        "openai/ten-proofs"
+      ]
+    },
     "PowerShell": {
       "count": 7,
       "total_stars": 23340,
@@ -30747,17 +31286,6 @@
         "unicity-astrid/book",
         "unicity-astrid/book",
         "unicity-astrid/book"
-      ]
-    },
-    "Lean": {
-      "count": 5,
-      "total_stars": 3078,
-      "repos": [
-        "anthropics/fermats-last-theorem",
-        "anthropics/fermats-last-theorem",
-        "anthropics/fermats-last-theorem",
-        "openai/ten-proofs",
-        "openai/ten-proofs"
       ]
     },
     "Objective-C": {
@@ -30905,6 +31433,11 @@
     }
   },
   "date_stats": {
+    "2026-09-08": {
+      "count": 30,
+      "total_stars": 304658,
+      "ai_count": 0
+    },
     "2026-09-07": {
       "count": 29,
       "total_stars": 302501,
@@ -31207,6 +31740,23 @@
     }
   },
   "top_50_all_time": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 215723,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-09-08",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
@@ -31854,6 +32404,27 @@
       "is_ai_dev": false
     },
     {
+      "name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "stars": 24427,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-09-08",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "xai-org/grok-build",
       "url": "https://github.com/xai-org/grok-build",
       "stars": 24415,
@@ -31997,39 +32568,6 @@
       ],
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "date": "2026-09-05",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "xai-org/grok-build",
-      "url": "https://github.com/xai-org/grok-build",
-      "stars": 23621,
-      "language": "Rust",
-      "created": "2026-07-14",
-      "topics": [],
-      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "date": "2026-07-31",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "anywhere-labs/dsh-desktop",
-      "url": "https://github.com/anywhere-labs/dsh-desktop",
-      "stars": 23503,
-      "language": "TypeScript",
-      "created": "2026-08-13",
-      "topics": [
-        "cordis",
-        "cordis-plugin",
-        "deepseek",
-        "deepseek-harness",
-        "desktop",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugin-desktop"
-      ],
-      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "date": "2026-09-04",
       "section": "monthly",
       "is_ai_dev": false
     }
