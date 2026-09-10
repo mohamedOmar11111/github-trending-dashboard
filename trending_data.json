@@ -1,9 +1,472 @@
 {
-  "last_updated": "2026-09-09T10:13:11.788380",
-  "total_repos": 1823,
-  "total_dates": 62,
+  "last_updated": "2026-09-10T10:08:01.179798",
+  "total_repos": 1853,
+  "total_dates": 63,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "ashemag/human-atlas",
+      "url": "https://github.com/ashemag/human-atlas",
+      "stars": 2976,
+      "language": "TypeScript",
+      "created": "2026-09-05",
+      "topics": [],
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Rion-Wu-tech/wechat-intelligence-hub",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "stars": 2048,
+      "language": "Python",
+      "created": "2026-09-04",
+      "topics": [],
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "openai/NavierStokesAndEuler",
+      "url": "https://github.com/openai/NavierStokesAndEuler",
+      "stars": 1630,
+      "language": "Lean",
+      "created": "2026-09-08",
+      "topics": [],
+      "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "vinzdg/codenotch",
+      "url": "https://github.com/vinzdg/codenotch",
+      "stars": 1328,
+      "language": "Swift",
+      "created": "2026-09-05",
+      "topics": [],
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "EverettFish/holo-card-studio",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "stars": 1288,
+      "language": "Python",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anthropics/fermats-last-theorem",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "stars": 1005,
+      "language": "Lean",
+      "created": "2026-09-04",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sdli1995/dlssg_for_sm86",
+      "url": "https://github.com/sdli1995/dlssg_for_sm86",
+      "stars": 994,
+      "language": "Unknown",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "Here is a dlssg for RTX30 Series GPU",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "donvito/codex-astra-luna-orchestrator",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "stars": 858,
+      "language": "Python",
+      "created": "2026-09-05",
+      "topics": [],
+      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yang0/handraw-style",
+      "url": "https://github.com/yang0/handraw-style",
+      "stars": 752,
+      "language": "HTML",
+      "created": "2026-09-05",
+      "topics": [],
+      "description": "手绘风格编号画廊与双语提示词 Skill",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "KJGX66F/usque-custom-pro",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "stars": 734,
+      "language": "JavaScript",
+      "created": "2026-09-04",
+      "topics": [],
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Mantitup-Org/vista",
+      "url": "https://github.com/Mantitup-Org/vista",
+      "stars": 623,
+      "language": "TypeScript",
+      "created": "2026-09-04",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Jarvis322/macos-sysdata",
+      "url": "https://github.com/Jarvis322/macos-sysdata",
+      "stars": 616,
+      "language": "Swift",
+      "created": "2026-09-05",
+      "topics": [
+        "disk-cleanup",
+        "macos",
+        "menubar",
+        "swiftui",
+        "system-data",
+        "xcode"
+      ],
+      "description": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "AI-FanGe/Microduck-build-tutorial",
+      "url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
+      "stars": 614,
+      "language": "Python",
+      "created": "2026-09-04",
+      "topics": [],
+      "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "achimala/dream-loop",
+      "url": "https://github.com/achimala/dream-loop",
+      "stars": 574,
+      "language": "JavaScript",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "byJoey/warp-masque-actions",
+      "url": "https://github.com/byJoey/warp-masque-actions",
+      "stars": 546,
+      "language": "JavaScript",
+      "created": "2026-09-04",
+      "topics": [],
+      "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "okf-memory/okf-agent-memory",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "stars": 534,
+      "language": "Go",
+      "created": "2026-09-05",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "bm25",
+        "coding-agents",
+        "developer-tools",
+        "git-native",
+        "go",
+        "golang",
+        "knowledge-base",
+        "knowledge-graph",
+        "llm-memory",
+        "markdown",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "okf",
+        "open-knowledge-format",
+        "persistent-memory"
+      ],
+      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "gazijarin/itsgiving",
+      "url": "https://github.com/gazijarin/itsgiving",
+      "stars": 513,
+      "language": "Python",
+      "created": "2026-09-08",
+      "topics": [],
+      "description": "Express yourself in meetings (with memes, of course).",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "com-phantom/Phantom-Wallet-Desktop",
+      "url": "https://github.com/com-phantom/Phantom-Wallet-Desktop",
+      "stars": 511,
+      "language": "HTML",
+      "created": "2026-09-08",
+      "topics": [
+        "bitcoin",
+        "blockchain",
+        "cryptocurrency",
+        "defi",
+        "desktop-app",
+        "electron",
+        "ethereum",
+        "js",
+        "nft",
+        "phantom",
+        "phantom-desktop",
+        "phantom-wallet-browser",
+        "phantomjs",
+        "sol-trade",
+        "solana",
+        "solana-launchpad",
+        "solana-wallet-connect",
+        "solana-wallet-manager",
+        "wallet",
+        "web3"
+      ],
+      "description": "Phantom Wallet Desktop app for Windows, macOS and Linux. A lightweight desktop client that brings Phantom crypto wallet experience outside the browser with native desktop access.",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "burakgon/stop-stutter",
+      "url": "https://github.com/burakgon/stop-stutter",
+      "stars": 501,
+      "language": "Swift",
+      "created": "2026-09-04",
+      "topics": [
+        "awdl",
+        "game-streaming",
+        "geforce-now",
+        "latency",
+        "liquid-glass",
+        "macos",
+        "moonlight",
+        "parsec",
+        "steam-link",
+        "stutter",
+        "swiftui"
+      ],
+      "description": "Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, Punktfunk, Parsec & Steam Link. Native SwiftUI + Liquid Glass. MIT.",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "truanayangi-com/truanayangi",
+      "url": "https://github.com/truanayangi-com/truanayangi",
+      "stars": 472,
+      "language": "TypeScript",
+      "created": "2026-09-08",
+      "topics": [],
+      "description": "Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
+      "date": "2026-09-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yureii1996/cek-probe-model",
+      "url": "https://github.com/yureii1996/cek-probe-model",
+      "stars": 354,
+      "language": "Python",
+      "created": "2026-09-10",
+      "topics": [],
+      "description": "Untuk cek model apakah maskingan atau bukan",
+      "date": "2026-09-10",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yudaprasetya007/routeVSCODE",
+      "url": "https://github.com/yudaprasetya007/routeVSCODE",
+      "stars": 326,
+      "language": "JavaScript",
+      "created": "2026-09-10",
+      "topics": [
+        "9router",
+        "ai",
+        "chatgpt",
+        "claude",
+        "copilot",
+        "deepseek",
+        "local-proxy",
+        "model-switcher",
+        "vscode",
+        "vscode-extension"
+      ],
+      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "date": "2026-09-10",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kevinzakka/mjbatch",
+      "url": "https://github.com/kevinzakka/mjbatch",
+      "stars": 118,
+      "language": "Python",
+      "created": "2026-09-10",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-10",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tue09/awesome-reasoning-generalization",
+      "url": "https://github.com/tue09/awesome-reasoning-generalization",
+      "stars": 115,
+      "language": "Python",
+      "created": "2026-09-10",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-10",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yi1108/printfilm",
+      "url": "https://github.com/yi1108/printfilm",
+      "stars": 112,
+      "language": "Python",
+      "created": "2026-09-10",
+      "topics": [],
+      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "date": "2026-09-10",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 218408,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-09-10",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "stars": 25063,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-09-10",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": 15132,
+      "language": "Python",
+      "created": "2026-08-13",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "date": "2026-09-10",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "zhu1090093659/dsh-web",
+      "url": "https://github.com/zhu1090093659/dsh-web",
+      "stars": 7289,
+      "language": "TypeScript",
+      "created": "2026-08-12",
+      "topics": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-web",
+        "dsh-web-ui"
+      ],
+      "description": "DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
+      "date": "2026-09-10",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
+      "stars": 7147,
+      "language": "JavaScript",
+      "created": "2026-08-14",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "date": "2026-09-10",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "ashemag/human-atlas",
       "url": "https://github.com/ashemag/human-atlas",
@@ -29331,6 +29794,15 @@
     }
   ],
   "metadata": {
+    "2026-09-10": {
+      "ai_relevant_count": 9,
+      "top_ai_pick": {
+        "name": "Rion-Wu-tech/wechat-intelligence-hub",
+        "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+        "stars": 2048,
+        "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking."
+      }
+    },
     "2026-09-09": {
       "ai_relevant_count": 8,
       "top_ai_pick": {
@@ -29887,9 +30359,19 @@
   },
   "language_stats": {
     "Python": {
-      "count": 539,
-      "total_stars": 1758519,
+      "count": 549,
+      "total_stars": 1779671,
       "repos": [
+        "Rion-Wu-tech/wechat-intelligence-hub",
+        "EverettFish/holo-card-studio",
+        "donvito/codex-astra-luna-orchestrator",
+        "AI-FanGe/Microduck-build-tutorial",
+        "gazijarin/itsgiving",
+        "yureii1996/cek-probe-model",
+        "kevinzakka/mjbatch",
+        "tue09/awesome-reasoning-generalization",
+        "yi1108/printfilm",
+        "awesome-dsh-plugin/awesome-dsh-plugin",
         "Rion-Wu-tech/wechat-intelligence-hub",
         "EverettFish/holo-card-studio",
         "kajisho5/ffmpeg-skill",
@@ -30432,9 +30914,15 @@
       ]
     },
     "TypeScript": {
-      "count": 401,
-      "total_stars": 6231138,
+      "count": 407,
+      "total_stars": 6485969,
       "repos": [
+        "ashemag/human-atlas",
+        "Mantitup-Org/vista",
+        "truanayangi-com/truanayangi",
+        "deepseek-ai/deepseek-harness",
+        "anywhere-labs/dsh-desktop",
+        "zhu1090093659/dsh-web",
         "ashemag/human-atlas",
         "Albert-Weasker/niubigeo",
         "Mantitup-Org/vista",
@@ -30839,9 +31327,14 @@
       ]
     },
     "JavaScript": {
-      "count": 241,
-      "total_stars": 885438,
+      "count": 246,
+      "total_stars": 894765,
       "repos": [
+        "KJGX66F/usque-custom-pro",
+        "achimala/dream-loop",
+        "byJoey/warp-masque-actions",
+        "yudaprasetya007/routeVSCODE",
+        "yjh051108/dsh-routing-suite",
         "ahujasid/camera-to-blender",
         "KJGX66F/usque-custom-pro",
         "byJoey/warp-masque-actions",
@@ -31086,9 +31579,10 @@
       ]
     },
     "Unknown": {
-      "count": 155,
-      "total_stars": 161534,
+      "count": 156,
+      "total_stars": 162528,
       "repos": [
+        "sdli1995/dlssg_for_sm86",
         "danielblnc/DLSS-NR-on-AMD",
         "danielblnc/DLSS-NR-on-AMD",
         "andrewroxby/claude-style-patch",
@@ -31360,9 +31854,11 @@
       ]
     },
     "HTML": {
-      "count": 63,
-      "total_stars": 51524,
+      "count": 65,
+      "total_stars": 52787,
       "repos": [
+        "yang0/handraw-style",
+        "com-phantom/Phantom-Wallet-Desktop",
         "yang0/handraw-style",
         "sonicloudco/recorder",
         "sonicloudco/recorder",
@@ -31429,9 +31925,12 @@
       ]
     },
     "Swift": {
-      "count": 50,
-      "total_stars": 27136,
+      "count": 53,
+      "total_stars": 29581,
       "repos": [
+        "vinzdg/codenotch",
+        "Jarvis322/macos-sysdata",
+        "burakgon/stop-stutter",
         "vinzdg/codenotch",
         "Jarvis322/macos-sysdata",
         "burakgon/stop-stutter",
@@ -31587,9 +32086,10 @@
       ]
     },
     "Go": {
-      "count": 36,
-      "total_stars": 15116,
+      "count": 37,
+      "total_stars": 15650,
       "repos": [
+        "okf-memory/okf-agent-memory",
         "okf-memory/okf-agent-memory",
         "okf-memory/okf-agent-memory",
         "pcm469768-droid/llm-api-speedtest",
@@ -31661,6 +32161,23 @@
         "BohemiaInteractive/CWR"
       ]
     },
+    "Lean": {
+      "count": 11,
+      "total_stars": 9021,
+      "repos": [
+        "openai/NavierStokesAndEuler",
+        "anthropics/fermats-last-theorem",
+        "openai/NavierStokesAndEuler",
+        "anthropics/fermats-last-theorem",
+        "anthropics/fermats-last-theorem",
+        "tristanbuckmaster/fluid_lean",
+        "anthropics/fermats-last-theorem",
+        "anthropics/fermats-last-theorem",
+        "anthropics/fermats-last-theorem",
+        "openai/ten-proofs",
+        "openai/ten-proofs"
+      ]
+    },
     "CSS": {
       "count": 10,
       "total_stars": 7746,
@@ -31675,21 +32192,6 @@
         "MetaMask-AI/metamask-desktop",
         "MetaMask-AI/metamask-desktop",
         "spiritov/ds.css"
-      ]
-    },
-    "Lean": {
-      "count": 9,
-      "total_stars": 6386,
-      "repos": [
-        "openai/NavierStokesAndEuler",
-        "anthropics/fermats-last-theorem",
-        "anthropics/fermats-last-theorem",
-        "tristanbuckmaster/fluid_lean",
-        "anthropics/fermats-last-theorem",
-        "anthropics/fermats-last-theorem",
-        "anthropics/fermats-last-theorem",
-        "openai/ten-proofs",
-        "openai/ten-proofs"
       ]
     },
     "Solidity": {
@@ -31927,6 +32429,11 @@
     }
   },
   "date_stats": {
+    "2026-09-10": {
+      "count": 30,
+      "total_stars": 293181,
+      "ai_count": 0
+    },
     "2026-09-09": {
       "count": 30,
       "total_stars": 304923,
@@ -32239,6 +32746,23 @@
     }
   },
   "top_50_all_time": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 218408,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-09-10",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
@@ -32872,6 +33396,27 @@
       "is_ai_dev": false
     },
     {
+      "name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "stars": 25063,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-09-10",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "xai-org/grok-build",
       "url": "https://github.com/xai-org/grok-build",
       "stars": 24723,
@@ -33039,39 +33584,6 @@
       "topics": [],
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "date": "2026-08-03",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "anywhere-labs/dsh-desktop",
-      "url": "https://github.com/anywhere-labs/dsh-desktop",
-      "stars": 23884,
-      "language": "TypeScript",
-      "created": "2026-08-13",
-      "topics": [
-        "cordis",
-        "cordis-plugin",
-        "deepseek",
-        "deepseek-harness",
-        "desktop",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugin-desktop"
-      ],
-      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "date": "2026-09-06",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "xai-org/grok-build",
-      "url": "https://github.com/xai-org/grok-build",
-      "stars": 23821,
-      "language": "Rust",
-      "created": "2026-07-14",
-      "topics": [],
-      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "date": "2026-08-02",
       "section": "monthly",
       "is_ai_dev": false
     }
