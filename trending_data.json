@@ -1,9 +1,440 @@
 {
-  "last_updated": "2026-09-10T10:08:01.179798",
-  "total_repos": 1853,
-  "total_dates": 63,
+  "last_updated": "2026-09-11T10:05:14.503373",
+  "total_repos": 1882,
+  "total_dates": 64,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "ashemag/human-atlas",
+      "url": "https://github.com/ashemag/human-atlas",
+      "stars": 3166,
+      "language": "TypeScript",
+      "created": "2026-09-05",
+      "topics": [],
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "openai/NavierStokesAndEuler",
+      "url": "https://github.com/openai/NavierStokesAndEuler",
+      "stars": 1751,
+      "language": "Lean",
+      "created": "2026-09-08",
+      "topics": [],
+      "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sdli1995/dlssg_for_sm86",
+      "url": "https://github.com/sdli1995/dlssg_for_sm86",
+      "stars": 1608,
+      "language": "Unknown",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "Here is a dlssg for RTX30 Series GPU",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "vinzdg/codenotch",
+      "url": "https://github.com/vinzdg/codenotch",
+      "stars": 1417,
+      "language": "Swift",
+      "created": "2026-09-05",
+      "topics": [],
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "EverettFish/holo-card-studio",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "stars": 1397,
+      "language": "Python",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yang0/handraw-style",
+      "url": "https://github.com/yang0/handraw-style",
+      "stars": 1281,
+      "language": "HTML",
+      "created": "2026-09-05",
+      "topics": [],
+      "description": "手绘风格编号画廊与双语提示词 Skill",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Edge0-AI/Edge0",
+      "url": "https://github.com/Edge0-AI/Edge0",
+      "stars": 1169,
+      "language": "Python",
+      "created": "2026-09-08",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "donvito/codex-astra-luna-orchestrator",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "stars": 953,
+      "language": "Python",
+      "created": "2026-09-05",
+      "topics": [],
+      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Faizpi/bank-sampah",
+      "url": "https://github.com/Faizpi/bank-sampah",
+      "stars": 918,
+      "language": "PHP",
+      "created": "2026-09-11",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "iamzulx/crypto-rag",
+      "url": "https://github.com/iamzulx/crypto-rag",
+      "stars": 900,
+      "language": "Python",
+      "created": "2026-09-05",
+      "topics": [],
+      "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Vincentwei1021/anything2explainer",
+      "url": "https://github.com/Vincentwei1021/anything2explainer",
+      "stars": 838,
+      "language": "TypeScript",
+      "created": "2026-09-08",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-video",
+        "claude-code",
+        "claude-code-skill",
+        "codex",
+        "edge-tts",
+        "educational-video",
+        "explainer-video",
+        "kokoro",
+        "motion-graphics",
+        "multi-agent",
+        "react",
+        "remotion",
+        "text-to-video",
+        "tts",
+        "typescript",
+        "video-generation"
+      ],
+      "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "achimala/dream-loop",
+      "url": "https://github.com/achimala/dream-loop",
+      "stars": 789,
+      "language": "JavaScript",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jtydhr88/screenwriting-skills",
+      "url": "https://github.com/jtydhr88/screenwriting-skills",
+      "stars": 688,
+      "language": "Unknown",
+      "created": "2026-09-06",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "gazijarin/itsgiving",
+      "url": "https://github.com/gazijarin/itsgiving",
+      "stars": 652,
+      "language": "Python",
+      "created": "2026-09-08",
+      "topics": [],
+      "description": "Express yourself in meetings (with memes, of course).",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Jarvis322/macos-sysdata",
+      "url": "https://github.com/Jarvis322/macos-sysdata",
+      "stars": 630,
+      "language": "Swift",
+      "created": "2026-09-05",
+      "topics": [
+        "disk-cleanup",
+        "macos",
+        "menubar",
+        "swiftui",
+        "system-data",
+        "xcode"
+      ],
+      "description": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "okf-memory/okf-agent-memory",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "stars": 557,
+      "language": "Go",
+      "created": "2026-09-05",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "bm25",
+        "coding-agents",
+        "developer-tools",
+        "git-native",
+        "go",
+        "golang",
+        "knowledge-base",
+        "knowledge-graph",
+        "llm-memory",
+        "markdown",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "okf",
+        "open-knowledge-format",
+        "persistent-memory"
+      ],
+      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "truanayangi-com/truanayangi",
+      "url": "https://github.com/truanayangi-com/truanayangi",
+      "stars": 556,
+      "language": "TypeScript",
+      "created": "2026-09-08",
+      "topics": [],
+      "description": "Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "OpenWAM-Official/OpenWAM",
+      "url": "https://github.com/OpenWAM-Official/OpenWAM",
+      "stars": 524,
+      "language": "Python",
+      "created": "2026-09-06",
+      "topics": [
+        "generalist-robot-policies",
+        "pretraining",
+        "robotics",
+        "world-action-model"
+      ],
+      "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lfzk550/fanzha-ai-proxy",
+      "url": "https://github.com/lfzk550/fanzha-ai-proxy",
+      "stars": 463,
+      "language": "Unknown",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "angusdevgo/IDM_Pro_Tool",
+      "url": "https://github.com/angusdevgo/IDM_Pro_Tool",
+      "stars": 446,
+      "language": "C#",
+      "created": "2026-09-10",
+      "topics": [],
+      "description": "IDM激活与状态维护工具",
+      "date": "2026-09-11",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Smart-Paocai/VioletToolBox",
+      "url": "https://github.com/Smart-Paocai/VioletToolBox",
+      "stars": 58,
+      "language": "C#",
+      "created": "2026-09-11",
+      "topics": [],
+      "description": "一款面向安卓开发的多功能玩机工具箱",
+      "date": "2026-09-11",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "browser-use/life-recorder",
+      "url": "https://github.com/browser-use/life-recorder",
+      "stars": 57,
+      "language": "Swift",
+      "created": "2026-09-11",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-11",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eternityspring/reelbench-skills",
+      "url": "https://github.com/eternityspring/reelbench-skills",
+      "stars": 51,
+      "language": "JavaScript",
+      "created": "2026-09-11",
+      "topics": [
+        "ai-video",
+        "claude-code",
+        "claude-skills",
+        "ffmpeg",
+        "shot-analysis",
+        "video-analysis"
+      ],
+      "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+      "date": "2026-09-11",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "hnamku/2026Fall",
+      "url": "https://github.com/hnamku/2026Fall",
+      "stars": 44,
+      "language": "Unknown",
+      "created": "2026-09-11",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-11",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 219966,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-09-11",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "stars": 25570,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-09-11",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": 15298,
+      "language": "Python",
+      "created": "2026-08-13",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "date": "2026-09-11",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
+      "stars": 7168,
+      "language": "JavaScript",
+      "created": "2026-08-14",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "date": "2026-09-11",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "stars": 6559,
+      "language": "Python",
+      "created": "2026-08-27",
+      "topics": [],
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "date": "2026-09-11",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "ashemag/human-atlas",
       "url": "https://github.com/ashemag/human-atlas",
@@ -29794,6 +30225,15 @@
     }
   ],
   "metadata": {
+    "2026-09-11": {
+      "ai_relevant_count": 12,
+      "top_ai_pick": {
+        "name": "openai/NavierStokesAndEuler",
+        "url": "https://github.com/openai/NavierStokesAndEuler",
+        "stars": 1751,
+        "description": "Lean certificates accompanying Navier-Stokes and Euler results"
+      }
+    },
     "2026-09-10": {
       "ai_relevant_count": 9,
       "top_ai_pick": {
@@ -30359,9 +30799,17 @@
   },
   "language_stats": {
     "Python": {
-      "count": 549,
-      "total_stars": 1779671,
+      "count": 557,
+      "total_stars": 1807123,
       "repos": [
+        "EverettFish/holo-card-studio",
+        "Edge0-AI/Edge0",
+        "donvito/codex-astra-luna-orchestrator",
+        "iamzulx/crypto-rag",
+        "gazijarin/itsgiving",
+        "OpenWAM-Official/OpenWAM",
+        "awesome-dsh-plugin/awesome-dsh-plugin",
+        "sapientinc/PRAXIST",
         "Rion-Wu-tech/wechat-intelligence-hub",
         "EverettFish/holo-card-studio",
         "donvito/codex-astra-luna-orchestrator",
@@ -30914,9 +31362,14 @@
       ]
     },
     "TypeScript": {
-      "count": 407,
-      "total_stars": 6485969,
+      "count": 412,
+      "total_stars": 6736065,
       "repos": [
+        "ashemag/human-atlas",
+        "Vincentwei1021/anything2explainer",
+        "truanayangi-com/truanayangi",
+        "deepseek-ai/deepseek-harness",
+        "anywhere-labs/dsh-desktop",
         "ashemag/human-atlas",
         "Mantitup-Org/vista",
         "truanayangi-com/truanayangi",
@@ -31327,9 +31780,12 @@
       ]
     },
     "JavaScript": {
-      "count": 246,
-      "total_stars": 894765,
+      "count": 249,
+      "total_stars": 902773,
       "repos": [
+        "achimala/dream-loop",
+        "eternityspring/reelbench-skills",
+        "yjh051108/dsh-routing-suite",
         "KJGX66F/usque-custom-pro",
         "achimala/dream-loop",
         "byJoey/warp-masque-actions",
@@ -31579,9 +32035,13 @@
       ]
     },
     "Unknown": {
-      "count": 156,
-      "total_stars": 162528,
+      "count": 160,
+      "total_stars": 165331,
       "repos": [
+        "sdli1995/dlssg_for_sm86",
+        "jtydhr88/screenwriting-skills",
+        "lfzk550/fanzha-ai-proxy",
+        "hnamku/2026Fall",
         "sdli1995/dlssg_for_sm86",
         "danielblnc/DLSS-NR-on-AMD",
         "danielblnc/DLSS-NR-on-AMD",
@@ -31854,9 +32314,10 @@
       ]
     },
     "HTML": {
-      "count": 65,
-      "total_stars": 52787,
+      "count": 66,
+      "total_stars": 54068,
       "repos": [
+        "yang0/handraw-style",
         "yang0/handraw-style",
         "com-phantom/Phantom-Wallet-Desktop",
         "yang0/handraw-style",
@@ -31925,9 +32386,12 @@
       ]
     },
     "Swift": {
-      "count": 53,
-      "total_stars": 29581,
+      "count": 56,
+      "total_stars": 31685,
       "repos": [
+        "vinzdg/codenotch",
+        "Jarvis322/macos-sysdata",
+        "browser-use/life-recorder",
         "vinzdg/codenotch",
         "Jarvis322/macos-sysdata",
         "burakgon/stop-stutter",
@@ -32086,9 +32550,10 @@
       ]
     },
     "Go": {
-      "count": 37,
-      "total_stars": 15650,
+      "count": 38,
+      "total_stars": 16207,
       "repos": [
+        "okf-memory/okf-agent-memory",
         "okf-memory/okf-agent-memory",
         "okf-memory/okf-agent-memory",
         "okf-memory/okf-agent-memory",
@@ -32162,9 +32627,10 @@
       ]
     },
     "Lean": {
-      "count": 11,
-      "total_stars": 9021,
+      "count": 12,
+      "total_stars": 10772,
       "repos": [
+        "openai/NavierStokesAndEuler",
         "openai/NavierStokesAndEuler",
         "anthropics/fermats-last-theorem",
         "openai/NavierStokesAndEuler",
@@ -32233,6 +32699,18 @@
         "std-microblock/NovelHub",
         "std-microblock/NovelHub",
         "iebb/mithka"
+      ]
+    },
+    "C#": {
+      "count": 6,
+      "total_stars": 705,
+      "repos": [
+        "angusdevgo/IDM_Pro_Tool",
+        "Smart-Paocai/VioletToolBox",
+        "Leveetememorialize/gta-6-download-cyberleek",
+        "C-Clarke-Institute/DevOps_Workshop_.NET",
+        "johnclark-lab2093p9/fortnite-macro-2026",
+        "PostmanReminisce/Wisp-VPN"
       ]
     },
     "TeX": {
@@ -32337,16 +32815,6 @@
         "BottomKomodoCorridor/youtube-unban"
       ]
     },
-    "C#": {
-      "count": 4,
-      "total_stars": 201,
-      "repos": [
-        "Leveetememorialize/gta-6-download-cyberleek",
-        "C-Clarke-Institute/DevOps_Workshop_.NET",
-        "johnclark-lab2093p9/fortnite-macro-2026",
-        "PostmanReminisce/Wisp-VPN"
-      ]
-    },
     "GDScript": {
       "count": 3,
       "total_stars": 1332,
@@ -32372,6 +32840,14 @@
         "c9nny/mirror",
         "c9nny/linnaea",
         "canonicalise/up"
+      ]
+    },
+    "PHP": {
+      "count": 2,
+      "total_stars": 944,
+      "repos": [
+        "Faizpi/bank-sampah",
+        "THARUNRAJ15/Student-Expense-Tracker"
       ]
     },
     "Kotlin": {
@@ -32413,13 +32889,6 @@
         "YuKongA/twrp_device_xiaomi_sm8850"
       ]
     },
-    "PHP": {
-      "count": 1,
-      "total_stars": 26,
-      "repos": [
-        "THARUNRAJ15/Student-Expense-Tracker"
-      ]
-    },
     "Pascal": {
       "count": 1,
       "total_stars": 29,
@@ -32429,6 +32898,11 @@
     }
   },
   "date_stats": {
+    "2026-09-11": {
+      "count": 29,
+      "total_stars": 295474,
+      "ai_count": 0
+    },
     "2026-09-10": {
       "count": 30,
       "total_stars": 293181,
@@ -32746,6 +33220,23 @@
     }
   },
   "top_50_all_time": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars": 219966,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "date": "2026-09-11",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
@@ -33398,6 +33889,27 @@
     {
       "name": "anywhere-labs/dsh-desktop",
       "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "stars": 25570,
+      "language": "TypeScript",
+      "created": "2026-08-13",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "date": "2026-09-11",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
       "stars": 25063,
       "language": "TypeScript",
       "created": "2026-08-13",
@@ -33560,30 +34072,6 @@
       ],
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "date": "2026-09-07",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "xai-org/grok-build",
-      "url": "https://github.com/xai-org/grok-build",
-      "stars": 24070,
-      "language": "Rust",
-      "created": "2026-07-14",
-      "topics": [],
-      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "date": "2026-08-04",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "xai-org/grok-build",
-      "url": "https://github.com/xai-org/grok-build",
-      "stars": 23969,
-      "language": "Rust",
-      "created": "2026-07-14",
-      "topics": [],
-      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "date": "2026-08-03",
       "section": "monthly",
       "is_ai_dev": false
     }
