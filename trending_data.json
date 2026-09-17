@@ -1,9 +1,498 @@
 {
-  "last_updated": "2026-09-16T10:22:37.577001",
-  "total_repos": 2032,
-  "total_dates": 69,
+  "last_updated": "2026-09-17T10:31:54.852032",
+  "total_repos": 2062,
+  "total_dates": 70,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "ai-sucks-butt/ai-sucks-butt",
+      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
+      "stars": 2324,
+      "language": "Python",
+      "created": "2026-09-14",
+      "topics": [],
+      "description": "If you think AI sucks, star the repo.",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Chuloo/mural",
+      "url": "https://github.com/Chuloo/mural",
+      "stars": 1284,
+      "language": "Kotlin",
+      "created": "2026-09-12",
+      "topics": [
+        "ios",
+        "language-learning",
+        "open-source",
+        "swiftui"
+      ],
+      "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yifanzhang-pro/recurrent-looped-tranformer",
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
+      "stars": 865,
+      "language": "HTML",
+      "created": "2026-09-12",
+      "topics": [],
+      "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kruzovic7/ai-data-extractor",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "stars": 829,
+      "language": "Python",
+      "created": "2026-09-11",
+      "topics": [
+        "ai",
+        "ai-data-extraction",
+        "claude-code",
+        "cursor"
+      ],
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "zjwzcx/Awesome-Astra-Embodied-AI",
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
+      "stars": 811,
+      "language": "Unknown",
+      "created": "2026-09-12",
+      "topics": [],
+      "description": "GPT-6 Astra for embodied AI and robotics.",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eternityspring/reelbench-skills",
+      "url": "https://github.com/eternityspring/reelbench-skills",
+      "stars": 715,
+      "language": "HTML",
+      "created": "2026-09-11",
+      "topics": [
+        "ai-video",
+        "claude-skills",
+        "ffmpeg",
+        "shot-analysis",
+        "video-analysis"
+      ],
+      "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "agentverse-os/AgentVerse-OS",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "stars": 704,
+      "language": "Rust",
+      "created": "2026-09-12",
+      "topics": [],
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "youngyangyang04/llm-master",
+      "url": "https://github.com/youngyangyang04/llm-master",
+      "stars": 669,
+      "language": "Unknown",
+      "created": "2026-09-12",
+      "topics": [
+        "agent",
+        "large-language-models",
+        "llm",
+        "llm-learning",
+        "llm-tutorial",
+        "rag"
+      ],
+      "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nilbuild/page-mascot",
+      "url": "https://github.com/nilbuild/page-mascot",
+      "stars": 665,
+      "language": "Python",
+      "created": "2026-09-14",
+      "topics": [],
+      "description": "A mascot that watches the cursor and blinks when you poke it",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": 662,
+      "language": "Python",
+      "created": "2026-09-16",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "rizqinrr/viserys-agent",
+      "url": "https://github.com/rizqinrr/viserys-agent",
+      "stars": 662,
+      "language": "JavaScript",
+      "created": "2026-09-12",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Faizpi/bank-sampah",
+      "url": "https://github.com/Faizpi/bank-sampah",
+      "stars": 646,
+      "language": "PHP",
+      "created": "2026-09-11",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "letorig/video-generator-client",
+      "url": "https://github.com/letorig/video-generator-client",
+      "stars": 522,
+      "language": "Python",
+      "created": "2026-09-14",
+      "topics": [
+        "kling",
+        "kling-ai",
+        "minimax-h3",
+        "seedance",
+        "seedance-2-5",
+        "video-generation",
+        "video-generation-api",
+        "video-generation-tool"
+      ],
+      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "saragordic/window-sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "stars": 472,
+      "language": "C",
+      "created": "2026-09-15",
+      "topics": [
+        "desktop-customization",
+        "knitting",
+        "macos",
+        "macos-app",
+        "menubar",
+        "menubar-app",
+        "objective-c",
+        "window-management"
+      ],
+      "description": "A macOS menu-bar app that dresses your windows in knitted borders.",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "theoephraim/awesome-cloudflare-selfhosted",
+      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+      "stars": 437,
+      "language": "JavaScript",
+      "created": "2026-09-15",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloudflare",
+        "cloudflare-workers",
+        "self-hosted"
+      ],
+      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "cobanov/awesome-fly",
+      "url": "https://github.com/cobanov/awesome-fly",
+      "stars": 434,
+      "language": "Unknown",
+      "created": "2026-09-12",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "brain-simulation",
+        "computational-neuroscience",
+        "connectome",
+        "connectomics",
+        "drosophila",
+        "drosophila-melanogaster",
+        "embodied-ai",
+        "fly",
+        "fly-brain",
+        "flybody",
+        "flywire",
+        "fruit-fly",
+        "malecns",
+        "mujoco",
+        "neural-networks",
+        "neuromechfly",
+        "neuroscience",
+        "reinforcement-learning"
+      ],
+      "description": "A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools.",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anonymous-report-421/GPT-as-Policy",
+      "url": "https://github.com/anonymous-report-421/GPT-as-Policy",
+      "stars": 429,
+      "language": "HTML",
+      "created": "2026-09-13",
+      "topics": [],
+      "description": "GPT as Policy",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "atria-asi/Atria-Dawn-Preview",
+      "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
+      "stars": 429,
+      "language": "Unknown",
+      "created": "2026-09-12",
+      "topics": [
+        "llm",
+        "llm-agent"
+      ],
+      "description": "",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "vinnylarouge/jevlike",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "stars": 416,
+      "language": "Python",
+      "created": "2026-09-16",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "zhengkid/Dream-RSI",
+      "url": "https://github.com/zhengkid/Dream-RSI",
+      "stars": 406,
+      "language": "Unknown",
+      "created": "2026-09-13",
+      "topics": [],
+      "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+      "date": "2026-09-17",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nMaas8388/github-ranking-audit",
+      "url": "https://github.com/nMaas8388/github-ranking-audit",
+      "stars": 139,
+      "language": "Python",
+      "created": "2026-09-17",
+      "topics": [
+        "developer-tools",
+        "github-api",
+        "github-growth",
+        "github-ranking",
+        "github-search",
+        "github-seo",
+        "github-stars",
+        "github-topics",
+        "open-source",
+        "python",
+        "readme-optimization",
+        "repository-analytics",
+        "repository-optimization",
+        "seo-audit"
+      ],
+      "description": "Audit your GitHub repository search ranking signals. Checks name, description, topics, README, stars, forks, and activity.",
+      "date": "2026-09-17",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sabbircode-dev/learning-python",
+      "url": "https://github.com/sabbircode-dev/learning-python",
+      "stars": 49,
+      "language": "Python",
+      "created": "2026-09-17",
+      "topics": [],
+      "description": "My Python learning journey — basic programs, practice, and projects.",
+      "date": "2026-09-17",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pengchujin/MacTV",
+      "url": "https://github.com/pengchujin/MacTV",
+      "stars": 36,
+      "language": "Swift",
+      "created": "2026-09-17",
+      "topics": [
+        "apple-silicon",
+        "hdmi-cec",
+        "macos",
+        "menu-bar",
+        "swiftui"
+      ],
+      "description": "MacTV · 电视遥控 — 让电视更好用作 Mac 显示器。通过 HDMI-CEC，在 Mac 上调节电视音量、切换输入源、操作菜单。",
+      "date": "2026-09-17",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NiazMorshed2007/jev-review",
+      "url": "https://github.com/NiazMorshed2007/jev-review",
+      "stars": 28,
+      "language": "TypeScript",
+      "created": "2026-09-17",
+      "topics": [
+        "agent-plugin",
+        "ai-agents",
+        "claude-code",
+        "code-review",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "developer-tools",
+        "jev",
+        "local-first",
+        "mcp",
+        "model-context-protocol",
+        "opencode",
+        "software-quality",
+        "typescript"
+      ],
+      "description": "Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.",
+      "date": "2026-09-17",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "simmonsi-8127/battlefield-6-hack-2026-combat-toolkit",
+      "url": "https://github.com/simmonsi-8127/battlefield-6-hack-2026-combat-toolkit",
+      "stars": 25,
+      "language": "Unknown",
+      "created": "2026-09-17",
+      "topics": [
+        "bf4",
+        "fairfight",
+        "imgui",
+        "internal",
+        "punkbuster"
+      ],
+      "description": "Battlefield 6 Hack 2026 themed PC companion for classes, weapon loadouts, vehicles, maps, manual aim practice and multiplayer match analytics.",
+      "date": "2026-09-17",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "stars": 7239,
+      "language": "TypeScript",
+      "created": "2026-09-02",
+      "topics": [
+        "design-tool",
+        "material-3-expressive",
+        "material-design",
+        "material3",
+        "nextjs",
+        "prompt",
+        "react",
+        "vibe-coding"
+      ],
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "date": "2026-09-17",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MengTo/threeui",
+      "url": "https://github.com/MengTo/threeui",
+      "stars": 5883,
+      "language": "HTML",
+      "created": "2026-08-21",
+      "topics": [
+        "react",
+        "shaders",
+        "threejs",
+        "ui-components",
+        "webgl"
+      ],
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "date": "2026-09-17",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "stars": 5724,
+      "language": "Python",
+      "created": "2026-08-27",
+      "topics": [],
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "date": "2026-09-17",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "rakanki911/DLSS5-Swapper",
+      "url": "https://github.com/rakanki911/DLSS5-Swapper",
+      "stars": 5445,
+      "language": "JavaScript",
+      "created": "2026-08-29",
+      "topics": [],
+      "description": "Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.",
+      "date": "2026-09-17",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "amagine-ai/Amagine3D",
+      "url": "https://github.com/amagine-ai/Amagine3D",
+      "stars": 5125,
+      "language": "Python",
+      "created": "2026-08-19",
+      "topics": [],
+      "description": "Amagine3D: From hardware requirements to editable 3D designs",
+      "date": "2026-09-17",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "Chuloo/mural",
       "url": "https://github.com/Chuloo/mural",
@@ -32653,6 +33142,15 @@
     }
   ],
   "metadata": {
+    "2026-09-17": {
+      "ai_relevant_count": 13,
+      "top_ai_pick": {
+        "name": "ai-sucks-butt/ai-sucks-butt",
+        "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
+        "stars": 2324,
+        "description": "If you think AI sucks, star the repo."
+      }
+    },
     "2026-09-16": {
       "ai_relevant_count": 14,
       "top_ai_pick": {
@@ -33272,9 +33770,19 @@
   },
   "language_stats": {
     "Python": {
-      "count": 606,
-      "total_stars": 1868666,
+      "count": 616,
+      "total_stars": 1885121,
       "repos": [
+        "ai-sucks-butt/ai-sucks-butt",
+        "kruzovic7/ai-data-extractor",
+        "nilbuild/page-mascot",
+        "browser-use/jev-ultrafast",
+        "letorig/video-generator-client",
+        "vinnylarouge/jevlike",
+        "nMaas8388/github-ranking-audit",
+        "sabbircode-dev/learning-python",
+        "sapientinc/PRAXIST",
+        "amagine-ai/Amagine3D",
         "ai-sucks-butt/ai-sucks-butt",
         "kruzovic7/ai-data-extractor",
         "nftechie/stonkfly",
@@ -33884,9 +34392,11 @@
       ]
     },
     "TypeScript": {
-      "count": 427,
-      "total_stars": 6789079,
+      "count": 429,
+      "total_stars": 6796346,
       "repos": [
+        "NiazMorshed2007/jev-review",
+        "lnkiai/m3e-canvas",
         "lnkiai/m3e-canvas",
         "lnkiai/m3e-canvas",
         "CopilotKit/OpenBot",
@@ -34317,9 +34827,12 @@
       ]
     },
     "JavaScript": {
-      "count": 263,
-      "total_stars": 922201,
+      "count": 266,
+      "total_stars": 928745,
       "repos": [
+        "rizqinrr/viserys-agent",
+        "theoephraim/awesome-cloudflare-selfhosted",
+        "rakanki911/DLSS5-Swapper",
         "rizqinrr/viserys-agent",
         "viettranx/3dviz-pro-max",
         "dofastted/vm2api",
@@ -34586,9 +35099,15 @@
       ]
     },
     "Unknown": {
-      "count": 188,
-      "total_stars": 201424,
+      "count": 194,
+      "total_stars": 204198,
       "repos": [
+        "zjwzcx/Awesome-Astra-Embodied-AI",
+        "youngyangyang04/llm-master",
+        "cobanov/awesome-fly",
+        "atria-asi/Atria-Dawn-Preview",
+        "zhengkid/Dream-RSI",
+        "simmonsi-8127/battlefield-6-hack-2026-combat-toolkit",
         "zjwzcx/Awesome-Astra-Embodied-AI",
         "youngyangyang04/llm-master",
         "atria-asi/Atria-Dawn-Preview",
@@ -34780,9 +35299,10 @@
       ]
     },
     "Rust": {
-      "count": 109,
-      "total_stars": 1096805,
+      "count": 110,
+      "total_stars": 1097509,
       "repos": [
+        "agentverse-os/AgentVerse-OS",
         "agentverse-os/AgentVerse-OS",
         "agentverse-os/AgentVerse-OS",
         "faisalkindi/DLSS5oneclick",
@@ -34895,9 +35415,13 @@
       ]
     },
     "HTML": {
-      "count": 80,
-      "total_stars": 87211,
+      "count": 84,
+      "total_stars": 95103,
       "repos": [
+        "yifanzhang-pro/recurrent-looped-tranformer",
+        "eternityspring/reelbench-skills",
+        "anonymous-report-421/GPT-as-Policy",
+        "MengTo/threeui",
         "yifanzhang-pro/recurrent-looped-tranformer",
         "eternityspring/reelbench-skills",
         "MengTo/threeui",
@@ -34981,9 +35505,10 @@
       ]
     },
     "Swift": {
-      "count": 62,
-      "total_stars": 35699,
+      "count": 63,
+      "total_stars": 35735,
       "repos": [
+        "pengchujin/MacTV",
         "sumimakito/Mac-Duo",
         "sumimakito/Mac-Duo",
         "sumimakito/Mac-Duo",
@@ -35049,9 +35574,10 @@
       ]
     },
     "C": {
-      "count": 51,
-      "total_stars": 284630,
+      "count": 52,
+      "total_stars": 285102,
       "repos": [
+        "saragordic/window-sweaters",
         "Sadpainy/Stuxnet",
         "MSNightmare/FalconFlank",
         "MSNightmare/FalconFlank",
@@ -35301,6 +35827,20 @@
         "alexafinode/claude-arbitrage-bot"
       ]
     },
+    "PHP": {
+      "count": 8,
+      "total_stars": 5094,
+      "repos": [
+        "Faizpi/bank-sampah",
+        "Faizpi/bank-sampah",
+        "Faizpi/bank-sampah",
+        "Faizpi/bank-sampah",
+        "Faizpi/bank-sampah",
+        "Faizpi/bank-sampah",
+        "Faizpi/bank-sampah",
+        "THARUNRAJ15/Student-Expense-Tracker"
+      ]
+    },
     "PowerShell": {
       "count": 8,
       "total_stars": 23722,
@@ -35315,19 +35855,6 @@
         "tybhy/tybhy-workflow"
       ]
     },
-    "PHP": {
-      "count": 7,
-      "total_stars": 4448,
-      "repos": [
-        "Faizpi/bank-sampah",
-        "Faizpi/bank-sampah",
-        "Faizpi/bank-sampah",
-        "Faizpi/bank-sampah",
-        "Faizpi/bank-sampah",
-        "Faizpi/bank-sampah",
-        "THARUNRAJ15/Student-Expense-Tracker"
-      ]
-    },
     "Dart": {
       "count": 7,
       "total_stars": 2341,
@@ -35339,6 +35866,18 @@
         "std-microblock/NovelHub",
         "std-microblock/NovelHub",
         "iebb/mithka"
+      ]
+    },
+    "Kotlin": {
+      "count": 6,
+      "total_stars": 3387,
+      "repos": [
+        "Chuloo/mural",
+        "Chuloo/mural",
+        "zhdmm35/obsidian-mobile-companion",
+        "Chuloo/mural",
+        "Supersonic/TLPE",
+        "sam1am/localdex"
       ]
     },
     "TeX": {
@@ -35387,17 +35926,6 @@
         "unicity-astrid/book",
         "unicity-astrid/book",
         "unicity-astrid/book"
-      ]
-    },
-    "Kotlin": {
-      "count": 5,
-      "total_stars": 2103,
-      "repos": [
-        "Chuloo/mural",
-        "zhdmm35/obsidian-mobile-companion",
-        "Chuloo/mural",
-        "Supersonic/TLPE",
-        "sam1am/localdex"
       ]
     },
     "Objective-C": {
@@ -35521,6 +36049,11 @@
     }
   },
   "date_stats": {
+    "2026-09-17": {
+      "count": 30,
+      "total_stars": 44074,
+      "ai_count": 0
+    },
     "2026-09-16": {
       "count": 30,
       "total_stars": 43658,
