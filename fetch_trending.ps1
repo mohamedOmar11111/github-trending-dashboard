@@ -39,6 +39,7 @@ try {
     $aiTrending = (Invoke-RestMethod -Uri "https://api.github.com/search/repositories?q=created:%3E$((Get-Date).AddDays(-7).ToString('yyyy-MM-dd'))+topic:ai+topic:llm+topic:agent&sort=stars&order=desc&per_page=5" -Headers $headers).items
 
     $aiTerms = "ai|llm|gpt|claude|agent|machine-learning|deep-learning|generative|copilot|assistant|automation|dev-tool|developer-tool|cli|mcp"
+    $md = ""
 
     function Is-AiDev($repo) {
         $text = "$($repo.description) $($repo.full_name) $($repo.topics -join ' ')"
