@@ -1,9 +1,449 @@
 {
-  "last_updated": "2026-09-22T10:26:16.307364",
-  "total_repos": 2176,
-  "total_dates": 74,
+  "last_updated": "2026-09-23T10:21:28.558526",
+  "total_repos": 2205,
+  "total_dates": 75,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 18641,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "zai-org/ZCode",
+      "url": "https://github.com/zai-org/ZCode",
+      "stars": 6460,
+      "language": "TypeScript",
+      "created": "2026-09-20",
+      "topics": [],
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tamaratran/fast-jev-compaction",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "stars": 6448,
+      "language": "TypeScript",
+      "created": "2026-09-17",
+      "topics": [],
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mizorewww/laya-mlx",
+      "url": "https://github.com/mizorewww/laya-mlx",
+      "stars": 5719,
+      "language": "Python",
+      "created": "2026-09-19",
+      "topics": [
+        "apple-silicon",
+        "decision-model",
+        "inference",
+        "laya",
+        "local-ai",
+        "machine-learning",
+        "mlx",
+        "modernbert",
+        "system-one",
+        "typed-decisions"
+      ],
+      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "stars": 5074,
+      "language": "Python",
+      "created": "2026-09-17",
+      "topics": [
+        "decision-model",
+        "jev",
+        "qwen3"
+      ],
+      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jev-chat/jev-chat-jarvis",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "stars": 4891,
+      "language": "Kotlin",
+      "created": "2026-09-21",
+      "topics": [
+        "accessibility-service",
+        "android",
+        "chat-assistant",
+        "llm",
+        "qq",
+        "wechat"
+      ],
+      "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "TianyuCodings/NanoJev",
+      "url": "https://github.com/TianyuCodings/NanoJev",
+      "stars": 2062,
+      "language": "Python",
+      "created": "2026-09-17",
+      "topics": [],
+      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "bespokelabsai/nimble",
+      "url": "https://github.com/bespokelabsai/nimble",
+      "stars": 1663,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [],
+      "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yibie/awesome-jev",
+      "url": "https://github.com/yibie/awesome-jev",
+      "stars": 1395,
+      "language": "Python",
+      "created": "2026-09-17",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "jev",
+        "llm"
+      ],
+      "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "unreallabsai/unreal-agent",
+      "url": "https://github.com/unreallabsai/unreal-agent",
+      "stars": 1392,
+      "language": "Go",
+      "created": "2026-09-21",
+      "topics": [],
+      "description": "Async-first agent harness",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mizorewww/laya-coreml",
+      "url": "https://github.com/mizorewww/laya-coreml",
+      "stars": 1352,
+      "language": "Python",
+      "created": "2026-09-19",
+      "topics": [
+        "apple-neural-engine",
+        "apple-silicon",
+        "coreml",
+        "decision-model",
+        "laya",
+        "local-ai",
+        "modernbert",
+        "on-device-ai",
+        "typed-decisions"
+      ],
+      "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "newliver666/apk-reverse",
+      "url": "https://github.com/newliver666/apk-reverse",
+      "stars": 1088,
+      "language": "Python",
+      "created": "2026-09-19",
+      "topics": [],
+      "description": "Suitable for Android APK reverse engineering analysis",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "hydra-db/open-glean",
+      "url": "https://github.com/hydra-db/open-glean",
+      "stars": 877,
+      "language": "TypeScript",
+      "created": "2026-09-17",
+      "topics": [],
+      "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "githubnext/localjev",
+      "url": "https://github.com/githubnext/localjev",
+      "stars": 734,
+      "language": "TypeScript",
+      "created": "2026-09-18",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Lumid-Off/AirCard-Windows",
+      "url": "https://github.com/Lumid-Off/AirCard-Windows",
+      "stars": 728,
+      "language": "Rust",
+      "created": "2026-09-18",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "v-modal/awesome-jev-tools",
+      "url": "https://github.com/v-modal/awesome-jev-tools",
+      "stars": 675,
+      "language": "Unknown",
+      "created": "2026-09-19",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "jev",
+        "llm",
+        "robotics",
+        "robotics-algorithms",
+        "robotics-control",
+        "robotics-simulation"
+      ],
+      "description": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "heyjunpenn/awesome-jev",
+      "url": "https://github.com/heyjunpenn/awesome-jev",
+      "stars": 669,
+      "language": "TypeScript",
+      "created": "2026-09-19",
+      "topics": [],
+      "description": "A verified, community-maintained catalog of 832 open-source projects built with Jev.",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kerpopule/hermes-jev-skills",
+      "url": "https://github.com/kerpopule/hermes-jev-skills",
+      "stars": 668,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [],
+      "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "incoai/splash",
+      "url": "https://github.com/incoai/splash",
+      "stars": 655,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "apple-silicon",
+        "coding-agents",
+        "llm-inference",
+        "macos",
+        "metal",
+        "speculative-decoding"
+      ],
+      "description": "A local inference engine for Apple silicon, built around the model.",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "volotat/mini-AGI",
+      "url": "https://github.com/volotat/mini-AGI",
+      "stars": 646,
+      "language": "Python",
+      "created": "2026-09-19",
+      "topics": [],
+      "description": "Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data.",
+      "date": "2026-09-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "riba2534/claude-opus-5-5-demo",
+      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+      "stars": 278,
+      "language": "JavaScript",
+      "created": "2026-09-23",
+      "topics": [],
+      "description": "claude-opus-5-5-demo",
+      "date": "2026-09-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "joinboatwrightcheer/graveyard-keeper-2-modkit",
+      "url": "https://github.com/joinboatwrightcheer/graveyard-keeper-2-modkit",
+      "stars": 44,
+      "language": "Unknown",
+      "created": "2026-09-23",
+      "topics": [
+        "crafting",
+        "graveyard-keeper",
+        "raveyard-keeper-2",
+        "simulation",
+        "steam",
+        "windows",
+        "zombie"
+      ],
+      "description": "39-module cheat/trainer for Graveyard Keeper 2 — crafting and resources, zombie automation, combat tools, town progression and world utilities.",
+      "date": "2026-09-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "852wa/JIZURA",
+      "url": "https://github.com/852wa/JIZURA",
+      "stars": 44,
+      "language": "JavaScript",
+      "created": "2026-09-23",
+      "topics": [],
+      "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+      "date": "2026-09-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "1Panel-dev/laya-server",
+      "url": "https://github.com/1Panel-dev/laya-server",
+      "stars": 35,
+      "language": "TypeScript",
+      "created": "2026-09-23",
+      "topics": [
+        "decision-model",
+        "jev",
+        "jev-ai",
+        "jev-api",
+        "laya",
+        "typesafe"
+      ],
+      "description": "A self-hosted API and web interface for Laya’s structured decision models, compatible with the TypeSafe Jev API format.",
+      "date": "2026-09-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yb1320057104/tilian",
+      "url": "https://github.com/yb1320057104/tilian",
+      "stars": 22,
+      "language": "Python",
+      "created": "2026-09-23",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": 18654,
+      "language": "Python",
+      "created": "2026-09-16",
+      "topics": [],
+      "description": "Fastest and cheapest web agent",
+      "date": "2026-09-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "stars": 12731,
+      "language": "HTML",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "date": "2026-09-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "stars": 8048,
+      "language": "TypeScript",
+      "created": "2026-09-02",
+      "topics": [
+        "design-tool",
+        "material-3-expressive",
+        "material-design",
+        "material3",
+        "nextjs",
+        "prompt",
+        "react",
+        "vibe-coding"
+      ],
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "date": "2026-09-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "stars": 6715,
+      "language": "Python",
+      "created": "2026-08-27",
+      "topics": [],
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "date": "2026-09-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "browser-use/jev-ultrafast",
       "url": "https://github.com/browser-use/jev-ultrafast",
@@ -34800,6 +35240,15 @@
     }
   ],
   "metadata": {
+    "2026-09-23": {
+      "ai_relevant_count": 17,
+      "top_ai_pick": {
+        "name": "zai-org/ZCode",
+        "url": "https://github.com/zai-org/ZCode",
+        "stars": 6460,
+        "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible."
+      }
+    },
     "2026-09-22": {
       "ai_relevant_count": 14,
       "top_ai_pick": {
@@ -35464,9 +35913,23 @@
   },
   "language_stats": {
     "Python": {
-      "count": 675,
-      "total_stars": 2035441,
+      "count": 689,
+      "total_stars": 2099795,
       "repos": [
+        "NandhaKishorM/laya",
+        "mizorewww/laya-mlx",
+        "jaredpalmer/kev",
+        "TianyuCodings/NanoJev",
+        "bespokelabsai/nimble",
+        "yibie/awesome-jev",
+        "mizorewww/laya-coreml",
+        "newliver666/apk-reverse",
+        "kerpopule/hermes-jev-skills",
+        "incoai/splash",
+        "volotat/mini-AGI",
+        "yb1320057104/tilian",
+        "browser-use/jev-ultrafast",
+        "sapientinc/PRAXIST",
         "browser-use/jev-ultrafast",
         "NandhaKishorM/laya",
         "mizorewww/laya-mlx",
@@ -36145,9 +36608,16 @@
       ]
     },
     "TypeScript": {
-      "count": 447,
-      "total_stars": 6866623,
+      "count": 454,
+      "total_stars": 6889894,
       "repos": [
+        "zai-org/ZCode",
+        "tamaratran/fast-jev-compaction",
+        "hydra-db/open-glean",
+        "githubnext/localjev",
+        "heyjunpenn/awesome-jev",
+        "1Panel-dev/laya-server",
+        "lnkiai/m3e-canvas",
         "tamaratran/fast-jev-compaction",
         "zai-org/ZCode",
         "jarrodwatts/jev-trader",
@@ -36598,9 +37068,11 @@
       ]
     },
     "JavaScript": {
-      "count": 273,
-      "total_stars": 942790,
+      "count": 275,
+      "total_stars": 943112,
       "repos": [
+        "riba2534/claude-opus-5-5-demo",
+        "852wa/JIZURA",
         "theoephraim/awesome-cloudflare-selfhosted",
         "tonychuhai/Cove",
         "theoephraim/awesome-cloudflare-selfhosted",
@@ -36877,9 +37349,11 @@
       ]
     },
     "Unknown": {
-      "count": 203,
-      "total_stars": 206297,
+      "count": 205,
+      "total_stars": 207016,
       "repos": [
+        "v-modal/awesome-jev-tools",
+        "joinboatwrightcheer/graveyard-keeper-2-modkit",
         "yibie/jev-engineering-zh",
         "sergeysantos-2002z8/WalletFinder",
         "j-ford8751/hell-let-loose-hack-2026-frontline-combat-toolkit",
@@ -37086,9 +37560,10 @@
       ]
     },
     "Rust": {
-      "count": 113,
-      "total_stars": 1098798,
+      "count": 114,
+      "total_stars": 1099526,
       "repos": [
+        "Lumid-Off/AirCard-Windows",
         "jackwener/wx-cli-again",
         "Haleclipse/CometixCode",
         "jackwener/wx-cli-again",
@@ -37205,9 +37680,10 @@
       ]
     },
     "HTML": {
-      "count": 89,
-      "total_stars": 130133,
+      "count": 90,
+      "total_stars": 142864,
       "repos": [
+        "eternity4719/HowToLiveBetter",
         "eternity4719/HowToLiveBetter",
         "eternity4719/HowToLiveBetter",
         "eternity4719/HowToLiveBetter",
@@ -37436,9 +37912,10 @@
       ]
     },
     "Go": {
-      "count": 41,
-      "total_stars": 17937,
+      "count": 42,
+      "total_stars": 19329,
       "repos": [
+        "unreallabsai/unreal-agent",
         "unstablebuild/rune",
         "unstablebuild/rune",
         "unstablebuild/rune",
@@ -37647,6 +38124,20 @@
         "alexafinode/claude-arbitrage-bot"
       ]
     },
+    "Kotlin": {
+      "count": 8,
+      "total_stars": 10988,
+      "repos": [
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "Chuloo/mural",
+        "Chuloo/mural",
+        "zhdmm35/obsidian-mobile-companion",
+        "Chuloo/mural",
+        "Supersonic/TLPE",
+        "sam1am/localdex"
+      ]
+    },
     "Dart": {
       "count": 8,
       "total_stars": 2381,
@@ -37673,19 +38164,6 @@
         "Faizpi/bank-sampah",
         "Faizpi/bank-sampah",
         "THARUNRAJ15/Student-Expense-Tracker"
-      ]
-    },
-    "Kotlin": {
-      "count": 7,
-      "total_stars": 6097,
-      "repos": [
-        "jev-chat/jev-chat-jarvis",
-        "Chuloo/mural",
-        "Chuloo/mural",
-        "zhdmm35/obsidian-mobile-companion",
-        "Chuloo/mural",
-        "Supersonic/TLPE",
-        "sam1am/localdex"
       ]
     },
     "TeX": {
@@ -37857,6 +38335,11 @@
     }
   },
   "date_stats": {
+    "2026-09-23": {
+      "count": 29,
+      "total_stars": 108408,
+      "ai_count": 0
+    },
     "2026-09-22": {
       "count": 28,
       "total_stars": 102748,
