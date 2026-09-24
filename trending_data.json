@@ -1,9 +1,451 @@
 {
-  "last_updated": "2026-09-23T10:21:28.558526",
-  "total_repos": 2205,
-  "total_dates": 75,
+  "last_updated": "2026-09-24T10:36:44.381101",
+  "total_repos": 2234,
+  "total_dates": 76,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 21843,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "zai-org/ZCode",
+      "url": "https://github.com/zai-org/ZCode",
+      "stars": 6654,
+      "language": "TypeScript",
+      "created": "2026-09-20",
+      "topics": [],
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mizorewww/laya-mlx",
+      "url": "https://github.com/mizorewww/laya-mlx",
+      "stars": 6117,
+      "language": "Python",
+      "created": "2026-09-19",
+      "topics": [
+        "apple-silicon",
+        "decision-model",
+        "inference",
+        "laya",
+        "local-ai",
+        "machine-learning",
+        "mlx",
+        "modernbert",
+        "system-one",
+        "typed-decisions"
+      ],
+      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jev-chat/jev-chat-jarvis",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "stars": 5572,
+      "language": "Kotlin",
+      "created": "2026-09-21",
+      "topics": [
+        "accessibility-service",
+        "android",
+        "chat-assistant",
+        "llm",
+        "qq",
+        "wechat"
+      ],
+      "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "unreallabsai/unreal-agent",
+      "url": "https://github.com/unreallabsai/unreal-agent",
+      "stars": 1829,
+      "language": "Go",
+      "created": "2026-09-21",
+      "topics": [],
+      "description": "Async-first agent harness",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "bespokelabsai/nimble",
+      "url": "https://github.com/bespokelabsai/nimble",
+      "stars": 1714,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [],
+      "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mizorewww/laya-coreml",
+      "url": "https://github.com/mizorewww/laya-coreml",
+      "stars": 1404,
+      "language": "Python",
+      "created": "2026-09-19",
+      "topics": [
+        "apple-neural-engine",
+        "apple-silicon",
+        "coreml",
+        "decision-model",
+        "laya",
+        "local-ai",
+        "modernbert",
+        "on-device-ai",
+        "typed-decisions"
+      ],
+      "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "newliver666/apk-reverse",
+      "url": "https://github.com/newliver666/apk-reverse",
+      "stars": 1389,
+      "language": "Python",
+      "created": "2026-09-19",
+      "topics": [],
+      "description": "Suitable for Android APK reverse engineering analysis",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "driceroland/Search",
+      "url": "https://github.com/driceroland/Search",
+      "stars": 954,
+      "language": "Swift",
+      "created": "2026-09-20",
+      "topics": [],
+      "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Lumid-Off/AirCard-Windows",
+      "url": "https://github.com/Lumid-Off/AirCard-Windows",
+      "stars": 825,
+      "language": "Rust",
+      "created": "2026-09-18",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "heyjunpenn/awesome-jev",
+      "url": "https://github.com/heyjunpenn/awesome-jev",
+      "stars": 788,
+      "language": "Astro",
+      "created": "2026-09-19",
+      "topics": [
+        "astro",
+        "awesome",
+        "awesome-jev",
+        "awesome-list",
+        "jev",
+        "typesafe"
+      ],
+      "description": "A verified, community-maintained catalog of 896 open-source projects built with Jev.",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepopen-com/deepopen",
+      "url": "https://github.com/deepopen-com/deepopen",
+      "stars": 757,
+      "language": "Python",
+      "created": "2026-09-21",
+      "topics": [],
+      "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine.",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "githubnext/localjev",
+      "url": "https://github.com/githubnext/localjev",
+      "stars": 746,
+      "language": "TypeScript",
+      "created": "2026-09-18",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "riba2534/claude-opus-5-5-demo",
+      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+      "stars": 743,
+      "language": "JavaScript",
+      "created": "2026-09-23",
+      "topics": [],
+      "description": "claude-opus-5-5-demo",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "volotat/mini-AGI",
+      "url": "https://github.com/volotat/mini-AGI",
+      "stars": 734,
+      "language": "Python",
+      "created": "2026-09-19",
+      "topics": [],
+      "description": "Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data.",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kerpopule/hermes-jev-skills",
+      "url": "https://github.com/kerpopule/hermes-jev-skills",
+      "stars": 732,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [],
+      "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "incoai/splash",
+      "url": "https://github.com/incoai/splash",
+      "stars": 719,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "apple-silicon",
+        "coding-agents",
+        "llm-inference",
+        "macos",
+        "metal",
+        "speculative-decoding"
+      ],
+      "description": "A local inference engine for Apple silicon, built around the model.",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "v-modal/awesome-jev-tools",
+      "url": "https://github.com/v-modal/awesome-jev-tools",
+      "stars": 704,
+      "language": "Unknown",
+      "created": "2026-09-19",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "jev",
+        "llm",
+        "robotics",
+        "robotics-algorithms",
+        "robotics-control",
+        "robotics-simulation"
+      ],
+      "description": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Mak5er/AirCard-iOS",
+      "url": "https://github.com/Mak5er/AirCard-iOS",
+      "stars": 666,
+      "language": "Swift",
+      "created": "2026-09-19",
+      "topics": [],
+      "description": "Apple Wallet card skins and lock screen passcode themes on iOS 27.",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "stars": 645,
+      "language": "Markdown",
+      "created": "2026-09-19",
+      "topics": [
+        "ai",
+        "ai-engineering",
+        "ai-engineering-interview",
+        "ai-interview",
+        "ai-interview-questions",
+        "company-wise-prep",
+        "company-wise-questions",
+        "interview-questions",
+        "llm-inference",
+        "questions-and-answers"
+      ],
+      "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+      "date": "2026-09-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mike007jd/voxel-musou",
+      "url": "https://github.com/mike007jd/voxel-musou",
+      "stars": 35,
+      "language": "JavaScript",
+      "created": "2026-09-24",
+      "topics": [
+        "action-game",
+        "browser-game",
+        "dynasty-warriors",
+        "javascript",
+        "threejs",
+        "voxel",
+        "webgl"
+      ],
+      "description": "Dynasty Warriors-style voxel action game in the browser: Zhao Yun vs 300 soldiers. Three.js, no build step.",
+      "date": "2026-09-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "AgibotTech/sonic_for_a3",
+      "url": "https://github.com/AgibotTech/sonic_for_a3",
+      "stars": 26,
+      "language": "C++",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "SONIC adpation for new full size humanoid agibot A3！",
+      "date": "2026-09-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "DaiXuYQ/auto-team",
+      "url": "https://github.com/DaiXuYQ/auto-team",
+      "stars": 21,
+      "language": "JavaScript",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "轮转team",
+      "date": "2026-09-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "swoonqx/TypingPet",
+      "url": "https://github.com/swoonqx/TypingPet",
+      "stars": 19,
+      "language": "Unknown",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "승우의 타이핑 펫",
+      "date": "2026-09-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Akun-python/mountain-flood-uav-optimization",
+      "url": "https://github.com/Akun-python/mountain-flood-uav-optimization",
+      "stars": 16,
+      "language": "HTML",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "开源免费，不断迭代更新！",
+      "date": "2026-09-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": 19477,
+      "language": "Python",
+      "created": "2026-09-16",
+      "topics": [],
+      "description": "Fastest and cheapest web agent",
+      "date": "2026-09-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "stars": 13616,
+      "language": "HTML",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "date": "2026-09-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "stars": 8125,
+      "language": "TypeScript",
+      "created": "2026-09-02",
+      "topics": [
+        "design-tool",
+        "material-3-expressive",
+        "material-design",
+        "material3",
+        "nextjs",
+        "prompt",
+        "react",
+        "vibe-coding"
+      ],
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "date": "2026-09-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "stars": 6748,
+      "language": "Python",
+      "created": "2026-08-27",
+      "topics": [],
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "date": "2026-09-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "NandhaKishorM/laya",
       "url": "https://github.com/NandhaKishorM/laya",
@@ -35240,6 +35682,15 @@
     }
   ],
   "metadata": {
+    "2026-09-24": {
+      "ai_relevant_count": 15,
+      "top_ai_pick": {
+        "name": "zai-org/ZCode",
+        "url": "https://github.com/zai-org/ZCode",
+        "stars": 6654,
+        "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible."
+      }
+    },
     "2026-09-23": {
       "ai_relevant_count": 17,
       "top_ai_pick": {
@@ -35913,9 +36364,20 @@
   },
   "language_stats": {
     "Python": {
-      "count": 689,
-      "total_stars": 2099795,
+      "count": 700,
+      "total_stars": 2161429,
       "repos": [
+        "NandhaKishorM/laya",
+        "mizorewww/laya-mlx",
+        "bespokelabsai/nimble",
+        "mizorewww/laya-coreml",
+        "newliver666/apk-reverse",
+        "deepopen-com/deepopen",
+        "volotat/mini-AGI",
+        "kerpopule/hermes-jev-skills",
+        "incoai/splash",
+        "browser-use/jev-ultrafast",
+        "sapientinc/PRAXIST",
         "NandhaKishorM/laya",
         "mizorewww/laya-mlx",
         "jaredpalmer/kev",
@@ -36608,9 +37070,12 @@
       ]
     },
     "TypeScript": {
-      "count": 454,
-      "total_stars": 6889894,
+      "count": 457,
+      "total_stars": 6905419,
       "repos": [
+        "zai-org/ZCode",
+        "githubnext/localjev",
+        "lnkiai/m3e-canvas",
         "zai-org/ZCode",
         "tamaratran/fast-jev-compaction",
         "hydra-db/open-glean",
@@ -37068,9 +37533,12 @@
       ]
     },
     "JavaScript": {
-      "count": 275,
-      "total_stars": 943112,
+      "count": 278,
+      "total_stars": 943911,
       "repos": [
+        "riba2534/claude-opus-5-5-demo",
+        "mike007jd/voxel-musou",
+        "DaiXuYQ/auto-team",
         "riba2534/claude-opus-5-5-demo",
         "852wa/JIZURA",
         "theoephraim/awesome-cloudflare-selfhosted",
@@ -37349,9 +37817,11 @@
       ]
     },
     "Unknown": {
-      "count": 205,
-      "total_stars": 207016,
+      "count": 207,
+      "total_stars": 207739,
       "repos": [
+        "v-modal/awesome-jev-tools",
+        "swoonqx/TypingPet",
         "v-modal/awesome-jev-tools",
         "joinboatwrightcheer/graveyard-keeper-2-modkit",
         "yibie/jev-engineering-zh",
@@ -37560,9 +38030,10 @@
       ]
     },
     "Rust": {
-      "count": 114,
-      "total_stars": 1099526,
+      "count": 115,
+      "total_stars": 1100351,
       "repos": [
+        "Lumid-Off/AirCard-Windows",
         "Lumid-Off/AirCard-Windows",
         "jackwener/wx-cli-again",
         "Haleclipse/CometixCode",
@@ -37680,9 +38151,11 @@
       ]
     },
     "HTML": {
-      "count": 90,
-      "total_stars": 142864,
+      "count": 92,
+      "total_stars": 156496,
       "repos": [
+        "Akun-python/mountain-flood-uav-optimization",
+        "eternity4719/HowToLiveBetter",
         "eternity4719/HowToLiveBetter",
         "eternity4719/HowToLiveBetter",
         "eternity4719/HowToLiveBetter",
@@ -37776,9 +38249,11 @@
       ]
     },
     "Swift": {
-      "count": 69,
-      "total_stars": 52315,
+      "count": 71,
+      "total_stars": 53935,
       "repos": [
+        "driceroland/Search",
+        "Mak5er/AirCard-iOS",
         "robbietilton/Compositor",
         "Mak5er/AirCard",
         "robbietilton/Compositor",
@@ -37912,9 +38387,10 @@
       ]
     },
     "Go": {
-      "count": 42,
-      "total_stars": 19329,
+      "count": 43,
+      "total_stars": 21158,
       "repos": [
+        "unreallabsai/unreal-agent",
         "unreallabsai/unreal-agent",
         "unstablebuild/rune",
         "unstablebuild/rune",
@@ -38006,9 +38482,10 @@
       ]
     },
     "C++": {
-      "count": 28,
-      "total_stars": 8954,
+      "count": 29,
+      "total_stars": 8980,
       "repos": [
+        "AgibotTech/sonic_for_a3",
         "loudpilotchart/lol-skinchanger",
         "T-DT-Algorithm-2026/tdt-nav-kit",
         "yappologistic/Spun",
@@ -38094,6 +38571,21 @@
         "spiritov/ds.css"
       ]
     },
+    "Kotlin": {
+      "count": 9,
+      "total_stars": 16560,
+      "repos": [
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "Chuloo/mural",
+        "Chuloo/mural",
+        "zhdmm35/obsidian-mobile-companion",
+        "Chuloo/mural",
+        "Supersonic/TLPE",
+        "sam1am/localdex"
+      ]
+    },
     "PowerShell": {
       "count": 9,
       "total_stars": 23750,
@@ -38124,20 +38616,6 @@
         "alexafinode/claude-arbitrage-bot"
       ]
     },
-    "Kotlin": {
-      "count": 8,
-      "total_stars": 10988,
-      "repos": [
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "Chuloo/mural",
-        "Chuloo/mural",
-        "zhdmm35/obsidian-mobile-companion",
-        "Chuloo/mural",
-        "Supersonic/TLPE",
-        "sam1am/localdex"
-      ]
-    },
     "Dart": {
       "count": 8,
       "total_stars": 2381,
@@ -38166,6 +38644,31 @@
         "THARUNRAJ15/Student-Expense-Tracker"
       ]
     },
+    "Astro": {
+      "count": 7,
+      "total_stars": 5251,
+      "repos": [
+        "heyjunpenn/awesome-jev",
+        "bryllim/workout-guide",
+        "bryllim/workout-guide",
+        "bryllim/workout-guide",
+        "bryllim/workout-guide",
+        "bryllim/workout-guide",
+        "bryllim/workout-guide"
+      ]
+    },
+    "Markdown": {
+      "count": 6,
+      "total_stars": 4916,
+      "repos": [
+        "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+        "cbrock84/headcount",
+        "cbrock84/headcount",
+        "cbrock84/headcount",
+        "cbrock84/headcount",
+        "cbrock84/headcount"
+      ]
+    },
     "TeX": {
       "count": 6,
       "total_stars": 20729,
@@ -38176,18 +38679,6 @@
         "HEJustinSun/my-girlfriend-jingtian-latex",
         "HEJustinSun/my-girlfriend-jingtian-latex",
         "HEJustinSun/my-girlfriend-jingtian-latex"
-      ]
-    },
-    "Astro": {
-      "count": 6,
-      "total_stars": 4463,
-      "repos": [
-        "bryllim/workout-guide",
-        "bryllim/workout-guide",
-        "bryllim/workout-guide",
-        "bryllim/workout-guide",
-        "bryllim/workout-guide",
-        "bryllim/workout-guide"
       ]
     },
     "Dockerfile": {
@@ -38223,17 +38714,6 @@
         "nfzerox/VirtualMacOniPad",
         "nfzerox/VirtualMacOniPad",
         "nfzerox/VirtualMacOniPad"
-      ]
-    },
-    "Markdown": {
-      "count": 5,
-      "total_stars": 4271,
-      "repos": [
-        "cbrock84/headcount",
-        "cbrock84/headcount",
-        "cbrock84/headcount",
-        "cbrock84/headcount",
-        "cbrock84/headcount"
       ]
     },
     "Java": {
@@ -38335,6 +38815,11 @@
     }
   },
   "date_stats": {
+    "2026-09-24": {
+      "count": 29,
+      "total_stars": 103618,
+      "ai_count": 0
+    },
     "2026-09-23": {
       "count": 29,
       "total_stars": 108408,
