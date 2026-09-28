@@ -1,9 +1,570 @@
 {
-  "last_updated": "2026-09-27T10:55:13.136251",
-  "total_repos": 2324,
-  "total_dates": 79,
+  "last_updated": "2026-09-28T12:08:42.327112",
+  "total_repos": 2354,
+  "total_dates": 80,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "Contrastive-LM/CLM",
+      "url": "https://github.com/Contrastive-LM/CLM",
+      "stars": 2118,
+      "language": "Python",
+      "created": "2026-09-23",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tobi/disktree",
+      "url": "https://github.com/tobi/disktree",
+      "stars": 1750,
+      "language": "Rust",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mexicat/pdoom-video",
+      "url": "https://github.com/mexicat/pdoom-video",
+      "stars": 1559,
+      "language": "TypeScript",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "stars": 1501,
+      "language": "Go",
+      "created": "2026-09-23",
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm",
+        "macos"
+      ],
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JohnHeibel/PDoomVideo",
+      "url": "https://github.com/JohnHeibel/PDoomVideo",
+      "stars": 1353,
+      "language": "JavaScript",
+      "created": "2026-09-22",
+      "topics": [],
+      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dzhng/jevgrep",
+      "url": "https://github.com/dzhng/jevgrep",
+      "stars": 1098,
+      "language": "TypeScript",
+      "created": "2026-09-26",
+      "topics": [
+        "ai-sdk",
+        "claude-code",
+        "cli",
+        "code-search",
+        "codex",
+        "coding-agents",
+        "context-retrieval",
+        "developer-tools",
+        "jev",
+        "semantic-search",
+        "typescript",
+        "vercel-ai-gateway"
+      ],
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mikehasa/golive-skill",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "stars": 1030,
+      "language": "TypeScript",
+      "created": "2026-09-23",
+      "topics": [
+        "agent-skill",
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "cloudflare",
+        "codex",
+        "database",
+        "deployment",
+        "developer-tools",
+        "devops",
+        "dns",
+        "godaddy",
+        "hosting",
+        "infrastructure",
+        "neon",
+        "netlify",
+        "porkbun",
+        "skills",
+        "supabase",
+        "vercel"
+      ],
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kryvora-network/kryvora-node",
+      "url": "https://github.com/kryvora-network/kryvora-node",
+      "stars": 1016,
+      "language": "Go",
+      "created": "2026-09-22",
+      "topics": [
+        "depin",
+        "distributed-systems",
+        "golang",
+        "infrastructure",
+        "node-runner",
+        "telemetry",
+        "worker-daemon"
+      ],
+      "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "852wa/JIZURA",
+      "url": "https://github.com/852wa/JIZURA",
+      "stars": 909,
+      "language": "HTML",
+      "created": "2026-09-23",
+      "topics": [],
+      "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dgreenheck/tidewater",
+      "url": "https://github.com/dgreenheck/tidewater",
+      "stars": 875,
+      "language": "JavaScript",
+      "created": "2026-09-23",
+      "topics": [],
+      "description": "Coastal town built with Opus 5.5",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "riba2534/claude-opus-5-5-demo",
+      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+      "stars": 873,
+      "language": "JavaScript",
+      "created": "2026-09-23",
+      "topics": [],
+      "description": "claude-opus-5-5-demo",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ollaya-dev/ollaya",
+      "url": "https://github.com/ollaya-dev/ollaya",
+      "stars": 787,
+      "language": "Rust",
+      "created": "2026-09-23",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-models",
+        "gliclass",
+        "jev",
+        "laya",
+        "llm-routing",
+        "local-inference",
+        "nli",
+        "ollama",
+        "onnx",
+        "onnxruntime",
+        "rust",
+        "typesafe",
+        "zero-shot-classification"
+      ],
+      "description": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "asokurasu/text-humanizer",
+      "url": "https://github.com/asokurasu/text-humanizer",
+      "stars": 745,
+      "language": "Python",
+      "created": "2026-09-23",
+      "topics": [
+        "ai-detector",
+        "ai-detector-bypass",
+        "ai-detectors",
+        "text-humanizer",
+        "zerogpt",
+        "zerogpt-bypass"
+      ],
+      "description": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline.",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yukitorido/short-video-generator-AI",
+      "url": "https://github.com/yukitorido/short-video-generator-AI",
+      "stars": 729,
+      "language": "Python",
+      "created": "2026-09-23",
+      "topics": [
+        "ai",
+        "llm",
+        "llm-tools",
+        "opus-clip",
+        "opus-clip-alternative",
+        "short-video",
+        "short-video-automation",
+        "short-video-generator",
+        "short-video-maker"
+      ],
+      "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "supermemoryai/company-brain",
+      "url": "https://github.com/supermemoryai/company-brain",
+      "stars": 727,
+      "language": "TypeScript",
+      "created": "2026-09-25",
+      "topics": [],
+      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anishfn/shapeshift",
+      "url": "https://github.com/anishfn/shapeshift",
+      "stars": 713,
+      "language": "TypeScript",
+      "created": "2026-09-22",
+      "topics": [],
+      "description": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "stars": 697,
+      "language": "C++",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "feitangyuan/onetake",
+      "url": "https://github.com/feitangyuan/onetake",
+      "stars": 635,
+      "language": "Python",
+      "created": "2026-09-26",
+      "topics": [
+        "agent-skill",
+        "animation",
+        "canvas",
+        "claude-skill",
+        "launch-video",
+        "motion-graphics",
+        "video"
+      ],
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alexgreensh/anidoodle",
+      "url": "https://github.com/alexgreensh/anidoodle",
+      "stars": 624,
+      "language": "TypeScript",
+      "created": "2026-09-22",
+      "topics": [
+        "agent-skills",
+        "animation",
+        "canvas",
+        "claude-code",
+        "claude-plugin",
+        "claude-skills",
+        "codex-plugin",
+        "creative-code",
+        "creative-coding",
+        "creative-tools",
+        "deterministic",
+        "generative-art",
+        "hand-drawn",
+        "illustration",
+        "plugin",
+        "procedural-generation",
+        "skill"
+      ],
+      "description": "Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render.",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kydlikebtc/awesome-jev",
+      "url": "https://github.com/kydlikebtc/awesome-jev",
+      "stars": 582,
+      "language": "Python",
+      "created": "2026-09-22",
+      "topics": [
+        "agent-tools",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "calibration",
+        "catalog",
+        "classification",
+        "context-compaction",
+        "decision-model",
+        "intent-routing",
+        "jev",
+        "llm",
+        "system-one",
+        "tool-selection",
+        "typesafe-ai"
+      ],
+      "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+      "date": "2026-09-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB",
+      "url": "https://github.com/BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB",
+      "stars": 201,
+      "language": "Shell",
+      "created": "2026-09-28",
+      "topics": [
+        "android",
+        "artemis",
+        "bash",
+        "cloud-gaming",
+        "game-streaming",
+        "game-streaming-server",
+        "gaming",
+        "hyprland",
+        "libhoudini",
+        "linux",
+        "mlbb",
+        "mobile-legends",
+        "moonlight",
+        "multi-touch",
+        "sunshine",
+        "vaapi",
+        "waydroid",
+        "wayland"
+      ],
+      "description": "Play Mobile Legends: Bang Bang (MLBB) on Linux via Waydroid — and stream it to your Android phone as cloud gaming (Sunshine + Artemis/Moonlight). Working multi-touch, Intel VAAPI encoding, one-command launcher.",
+      "date": "2026-09-28",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "knotweaverseparate66/zapret-discord",
+      "url": "https://github.com/knotweaverseparate66/zapret-discord",
+      "stars": 51,
+      "language": "Unknown",
+      "created": "2026-09-28",
+      "topics": [
+        "censorship-bypass",
+        "discord",
+        "discord-fix",
+        "discord-proxy",
+        "discord-unblock",
+        "discordfix",
+        "dpi-bypass",
+        "fix-discord",
+        "fixdiscord",
+        "network-optimization",
+        "open-source",
+        "russia",
+        "vpn",
+        "vpn-client",
+        "vpn-keys",
+        "zapret-discord-fix",
+        "zapret-youtube-fix"
+      ],
+      "description": "NEW FIX Как Обойти Блокировку Дискорда В России ?! Новый Дискорд Обход Для ПК ! Запрет Дискорд & Фикс ДС !",
+      "date": "2026-09-28",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "AkbarSheikh-debug/wondersnap",
+      "url": "https://github.com/AkbarSheikh-debug/wondersnap",
+      "stars": 20,
+      "language": "JavaScript",
+      "created": "2026-09-28",
+      "topics": [],
+      "description": "Gesture-controlled 3D models made of 200k glowing GPU particles. MediaPipe hand tracking + hand-written WebGL2, runs in the browser.",
+      "date": "2026-09-28",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alevlicocu/create-bsc-token",
+      "url": "https://github.com/alevlicocu/create-bsc-token",
+      "stars": 20,
+      "language": "Solidity",
+      "created": "2026-09-28",
+      "topics": [
+        "bep20-token-code",
+        "bep20-token-create",
+        "bnb-chain",
+        "bnb-smart-chain",
+        "bnbchain",
+        "bsc",
+        "bsc-token",
+        "create-token",
+        "crypto",
+        "solidity-smart-contract",
+        "taxable-token",
+        "web3-token"
+      ],
+      "description": "Create Binance Smart Chain Token — beginner-friendly BEP-20 Solidity tutorial with taxable buy/sell fees, ownership renounce, admin transfer, Remix deployment, BscScan verification, and PancakeSwap liquidity steps.",
+      "date": "2026-09-28",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kathoc/nesterm",
+      "url": "https://github.com/kathoc/nesterm",
+      "stars": 20,
+      "language": "JavaScript",
+      "created": "2026-09-28",
+      "topics": [],
+      "description": "Play NES games as ASCII art in your terminal",
+      "date": "2026-09-28",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 27279,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-09-28",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "stars": 23599,
+      "language": "HTML",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "date": "2026-09-28",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": 21013,
+      "language": "Python",
+      "created": "2026-09-16",
+      "topics": [],
+      "description": "Fastest and cheapest web agent",
+      "date": "2026-09-28",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "stars": 8390,
+      "language": "TypeScript",
+      "created": "2026-09-02",
+      "topics": [
+        "design-tool",
+        "material-3-expressive",
+        "material-design",
+        "material3",
+        "nextjs",
+        "prompt",
+        "react",
+        "vibe-coding"
+      ],
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "date": "2026-09-28",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "stars": 7558,
+      "language": "Python",
+      "created": "2026-09-17",
+      "topics": [
+        "decision-model",
+        "jev",
+        "qwen3"
+      ],
+      "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
+      "date": "2026-09-28",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "jev-chat/jev-chat-jarvis",
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
@@ -37226,6 +37787,15 @@
     }
   ],
   "metadata": {
+    "2026-09-28": {
+      "ai_relevant_count": 14,
+      "top_ai_pick": {
+        "name": "yetone/magpie",
+        "url": "https://github.com/yetone/magpie",
+        "stars": 1501,
+        "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+      }
+    },
     "2026-09-27": {
       "ai_relevant_count": 14,
       "top_ai_pick": {
@@ -37935,9 +38505,17 @@
   },
   "language_stats": {
     "Python": {
-      "count": 731,
-      "total_stars": 2342639,
+      "count": 739,
+      "total_stars": 2403298,
       "repos": [
+        "Contrastive-LM/CLM",
+        "asokurasu/text-humanizer",
+        "yukitorido/short-video-generator-AI",
+        "feitangyuan/onetake",
+        "kydlikebtc/awesome-jev",
+        "NandhaKishorM/laya",
+        "browser-use/jev-ultrafast",
+        "jaredpalmer/kev",
         "Contrastive-LM/CLM",
         "deepopen-com/deepopen",
         "nokia-applied-research/AnyJev",
@@ -38672,9 +39250,16 @@
       ]
     },
     "TypeScript": {
-      "count": 468,
-      "total_stars": 6948566,
+      "count": 475,
+      "total_stars": 6962707,
       "repos": [
+        "mexicat/pdoom-video",
+        "dzhng/jevgrep",
+        "mikehasa/golive-skill",
+        "supermemoryai/company-brain",
+        "anishfn/shapeshift",
+        "alexgreensh/anidoodle",
+        "lnkiai/m3e-canvas",
         "mikehasa/golive-skill",
         "anishfn/shapeshift",
         "supermemoryai/company-brain",
@@ -39146,9 +39731,14 @@
       ]
     },
     "JavaScript": {
-      "count": 289,
-      "total_stars": 950745,
+      "count": 294,
+      "total_stars": 953886,
       "repos": [
+        "JohnHeibel/PDoomVideo",
+        "dgreenheck/tidewater",
+        "riba2534/claude-opus-5-5-demo",
+        "AkbarSheikh-debug/wondersnap",
+        "kathoc/nesterm",
         "JohnHeibel/PDoomVideo",
         "riba2534/claude-opus-5-5-demo",
         "dgreenheck/tidewater",
@@ -39441,9 +40031,10 @@
       ]
     },
     "Unknown": {
-      "count": 211,
-      "total_stars": 208559,
+      "count": 212,
+      "total_stars": 208610,
       "repos": [
+        "knotweaverseparate66/zapret-discord",
         "yihui-dev/awesome-opus5-5-videos",
         "joeseesun/opus-video-prompts",
         "ProjectClash/Clash-Client",
@@ -39658,9 +40249,11 @@
       ]
     },
     "Rust": {
-      "count": 119,
-      "total_stars": 1102923,
+      "count": 121,
+      "total_stars": 1105460,
       "repos": [
+        "tobi/disktree",
+        "ollaya-dev/ollaya",
         "tobi/disktree",
         "cachix/casita",
         "tobi/disktree",
@@ -39783,9 +40376,11 @@
       ]
     },
     "HTML": {
-      "count": 97,
-      "total_stars": 209285,
+      "count": 99,
+      "total_stars": 233793,
       "repos": [
+        "852wa/JIZURA",
+        "eternity4719/HowToLiveBetter",
         "852wa/JIZURA",
         "eternity4719/HowToLiveBetter",
         "taeold/djev-run",
@@ -40030,9 +40625,11 @@
       ]
     },
     "Go": {
-      "count": 52,
-      "total_stars": 32249,
+      "count": 54,
+      "total_stars": 34766,
       "repos": [
+        "yetone/magpie",
+        "kryvora-network/kryvora-node",
         "unreallabsai/unreal-agent",
         "yetone/magpie",
         "kryvora-network/kryvora-node",
@@ -40088,9 +40685,10 @@
       ]
     },
     "Shell": {
-      "count": 40,
-      "total_stars": 23638,
+      "count": 41,
+      "total_stars": 23839,
       "repos": [
+        "BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB",
         "codejunkie99/fable-orchestrator",
         "codejunkie99/fable-orchestrator",
         "codejunkie99/fable-orchestrator",
@@ -40134,9 +40732,10 @@
       ]
     },
     "C++": {
-      "count": 30,
-      "total_stars": 9032,
+      "count": 31,
+      "total_stars": 9729,
       "repos": [
+        "Niko1221/Strata",
         "ZacharyZhang-NY/OmaPhoto",
         "AgibotTech/sonic_for_a3",
         "loudpilotchart/lol-skinchanger",
@@ -40226,6 +40825,22 @@
         "PostmanReminisce/Wisp-VPN"
       ]
     },
+    "Solidity": {
+      "count": 10,
+      "total_stars": 3334,
+      "repos": [
+        "alevlicocu/create-bsc-token",
+        "sgnihttcejbo/chainlink-example",
+        "YaponsRH/yapons",
+        "rustyharbor308774/Ethereum-bot",
+        "rustyharbor308774/Ethereum-bot",
+        "rustyharbor308774/Ethereum-bot",
+        "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+        "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+        "MIgHTy-alIeN/Trading-Bot",
+        "alexafinode/claude-arbitrage-bot"
+      ]
+    },
     "CSS": {
       "count": 10,
       "total_stars": 7746,
@@ -40255,21 +40870,6 @@
         "yjh051108/dsh-routing-suite",
         "olicesx/kixparadigm",
         "tybhy/tybhy-workflow"
-      ]
-    },
-    "Solidity": {
-      "count": 9,
-      "total_stars": 3314,
-      "repos": [
-        "sgnihttcejbo/chainlink-example",
-        "YaponsRH/yapons",
-        "rustyharbor308774/Ethereum-bot",
-        "rustyharbor308774/Ethereum-bot",
-        "rustyharbor308774/Ethereum-bot",
-        "MIgHTy-alIeN/MEV-Arbitrage-Bot",
-        "MIgHTy-alIeN/MEV-Arbitrage-Bot",
-        "MIgHTy-alIeN/Trading-Bot",
-        "alexafinode/claude-arbitrage-bot"
       ]
     },
     "Markdown": {
@@ -40476,6 +41076,11 @@
     }
   },
   "date_stats": {
+    "2026-09-28": {
+      "count": 30,
+      "total_stars": 108472,
+      "ai_count": 0
+    },
     "2026-09-27": {
       "count": 30,
       "total_stars": 107118,
@@ -41542,6 +42147,32 @@
     {
       "name": "NandhaKishorM/laya",
       "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 27279,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-09-28",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
       "stars": 26218,
       "language": "Python",
       "created": "2026-09-18",
@@ -41732,18 +42363,6 @@
       "topics": [],
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "date": "2026-08-08",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "xai-org/grok-build",
-      "url": "https://github.com/xai-org/grok-build",
-      "stars": 24330,
-      "language": "Rust",
-      "created": "2026-07-14",
-      "topics": [],
-      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "date": "2026-08-07",
       "section": "monthly",
       "is_ai_dev": false
     }
