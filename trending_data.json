@@ -1,9 +1,517 @@
 {
-  "last_updated": "2026-09-28T12:08:42.327112",
-  "total_repos": 2354,
-  "total_dates": 80,
+  "last_updated": "2026-09-29T11:40:23.414154",
+  "total_repos": 2384,
+  "total_dates": 81,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "Contrastive-LM/CLM",
+      "url": "https://github.com/Contrastive-LM/CLM",
+      "stars": 2399,
+      "language": "Python",
+      "created": "2026-09-23",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "stars": 2365,
+      "language": "TypeScript",
+      "created": "2026-09-28",
+      "topics": [
+        "ai",
+        "llm",
+        "mcp",
+        "news-aggregator",
+        "rss",
+        "self-hosted"
+      ],
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mexicat/pdoom-video",
+      "url": "https://github.com/mexicat/pdoom-video",
+      "stars": 1885,
+      "language": "TypeScript",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tobi/disktree",
+      "url": "https://github.com/tobi/disktree",
+      "stars": 1863,
+      "language": "Rust",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "stars": 1853,
+      "language": "Go",
+      "created": "2026-09-23",
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm",
+        "macos"
+      ],
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dzhng/jevgrep",
+      "url": "https://github.com/dzhng/jevgrep",
+      "stars": 1613,
+      "language": "TypeScript",
+      "created": "2026-09-26",
+      "topics": [
+        "ai-sdk",
+        "claude-code",
+        "cli",
+        "code-search",
+        "codex",
+        "coding-agents",
+        "context-retrieval",
+        "developer-tools",
+        "jev",
+        "semantic-search",
+        "typescript",
+        "vercel-ai-gateway"
+      ],
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "stars": 1340,
+      "language": "C++",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mikehasa/golive-skill",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "stars": 1083,
+      "language": "TypeScript",
+      "created": "2026-09-23",
+      "topics": [
+        "agent-skill",
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "cloudflare",
+        "codex",
+        "database",
+        "deployment",
+        "developer-tools",
+        "devops",
+        "dns",
+        "godaddy",
+        "hosting",
+        "infrastructure",
+        "neon",
+        "netlify",
+        "porkbun",
+        "skills",
+        "supabase",
+        "vercel"
+      ],
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "852wa/JIZURA",
+      "url": "https://github.com/852wa/JIZURA",
+      "stars": 1043,
+      "language": "HTML",
+      "created": "2026-09-23",
+      "topics": [],
+      "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dgreenheck/tidewater",
+      "url": "https://github.com/dgreenheck/tidewater",
+      "stars": 951,
+      "language": "JavaScript",
+      "created": "2026-09-23",
+      "topics": [],
+      "description": "Coastal town built with Opus 5.5",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ollaya-dev/ollaya",
+      "url": "https://github.com/ollaya-dev/ollaya",
+      "stars": 932,
+      "language": "Rust",
+      "created": "2026-09-23",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-models",
+        "gliclass",
+        "jev",
+        "laya",
+        "llm-routing",
+        "local-inference",
+        "nli",
+        "ollama",
+        "onnx",
+        "onnxruntime",
+        "rust",
+        "typesafe",
+        "zero-shot-classification"
+      ],
+      "description": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "feitangyuan/onetake",
+      "url": "https://github.com/feitangyuan/onetake",
+      "stars": 922,
+      "language": "Python",
+      "created": "2026-09-26",
+      "topics": [
+        "agent-skill",
+        "animation",
+        "canvas",
+        "claude-skill",
+        "launch-video",
+        "motion-graphics",
+        "video"
+      ],
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "riba2534/claude-opus-5-5-demo",
+      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+      "stars": 908,
+      "language": "JavaScript",
+      "created": "2026-09-23",
+      "topics": [],
+      "description": "claude-opus-5-5-demo",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+      "stars": 838,
+      "language": "Unknown",
+      "created": "2026-09-27",
+      "topics": [
+        "ai-video",
+        "awesome",
+        "awesome-list",
+        "claude",
+        "claude-opus",
+        "creative-coding",
+        "motion-graphics",
+        "prompts",
+        "threejs"
+      ],
+      "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "supermemoryai/company-brain",
+      "url": "https://github.com/supermemoryai/company-brain",
+      "stars": 824,
+      "language": "TypeScript",
+      "created": "2026-09-25",
+      "topics": [],
+      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "firelex/jeff",
+      "url": "https://github.com/firelex/jeff",
+      "stars": 817,
+      "language": "Python",
+      "created": "2026-09-28",
+      "topics": [],
+      "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "shihabal3amri/DiPlay",
+      "url": "https://github.com/shihabal3amri/DiPlay",
+      "stars": 721,
+      "language": "Kotlin",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kaankiziltug/logo-design-skill",
+      "url": "https://github.com/kaankiziltug/logo-design-skill",
+      "stars": 646,
+      "language": "HTML",
+      "created": "2026-09-26",
+      "topics": [
+        "agent-skills",
+        "branding",
+        "claude",
+        "claude-skills",
+        "codex",
+        "gemini-cli",
+        "logo-design",
+        "svg"
+      ],
+      "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lemomo-ai/lemo-opuscar",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "stars": 582,
+      "language": "JavaScript",
+      "created": "2026-09-26",
+      "topics": [
+        "ai-agents",
+        "ai-video",
+        "animation",
+        "canvas",
+        "claude",
+        "claude-code",
+        "creative-coding",
+        "ffmpeg",
+        "filmmaking",
+        "motion-graphics",
+        "prompt-library",
+        "text-to-speech",
+        "threejs",
+        "video-production",
+        "webgl"
+      ],
+      "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JohnHeibel/ClaudeAnimationBase",
+      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+      "stars": 572,
+      "language": "JavaScript",
+      "created": "2026-09-23",
+      "topics": [],
+      "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+      "date": "2026-09-29",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wy51ai/floorplan-3d",
+      "url": "https://github.com/wy51ai/floorplan-3d",
+      "stars": 230,
+      "language": "HTML",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "",
+      "date": "2026-09-29",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Ghentlesteve/dhis2-immunisation-audit",
+      "url": "https://github.com/Ghentlesteve/dhis2-immunisation-audit",
+      "stars": 145,
+      "language": "Jupyter Notebook",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "Pulling DHIS2 immunisation data through the API, auditing its quality and comparing forecasting models against a baseline (Python, statsmodels, scikit-learn).",
+      "date": "2026-09-29",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "shapegasenchant/Delta-Executor-Roblox",
+      "url": "https://github.com/shapegasenchant/Delta-Executor-Roblox",
+      "stars": 62,
+      "language": "Unknown",
+      "created": "2026-09-29",
+      "topics": [
+        "auto-raid-complete-script",
+        "executor-collection",
+        "executor-for-roblox-2026",
+        "lua-execution",
+        "multi-executor",
+        "rbx-scripts",
+        "scripting-collection",
+        "solara-executor-26",
+        "solara-lua-2026",
+        "synapse-executor-2026",
+        "synapse-executor-lua",
+        "universal-loader",
+        "wave-executor-for-roblox"
+      ],
+      "description": "The most popular Roblox script executor for PC. Fast injection, Lua scripting, built-in script editor, script hub, key system, Windows 10/11. Free and regularly updated. Topics",
+      "date": "2026-09-29",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "fulldiagnose/antigravity-fixer",
+      "url": "https://github.com/fulldiagnose/antigravity-fixer",
+      "stars": 50,
+      "language": "Python",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "Fix Antigravity 'not eligible' error - diagnose, clean credentials, auto-fix",
+      "date": "2026-09-29",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold",
+      "url": "https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold",
+      "stars": 33,
+      "language": "Shell",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "Qwen3.8 Flash Next on one DGX Spark (TensorFold)",
+      "date": "2026-09-29",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 28131,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-09-29",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "stars": 26293,
+      "language": "HTML",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "date": "2026-09-29",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": 21290,
+      "language": "Python",
+      "created": "2026-09-16",
+      "topics": [],
+      "description": "Fastest and cheapest web agent",
+      "date": "2026-09-29",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "stars": 8438,
+      "language": "TypeScript",
+      "created": "2026-09-02",
+      "topics": [
+        "design-tool",
+        "material-3-expressive",
+        "material-design",
+        "material3",
+        "nextjs",
+        "prompt",
+        "react",
+        "vibe-coding"
+      ],
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "date": "2026-09-29",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "stars": 7786,
+      "language": "Python",
+      "created": "2026-09-17",
+      "topics": [
+        "decision-model",
+        "jev",
+        "qwen3"
+      ],
+      "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
+      "date": "2026-09-29",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "Contrastive-LM/CLM",
       "url": "https://github.com/Contrastive-LM/CLM",
@@ -37787,6 +38295,15 @@
     }
   ],
   "metadata": {
+    "2026-09-29": {
+      "ai_relevant_count": 13,
+      "top_ai_pick": {
+        "name": "KKKKhazix/AIHOT",
+        "url": "https://github.com/KKKKhazix/AIHOT",
+        "stars": 2365,
+        "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+      }
+    },
     "2026-09-28": {
       "ai_relevant_count": 14,
       "top_ai_pick": {
@@ -38505,9 +39022,16 @@
   },
   "language_stats": {
     "Python": {
-      "count": 739,
-      "total_stars": 2403298,
+      "count": 746,
+      "total_stars": 2464693,
       "repos": [
+        "Contrastive-LM/CLM",
+        "feitangyuan/onetake",
+        "firelex/jeff",
+        "fulldiagnose/antigravity-fixer",
+        "NandhaKishorM/laya",
+        "browser-use/jev-ultrafast",
+        "jaredpalmer/kev",
         "Contrastive-LM/CLM",
         "asokurasu/text-humanizer",
         "yukitorido/short-video-generator-AI",
@@ -39250,9 +39774,15 @@
       ]
     },
     "TypeScript": {
-      "count": 475,
-      "total_stars": 6962707,
+      "count": 481,
+      "total_stars": 6978915,
       "repos": [
+        "KKKKhazix/AIHOT",
+        "mexicat/pdoom-video",
+        "dzhng/jevgrep",
+        "mikehasa/golive-skill",
+        "supermemoryai/company-brain",
+        "lnkiai/m3e-canvas",
         "mexicat/pdoom-video",
         "dzhng/jevgrep",
         "mikehasa/golive-skill",
@@ -39731,9 +40261,13 @@
       ]
     },
     "JavaScript": {
-      "count": 294,
-      "total_stars": 953886,
+      "count": 298,
+      "total_stars": 956899,
       "repos": [
+        "dgreenheck/tidewater",
+        "riba2534/claude-opus-5-5-demo",
+        "lemomo-ai/lemo-opuscar",
+        "JohnHeibel/ClaudeAnimationBase",
         "JohnHeibel/PDoomVideo",
         "dgreenheck/tidewater",
         "riba2534/claude-opus-5-5-demo",
@@ -40031,9 +40565,11 @@
       ]
     },
     "Unknown": {
-      "count": 212,
-      "total_stars": 208610,
+      "count": 214,
+      "total_stars": 209510,
       "repos": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "shapegasenchant/Delta-Executor-Roblox",
         "knotweaverseparate66/zapret-discord",
         "yihui-dev/awesome-opus5-5-videos",
         "joeseesun/opus-video-prompts",
@@ -40249,9 +40785,11 @@
       ]
     },
     "Rust": {
-      "count": 121,
-      "total_stars": 1105460,
+      "count": 123,
+      "total_stars": 1108255,
       "repos": [
+        "tobi/disktree",
+        "ollaya-dev/ollaya",
         "tobi/disktree",
         "ollaya-dev/ollaya",
         "tobi/disktree",
@@ -40376,9 +40914,13 @@
       ]
     },
     "HTML": {
-      "count": 99,
-      "total_stars": 233793,
+      "count": 103,
+      "total_stars": 262005,
       "repos": [
+        "852wa/JIZURA",
+        "kaankiziltug/logo-design-skill",
+        "wy51ai/floorplan-3d",
+        "eternity4719/HowToLiveBetter",
         "852wa/JIZURA",
         "eternity4719/HowToLiveBetter",
         "852wa/JIZURA",
@@ -40563,6 +41105,67 @@
         "m1ckc3s/claude-status-bar"
       ]
     },
+    "Go": {
+      "count": 55,
+      "total_stars": 36619,
+      "repos": [
+        "yetone/magpie",
+        "yetone/magpie",
+        "kryvora-network/kryvora-node",
+        "unreallabsai/unreal-agent",
+        "yetone/magpie",
+        "kryvora-network/kryvora-node",
+        "unreallabsai/unreal-agent",
+        "kryvora-network/kryvora-node",
+        "yetone/magpie",
+        "unreallabsai/unreal-agent",
+        "kryvora-network/kryvora-node",
+        "yetone/magpie",
+        "unreallabsai/unreal-agent",
+        "unreallabsai/unreal-agent",
+        "unstablebuild/rune",
+        "unstablebuild/rune",
+        "unstablebuild/rune",
+        "okf-memory/okf-agent-memory",
+        "okf-memory/okf-agent-memory",
+        "okf-memory/okf-agent-memory",
+        "okf-memory/okf-agent-memory",
+        "pcm469768-droid/llm-api-speedtest",
+        "MiaM1ku/taierspeedtest",
+        "chrisgreg/boop",
+        "chrisgreg/boop",
+        "chrisgreg/boop",
+        "chrisgreg/boop",
+        "chrisgreg/boop",
+        "N4darae/anti-mage",
+        "N4darae/anti-mage",
+        "thomassolcia/DiscordGoLiveBypass",
+        "magicrew/doc7",
+        "magicrew/doc7",
+        "livid/exe",
+        "codermyxiaoc/sub2api-guardian",
+        "Charles-0509/Grok-Register",
+        "Charles-0509/Grok-Register",
+        "Charles-0509/Grok-Register",
+        "nethical6/conversation-steganography",
+        "nethical6/conversation-steganography",
+        "nethical6/conversation-steganography",
+        "nethical6/conversation-steganography",
+        "vshulcz/deja-vu",
+        "nethical6/conversation-steganography",
+        "vshulcz/deja-vu",
+        "nethical6/conversation-steganography",
+        "vshulcz/deja-vu",
+        "uefi2333/m365-native",
+        "vshulcz/deja-vu",
+        "cosmtrek/mindwalk",
+        "outerstellar-hq/vla",
+        "gedwolmen/heretic",
+        "gedwolmen/heretic",
+        "gedwolmen/heretic",
+        "gedwolmen/heretic"
+      ]
+    },
     "C": {
       "count": 55,
       "total_stars": 286934,
@@ -40624,70 +41227,11 @@
         "ricccrd/dd"
       ]
     },
-    "Go": {
-      "count": 54,
-      "total_stars": 34766,
-      "repos": [
-        "yetone/magpie",
-        "kryvora-network/kryvora-node",
-        "unreallabsai/unreal-agent",
-        "yetone/magpie",
-        "kryvora-network/kryvora-node",
-        "unreallabsai/unreal-agent",
-        "kryvora-network/kryvora-node",
-        "yetone/magpie",
-        "unreallabsai/unreal-agent",
-        "kryvora-network/kryvora-node",
-        "yetone/magpie",
-        "unreallabsai/unreal-agent",
-        "unreallabsai/unreal-agent",
-        "unstablebuild/rune",
-        "unstablebuild/rune",
-        "unstablebuild/rune",
-        "okf-memory/okf-agent-memory",
-        "okf-memory/okf-agent-memory",
-        "okf-memory/okf-agent-memory",
-        "okf-memory/okf-agent-memory",
-        "pcm469768-droid/llm-api-speedtest",
-        "MiaM1ku/taierspeedtest",
-        "chrisgreg/boop",
-        "chrisgreg/boop",
-        "chrisgreg/boop",
-        "chrisgreg/boop",
-        "chrisgreg/boop",
-        "N4darae/anti-mage",
-        "N4darae/anti-mage",
-        "thomassolcia/DiscordGoLiveBypass",
-        "magicrew/doc7",
-        "magicrew/doc7",
-        "livid/exe",
-        "codermyxiaoc/sub2api-guardian",
-        "Charles-0509/Grok-Register",
-        "Charles-0509/Grok-Register",
-        "Charles-0509/Grok-Register",
-        "nethical6/conversation-steganography",
-        "nethical6/conversation-steganography",
-        "nethical6/conversation-steganography",
-        "nethical6/conversation-steganography",
-        "vshulcz/deja-vu",
-        "nethical6/conversation-steganography",
-        "vshulcz/deja-vu",
-        "nethical6/conversation-steganography",
-        "vshulcz/deja-vu",
-        "uefi2333/m365-native",
-        "vshulcz/deja-vu",
-        "cosmtrek/mindwalk",
-        "outerstellar-hq/vla",
-        "gedwolmen/heretic",
-        "gedwolmen/heretic",
-        "gedwolmen/heretic",
-        "gedwolmen/heretic"
-      ]
-    },
     "Shell": {
-      "count": 41,
-      "total_stars": 23839,
+      "count": 42,
+      "total_stars": 23872,
       "repos": [
+        "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold",
         "BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB",
         "codejunkie99/fable-orchestrator",
         "codejunkie99/fable-orchestrator",
@@ -40732,9 +41276,10 @@
       ]
     },
     "C++": {
-      "count": 31,
-      "total_stars": 9729,
+      "count": 32,
+      "total_stars": 11069,
       "repos": [
+        "Niko1221/Strata",
         "Niko1221/Strata",
         "ZacharyZhang-NY/OmaPhoto",
         "AgibotTech/sonic_for_a3",
@@ -40790,9 +41335,10 @@
       ]
     },
     "Kotlin": {
-      "count": 12,
-      "total_stars": 36314,
+      "count": 13,
+      "total_stars": 37035,
       "repos": [
+        "shihabal3amri/DiPlay",
         "jev-chat/jev-chat-jarvis",
         "jev-chat/jev-chat-jarvis",
         "jev-chat/jev-chat-jarvis",
@@ -41009,6 +41555,15 @@
         "BottomKomodoCorridor/youtube-unban"
       ]
     },
+    "Jupyter Notebook": {
+      "count": 3,
+      "total_stars": 185,
+      "repos": [
+        "Ghentlesteve/dhis2-immunisation-audit",
+        "harinishri2204-cpu/Pollu-Sence",
+        "harinishrisaravanan/Polllu-Sence"
+      ]
+    },
     "GDScript": {
       "count": 3,
       "total_stars": 1332,
@@ -41052,14 +41607,6 @@
         "DramaticShape/DramaticShapeVoxelMod"
       ]
     },
-    "Jupyter Notebook": {
-      "count": 2,
-      "total_stars": 40,
-      "repos": [
-        "harinishri2204-cpu/Pollu-Sence",
-        "harinishrisaravanan/Polllu-Sence"
-      ]
-    },
     "Makefile": {
       "count": 1,
       "total_stars": 15,
@@ -41076,6 +41623,11 @@
     }
   },
   "date_stats": {
+    "2026-09-29": {
+      "count": 30,
+      "total_stars": 116615,
+      "ai_count": 0
+    },
     "2026-09-28": {
       "count": 30,
       "total_stars": 108472,
@@ -42147,6 +42699,32 @@
     {
       "name": "NandhaKishorM/laya",
       "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 28131,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-09-29",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
       "stars": 27279,
       "language": "Python",
       "created": "2026-09-18",
@@ -42167,6 +42745,18 @@
       ],
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "date": "2026-09-28",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "stars": 26293,
+      "language": "HTML",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "date": "2026-09-29",
       "section": "monthly",
       "is_ai_dev": false
     },
@@ -42330,39 +42920,6 @@
       "topics": [],
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "date": "2026-08-09",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "anywhere-labs/dsh-desktop",
-      "url": "https://github.com/anywhere-labs/dsh-desktop",
-      "stars": 24427,
-      "language": "TypeScript",
-      "created": "2026-08-13",
-      "topics": [
-        "cordis",
-        "cordis-plugin",
-        "deepseek",
-        "deepseek-harness",
-        "desktop",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugin-desktop"
-      ],
-      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "date": "2026-09-08",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "xai-org/grok-build",
-      "url": "https://github.com/xai-org/grok-build",
-      "stars": 24415,
-      "language": "Rust",
-      "created": "2026-07-14",
-      "topics": [],
-      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "date": "2026-08-08",
       "section": "monthly",
       "is_ai_dev": false
     }
