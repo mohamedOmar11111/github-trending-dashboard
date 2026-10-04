@@ -1,9 +1,502 @@
 {
-  "last_updated": "2026-10-03T10:43:23.600070",
-  "total_repos": 2503,
-  "total_dates": 85,
+  "last_updated": "2026-10-04T11:24:29.457348",
+  "total_repos": 2533,
+  "total_dates": 86,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "stars": 5615,
+      "language": "TypeScript",
+      "created": "2026-09-28",
+      "topics": [
+        "ai",
+        "chinese",
+        "content-curation",
+        "daily-digest",
+        "docker-compose",
+        "llm",
+        "mcp",
+        "news-aggregator",
+        "postgresql",
+        "rss",
+        "self-hosted",
+        "typescript"
+      ],
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "CopilotKit/OpenDots",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "stars": 2891,
+      "language": "TypeScript",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "stars": 2792,
+      "language": "Python",
+      "created": "2026-09-30",
+      "topics": [
+        "age-of-empires",
+        "claude-code",
+        "claude-code-plugin",
+        "fal",
+        "game-assets",
+        "game-modding",
+        "mcp",
+        "modding",
+        "reverse-engineering",
+        "tmodloader"
+      ],
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "feder-cr/dots",
+      "url": "https://github.com/feder-cr/dots",
+      "stars": 2588,
+      "language": "Python",
+      "created": "2026-09-29",
+      "topics": [
+        "ai-agent",
+        "ai-agents",
+        "ai-browser",
+        "anti-detect-browser",
+        "browser-agent",
+        "browser-automation",
+        "chatgpt",
+        "dotfiles",
+        "dots",
+        "firefox",
+        "llm-agent",
+        "mcp",
+        "open-source-alternative",
+        "openai",
+        "openai-dots",
+        "openrouter",
+        "playwright",
+        "stealth-browser",
+        "web-agent",
+        "web-automation"
+      ],
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wy51ai/floorplan-3d",
+      "url": "https://github.com/wy51ai/floorplan-3d",
+      "stars": 1372,
+      "language": "HTML",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "firelex/jeff",
+      "url": "https://github.com/firelex/jeff",
+      "stars": 1354,
+      "language": "Python",
+      "created": "2026-09-28",
+      "topics": [],
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nanaism/yomiyasu",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "stars": 1353,
+      "language": "Python",
+      "created": "2026-09-30",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "gemini",
+        "japanese",
+        "linter",
+        "llm",
+        "nlp",
+        "writing",
+        "writing-assistant",
+        "writing-tool"
+      ],
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "edenfunf/reelmimic",
+      "url": "https://github.com/edenfunf/reelmimic",
+      "stars": 1204,
+      "language": "JavaScript",
+      "created": "2026-09-28",
+      "topics": [
+        "2d-animation",
+        "ai-agents",
+        "ai-video",
+        "animation",
+        "claude-code",
+        "codex",
+        "multi-agent",
+        "style-transfer",
+        "video-generation"
+      ],
+      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "facebookincubator/muse-gadget-sdk",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "stars": 1010,
+      "language": "C",
+      "created": "2026-10-02",
+      "topics": [],
+      "description": "Open source SDK to build Muse gadgets",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "CAPCOM-TD-OSS/REDox",
+      "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+      "stars": 1006,
+      "language": "C#",
+      "created": "2026-09-30",
+      "topics": [],
+      "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nykooi1/vibe-wise",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "stars": 830,
+      "language": "Python",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "chasmlol/SkyCraft",
+      "url": "https://github.com/chasmlol/SkyCraft",
+      "stars": 807,
+      "language": "C++",
+      "created": "2026-09-30",
+      "topics": [],
+      "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "openai/mcp-extensions",
+      "url": "https://github.com/openai/mcp-extensions",
+      "stars": 736,
+      "language": "TypeScript",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Edwardxlai/easyread",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "stars": 726,
+      "language": "Python",
+      "created": "2026-09-30",
+      "topics": [
+        "academic",
+        "arxiv",
+        "chinese",
+        "claude-code",
+        "codex",
+        "electron",
+        "llm",
+        "paper-reading",
+        "pdf-translator",
+        "reference-manager",
+        "research-tool",
+        "translation"
+      ],
+      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "stars": 726,
+      "language": "JavaScript",
+      "created": "2026-10-02",
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "cli",
+        "diagram",
+        "explainer",
+        "html",
+        "llm",
+        "ste100"
+      ],
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "OpSafari/hypoarena",
+      "url": "https://github.com/OpSafari/hypoarena",
+      "stars": 560,
+      "language": "Python",
+      "created": "2026-09-30",
+      "topics": [],
+      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "fsiaonma/elpis",
+      "url": "https://github.com/fsiaonma/elpis",
+      "stars": 545,
+      "language": "TypeScript",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "elpis",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "composio-community/open-dot",
+      "url": "https://github.com/composio-community/open-dot",
+      "stars": 537,
+      "language": "TypeScript",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "stars": 502,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ESPARGOS/esp-sdr",
+      "url": "https://github.com/ESPARGOS/esp-sdr",
+      "stars": 501,
+      "language": "C",
+      "created": "2026-09-28",
+      "topics": [
+        "esp32",
+        "sdr"
+      ],
+      "description": "ESP-SDR uses the undocumented raw I/Q capture functionality of ESP32 family chips to turn them into (low-duty-cycle) Software Defined Radios",
+      "date": "2026-10-04",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "YXBwbWFya2V0/AppMarket",
+      "url": "https://github.com/YXBwbWFya2V0/AppMarket",
+      "stars": 118,
+      "language": "Kotlin",
+      "created": "2026-10-04",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-04",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "shinshin86/mesh-avatar-studio",
+      "url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "stars": 65,
+      "language": "TypeScript",
+      "created": "2026-10-04",
+      "topics": [
+        "2d-animation",
+        "avatar",
+        "claude-code",
+        "codex",
+        "mesh-deformation",
+        "vtuber",
+        "webgl"
+      ],
+      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "date": "2026-10-04",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "RhythmFlamingoOutfit/pc-optimizer",
+      "url": "https://github.com/RhythmFlamingoOutfit/pc-optimizer",
+      "stars": 50,
+      "language": "Unknown",
+      "created": "2026-10-04",
+      "topics": [],
+      "description": "Advanced Windows performance booster, registry cleaner, and RAM optimizer designed to maximize system speed and game FPS.",
+      "date": "2026-10-04",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MystiaFin/amane",
+      "url": "https://github.com/MystiaFin/amane",
+      "stars": 34,
+      "language": "Rust",
+      "created": "2026-10-04",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-04",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "elripalda/Porpoise",
+      "url": "https://github.com/elripalda/Porpoise",
+      "stars": 27,
+      "language": "C++",
+      "created": "2026-10-04",
+      "topics": [
+        "dolphin",
+        "dolphin-emulator",
+        "emulator",
+        "gamecube",
+        "homebrew",
+        "libretro",
+        "ps5",
+        "ps5-homebrew",
+        "vulkan",
+        "wii"
+      ],
+      "description": "A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.",
+      "date": "2026-10-04",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "stars": 38844,
+      "language": "HTML",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "date": "2026-10-04",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 30568,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-10-04",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": 21934,
+      "language": "Python",
+      "created": "2026-09-16",
+      "topics": [],
+      "description": "Fastest and cheapest web agent",
+      "date": "2026-10-04",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "stars": 9148,
+      "language": "C++",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "date": "2026-10-04",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "stars": 8406,
+      "language": "Python",
+      "created": "2026-09-17",
+      "topics": [
+        "decision-model",
+        "jev",
+        "qwen3"
+      ],
+      "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
+      "date": "2026-10-04",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "KKKKhazix/AIHOT",
       "url": "https://github.com/KKKKhazix/AIHOT",
@@ -40424,6 +40917,15 @@
     }
   ],
   "metadata": {
+    "2026-10-04": {
+      "ai_relevant_count": 14,
+      "top_ai_pick": {
+        "name": "KKKKhazix/AIHOT",
+        "url": "https://github.com/KKKKhazix/AIHOT",
+        "stars": 5615,
+        "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+      }
+    },
     "2026-10-03": {
       "ai_relevant_count": 15,
       "top_ai_pick": {
@@ -41187,9 +41689,19 @@
   },
   "language_stats": {
     "Python": {
-      "count": 785,
-      "total_stars": 2733398,
+      "count": 795,
+      "total_stars": 2804509,
       "repos": [
+        "rehan-remade/universal-modder",
+        "feder-cr/dots",
+        "firelex/jeff",
+        "nanaism/yomiyasu",
+        "nykooi1/vibe-wise",
+        "Edwardxlai/easyread",
+        "OpSafari/hypoarena",
+        "NandhaKishorM/laya",
+        "browser-use/jev-ultrafast",
+        "jaredpalmer/kev",
         "feder-cr/dots",
         "rehan-remade/universal-modder",
         "firelex/jeff",
@@ -41978,9 +42490,15 @@
       ]
     },
     "TypeScript": {
-      "count": 504,
-      "total_stars": 7044139,
+      "count": 510,
+      "total_stars": 7054528,
       "repos": [
+        "KKKKhazix/AIHOT",
+        "CopilotKit/OpenDots",
+        "openai/mcp-extensions",
+        "fsiaonma/elpis",
+        "composio-community/open-dot",
+        "shinshin86/mesh-avatar-studio",
         "KKKKhazix/AIHOT",
         "CopilotKit/OpenDots",
         "openai/mcp-extensions",
@@ -42488,9 +43006,11 @@
       ]
     },
     "JavaScript": {
-      "count": 310,
-      "total_stars": 962801,
+      "count": 312,
+      "total_stars": 964731,
       "repos": [
+        "edenfunf/reelmimic",
+        "QingYunA/answer-me-with-html",
         "edenfunf/reelmimic",
         "edenfunf/reelmimic",
         "lemomo-ai/lemo-opuscar",
@@ -42804,9 +43324,10 @@
       ]
     },
     "Unknown": {
-      "count": 226,
-      "total_stars": 217160,
+      "count": 227,
+      "total_stars": 217210,
       "repos": [
+        "RhythmFlamingoOutfit/pc-optimizer",
         "yihui-dev/awesome-opus5-5-videos",
         "JoasASantos/Offensive-Security-AI-Models",
         "KnotCaliph87/aion2-daev-companion",
@@ -43036,9 +43557,11 @@
       ]
     },
     "Rust": {
-      "count": 129,
-      "total_stars": 1112090,
+      "count": 131,
+      "total_stars": 1112626,
       "repos": [
+        "storytold/photocraft",
+        "MystiaFin/amane",
         "chasmlol/2010-rust-rewrite-mashup",
         "chasmlol/2010-rust-rewrite-mashup",
         "mkdir700/wx-ime-sdk",
@@ -43171,9 +43694,11 @@
       ]
     },
     "HTML": {
-      "count": 117,
-      "total_stars": 405210,
+      "count": 119,
+      "total_stars": 445426,
       "repos": [
+        "wy51ai/floorplan-3d",
+        "eternity4719/HowToLiveBetter",
         "wy51ai/floorplan-3d",
         "eternity4719/HowToLiveBetter",
         "kaankiziltug/logo-design-skill",
@@ -43380,9 +43905,11 @@
       ]
     },
     "C": {
-      "count": 56,
-      "total_stars": 287449,
+      "count": 58,
+      "total_stars": 288960,
       "repos": [
+        "facebookincubator/muse-gadget-sdk",
+        "ESPARGOS/esp-sdr",
         "facebookincubator/muse-gadget-sdk",
         "saragordic/window-sweaters",
         "saragordic/window-sweaters",
@@ -43552,9 +44079,12 @@
       ]
     },
     "C++": {
-      "count": 35,
-      "total_stars": 14005,
+      "count": 38,
+      "total_stars": 23987,
       "repos": [
+        "chasmlol/SkyCraft",
+        "elripalda/Porpoise",
+        "Niko1221/Strata",
         "chasmlol/SkyCraft",
         "Niko1221/Strata",
         "deepseek-ai/DeepEP-Ascend",
@@ -43592,6 +44122,27 @@
         "BohemiaInteractive/CWR"
       ]
     },
+    "Kotlin": {
+      "count": 15,
+      "total_stars": 38399,
+      "repos": [
+        "YXBwbWFya2V0/AppMarket",
+        "shihabal3amri/DiPlay",
+        "shihabal3amri/DiPlay",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "Chuloo/mural",
+        "Chuloo/mural",
+        "zhdmm35/obsidian-mobile-companion",
+        "Chuloo/mural",
+        "Supersonic/TLPE",
+        "sam1am/localdex"
+      ]
+    },
     "Lean": {
       "count": 15,
       "total_stars": 16280,
@@ -43613,30 +44164,11 @@
         "openai/ten-proofs"
       ]
     },
-    "Kotlin": {
-      "count": 14,
-      "total_stars": 38281,
-      "repos": [
-        "shihabal3amri/DiPlay",
-        "shihabal3amri/DiPlay",
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "Chuloo/mural",
-        "Chuloo/mural",
-        "zhdmm35/obsidian-mobile-companion",
-        "Chuloo/mural",
-        "Supersonic/TLPE",
-        "sam1am/localdex"
-      ]
-    },
     "C#": {
-      "count": 13,
-      "total_stars": 4926,
+      "count": 14,
+      "total_stars": 5932,
       "repos": [
+        "CAPCOM-TD-OSS/REDox",
         "CAPCOM-TD-OSS/REDox",
         "mattxslv/childstream",
         "angusdevgo/IDM_Pro_Tool",
@@ -43907,6 +44439,11 @@
     }
   },
   "date_stats": {
+    "2026-10-04": {
+      "count": 30,
+      "total_stars": 136849,
+      "ai_count": 0
+    },
     "2026-10-03": {
       "count": 30,
       "total_stars": 132402,
@@ -45003,6 +45540,18 @@
     {
       "name": "eternity4719/HowToLiveBetter",
       "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "stars": 38844,
+      "language": "HTML",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "date": "2026-10-04",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
       "stars": 36319,
       "language": "HTML",
       "created": "2026-09-07",
@@ -45045,6 +45594,32 @@
       "topics": [],
       "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
       "date": "2026-09-30",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 30568,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-10-04",
       "section": "monthly",
       "is_ai_dev": false
     },
@@ -45201,44 +45776,6 @@
       ],
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "date": "2026-09-28",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "eternity4719/HowToLiveBetter",
-      "url": "https://github.com/eternity4719/HowToLiveBetter",
-      "stars": 26293,
-      "language": "HTML",
-      "created": "2026-09-07",
-      "topics": [],
-      "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
-      "date": "2026-09-29",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "NandhaKishorM/laya",
-      "url": "https://github.com/NandhaKishorM/laya",
-      "stars": 26218,
-      "language": "Python",
-      "created": "2026-09-18",
-      "topics": [
-        "calibration",
-        "classification",
-        "decision-model",
-        "huggingface",
-        "jev",
-        "modernbert",
-        "multilingual",
-        "nlp",
-        "python",
-        "pytorch",
-        "routing",
-        "typed-decisions",
-        "zero-shot"
-      ],
-      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "date": "2026-09-27",
       "section": "monthly",
       "is_ai_dev": false
     }
