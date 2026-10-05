@@ -1,9 +1,558 @@
 {
-  "last_updated": "2026-10-04T11:24:29.457348",
-  "total_repos": 2533,
-  "total_dates": 86,
+  "last_updated": "2026-10-05T12:48:58.293721",
+  "total_repos": 2563,
+  "total_dates": 87,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "stars": 3547,
+      "language": "Python",
+      "created": "2026-09-30",
+      "topics": [
+        "age-of-empires",
+        "claude-code",
+        "claude-code-plugin",
+        "fal",
+        "game-assets",
+        "game-modding",
+        "mcp",
+        "modding",
+        "reverse-engineering",
+        "tmodloader"
+      ],
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "CopilotKit/OpenDots",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "stars": 3433,
+      "language": "TypeScript",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "feder-cr/dots",
+      "url": "https://github.com/feder-cr/dots",
+      "stars": 2610,
+      "language": "Python",
+      "created": "2026-09-29",
+      "topics": [
+        "ai-agent",
+        "ai-agents",
+        "ai-browser",
+        "anti-detect-browser",
+        "browser-agent",
+        "browser-automation",
+        "chatgpt",
+        "dotfiles",
+        "dots",
+        "firefox",
+        "llm-agent",
+        "mcp",
+        "open-source-alternative",
+        "openai",
+        "openai-dots",
+        "openrouter",
+        "playwright",
+        "stealth-browser",
+        "web-agent",
+        "web-automation"
+      ],
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nanaism/yomiyasu",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "stars": 1476,
+      "language": "Python",
+      "created": "2026-09-30",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "gemini",
+        "japanese",
+        "linter",
+        "llm",
+        "nlp",
+        "writing",
+        "writing-assistant",
+        "writing-tool"
+      ],
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "stars": 1460,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "adobe",
+        "adobe-photoshop-2026",
+        "adobe-photoshop-2026-ai",
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "photoshop",
+        "psd",
+        "rust"
+      ],
+      "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wy51ai/floorplan-3d",
+      "url": "https://github.com/wy51ai/floorplan-3d",
+      "stars": 1413,
+      "language": "HTML",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "stars": 1333,
+      "language": "JavaScript",
+      "created": "2026-10-02",
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "cli",
+        "diagram",
+        "explainer",
+        "html",
+        "llm",
+        "ste100"
+      ],
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "facebookincubator/muse-gadget-sdk",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "stars": 1329,
+      "language": "C",
+      "created": "2026-10-02",
+      "topics": [],
+      "description": "Open source SDK to build Muse gadgets",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nykooi1/vibe-wise",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "stars": 1283,
+      "language": "Python",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kargulstudio/sales-crm",
+      "url": "https://github.com/kargulstudio/sales-crm",
+      "stars": 1238,
+      "language": "TypeScript",
+      "created": "2026-10-04",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "omlahore/RemoveMacAI",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "stars": 1114,
+      "language": "Swift",
+      "created": "2026-09-29",
+      "topics": [
+        "apple-intelligence",
+        "cli",
+        "debloat",
+        "macos",
+        "macos-27",
+        "privacy",
+        "siri",
+        "swift"
+      ],
+      "description": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "CAPCOM-TD-OSS/REDox",
+      "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+      "stars": 1053,
+      "language": "C#",
+      "created": "2026-09-30",
+      "topics": [],
+      "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "chasmlol/SkyCraft",
+      "url": "https://github.com/chasmlol/SkyCraft",
+      "stars": 937,
+      "language": "C++",
+      "created": "2026-09-30",
+      "topics": [],
+      "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Edwardxlai/easyread",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "stars": 797,
+      "language": "Python",
+      "created": "2026-09-30",
+      "topics": [
+        "academic",
+        "arxiv",
+        "chinese",
+        "claude-code",
+        "codex",
+        "electron",
+        "llm",
+        "paper-reading",
+        "pdf-translator",
+        "reference-manager",
+        "research-tool",
+        "translation"
+      ],
+      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "openai/mcp-extensions",
+      "url": "https://github.com/openai/mcp-extensions",
+      "stars": 767,
+      "language": "TypeScript",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sganggs/Stronghold-Protocol",
+      "url": "https://github.com/sganggs/Stronghold-Protocol",
+      "stars": 664,
+      "language": "JavaScript",
+      "created": "2026-10-02",
+      "topics": [
+        "arknights",
+        "auto-chess",
+        "fan-game",
+        "nodejs",
+        "tower-defense",
+        "websocket"
+      ],
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "StayLameBro/backburner",
+      "url": "https://github.com/StayLameBro/backburner",
+      "stars": 588,
+      "language": "Python",
+      "created": "2026-10-01",
+      "topics": [
+        "apple-silicon",
+        "ios",
+        "iphone",
+        "llama-cpp",
+        "llm-inference",
+        "local-llm",
+        "macos",
+        "metal",
+        "qwen",
+        "sme2",
+        "speculative-decoding"
+      ],
+      "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "composio-community/open-dot",
+      "url": "https://github.com/composio-community/open-dot",
+      "stars": 571,
+      "language": "TypeScript",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "OpSafari/hypoarena",
+      "url": "https://github.com/OpSafari/hypoarena",
+      "stars": 562,
+      "language": "Python",
+      "created": "2026-09-30",
+      "topics": [],
+      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "extend-hq/jevbox",
+      "url": "https://github.com/extend-hq/jevbox",
+      "stars": 559,
+      "language": "TypeScript",
+      "created": "2026-09-29",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-05",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Gigadelstrut/Autodesk-CFD",
+      "url": "https://github.com/Gigadelstrut/Autodesk-CFD",
+      "stars": 150,
+      "language": "Unknown",
+      "created": "2026-10-05",
+      "topics": [
+        "cfd-simulation",
+        "cfd-toolbox",
+        "cfdtool-toolbox"
+      ],
+      "description": "Revolutionize your professional desktop software utility experience with Autodesk Cfd - an innovative tool providing a comprehensive configuration...",
+      "date": "2026-10-05",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "CinderLawmakerPath/AnyUnlock",
+      "url": "https://github.com/CinderLawmakerPath/AnyUnlock",
+      "stars": 150,
+      "language": "Unknown",
+      "created": "2026-10-05",
+      "topics": [
+        "apple-id-remove",
+        "apple-id-remover",
+        "device-tool",
+        "frp-tool",
+        "ios-bypass",
+        "ios-find-my-bypass",
+        "ios-jailbreak",
+        "ios-mdm-bypass",
+        "iphone-mdm-remove",
+        "iphone-passcode",
+        "iphone-restore",
+        "lockdown-browser-bypass",
+        "mdm-bypass",
+        "palera1n",
+        "screen-passcode-recovery",
+        "unlocking"
+      ],
+      "description": "Anyunlock optimizes your workflow by providing a seamless desktop software utility configuration.",
+      "date": "2026-10-05",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MilliMareLattice/Autodesk-Inventor",
+      "url": "https://github.com/MilliMareLattice/Autodesk-Inventor",
+      "stars": 150,
+      "language": "Unknown",
+      "created": "2026-10-05",
+      "topics": [
+        "autodesk-inventor-pro",
+        "autodesk-inventor-pro-pc",
+        "inventor",
+        "inventor-automation",
+        "inventor-design",
+        "inventor-parts",
+        "inventory-app",
+        "inventory-system",
+        "offsets-dump",
+        "real-time-inventory",
+        "stock-inventory"
+      ],
+      "description": "Revolutionize your professional design workflows with this desktop utility configuration that optimizes collaboration and enhances data management in...",
+      "date": "2026-10-05",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Tempestplufilter36/Discord-Server-Raider",
+      "url": "https://github.com/Tempestplufilter36/Discord-Server-Raider",
+      "stars": 150,
+      "language": "Unknown",
+      "created": "2026-10-05",
+      "topics": [
+        "discord-bot-raid",
+        "discord-multitools",
+        "discord-nuke",
+        "discord-raid",
+        "discord-raid-bot",
+        "discord-raid-tool",
+        "discord-raid-tools",
+        "raid",
+        "raid-bot",
+        "raid-protection",
+        "raiding"
+      ],
+      "description": "Discord Server Raider is an AI-driven tool that optimizes server management and enhances user experience without any connection to Apple or iOS devices;...",
+      "date": "2026-10-05",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "guardmiteway/Adobe-Photoshop",
+      "url": "https://github.com/guardmiteway/Adobe-Photoshop",
+      "stars": 150,
+      "language": "Unknown",
+      "created": "2026-10-05",
+      "topics": [
+        "creative-suite-mod",
+        "cs6-photoshop-extended",
+        "design-software-patch",
+        "firefly-nav",
+        "free-app-github",
+        "graphic-design-tools",
+        "graphic-software-patch",
+        "graphics-design",
+        "image-editing-software",
+        "photo-editing-patch",
+        "photoshop-cs5",
+        "photshop-cs6",
+        "psd-compatible",
+        "psd-generator"
+      ],
+      "description": "Enhances photo editing with advanced tools and streamlined processes, unlocking your creativity in professional desktop software configurations.",
+      "date": "2026-10-05",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "stars": 42453,
+      "language": "HTML",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "date": "2026-10-05",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 30837,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-10-05",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": 22049,
+      "language": "Python",
+      "created": "2026-09-16",
+      "topics": [],
+      "description": "Fastest and cheapest web agent",
+      "date": "2026-10-05",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "stars": 12629,
+      "language": "C++",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "date": "2026-10-05",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "stars": 8471,
+      "language": "Python",
+      "created": "2026-09-17",
+      "topics": [
+        "decision-model",
+        "jev",
+        "qwen3"
+      ],
+      "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
+      "date": "2026-10-05",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "KKKKhazix/AIHOT",
       "url": "https://github.com/KKKKhazix/AIHOT",
@@ -40917,6 +41466,15 @@
     }
   ],
   "metadata": {
+    "2026-10-05": {
+      "ai_relevant_count": 14,
+      "top_ai_pick": {
+        "name": "rehan-remade/universal-modder",
+        "url": "https://github.com/rehan-remade/universal-modder",
+        "stars": 3547,
+        "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos."
+      }
+    },
     "2026-10-04": {
       "ai_relevant_count": 14,
       "top_ai_pick": {
@@ -41689,9 +42247,19 @@
   },
   "language_stats": {
     "Python": {
-      "count": 795,
-      "total_stars": 2804509,
+      "count": 805,
+      "total_stars": 2876729,
       "repos": [
+        "rehan-remade/universal-modder",
+        "feder-cr/dots",
+        "nanaism/yomiyasu",
+        "nykooi1/vibe-wise",
+        "Edwardxlai/easyread",
+        "StayLameBro/backburner",
+        "OpSafari/hypoarena",
+        "NandhaKishorM/laya",
+        "browser-use/jev-ultrafast",
+        "jaredpalmer/kev",
         "rehan-remade/universal-modder",
         "feder-cr/dots",
         "firelex/jeff",
@@ -42490,9 +43058,14 @@
       ]
     },
     "TypeScript": {
-      "count": 510,
-      "total_stars": 7054528,
+      "count": 515,
+      "total_stars": 7061096,
       "repos": [
+        "CopilotKit/OpenDots",
+        "kargulstudio/sales-crm",
+        "openai/mcp-extensions",
+        "composio-community/open-dot",
+        "extend-hq/jevbox",
         "KKKKhazix/AIHOT",
         "CopilotKit/OpenDots",
         "openai/mcp-extensions",
@@ -43006,9 +43579,11 @@
       ]
     },
     "JavaScript": {
-      "count": 312,
-      "total_stars": 964731,
+      "count": 314,
+      "total_stars": 966728,
       "repos": [
+        "QingYunA/answer-me-with-html",
+        "sganggs/Stronghold-Protocol",
         "edenfunf/reelmimic",
         "QingYunA/answer-me-with-html",
         "edenfunf/reelmimic",
@@ -43324,9 +43899,14 @@
       ]
     },
     "Unknown": {
-      "count": 227,
-      "total_stars": 217210,
+      "count": 232,
+      "total_stars": 217960,
       "repos": [
+        "Gigadelstrut/Autodesk-CFD",
+        "CinderLawmakerPath/AnyUnlock",
+        "MilliMareLattice/Autodesk-Inventor",
+        "Tempestplufilter36/Discord-Server-Raider",
+        "guardmiteway/Adobe-Photoshop",
         "RhythmFlamingoOutfit/pc-optimizer",
         "yihui-dev/awesome-opus5-5-videos",
         "JoasASantos/Offensive-Security-AI-Models",
@@ -43557,9 +44137,10 @@
       ]
     },
     "Rust": {
-      "count": 131,
-      "total_stars": 1112626,
+      "count": 132,
+      "total_stars": 1114086,
       "repos": [
+        "storytold/photocraft",
         "storytold/photocraft",
         "MystiaFin/amane",
         "chasmlol/2010-rust-rewrite-mashup",
@@ -43694,9 +44275,11 @@
       ]
     },
     "HTML": {
-      "count": 119,
-      "total_stars": 445426,
+      "count": 121,
+      "total_stars": 489292,
       "repos": [
+        "wy51ai/floorplan-3d",
+        "eternity4719/HowToLiveBetter",
         "wy51ai/floorplan-3d",
         "eternity4719/HowToLiveBetter",
         "wy51ai/floorplan-3d",
@@ -43819,9 +44402,10 @@
       ]
     },
     "Swift": {
-      "count": 80,
-      "total_stars": 68135,
+      "count": 81,
+      "total_stars": 69249,
       "repos": [
+        "omlahore/RemoveMacAI",
         "Louis-CFM/coucou",
         "Louis-CFM/coucou",
         "Louis-CFM/coucou",
@@ -43905,9 +44489,10 @@
       ]
     },
     "C": {
-      "count": 58,
-      "total_stars": 288960,
+      "count": 59,
+      "total_stars": 290289,
       "repos": [
+        "facebookincubator/muse-gadget-sdk",
         "facebookincubator/muse-gadget-sdk",
         "ESPARGOS/esp-sdr",
         "facebookincubator/muse-gadget-sdk",
@@ -44079,9 +44664,11 @@
       ]
     },
     "C++": {
-      "count": 38,
-      "total_stars": 23987,
+      "count": 40,
+      "total_stars": 37553,
       "repos": [
+        "chasmlol/SkyCraft",
+        "Niko1221/Strata",
         "chasmlol/SkyCraft",
         "elripalda/Porpoise",
         "Niko1221/Strata",
@@ -44120,6 +44707,27 @@
         "BohemiaInteractive/CWR",
         "Used4Work/ariadne-cpp",
         "BohemiaInteractive/CWR"
+      ]
+    },
+    "C#": {
+      "count": 15,
+      "total_stars": 6985,
+      "repos": [
+        "CAPCOM-TD-OSS/REDox",
+        "CAPCOM-TD-OSS/REDox",
+        "CAPCOM-TD-OSS/REDox",
+        "mattxslv/childstream",
+        "angusdevgo/IDM_Pro_Tool",
+        "angusdevgo/IDM_Pro_Tool",
+        "angusdevgo/IDM_Pro_Tool",
+        "angusdevgo/IDM_Pro_Tool",
+        "angusdevgo/IDM_Pro_Tool",
+        "angusdevgo/IDM_Pro_Tool",
+        "Smart-Paocai/VioletToolBox",
+        "Leveetememorialize/gta-6-download-cyberleek",
+        "C-Clarke-Institute/DevOps_Workshop_.NET",
+        "johnclark-lab2093p9/fortnite-macro-2026",
+        "PostmanReminisce/Wisp-VPN"
       ]
     },
     "Kotlin": {
@@ -44162,26 +44770,6 @@
         "anthropics/fermats-last-theorem",
         "openai/ten-proofs",
         "openai/ten-proofs"
-      ]
-    },
-    "C#": {
-      "count": 14,
-      "total_stars": 5932,
-      "repos": [
-        "CAPCOM-TD-OSS/REDox",
-        "CAPCOM-TD-OSS/REDox",
-        "mattxslv/childstream",
-        "angusdevgo/IDM_Pro_Tool",
-        "angusdevgo/IDM_Pro_Tool",
-        "angusdevgo/IDM_Pro_Tool",
-        "angusdevgo/IDM_Pro_Tool",
-        "angusdevgo/IDM_Pro_Tool",
-        "angusdevgo/IDM_Pro_Tool",
-        "Smart-Paocai/VioletToolBox",
-        "Leveetememorialize/gta-6-download-cyberleek",
-        "C-Clarke-Institute/DevOps_Workshop_.NET",
-        "johnclark-lab2093p9/fortnite-macro-2026",
-        "PostmanReminisce/Wisp-VPN"
       ]
     },
     "Markdown": {
@@ -44439,6 +45027,11 @@
     }
   },
   "date_stats": {
+    "2026-10-05": {
+      "count": 30,
+      "total_stars": 143923,
+      "ai_count": 0
+    },
     "2026-10-04": {
       "count": 30,
       "total_stars": 136849,
@@ -45540,6 +46133,18 @@
     {
       "name": "eternity4719/HowToLiveBetter",
       "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "stars": 42453,
+      "language": "HTML",
+      "created": "2026-09-07",
+      "topics": [],
+      "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "date": "2026-10-05",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
       "stars": 38844,
       "language": "HTML",
       "created": "2026-09-07",
@@ -45594,6 +46199,32 @@
       "topics": [],
       "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
       "date": "2026-09-30",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 30837,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-10-05",
       "section": "monthly",
       "is_ai_dev": false
     },
@@ -45724,58 +46355,6 @@
       ],
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "date": "2026-09-30",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "NandhaKishorM/laya",
-      "url": "https://github.com/NandhaKishorM/laya",
-      "stars": 28131,
-      "language": "Python",
-      "created": "2026-09-18",
-      "topics": [
-        "calibration",
-        "classification",
-        "decision-model",
-        "huggingface",
-        "jev",
-        "modernbert",
-        "multilingual",
-        "nlp",
-        "python",
-        "pytorch",
-        "routing",
-        "typed-decisions",
-        "zero-shot"
-      ],
-      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "date": "2026-09-29",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "NandhaKishorM/laya",
-      "url": "https://github.com/NandhaKishorM/laya",
-      "stars": 27279,
-      "language": "Python",
-      "created": "2026-09-18",
-      "topics": [
-        "calibration",
-        "classification",
-        "decision-model",
-        "huggingface",
-        "jev",
-        "modernbert",
-        "multilingual",
-        "nlp",
-        "python",
-        "pytorch",
-        "routing",
-        "typed-decisions",
-        "zero-shot"
-      ],
-      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "date": "2026-09-28",
       "section": "monthly",
       "is_ai_dev": false
     }
