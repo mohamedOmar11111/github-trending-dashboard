@@ -1,9 +1,479 @@
 {
-  "last_updated": "2026-10-06T12:18:14.808729",
-  "total_repos": 2593,
-  "total_dates": 88,
+  "last_updated": "2026-10-07T12:24:59.014397",
+  "total_repos": 2623,
+  "total_dates": 89,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "openai/math",
+      "url": "https://github.com/openai/math",
+      "stars": 7024,
+      "language": "Lean",
+      "created": "2026-10-06",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "stars": 1927,
+      "language": "JavaScript",
+      "created": "2026-10-02",
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "claude-code-skill",
+        "claude-skill",
+        "claude-skills",
+        "cli",
+        "diagram",
+        "explainer",
+        "html",
+        "llm",
+        "ste100"
+      ],
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kargulstudio/sales-crm",
+      "url": "https://github.com/kargulstudio/sales-crm",
+      "stars": 1614,
+      "language": "TypeScript",
+      "created": "2026-10-04",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "facebookincubator/muse-gadget-sdk",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "stars": 1608,
+      "language": "C",
+      "created": "2026-10-02",
+      "topics": [],
+      "description": "Open source SDK to build Muse gadgets",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deadinside28/bloodborne_pc",
+      "url": "https://github.com/deadinside28/bloodborne_pc",
+      "stars": 1436,
+      "language": "C++",
+      "created": "2026-10-01",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/effectcraft",
+      "url": "https://github.com/storytold/effectcraft",
+      "stars": 1217,
+      "language": "Rust",
+      "created": "2026-10-01",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alchaincyf/huashu-art-motion",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "stars": 1206,
+      "language": "JavaScript",
+      "created": "2026-10-06",
+      "topics": [],
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lucasmarkes/hairline",
+      "url": "https://github.com/lucasmarkes/hairline",
+      "stars": 950,
+      "language": "TypeScript",
+      "created": "2026-10-01",
+      "topics": [
+        "animation",
+        "isometric",
+        "react",
+        "shadcn",
+        "svg",
+        "typescript"
+      ],
+      "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sganggs/Stronghold-Protocol",
+      "url": "https://github.com/sganggs/Stronghold-Protocol",
+      "stars": 885,
+      "language": "JavaScript",
+      "created": "2026-10-02",
+      "topics": [
+        "arknights",
+        "auto-chess",
+        "fan-game",
+        "nodejs",
+        "tower-defense",
+        "websocket"
+      ],
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "StayLameBro/backburner",
+      "url": "https://github.com/StayLameBro/backburner",
+      "stars": 819,
+      "language": "Python",
+      "created": "2026-10-01",
+      "topics": [
+        "apple-silicon",
+        "ios",
+        "iphone",
+        "llama-cpp",
+        "llm-inference",
+        "local-llm",
+        "macos",
+        "metal",
+        "qwen",
+        "sme2",
+        "speculative-decoding"
+      ],
+      "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mizorewww/x_gift_bot",
+      "url": "https://github.com/mizorewww/x_gift_bot",
+      "stars": 803,
+      "language": "Go",
+      "created": "2026-10-02",
+      "topics": [],
+      "description": "X Premium gift CLI and redemption site",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Jakeschincariol/replica-skill",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "stars": 773,
+      "language": "Python",
+      "created": "2026-10-03",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "app-clone",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "indie-hacker",
+        "reverse-engineering",
+        "saas"
+      ],
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/designcraft",
+      "url": "https://github.com/storytold/designcraft",
+      "stars": 729,
+      "language": "Rust",
+      "created": "2026-10-01",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "rauchg/gdp-ts",
+      "url": "https://github.com/rauchg/gdp-ts",
+      "stars": 726,
+      "language": "TypeScript",
+      "created": "2026-10-04",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "elstongun/leviathan",
+      "url": "https://github.com/elstongun/leviathan",
+      "stars": 652,
+      "language": "Rust",
+      "created": "2026-10-05",
+      "topics": [],
+      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ythx-101/live-panel-skill",
+      "url": "https://github.com/ythx-101/live-panel-skill",
+      "stars": 636,
+      "language": "HTML",
+      "created": "2026-10-03",
+      "topics": [],
+      "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "AgentMemoryRepo/agentmemoryrepo",
+      "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+      "stars": 597,
+      "language": "Unknown",
+      "created": "2026-10-04",
+      "topics": [],
+      "description": "Spec for Agent Memory Repo",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "zzzz7788990213-ops/EvoVLM",
+      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+      "stars": 507,
+      "language": "Python",
+      "created": "2026-10-02",
+      "topics": [],
+      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "whirlchat/whirl",
+      "url": "https://github.com/whirlchat/whirl",
+      "stars": 491,
+      "language": "TypeScript",
+      "created": "2026-10-02",
+      "topics": [
+        "ai",
+        "ai-chat",
+        "chat",
+        "convex",
+        "llm",
+        "nextjs",
+        "openrouter",
+        "react",
+        "self-hosted",
+        "typescript"
+      ],
+      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "DozenTwelve/Papermorph",
+      "url": "https://github.com/DozenTwelve/Papermorph",
+      "stars": 490,
+      "language": "HTML",
+      "created": "2026-10-03",
+      "topics": [],
+      "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "date": "2026-10-07",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alejandrobujan/tendedero",
+      "url": "https://github.com/alejandrobujan/tendedero",
+      "stars": 204,
+      "language": "Swift",
+      "created": "2026-10-07",
+      "topics": [],
+      "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+      "date": "2026-10-07",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pingdotgg/ts-rust",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "stars": 115,
+      "language": "Rust",
+      "created": "2026-10-07",
+      "topics": [
+        "compiler",
+        "rust",
+        "tsc",
+        "typescript"
+      ],
+      "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+      "date": "2026-10-07",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nullmoth/nvidia-macos-driver",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "stars": 107,
+      "language": "Rust",
+      "created": "2026-10-07",
+      "topics": [],
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "date": "2026-10-07",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "accomplish999/position-sizer",
+      "url": "https://github.com/accomplish999/position-sizer",
+      "stars": 63,
+      "language": "TypeScript",
+      "created": "2026-10-07",
+      "topics": [
+        "cli",
+        "crypto",
+        "cryptocurrency",
+        "defi",
+        "impermanent-loss",
+        "perpetual-futures",
+        "position-sizing",
+        "risk",
+        "risk-analysis",
+        "risk-analytics",
+        "risk-assessment",
+        "risk-management",
+        "risk-modeling",
+        "risk-prediction",
+        "risk-scoring",
+        "typescript",
+        "uniswap"
+      ],
+      "description": "Position size calculators for Perps and DeFi.",
+      "date": "2026-10-07",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "stars": 55,
+      "language": "Rust",
+      "created": "2026-10-07",
+      "topics": [],
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "date": "2026-10-07",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 31313,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-10-07",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": 22239,
+      "language": "Python",
+      "created": "2026-09-16",
+      "topics": [],
+      "description": "Fastest and cheapest web agent",
+      "date": "2026-10-07",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "stars": 16455,
+      "language": "C++",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "date": "2026-10-07",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "stars": 12442,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "adobe",
+        "adobe-photoshop-2026",
+        "adobe-photoshop-2026-ai",
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "photoshop",
+        "psd",
+        "rust"
+      ],
+      "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+      "date": "2026-10-07",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "stars": 10468,
+      "language": "Swift",
+      "created": "2026-09-16",
+      "topics": [],
+      "description": "The Photoshop alternative for Mac",
+      "date": "2026-10-07",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "rehan-remade/universal-modder",
       "url": "https://github.com/rehan-remade/universal-modder",
@@ -42006,6 +42476,15 @@
     }
   ],
   "metadata": {
+    "2026-10-07": {
+      "ai_relevant_count": 13,
+      "top_ai_pick": {
+        "name": "openai/math",
+        "url": "https://github.com/openai/math",
+        "stars": 7024,
+        "description": ""
+      }
+    },
     "2026-10-06": {
       "ai_relevant_count": 11,
       "top_ai_pick": {
@@ -42796,9 +43275,14 @@
   },
   "language_stats": {
     "Python": {
-      "count": 814,
-      "total_stars": 2939145,
+      "count": 819,
+      "total_stars": 2994796,
       "repos": [
+        "StayLameBro/backburner",
+        "Jakeschincariol/replica-skill",
+        "zzzz7788990213-ops/EvoVLM",
+        "NandhaKishorM/laya",
+        "browser-use/jev-ultrafast",
         "rehan-remade/universal-modder",
         "nanaism/yomiyasu",
         "Edwardxlai/easyread",
@@ -43616,9 +44100,14 @@
       ]
     },
     "TypeScript": {
-      "count": 518,
-      "total_stars": 7063949,
+      "count": 523,
+      "total_stars": 7067793,
       "repos": [
+        "kargulstudio/sales-crm",
+        "lucasmarkes/hairline",
+        "rauchg/gdp-ts",
+        "whirlchat/whirl",
+        "accomplish999/position-sizer",
         "kargulstudio/sales-crm",
         "lucasmarkes/hairline",
         "rauchg/gdp-ts",
@@ -44140,9 +44629,12 @@
       ]
     },
     "JavaScript": {
-      "count": 317,
-      "total_stars": 969406,
+      "count": 320,
+      "total_stars": 973424,
       "repos": [
+        "QingYunA/answer-me-with-html",
+        "alchaincyf/huashu-art-motion",
+        "sganggs/Stronghold-Protocol",
         "QingYunA/answer-me-with-html",
         "sganggs/Stronghold-Protocol",
         "alchaincyf/huashu-art-motion",
@@ -44463,9 +44955,10 @@
       ]
     },
     "Unknown": {
-      "count": 235,
-      "total_stars": 218074,
+      "count": 236,
+      "total_stars": 218671,
       "repos": [
+        "AgentMemoryRepo/agentmemoryrepo",
         "nanocle/Charakuru",
         "jake-hallhq1994q8/Medusa-LoL-SkinHelper",
         "dmitry-n-x1995z4/Medusa-Forza-Horizon-6",
@@ -44704,9 +45197,16 @@
       ]
     },
     "Rust": {
-      "count": 135,
-      "total_stars": 1117943,
+      "count": 142,
+      "total_stars": 1133260,
       "repos": [
+        "storytold/effectcraft",
+        "storytold/designcraft",
+        "elstongun/leviathan",
+        "pingdotgg/ts-rust",
+        "nullmoth/nvidia-macos-driver",
+        "storytold/wordcraft",
+        "storytold/photocraft",
         "storytold/photocraft",
         "storytold/filmcraft",
         "storytold/lightcraft",
@@ -44845,9 +45345,11 @@
       ]
     },
     "HTML": {
-      "count": 124,
-      "total_stars": 535493,
+      "count": 126,
+      "total_stars": 536619,
       "repos": [
+        "ythx-101/live-panel-skill",
+        "DozenTwelve/Papermorph",
         "ythx-101/live-panel-skill",
         "Henryfud/werm",
         "eternity4719/HowToLiveBetter",
@@ -44975,9 +45477,11 @@
       ]
     },
     "Swift": {
-      "count": 82,
-      "total_stars": 77870,
+      "count": 84,
+      "total_stars": 88542,
       "repos": [
+        "alejandrobujan/tendedero",
+        "robbietilton/Compositor",
         "robbietilton/Compositor",
         "omlahore/RemoveMacAI",
         "Louis-CFM/coucou",
@@ -45063,9 +45567,10 @@
       ]
     },
     "C": {
-      "count": 60,
-      "total_stars": 291780,
+      "count": 61,
+      "total_stars": 293388,
       "repos": [
+        "facebookincubator/muse-gadget-sdk",
         "facebookincubator/muse-gadget-sdk",
         "facebookincubator/muse-gadget-sdk",
         "facebookincubator/muse-gadget-sdk",
@@ -45129,9 +45634,10 @@
       ]
     },
     "Go": {
-      "count": 55,
-      "total_stars": 36619,
+      "count": 56,
+      "total_stars": 37422,
       "repos": [
+        "mizorewww/x_gift_bot",
         "yetone/magpie",
         "yetone/magpie",
         "kryvora-network/kryvora-node",
@@ -45190,9 +45696,11 @@
       ]
     },
     "C++": {
-      "count": 43,
-      "total_stars": 54389,
+      "count": 45,
+      "total_stars": 72280,
       "repos": [
+        "deadinside28/bloodborne_pc",
+        "Niko1221/Strata",
         "chasmlol/SkyCraft",
         "deadinside28/bloodborne_pc",
         "Niko1221/Strata",
@@ -45287,6 +45795,28 @@
         "tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark"
       ]
     },
+    "Lean": {
+      "count": 16,
+      "total_stars": 23304,
+      "repos": [
+        "openai/math",
+        "openai/NavierStokesAndEuler",
+        "openai/NavierStokesAndEuler",
+        "openai/NavierStokesAndEuler",
+        "openai/NavierStokesAndEuler",
+        "openai/NavierStokesAndEuler",
+        "anthropics/fermats-last-theorem",
+        "openai/NavierStokesAndEuler",
+        "anthropics/fermats-last-theorem",
+        "anthropics/fermats-last-theorem",
+        "tristanbuckmaster/fluid_lean",
+        "anthropics/fermats-last-theorem",
+        "anthropics/fermats-last-theorem",
+        "anthropics/fermats-last-theorem",
+        "openai/ten-proofs",
+        "openai/ten-proofs"
+      ]
+    },
     "C#": {
       "count": 16,
       "total_stars": 8088,
@@ -45328,27 +45858,6 @@
         "Chuloo/mural",
         "Supersonic/TLPE",
         "sam1am/localdex"
-      ]
-    },
-    "Lean": {
-      "count": 15,
-      "total_stars": 16280,
-      "repos": [
-        "openai/NavierStokesAndEuler",
-        "openai/NavierStokesAndEuler",
-        "openai/NavierStokesAndEuler",
-        "openai/NavierStokesAndEuler",
-        "openai/NavierStokesAndEuler",
-        "anthropics/fermats-last-theorem",
-        "openai/NavierStokesAndEuler",
-        "anthropics/fermats-last-theorem",
-        "anthropics/fermats-last-theorem",
-        "tristanbuckmaster/fluid_lean",
-        "anthropics/fermats-last-theorem",
-        "anthropics/fermats-last-theorem",
-        "anthropics/fermats-last-theorem",
-        "openai/ten-proofs",
-        "openai/ten-proofs"
       ]
     },
     "Markdown": {
@@ -45606,6 +46115,11 @@
     }
   },
   "date_stats": {
+    "2026-10-07": {
+      "count": 30,
+      "total_stars": 118551,
+      "ai_count": 0
+    },
     "2026-10-06": {
       "count": 30,
       "total_stars": 146170,
@@ -46801,6 +47315,32 @@
     {
       "name": "NandhaKishorM/laya",
       "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 31313,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-10-07",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
       "stars": 31098,
       "language": "Python",
       "created": "2026-09-18",
@@ -46899,32 +47439,6 @@
       ],
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "date": "2026-10-03",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "NandhaKishorM/laya",
-      "url": "https://github.com/NandhaKishorM/laya",
-      "stars": 30031,
-      "language": "Python",
-      "created": "2026-09-18",
-      "topics": [
-        "calibration",
-        "classification",
-        "decision-model",
-        "huggingface",
-        "jev",
-        "modernbert",
-        "multilingual",
-        "nlp",
-        "python",
-        "pytorch",
-        "routing",
-        "typed-decisions",
-        "zero-shot"
-      ],
-      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "date": "2026-10-02",
       "section": "monthly",
       "is_ai_dev": false
     }
