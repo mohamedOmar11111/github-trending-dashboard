@@ -1,9 +1,500 @@
 {
-  "last_updated": "2026-10-13T13:02:07.445164",
-  "total_repos": 2773,
-  "total_dates": 94,
+  "last_updated": "2026-10-14T10:43:11.790899",
+  "total_repos": 2803,
+  "total_dates": 95,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "stars": 8941,
+      "language": "JavaScript",
+      "created": "2026-10-08",
+      "topics": [
+        "agent-skill",
+        "open-source",
+        "svg",
+        "vizualization"
+      ],
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "stars": 4013,
+      "language": "Go",
+      "created": "2026-10-08",
+      "topics": [],
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ARahim3/DigUp",
+      "url": "https://github.com/ARahim3/DigUp",
+      "stars": 3093,
+      "language": "Swift",
+      "created": "2026-10-08",
+      "topics": [
+        "embeddinggemma",
+        "embeddings",
+        "llama-cpp",
+        "local-first",
+        "macos",
+        "menubar-app",
+        "multimodal",
+        "on-device",
+        "semantic-search",
+        "swift"
+      ],
+      "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "t4t5/omdrop-owl",
+      "url": "https://github.com/t4t5/omdrop-owl",
+      "stars": 2627,
+      "language": "Shell",
+      "created": "2026-10-08",
+      "topics": [
+        "airdrop",
+        "awdl",
+        "omarchy",
+        "owl"
+      ],
+      "description": "airdrop for non-apple devices",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/craft-launcher",
+      "url": "https://github.com/storytold/craft-launcher",
+      "stars": 2471,
+      "language": "Rust",
+      "created": "2026-10-09",
+      "topics": [],
+      "description": "The Craft App Launcher",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "liseami/CCBaga",
+      "url": "https://github.com/liseami/CCBaga",
+      "stars": 2194,
+      "language": "Rust",
+      "created": "2026-10-11",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "noahdunnagan/fsearch",
+      "url": "https://github.com/noahdunnagan/fsearch",
+      "stars": 2039,
+      "language": "Rust",
+      "created": "2026-10-08",
+      "topics": [],
+      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "stars": 1883,
+      "language": "Python",
+      "created": "2026-10-11",
+      "topics": [
+        "ai-agent",
+        "airplay",
+        "automation",
+        "computer-use",
+        "esp32",
+        "esp32-s3",
+        "iphone",
+        "llm",
+        "usb-hid"
+      ],
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "stars": 1556,
+      "language": "C",
+      "created": "2026-10-12",
+      "topics": [
+        "compatibility-layer",
+        "diablo-2-resurrected",
+        "diablo2",
+        "game-port",
+        "ios",
+        "ipad",
+        "iphone",
+        "mac",
+        "macos",
+        "metal",
+        "reign-of-the-warlock"
+      ],
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NVIDIA-Omniverse/usd-brep",
+      "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
+      "stars": 1307,
+      "language": "C++",
+      "created": "2026-10-08",
+      "topics": [],
+      "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "trhhubsd/ARTEXX",
+      "url": "https://github.com/trhhubsd/ARTEXX",
+      "stars": 1207,
+      "language": "Go",
+      "created": "2026-10-08",
+      "topics": [],
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "shaongitbd/doory",
+      "url": "https://github.com/shaongitbd/doory",
+      "stars": 1115,
+      "language": "TypeScript",
+      "created": "2026-10-10",
+      "topics": [],
+      "description": "Open source canva alternative",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wesbos/photo-frame-dashboard",
+      "url": "https://github.com/wesbos/photo-frame-dashboard",
+      "stars": 1108,
+      "language": "Python",
+      "created": "2026-10-08",
+      "topics": [],
+      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "stars": 1081,
+      "language": "Python",
+      "created": "2026-10-13",
+      "topics": [
+        "agent-skill",
+        "comfyui",
+        "image-generation",
+        "openclaw",
+        "pose-control",
+        "qwen-image"
+      ],
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "T-Auto/dsh-ops",
+      "url": "https://github.com/T-Auto/dsh-ops",
+      "stars": 1020,
+      "language": "JavaScript",
+      "created": "2026-10-08",
+      "topics": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins"
+      ],
+      "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anthropics/oss-scanner",
+      "url": "https://github.com/anthropics/oss-scanner",
+      "stars": 981,
+      "language": "Dockerfile",
+      "created": "2026-10-08",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "rociiu/talorys",
+      "url": "https://github.com/rociiu/talorys",
+      "stars": 977,
+      "language": "TypeScript",
+      "created": "2026-10-10",
+      "topics": [
+        "ai-agent",
+        "cloudflare",
+        "cloudflare-workers",
+        "durable-objects",
+        "personal-assistant",
+        "react",
+        "self-hosted",
+        "typescript",
+        "workers-ai"
+      ],
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "marclou/mailcheap",
+      "url": "https://github.com/marclou/mailcheap",
+      "stars": 910,
+      "language": "JavaScript",
+      "created": "2026-10-10",
+      "topics": [],
+      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "opengeos/RustGIS",
+      "url": "https://github.com/opengeos/RustGIS",
+      "stars": 909,
+      "language": "Rust",
+      "created": "2026-10-10",
+      "topics": [
+        "geospatial",
+        "gis",
+        "remote-sensing",
+        "rust",
+        "rust-lang"
+      ],
+      "description": "A fast, free and open-source GIS in pure Rust.",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "zhuyansen/new-term-radar",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "stars": 903,
+      "language": "Python",
+      "created": "2026-10-12",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "aisa",
+        "claude-code",
+        "claude-skills",
+        "google-trends",
+        "keyword-research",
+        "mcp",
+        "mcp-server",
+        "seo",
+        "trends"
+      ],
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "date": "2026-10-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deeeeone/gitdrive",
+      "url": "https://github.com/deeeeone/gitdrive",
+      "stars": 68,
+      "language": "Swift",
+      "created": "2026-10-14",
+      "topics": [
+        "cloud-storage",
+        "dropbox-alternative",
+        "encryption",
+        "end-to-end-encryption",
+        "file-provider",
+        "finder",
+        "git",
+        "git-lfs",
+        "github",
+        "icloud-alternative",
+        "macos",
+        "menu-bar-app",
+        "post-quantum",
+        "privacy",
+        "self-hosted",
+        "swift",
+        "swiftui"
+      ],
+      "description": "Turn GitHub into an iCloud-style drive for macOS. Native Finder integration, files on demand, real git history, Git LFS, and optional ML-KEM + X25519 encryption where GitHub sees only random data.",
+      "date": "2026-10-14",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MyLuxy/overdrive",
+      "url": "https://github.com/MyLuxy/overdrive",
+      "stars": 30,
+      "language": "C++",
+      "created": "2026-10-14",
+      "topics": [
+        "exfat",
+        "game-store",
+        "homebrew",
+        "jailbreak",
+        "ps5",
+        "ps5-homebrew",
+        "reverse-engineering",
+        "shadowmountplus"
+      ],
+      "description": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
+      "date": "2026-10-14",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "clasidvegatea5241/pashadrekarixun-07",
+      "url": "https://github.com/clasidvegatea5241/pashadrekarixun-07",
+      "stars": 30,
+      "language": "JavaScript",
+      "created": "2026-10-14",
+      "topics": [],
+      "description": "MSR Runner Pipeline Slot 7 Template",
+      "date": "2026-10-14",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tpscloud/gophers",
+      "url": "https://github.com/tpscloud/gophers",
+      "stars": 29,
+      "language": "Go",
+      "created": "2026-10-14",
+      "topics": [],
+      "description": "Source-verified agent skills for Go: Cobra command-line interfaces, Viper configuration, and Wails desktop apps",
+      "date": "2026-10-14",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JeffLi1993/open-growth-skills",
+      "url": "https://github.com/JeffLi1993/open-growth-skills",
+      "stars": 26,
+      "language": "Python",
+      "created": "2026-10-14",
+      "topics": [],
+      "description": "All in one AI Agent Skills for Growth",
+      "date": "2026-10-14",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "stars": 59409,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "rust"
+      ],
+      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "date": "2026-10-14",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 32840,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-10-14",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "stars": 24165,
+      "language": "C++",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "date": "2026-10-14",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": 22875,
+      "language": "Python",
+      "created": "2026-09-16",
+      "topics": [],
+      "description": "Fastest and cheapest web agent",
+      "date": "2026-10-14",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "stars": 16837,
+      "language": "Swift",
+      "created": "2026-09-16",
+      "topics": [],
+      "description": "The Photoshop alternative for Mac",
+      "date": "2026-10-14",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "storytold/wordcraft",
       "url": "https://github.com/storytold/wordcraft",
@@ -44755,6 +45246,15 @@
     }
   ],
   "metadata": {
+    "2026-10-14": {
+      "ai_relevant_count": 10,
+      "top_ai_pick": {
+        "name": "wheresryan22/anatomy",
+        "url": "https://github.com/wheresryan22/anatomy",
+        "stars": 8941,
+        "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects."
+      }
+    },
     "2026-10-13": {
       "ai_relevant_count": 8,
       "top_ai_pick": {
@@ -45599,9 +46099,16 @@
   },
   "language_stats": {
     "Python": {
-      "count": 844,
-      "total_stars": 3283693,
+      "count": 851,
+      "total_stars": 3344409,
       "repos": [
+        "onehumanbeing/esp32-iphone-agent",
+        "wesbos/photo-frame-dashboard",
+        "Arekejoker/qwen21-nsfw-pose-skill",
+        "zhuyansen/new-term-radar",
+        "JeffLi1993/open-growth-skills",
+        "NandhaKishorM/laya",
+        "browser-use/jev-ultrafast",
         "onehumanbeing/esp32-iphone-agent",
         "Arekejoker/qwen21-nsfw-pose-skill",
         "WilderNoTrack/mcd-calorie-butler",
@@ -46449,9 +46956,11 @@
       ]
     },
     "TypeScript": {
-      "count": 534,
-      "total_stars": 7077904,
+      "count": 536,
+      "total_stars": 7079996,
       "repos": [
+        "shaongitbd/doory",
+        "rociiu/talorys",
         "HelixDB/helix-foundry",
         "HelixDB/helix-foundry",
         "kargulstudio/sales-crm",
@@ -46989,9 +47498,13 @@
       ]
     },
     "JavaScript": {
-      "count": 337,
-      "total_stars": 1003235,
+      "count": 341,
+      "total_stars": 1014136,
       "repos": [
+        "wheresryan22/anatomy",
+        "T-Auto/dsh-ops",
+        "marclou/mailcheap",
+        "clasidvegatea5241/pashadrekarixun-07",
         "wheresryan22/anatomy",
         "Fei2411/DeepSeek-Bot",
         "shadany7824/playgta5",
@@ -47578,9 +48091,14 @@
       ]
     },
     "Rust": {
-      "count": 189,
-      "total_stars": 1399629,
+      "count": 194,
+      "total_stars": 1466651,
       "repos": [
+        "storytold/craft-launcher",
+        "liseami/CCBaga",
+        "noahdunnagan/fsearch",
+        "opengeos/RustGIS",
+        "storytold/photocraft",
         "storytold/wordcraft",
         "storytold/gridcraft",
         "storytold/cadcraft",
@@ -47911,9 +48429,12 @@
       ]
     },
     "Swift": {
-      "count": 95,
-      "total_stars": 172455,
+      "count": 98,
+      "total_stars": 192453,
       "repos": [
+        "ARahim3/DigUp",
+        "deeeeone/gitdrive",
+        "robbietilton/Compositor",
         "ARahim3/DigUp",
         "alejandrobujan/tendedero",
         "robbietilton/Compositor",
@@ -48012,9 +48533,12 @@
       ]
     },
     "Go": {
-      "count": 64,
-      "total_stars": 50968,
+      "count": 67,
+      "total_stars": 56217,
       "repos": [
+        "mhtsec/ARTEX",
+        "trhhubsd/ARTEXX",
+        "tpscloud/gophers",
         "mhtsec/ARTEX",
         "mhtsec/ARTEX",
         "mhtsec/ARTEX",
@@ -48082,9 +48606,10 @@
       ]
     },
     "C": {
-      "count": 62,
-      "total_stars": 295145,
+      "count": 63,
+      "total_stars": 296701,
       "repos": [
+        "jhaizhou-ops/d2r-mobile",
         "facebookincubator/muse-gadget-sdk",
         "facebookincubator/muse-gadget-sdk",
         "facebookincubator/muse-gadget-sdk",
@@ -48150,9 +48675,12 @@
       ]
     },
     "C++": {
-      "count": 57,
-      "total_stars": 180699,
+      "count": 60,
+      "total_stars": 206201,
       "repos": [
+        "NVIDIA-Omniverse/usd-brep",
+        "MyLuxy/overdrive",
+        "Niko1221/Strata",
         "LoreanXavier/pt-pc",
         "Niko1221/Strata",
         "LoreanXavier/pt-pc",
@@ -48213,9 +48741,10 @@
       ]
     },
     "Shell": {
-      "count": 46,
-      "total_stars": 29157,
+      "count": 47,
+      "total_stars": 31784,
       "repos": [
+        "t4t5/omdrop-owl",
         "t4t5/omdrop-owl",
         "t4t5/omdrop-owl",
         "t4t5/omdrop-owl",
@@ -48438,6 +48967,19 @@
         "THARUNRAJ15/Student-Expense-Tracker"
       ]
     },
+    "Dockerfile": {
+      "count": 7,
+      "total_stars": 5369,
+      "repos": [
+        "anthropics/oss-scanner",
+        "x4gKing/Marzban-Panel",
+        "x4gKing/Marzban-Node",
+        "x4gKing/Marzban-Panel",
+        "x4gKing/Marzban-Node",
+        "x4gKing/Marzban-Panel",
+        "x4gKing/Marzban-Node"
+      ]
+    },
     "Java": {
       "count": 7,
       "total_stars": 2717,
@@ -48485,18 +49027,6 @@
         "HEJustinSun/my-girlfriend-jingtian-latex",
         "HEJustinSun/my-girlfriend-jingtian-latex",
         "HEJustinSun/my-girlfriend-jingtian-latex"
-      ]
-    },
-    "Dockerfile": {
-      "count": 6,
-      "total_stars": 4388,
-      "repos": [
-        "x4gKing/Marzban-Panel",
-        "x4gKing/Marzban-Node",
-        "x4gKing/Marzban-Panel",
-        "x4gKing/Marzban-Node",
-        "x4gKing/Marzban-Panel",
-        "x4gKing/Marzban-Node"
       ]
     },
     "Perl": {
@@ -48589,6 +49119,11 @@
     }
   },
   "date_stats": {
+    "2026-10-14": {
+      "count": 30,
+      "total_stars": 196644,
+      "ai_count": 0
+    },
     "2026-10-13": {
       "count": 30,
       "total_stars": 211465,
@@ -49730,6 +50265,26 @@
     {
       "name": "storytold/photocraft",
       "url": "https://github.com/storytold/photocraft",
+      "stars": 59409,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "rust"
+      ],
+      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "date": "2026-10-14",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
       "stars": 55975,
       "language": "Rust",
       "created": "2026-09-30",
@@ -49872,6 +50427,32 @@
     {
       "name": "NandhaKishorM/laya",
       "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 32840,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-10-14",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
       "stars": 32685,
       "language": "Python",
       "created": "2026-09-18",
@@ -49892,58 +50473,6 @@
       ],
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "date": "2026-10-13",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "NandhaKishorM/laya",
-      "url": "https://github.com/NandhaKishorM/laya",
-      "stars": 32234,
-      "language": "Python",
-      "created": "2026-09-18",
-      "topics": [
-        "calibration",
-        "classification",
-        "decision-model",
-        "huggingface",
-        "jev",
-        "modernbert",
-        "multilingual",
-        "nlp",
-        "python",
-        "pytorch",
-        "routing",
-        "typed-decisions",
-        "zero-shot"
-      ],
-      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "date": "2026-10-11",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "NandhaKishorM/laya",
-      "url": "https://github.com/NandhaKishorM/laya",
-      "stars": 32080,
-      "language": "Python",
-      "created": "2026-09-18",
-      "topics": [
-        "calibration",
-        "classification",
-        "decision-model",
-        "huggingface",
-        "jev",
-        "modernbert",
-        "multilingual",
-        "nlp",
-        "python",
-        "pytorch",
-        "routing",
-        "typed-decisions",
-        "zero-shot"
-      ],
-      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "date": "2026-10-10",
       "section": "monthly",
       "is_ai_dev": false
     }
