@@ -1,9 +1,523 @@
 {
-  "last_updated": "2026-10-14T10:43:11.790899",
-  "total_repos": 2803,
-  "total_dates": 95,
+  "last_updated": "2026-10-15T10:26:36.422555",
+  "total_repos": 2833,
+  "total_dates": 96,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "storytold/craft-launcher",
+      "url": "https://github.com/storytold/craft-launcher",
+      "stars": 2750,
+      "language": "Rust",
+      "created": "2026-10-09",
+      "topics": [],
+      "description": "The Craft App Launcher",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "stars": 2663,
+      "language": "C",
+      "created": "2026-10-12",
+      "topics": [
+        "compatibility-layer",
+        "diablo-2-resurrected",
+        "diablo2",
+        "game-port",
+        "ios",
+        "ipad",
+        "iphone",
+        "mac",
+        "macos",
+        "metal",
+        "reign-of-the-warlock"
+      ],
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "liseami/CCBaga",
+      "url": "https://github.com/liseami/CCBaga",
+      "stars": 2315,
+      "language": "Rust",
+      "created": "2026-10-11",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "stars": 2239,
+      "language": "C",
+      "created": "2026-10-11",
+      "topics": [
+        "ai-agent",
+        "airplay",
+        "automation",
+        "computer-use",
+        "esp32",
+        "esp32-s3",
+        "iphone",
+        "llm",
+        "usb-hid"
+      ],
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "stars": 1678,
+      "language": "Python",
+      "created": "2026-10-13",
+      "topics": [
+        "agent-skill",
+        "comfyui",
+        "image-generation",
+        "openclaw",
+        "pose-control",
+        "qwen-image"
+      ],
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "shaongitbd/doory",
+      "url": "https://github.com/shaongitbd/doory",
+      "stars": 1250,
+      "language": "TypeScript",
+      "created": "2026-10-10",
+      "topics": [],
+      "description": "Open source canva alternative",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/figcraft",
+      "url": "https://github.com/storytold/figcraft",
+      "stars": 1136,
+      "language": "Rust",
+      "created": "2026-10-09",
+      "topics": [
+        "design",
+        "rust",
+        "tools"
+      ],
+      "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "opengeos/RustGIS",
+      "url": "https://github.com/opengeos/RustGIS",
+      "stars": 1125,
+      "language": "Rust",
+      "created": "2026-10-10",
+      "topics": [
+        "geospatial",
+        "gis",
+        "remote-sensing",
+        "rust",
+        "rust-lang"
+      ],
+      "description": "A fast, free and open-source GIS in pure Rust.",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "rociiu/talorys",
+      "url": "https://github.com/rociiu/talorys",
+      "stars": 1028,
+      "language": "TypeScript",
+      "created": "2026-10-10",
+      "topics": [
+        "ai-agent",
+        "cloudflare",
+        "cloudflare-workers",
+        "durable-objects",
+        "personal-assistant",
+        "react",
+        "self-hosted",
+        "typescript",
+        "workers-ai"
+      ],
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "zhuyansen/new-term-radar",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "stars": 997,
+      "language": "Python",
+      "created": "2026-10-12",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "aisa",
+        "claude-code",
+        "claude-skills",
+        "google-trends",
+        "keyword-research",
+        "mcp",
+        "mcp-server",
+        "seo",
+        "trends"
+      ],
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "marclou/mailcheap",
+      "url": "https://github.com/marclou/mailcheap",
+      "stars": 938,
+      "language": "JavaScript",
+      "created": "2026-10-10",
+      "topics": [
+        "ai-agents",
+        "email",
+        "mcp",
+        "newsletter",
+        "nextjs",
+        "self-hosted"
+      ],
+      "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deeplethe/solid-glass",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "stars": 904,
+      "language": "TypeScript",
+      "created": "2026-10-12",
+      "topics": [
+        "agent-ui",
+        "ai",
+        "ai-agents",
+        "chat-ui",
+        "design-system",
+        "llm",
+        "react",
+        "shadcn",
+        "shadcn-ui",
+        "tailwindcss",
+        "theme"
+      ],
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "stars": 870,
+      "language": "JavaScript",
+      "created": "2026-10-13",
+      "topics": [
+        "adobe",
+        "cad",
+        "office",
+        "photoshop",
+        "saas",
+        "spreadsheet"
+      ],
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jwuthri-cloud/Tracely-ai",
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "stars": 816,
+      "language": "Python",
+      "created": "2026-10-11",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "YeonwooSung/my-claude-code-mods",
+      "url": "https://github.com/YeonwooSung/my-claude-code-mods",
+      "stars": 796,
+      "language": "TypeScript",
+      "created": "2026-10-09",
+      "topics": [
+        "claude-code",
+        "claude-code-mod",
+        "claude-code-mods",
+        "claude-code-plugin"
+      ],
+      "description": "Custom Claude Code Mods that I need",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "CoolkHz/gptibo",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "stars": 787,
+      "language": "TypeScript",
+      "created": "2026-10-13",
+      "topics": [],
+      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "outcrawlai/scout",
+      "url": "https://github.com/outcrawlai/scout",
+      "stars": 779,
+      "language": "TypeScript",
+      "created": "2026-10-13",
+      "topics": [
+        "ai-agent",
+        "browser-agent",
+        "browser-automation",
+        "cdp",
+        "llm",
+        "typescript",
+        "web-automation"
+      ],
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "h0m3us3r/w1700k-sdr",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "stars": 773,
+      "language": "C",
+      "created": "2026-10-11",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
+      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
+      "stars": 752,
+      "language": "Python",
+      "created": "2026-10-11",
+      "topics": [
+        "manufacturing",
+        "semiconductor"
+      ],
+      "description": "Introduction to Semiconductor Manufacturing",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "n1tr00-10/tiktok-web-signature",
+      "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+      "stars": 711,
+      "language": "Python",
+      "created": "2026-10-09",
+      "topics": [
+        "chacha",
+        "chacha20",
+        "encryption",
+        "python",
+        "reverse-engineering",
+        "signatur",
+        "tiktok",
+        "tiktok-algo",
+        "tiktok-api",
+        "tiktok-automation-script",
+        "tiktok-bot-2026",
+        "tiktok-signing",
+        "tiktok-web-app",
+        "web-scraping",
+        "x-bogus",
+        "x-dynosaur",
+        "x-gnarly"
+      ],
+      "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+      "date": "2026-10-15",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "chenglou/handwired",
+      "url": "https://github.com/chenglou/handwired",
+      "stars": 238,
+      "language": "TypeScript",
+      "created": "2026-10-15",
+      "topics": [],
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "date": "2026-10-15",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Supermedo/uncharted_pc",
+      "url": "https://github.com/Supermedo/uncharted_pc",
+      "stars": 128,
+      "language": "C++",
+      "created": "2026-10-15",
+      "topics": [],
+      "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "date": "2026-10-15",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Binaryify/MonitorBar",
+      "url": "https://github.com/Binaryify/MonitorBar",
+      "stars": 67,
+      "language": "Go",
+      "created": "2026-10-15",
+      "topics": [],
+      "description": "macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量",
+      "date": "2026-10-15",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "antirez/c64-hw-simulator",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "stars": 50,
+      "language": "C",
+      "created": "2026-10-15",
+      "topics": [],
+      "description": "Commodore 64 hardware simulator",
+      "date": "2026-10-15",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ctresb/leis",
+      "url": "https://github.com/ctresb/leis",
+      "stars": 33,
+      "language": "HTML",
+      "created": "2026-10-15",
+      "topics": [],
+      "description": "Todas as leis do Brasil",
+      "date": "2026-10-15",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "stars": 62090,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "rust"
+      ],
+      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "date": "2026-10-15",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 32985,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-10-15",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "stars": 25005,
+      "language": "C++",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "date": "2026-10-15",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": 22966,
+      "language": "Python",
+      "created": "2026-09-16",
+      "topics": [],
+      "description": "Fastest and cheapest web agent",
+      "date": "2026-10-15",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "stars": 17184,
+      "language": "JavaScript",
+      "created": "2026-09-24",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "free-model",
+        "llm",
+        "model-provider",
+        "openai-compatible"
+      ],
+      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "date": "2026-10-15",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy",
@@ -45246,6 +45760,15 @@
     }
   ],
   "metadata": {
+    "2026-10-15": {
+      "ai_relevant_count": 12,
+      "top_ai_pick": {
+        "name": "jhaizhou-ops/d2r-mobile",
+        "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+        "stars": 2663,
+        "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层"
+      }
+    },
     "2026-10-14": {
       "ai_relevant_count": 10,
       "top_ai_pick": {
@@ -46099,9 +46622,16 @@
   },
   "language_stats": {
     "Python": {
-      "count": 851,
-      "total_stars": 3344409,
+      "count": 858,
+      "total_stars": 3405314,
       "repos": [
+        "Arekejoker/qwen21-nsfw-pose-skill",
+        "zhuyansen/new-term-radar",
+        "jwuthri-cloud/Tracely-ai",
+        "chenwei810/Semiconductor_Manufacturing_Introduction",
+        "n1tr00-10/tiktok-web-signature",
+        "NandhaKishorM/laya",
+        "browser-use/jev-ultrafast",
         "onehumanbeing/esp32-iphone-agent",
         "wesbos/photo-frame-dashboard",
         "Arekejoker/qwen21-nsfw-pose-skill",
@@ -46956,9 +47486,16 @@
       ]
     },
     "TypeScript": {
-      "count": 536,
-      "total_stars": 7079996,
+      "count": 543,
+      "total_stars": 7085778,
       "repos": [
+        "shaongitbd/doory",
+        "rociiu/talorys",
+        "deeplethe/solid-glass",
+        "YeonwooSung/my-claude-code-mods",
+        "CoolkHz/gptibo",
+        "outcrawlai/scout",
+        "chenglou/handwired",
         "shaongitbd/doory",
         "rociiu/talorys",
         "HelixDB/helix-foundry",
@@ -47498,9 +48035,12 @@
       ]
     },
     "JavaScript": {
-      "count": 341,
-      "total_stars": 1014136,
+      "count": 344,
+      "total_stars": 1033128,
       "repos": [
+        "marclou/mailcheap",
+        "HeyPuter/everything",
+        "Ebony-Vinyl/dsh-our-free-model",
         "wheresryan22/anatomy",
         "T-Auto/dsh-ops",
         "marclou/mailcheap",
@@ -48091,9 +48631,14 @@
       ]
     },
     "Rust": {
-      "count": 194,
-      "total_stars": 1466651,
+      "count": 199,
+      "total_stars": 1536067,
       "repos": [
+        "storytold/craft-launcher",
+        "liseami/CCBaga",
+        "storytold/figcraft",
+        "opengeos/RustGIS",
+        "storytold/photocraft",
         "storytold/craft-launcher",
         "liseami/CCBaga",
         "noahdunnagan/fsearch",
@@ -48291,9 +48836,10 @@
       ]
     },
     "HTML": {
-      "count": 132,
-      "total_stars": 538105,
+      "count": 133,
+      "total_stars": 538138,
       "repos": [
+        "ctresb/leis",
         "keyu-tian-sabotage/keyu-tian-sabotage.github.io",
         "liliy886/workbuddy-google-account",
         "Blacktramagnify/rvc",
@@ -48533,9 +49079,10 @@
       ]
     },
     "Go": {
-      "count": 67,
-      "total_stars": 56217,
+      "count": 68,
+      "total_stars": 56284,
       "repos": [
+        "Binaryify/MonitorBar",
         "mhtsec/ARTEX",
         "trhhubsd/ARTEXX",
         "tpscloud/gophers",
@@ -48606,9 +49153,13 @@
       ]
     },
     "C": {
-      "count": 63,
-      "total_stars": 296701,
+      "count": 67,
+      "total_stars": 302426,
       "repos": [
+        "jhaizhou-ops/d2r-mobile",
+        "onehumanbeing/esp32-iphone-agent",
+        "h0m3us3r/w1700k-sdr",
+        "antirez/c64-hw-simulator",
         "jhaizhou-ops/d2r-mobile",
         "facebookincubator/muse-gadget-sdk",
         "facebookincubator/muse-gadget-sdk",
@@ -48675,9 +49226,11 @@
       ]
     },
     "C++": {
-      "count": 60,
-      "total_stars": 206201,
+      "count": 62,
+      "total_stars": 231334,
       "repos": [
+        "Supermedo/uncharted_pc",
+        "Niko1221/Strata",
         "NVIDIA-Omniverse/usd-brep",
         "MyLuxy/overdrive",
         "Niko1221/Strata",
@@ -49119,6 +49672,11 @@
     }
   },
   "date_stats": {
+    "2026-10-15": {
+      "count": 30,
+      "total_stars": 186053,
+      "ai_count": 0
+    },
     "2026-10-14": {
       "count": 30,
       "total_stars": 196644,
@@ -50217,6 +50775,26 @@
       "is_ai_dev": false
     },
     {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "stars": 62090,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "rust"
+      ],
+      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "date": "2026-10-15",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "stars": 61652,
@@ -50413,6 +50991,32 @@
       "is_ai_dev": false
     },
     {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "stars": 32985,
+      "language": "Python",
+      "created": "2026-09-18",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "date": "2026-10-15",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "eternity4719/HowToLiveBetter",
       "url": "https://github.com/eternity4719/HowToLiveBetter",
       "stars": 32916,
@@ -50421,58 +51025,6 @@
       "topics": [],
       "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
       "date": "2026-10-01",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "NandhaKishorM/laya",
-      "url": "https://github.com/NandhaKishorM/laya",
-      "stars": 32840,
-      "language": "Python",
-      "created": "2026-09-18",
-      "topics": [
-        "calibration",
-        "classification",
-        "decision-model",
-        "huggingface",
-        "jev",
-        "modernbert",
-        "multilingual",
-        "nlp",
-        "python",
-        "pytorch",
-        "routing",
-        "typed-decisions",
-        "zero-shot"
-      ],
-      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "date": "2026-10-14",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "NandhaKishorM/laya",
-      "url": "https://github.com/NandhaKishorM/laya",
-      "stars": 32685,
-      "language": "Python",
-      "created": "2026-09-18",
-      "topics": [
-        "calibration",
-        "classification",
-        "decision-model",
-        "huggingface",
-        "jev",
-        "modernbert",
-        "multilingual",
-        "nlp",
-        "python",
-        "pytorch",
-        "routing",
-        "typed-decisions",
-        "zero-shot"
-      ],
-      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "date": "2026-10-13",
       "section": "monthly",
       "is_ai_dev": false
     }
