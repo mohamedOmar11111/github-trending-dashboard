@@ -1,9 +1,587 @@
 {
-  "last_updated": "2026-10-17T09:47:48.338233",
-  "total_repos": 2893,
-  "total_dates": 98,
+  "last_updated": "2026-10-18T09:59:35.479499",
+  "total_repos": 2923,
+  "total_dates": 99,
   "total_unique_languages": 36,
   "repos": [
+    {
+      "name": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "stars": 3762,
+      "language": "C",
+      "created": "2026-10-12",
+      "topics": [
+        "compatibility-layer",
+        "diablo-2-resurrected",
+        "diablo2",
+        "game-port",
+        "ios",
+        "ipad",
+        "iphone",
+        "mac",
+        "macos",
+        "metal",
+        "reign-of-the-warlock"
+      ],
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "stars": 2686,
+      "language": "Python",
+      "created": "2026-10-13",
+      "topics": [
+        "agent-skill",
+        "comfyui",
+        "image-generation",
+        "openclaw",
+        "pose-control",
+        "qwen-image"
+      ],
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "stars": 2111,
+      "language": "JavaScript",
+      "created": "2026-10-13",
+      "topics": [
+        "adobe",
+        "cad",
+        "office",
+        "photoshop",
+        "saas",
+        "spreadsheet"
+      ],
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deeplethe/solid-glass",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "stars": 1946,
+      "language": "TypeScript",
+      "created": "2026-10-12",
+      "topics": [
+        "agent-ui",
+        "ai",
+        "ai-agents",
+        "chat-ui",
+        "design-system",
+        "llm",
+        "react",
+        "shadcn",
+        "shadcn-ui",
+        "tailwindcss",
+        "theme"
+      ],
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ahwootech/BRUTAL",
+      "url": "https://github.com/ahwootech/BRUTAL",
+      "stars": 1831,
+      "language": "C#",
+      "created": "2026-10-14",
+      "topics": [
+        "csharp",
+        "dotnet",
+        "game-engine",
+        "gamedev",
+        "vulkan"
+      ],
+      "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "chenglou/handwired",
+      "url": "https://github.com/chenglou/handwired",
+      "stars": 1695,
+      "language": "TypeScript",
+      "created": "2026-10-15",
+      "topics": [],
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Supermedo/uncharted_pc",
+      "url": "https://github.com/Supermedo/uncharted_pc",
+      "stars": 1337,
+      "language": "C++",
+      "created": "2026-10-15",
+      "topics": [],
+      "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Caho1/open-claude-ui",
+      "url": "https://github.com/Caho1/open-claude-ui",
+      "stars": 1168,
+      "language": "TypeScript",
+      "created": "2026-10-14",
+      "topics": [
+        "anthropic",
+        "audioworklet",
+        "claude",
+        "design-system",
+        "framer-motion",
+        "motion-physics",
+        "react",
+        "reverse-engineering",
+        "tailwindcss",
+        "ui-components"
+      ],
+      "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "feder-cr/git-ai",
+      "url": "https://github.com/feder-cr/git-ai",
+      "stars": 1159,
+      "language": "Go",
+      "created": "2026-10-15",
+      "topics": [
+        "ai-agents",
+        "coding-agents",
+        "git",
+        "golang",
+        "scion",
+        "version-control"
+      ],
+      "description": "Git designed for AI agents.",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "zhuyansen/new-term-radar",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "stars": 1094,
+      "language": "Python",
+      "created": "2026-10-12",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "aisa",
+        "claude-code",
+        "claude-skills",
+        "google-trends",
+        "keyword-research",
+        "mcp",
+        "mcp-server",
+        "seo",
+        "trends"
+      ],
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "AjncSystem/ShadowOfTheColossus-PC",
+      "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
+      "stars": 1017,
+      "language": "C++",
+      "created": "2026-10-12",
+      "topics": [],
+      "description": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "outcrawlai/scout",
+      "url": "https://github.com/outcrawlai/scout",
+      "stars": 945,
+      "language": "TypeScript",
+      "created": "2026-10-13",
+      "topics": [
+        "ai-agent",
+        "browser-agent",
+        "browser-automation",
+        "cdp",
+        "llm",
+        "typescript",
+        "web-automation"
+      ],
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "rohit267/net-merge",
+      "url": "https://github.com/rohit267/net-merge",
+      "stars": 924,
+      "language": "Go",
+      "created": "2026-10-12",
+      "topics": [
+        "bandwidth-aggregation",
+        "downloader",
+        "golang",
+        "linux",
+        "load-balancing",
+        "macos",
+        "networking",
+        "tethering",
+        "tun",
+        "wifi",
+        "windows",
+        "wintun"
+      ],
+      "description": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "CoolkHz/gptibo",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "stars": 824,
+      "language": "TypeScript",
+      "created": "2026-10-13",
+      "topics": [],
+      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xscreensaver-official/xscreensaver",
+      "url": "https://github.com/xscreensaver-official/xscreensaver",
+      "stars": 786,
+      "language": "Unknown",
+      "created": "2026-10-16",
+      "topics": [],
+      "description": "There is no official XScreenSaver GitHub repository.",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Leonxlnx/earshot",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "stars": 717,
+      "language": "Python",
+      "created": "2026-10-15",
+      "topics": [
+        "ai-agents",
+        "audio",
+        "claude-code",
+        "mcp",
+        "sound-design"
+      ],
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "LiCinCan/blender-ai-mcp-addon",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "stars": 704,
+      "language": "Python",
+      "created": "2026-10-15",
+      "topics": [
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai",
+        "blender-automation",
+        "blender-extension",
+        "blender-mcp",
+        "blender-plugin",
+        "blender-python",
+        "blender-scripting",
+        "bpy",
+        "chatgpt",
+        "gpt",
+        "llm",
+        "mcp",
+        "mcp-for-blender",
+        "mcp-server",
+        "model-context-protocol",
+        "opencode",
+        "python"
+      ],
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MyLuxy/overdrive",
+      "url": "https://github.com/MyLuxy/overdrive",
+      "stars": 700,
+      "language": "C++",
+      "created": "2026-10-14",
+      "topics": [
+        "exfat",
+        "game-store",
+        "homebrew",
+        "jailbreak",
+        "ps5",
+        "ps5-homebrew",
+        "reverse-engineering",
+        "shadowmountplus"
+      ],
+      "description": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Zfinix/eleven",
+      "url": "https://github.com/Zfinix/eleven",
+      "stars": 698,
+      "language": "TypeScript",
+      "created": "2026-10-13",
+      "topics": [
+        "acp",
+        "ai-agents",
+        "android",
+        "decompiler",
+        "disassembler",
+        "ghidra",
+        "hopper",
+        "macos",
+        "rea",
+        "reverse-engineering"
+      ],
+      "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "threerocks/sweety-handdraw-video",
+      "url": "https://github.com/threerocks/sweety-handdraw-video",
+      "stars": 674,
+      "language": "JavaScript",
+      "created": "2026-10-12",
+      "topics": [],
+      "description": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
+      "date": "2026-10-18",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "SNO2207/WindowSmash",
+      "url": "https://github.com/SNO2207/WindowSmash",
+      "stars": 34,
+      "language": "C",
+      "created": "2026-10-18",
+      "topics": [
+        "aarch64",
+        "direct3d11",
+        "native-port",
+        "static-recompilation",
+        "windows"
+      ],
+      "description": "Experimental Windows x64 native porting toolkit for Super Smash Bros. Ultimate: static AArch64 recompilation, a D3D11 runtime, and Local Wireless relay netplay.",
+      "date": "2026-10-18",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "realskyrin/ns-game-apple-arm-port",
+      "url": "https://github.com/realskyrin/ns-game-apple-arm-port",
+      "stars": 25,
+      "language": "Unknown",
+      "created": "2026-10-18",
+      "topics": [],
+      "description": "Agent skill for native Nintendo Switch game porting to Apple Silicon macOS, iPadOS and iOS with Rust and Metal",
+      "date": "2026-10-18",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "shaonialife/cardeck",
+      "url": "https://github.com/shaonialife/cardeck",
+      "stars": 24,
+      "language": "Kotlin",
+      "created": "2026-10-18",
+      "topics": [
+        "airplay",
+        "android",
+        "carplay",
+        "head-unit",
+        "iap2",
+        "kotlin",
+        "shizuku",
+        "virtual-display"
+      ],
+      "description": "CarDeck — 让 Android 手机扮演 CarPlay 发送端（非官方实验性项目）",
+      "date": "2026-10-18",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "repoboost-hq/github-star-benchmarks",
+      "url": "https://github.com/repoboost-hq/github-star-benchmarks",
+      "stars": 17,
+      "language": "Python",
+      "created": "2026-10-18",
+      "topics": [
+        "ai",
+        "ai-research",
+        "benchmarks",
+        "csv",
+        "dataset",
+        "empirical-software-engineering",
+        "fake-stars",
+        "github",
+        "github-api",
+        "github-stars",
+        "github-statistics",
+        "llm-evaluation",
+        "open-data",
+        "popularity-metrics",
+        "python",
+        "repository-analytics",
+        "reproducibility",
+        "research",
+        "scientometrics",
+        "star-history"
+      ],
+      "description": "AI research dataset on GitHub stars: 32.6M starred repositories, star thresholds (100/1k/10k/100k), language and age cohorts, plus star-buying and fake-star research context from ICSE 2026. Open CSVs and reproducible queries for empirical software engineering, scientometrics and LLM evaluation.",
+      "date": "2026-10-18",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "DustinYe/gesture-media-controller",
+      "url": "https://github.com/DustinYe/gesture-media-controller",
+      "stars": 16,
+      "language": "C++",
+      "created": "2026-10-18",
+      "topics": [
+        "arduino",
+        "ble-hid",
+        "embedded-systems",
+        "esp32-s3",
+        "gesture-recognition",
+        "human-computer-interaction"
+      ],
+      "description": "Infrared gesture-based BLE media controller for AtomS3R and PAJ7620U2; C++ firmware, trajectory replay, and documented v24 baseline.",
+      "date": "2026-10-18",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "stars": 66809,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "rust"
+      ],
+      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "date": "2026-10-18",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "stars": 27109,
+      "language": "C++",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "date": "2026-10-18",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "stars": 23343,
+      "language": "JavaScript",
+      "created": "2026-09-24",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "free-model",
+        "llm",
+        "model-provider",
+        "openai-compatible"
+      ],
+      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "date": "2026-10-18",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/pdfcraft",
+      "url": "https://github.com/storytold/pdfcraft",
+      "stars": 15652,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "document-processing",
+        "documents",
+        "pdf",
+        "pdf-generation",
+        "pdf-processing",
+        "pdf-tools",
+        "pdf-viewer",
+        "rust"
+      ],
+      "description": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
+      "date": "2026-10-18",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "stars": 15512,
+      "language": "JavaScript",
+      "created": "2026-10-08",
+      "topics": [
+        "agent-skill",
+        "open-source",
+        "svg",
+        "vizualization"
+      ],
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "date": "2026-10-18",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "jhaizhou-ops/d2r-mobile",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
@@ -46812,6 +47390,15 @@
     }
   ],
   "metadata": {
+    "2026-10-18": {
+      "ai_relevant_count": 12,
+      "top_ai_pick": {
+        "name": "jhaizhou-ops/d2r-mobile",
+        "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+        "stars": 3762,
+        "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层"
+      }
+    },
     "2026-10-17": {
       "ai_relevant_count": 11,
       "top_ai_pick": {
@@ -47692,9 +48279,14 @@
   },
   "language_stats": {
     "Python": {
-      "count": 870,
-      "total_stars": 3482403,
+      "count": 875,
+      "total_stars": 3487621,
       "repos": [
+        "Arekejoker/qwen21-nsfw-pose-skill",
+        "zhuyansen/new-term-radar",
+        "Leonxlnx/earshot",
+        "LiCinCan/blender-ai-mcp-addon",
+        "repoboost-hq/github-star-benchmarks",
         "Arekejoker/qwen21-nsfw-pose-skill",
         "zhuyansen/new-term-radar",
         "chenwei810/Semiconductor_Manufacturing_Introduction",
@@ -48568,9 +49160,15 @@
       ]
     },
     "TypeScript": {
-      "count": 556,
-      "total_stars": 7099503,
+      "count": 562,
+      "total_stars": 7106779,
       "repos": [
+        "deeplethe/solid-glass",
+        "chenglou/handwired",
+        "Caho1/open-claude-ui",
+        "outcrawlai/scout",
+        "CoolkHz/gptibo",
+        "Zfinix/eleven",
         "chenglou/handwired",
         "deeplethe/solid-glass",
         "Caho1/open-claude-ui",
@@ -49130,9 +49728,13 @@
       ]
     },
     "JavaScript": {
-      "count": 352,
-      "total_stars": 1077256,
+      "count": 356,
+      "total_stars": 1118896,
       "repos": [
+        "HeyPuter/everything",
+        "threerocks/sweety-handdraw-video",
+        "Ebony-Vinyl/dsh-our-free-model",
+        "wheresryan22/anatomy",
         "HeyPuter/everything",
         "threerocks/sweety-handdraw-video",
         "speedydivid/TokenForge",
@@ -49488,9 +50090,11 @@
       ]
     },
     "Unknown": {
-      "count": 241,
-      "total_stars": 219519,
+      "count": 243,
+      "total_stars": 220330,
       "repos": [
+        "xscreensaver-official/xscreensaver",
+        "realskyrin/ns-game-apple-arm-port",
         "kerrdec97/PS5-Backport-GUI",
         "joeseesun/qiaomu-cover-fonts",
         "updatesanninconduit/WUWA-Menu-Undetected",
@@ -49735,9 +50339,11 @@
       ]
     },
     "Rust": {
-      "count": 205,
-      "total_stars": 1686926,
+      "count": 207,
+      "total_stars": 1769387,
       "repos": [
+        "storytold/photocraft",
+        "storytold/pdfcraft",
         "liseami/CCBaga",
         "storytold/photocraft",
         "storytold/pdfcraft",
@@ -50191,9 +50797,11 @@
       ]
     },
     "C": {
-      "count": 73,
-      "total_stars": 316843,
+      "count": 75,
+      "total_stars": 320639,
       "repos": [
+        "jhaizhou-ops/d2r-mobile",
+        "SNO2207/WindowSmash",
         "jhaizhou-ops/d2r-mobile",
         "onehumanbeing/esp32-iphone-agent",
         "h0m3us3r/w1700k-sdr",
@@ -50270,9 +50878,11 @@
       ]
     },
     "Go": {
-      "count": 71,
-      "total_stars": 58427,
+      "count": 73,
+      "total_stars": 60510,
       "repos": [
+        "feder-cr/git-ai",
+        "rohit267/net-merge",
         "feder-cr/git-ai",
         "mu-zi-lee/Tangentry",
         "feder-cr/open_scion",
@@ -50347,9 +50957,14 @@
       ]
     },
     "C++": {
-      "count": 67,
-      "total_stars": 286573,
+      "count": 72,
+      "total_stars": 316752,
       "repos": [
+        "Supermedo/uncharted_pc",
+        "AjncSystem/ShadowOfTheColossus-PC",
+        "MyLuxy/overdrive",
+        "DustinYe/gesture-media-controller",
+        "Niko1221/Strata",
         "Supermedo/uncharted_pc",
         "AjncSystem/ShadowOfTheColossus-PC",
         "Niko1221/Strata",
@@ -50500,9 +51115,10 @@
       ]
     },
     "C#": {
-      "count": 18,
-      "total_stars": 11077,
+      "count": 19,
+      "total_stars": 12908,
       "repos": [
+        "ahwootech/BRUTAL",
         "ahwootech/BRUTAL",
         "ahwootech/BRUTAL",
         "CAPCOM-TD-OSS/REDox",
@@ -50524,9 +51140,10 @@
       ]
     },
     "Kotlin": {
-      "count": 15,
-      "total_stars": 38399,
+      "count": 16,
+      "total_stars": 38423,
       "repos": [
+        "shaonialife/cardeck",
         "YXBwbWFya2V0/AppMarket",
         "shihabal3amri/DiPlay",
         "shihabal3amri/DiPlay",
@@ -50802,6 +51419,11 @@
     }
   },
   "date_stats": {
+    "2026-10-18": {
+      "count": 30,
+      "total_stars": 175319,
+      "ai_count": 0
+    },
     "2026-10-17": {
       "count": 30,
       "total_stars": 190156,
@@ -51892,6 +52514,26 @@
       "is_ai_dev": false
     },
     {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "stars": 66809,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "rust"
+      ],
+      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "date": "2026-10-18",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "stars": 66078,
@@ -52155,18 +52797,6 @@
       "topics": [],
       "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
       "date": "2026-10-03",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "eternity4719/HowToLiveBetter",
-      "url": "https://github.com/eternity4719/HowToLiveBetter",
-      "stars": 34454,
-      "language": "HTML",
-      "created": "2026-09-07",
-      "topics": [],
-      "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
-      "date": "2026-10-02",
       "section": "monthly",
       "is_ai_dev": false
     }
