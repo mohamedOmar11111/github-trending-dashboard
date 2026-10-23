@@ -1,9 +1,526 @@
 {
-  "last_updated": "2026-10-22T10:44:19.483720",
-  "total_repos": 3042,
-  "total_dates": 103,
+  "last_updated": "2026-10-23T10:36:09.232137",
+  "total_repos": 3071,
+  "total_dates": 104,
   "total_unique_languages": 37,
   "repos": [
+    {
+      "name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "stars": 26078,
+      "language": "Java",
+      "created": "2026-10-17",
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal",
+        "claude-code",
+        "debloat",
+        "fire-tv",
+        "google-tv",
+        "launcher",
+        "privacy",
+        "smart-tv",
+        "sony-bravia",
+        "tcl",
+        "vibe-coding",
+        "xiaomi"
+      ],
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "stars": 4705,
+      "language": "C",
+      "created": "2026-10-17",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "stars": 3656,
+      "language": "Java",
+      "created": "2026-10-19",
+      "topics": [
+        "android-tv",
+        "claude-code",
+        "google-tv",
+        "home-screen",
+        "launcher",
+        "no-ads",
+        "open-source",
+        "tmdb"
+      ],
+      "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "stars": 3563,
+      "language": "Kotlin",
+      "created": "2026-10-20",
+      "topics": [],
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "stars": 2583,
+      "language": "Python",
+      "created": "2026-10-18",
+      "topics": [
+        "chinese",
+        "curriculum",
+        "diagnostic",
+        "edtech",
+        "education",
+        "elementary-school",
+        "english",
+        "high-school",
+        "junior-high-school",
+        "k12",
+        "knowledge-graph",
+        "math",
+        "mathematics",
+        "middle-school",
+        "open-data",
+        "primary-school"
+      ],
+      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tek-sys-hub/Rubix-lang",
+      "url": "https://github.com/tek-sys-hub/Rubix-lang",
+      "stars": 1915,
+      "language": "Assembly",
+      "created": "2026-10-19",
+      "topics": [
+        "assembler",
+        "assembly",
+        "assembly-lang",
+        "assembly-language",
+        "assembly-language-programming",
+        "assembly-x86-64",
+        "native-compiler",
+        "programming",
+        "programming-language",
+        "programming-languages",
+        "self-hosted"
+      ],
+      "description": "The 100% Pure x86-64 Assembly Systems Language",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ikow/php2shell-poc",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "stars": 1620,
+      "language": "Python",
+      "created": "2026-10-21",
+      "topics": [
+        "cve-2026-109618",
+        "cve-2026-109619",
+        "detection-rules",
+        "exploit",
+        "php-exploit",
+        "php-security",
+        "php2shell",
+        "poc",
+        "rce",
+        "session-upload-progress",
+        "suricata-rules",
+        "vulnerability-research",
+        "waf-rules",
+        "wordpress-security"
+      ],
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JoasASantos/REA-Prompts",
+      "url": "https://github.com/JoasASantos/REA-Prompts",
+      "stars": 1553,
+      "language": "Unknown",
+      "created": "2026-10-19",
+      "topics": [
+        "prompt-engineering",
+        "rea",
+        "reverse-enginnering"
+      ],
+      "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "aicodeking/leanrea",
+      "url": "https://github.com/aicodeking/leanrea",
+      "stars": 1506,
+      "language": "Python",
+      "created": "2026-10-17",
+      "topics": [],
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alchaincyf/huashu-motion",
+      "url": "https://github.com/alchaincyf/huashu-motion",
+      "stars": 1497,
+      "language": "JavaScript",
+      "created": "2026-10-18",
+      "topics": [
+        "agent-skills",
+        "animation",
+        "claude-code",
+        "codex",
+        "gsap",
+        "launch-video",
+        "motion-graphics",
+        "skills"
+      ],
+      "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Ansub/tv-detox",
+      "url": "https://github.com/Ansub/tv-detox",
+      "stars": 1329,
+      "language": "Java",
+      "created": "2026-10-18",
+      "topics": [],
+      "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "humblemuzzu/dumbtv",
+      "url": "https://github.com/humblemuzzu/dumbtv",
+      "stars": 1322,
+      "language": "Java",
+      "created": "2026-10-18",
+      "topics": [
+        "ad-blocking",
+        "adb",
+        "android-tv",
+        "debloat",
+        "dns-filter",
+        "fire-os",
+        "fire-tv",
+        "firetv",
+        "launcher",
+        "privacy",
+        "smart-tv",
+        "telemetry"
+      ],
+      "description": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "EthanArbuckle/fairplay-decrypt",
+      "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+      "stars": 1075,
+      "language": "C",
+      "created": "2026-10-19",
+      "topics": [],
+      "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "9bie/php2shell-bypass-aslr-exp",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "stars": 1026,
+      "language": "Python",
+      "created": "2026-10-21",
+      "topics": [],
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "stars": 926,
+      "language": "Shell",
+      "created": "2026-10-21",
+      "topics": [],
+      "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eagle-hq/EAGLE-4",
+      "url": "https://github.com/eagle-hq/EAGLE-4",
+      "stars": 909,
+      "language": "Python",
+      "created": "2026-10-20",
+      "topics": [
+        "eagle",
+        "gpu",
+        "llm-inference",
+        "sglang",
+        "speculative-decoding",
+        "tokenspeed",
+        "vllm"
+      ],
+      "description": "Official Inference Code of EAGLE-4",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ELY-Open-Source/ElyOffice",
+      "url": "https://github.com/ELY-Open-Source/ElyOffice",
+      "stars": 907,
+      "language": "Rust",
+      "created": "2026-10-19",
+      "topics": [],
+      "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "openai/php2shell-checker",
+      "url": "https://github.com/openai/php2shell-checker",
+      "stars": 874,
+      "language": "JavaScript",
+      "created": "2026-10-21",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "colinhacks/reylo",
+      "url": "https://github.com/colinhacks/reylo",
+      "stars": 858,
+      "language": "Rust",
+      "created": "2026-10-21",
+      "topics": [],
+      "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "UniXNU/UniXNU",
+      "url": "https://github.com/UniXNU/UniXNU",
+      "stars": 824,
+      "language": "Python",
+      "created": "2026-10-19",
+      "topics": [
+        "unixnu"
+      ],
+      "description": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
+      "date": "2026-10-23",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "df-tools-bn/.github",
+      "url": "https://github.com/df-tools-bn/.github",
+      "stars": 173,
+      "language": "HTML",
+      "created": "2026-10-23",
+      "topics": [
+        "defi-arbitrage-strategy",
+        "defi-bot",
+        "defi-bot-2026",
+        "defi-bot-download",
+        "defi-passive-income",
+        "defi-profit",
+        "defi-sniper",
+        "defi-sniper-bot",
+        "dex-arbitrage-bot",
+        "free-defi-bot",
+        "pancakeswap-arbitrage"
+      ],
+      "description": "🔥 defi-arbitrage-trading-bot 🔥",
+      "date": "2026-10-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dex-tool-best/.github",
+      "url": "https://github.com/dex-tool-best/.github",
+      "stars": 173,
+      "language": "HTML",
+      "created": "2026-10-23",
+      "topics": [
+        "base-copy-trading",
+        "copy-trading-2026",
+        "copy-trading-download",
+        "crypto-copy-trading-bot",
+        "defi-copy-bot",
+        "dex-copy-trading",
+        "dex-copy-trading-bot",
+        "dexscreener-wallets",
+        "profitable-wallet-tracker",
+        "smart-money-bot",
+        "smart-money-tracker",
+        "wallet-copy-bot",
+        "wallet-tracker-bot"
+      ],
+      "description": "🔥 dex-copy-trading-bot 🔥",
+      "date": "2026-10-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dex-tools-new/.github",
+      "url": "https://github.com/dex-tools-new/.github",
+      "stars": 173,
+      "language": "HTML",
+      "created": "2026-10-23",
+      "topics": [
+        "anti-rug-sniper",
+        "defi-sniper-bot",
+        "dex-sniper-2026",
+        "dex-sniper-download",
+        "dex-sniper-free",
+        "free-dex-sniper",
+        "honeypot-checker",
+        "memecoin-sniper-bot",
+        "new-token-sniper",
+        "wallet-tracker-bot"
+      ],
+      "description": "dex sniper bot",
+      "date": "2026-10-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mw-tools-123/.github",
+      "url": "https://github.com/mw-tools-123/.github",
+      "stars": 91,
+      "language": "HTML",
+      "created": "2026-10-23",
+      "topics": [],
+      "description": "modern-warfare-mw-4-cheats-mod-menu-aim-esp",
+      "date": "2026-10-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "WizardPulseas/BloodStrike-region-limit-resocket",
+      "url": "https://github.com/WizardPulseas/BloodStrike-region-limit-resocket",
+      "stars": 29,
+      "language": "Unknown",
+      "created": "2026-10-23",
+      "topics": [
+        "bloodstrike",
+        "game-patch",
+        "game-tool",
+        "steam",
+        "windows"
+      ],
+      "description": "用于PC端BloodStrike血战突袭地区限制的绕检测补丁工具",
+      "date": "2026-10-23",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "stars": 71615,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "rust"
+      ],
+      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "date": "2026-10-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "stars": 38091,
+      "language": "JavaScript",
+      "created": "2026-09-24",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "free-model",
+        "llm",
+        "model-provider",
+        "openai-compatible"
+      ],
+      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "date": "2026-10-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "stars": 30872,
+      "language": "C++",
+      "created": "2026-09-24",
+      "topics": [],
+      "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "date": "2026-10-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "stars": 20531,
+      "language": "Python",
+      "created": "2026-10-16",
+      "topics": [],
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "date": "2026-10-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
@@ -49498,6 +50015,15 @@
     }
   ],
   "metadata": {
+    "2026-10-23": {
+      "ai_relevant_count": 9,
+      "top_ai_pick": {
+        "name": "Gathin23/cleanyourtv",
+        "url": "https://github.com/Gathin23/cleanyourtv",
+        "stars": 26078,
+        "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
+      }
+    },
     "2026-10-22": {
       "ai_relevant_count": 11,
       "top_ai_pick": {
@@ -50423,9 +50949,16 @@
   },
   "language_stats": {
     "Python": {
-      "count": 908,
-      "total_stars": 3558883,
+      "count": 915,
+      "total_stars": 3587882,
       "repos": [
+        "xiaoyang111222/cn-math-taxonomy",
+        "ikow/php2shell-poc",
+        "aicodeking/leanrea",
+        "9bie/php2shell-bypass-aslr-exp",
+        "eagle-hq/EAGLE-4",
+        "UniXNU/UniXNU",
+        "deepseek-ai/DeepInfer",
         "deepseek-ai/DeepInfer",
         "xiaoyang111222/cn-math-taxonomy",
         "OpenMOSS/MOSS-Image",
@@ -51913,9 +52446,12 @@
       ]
     },
     "JavaScript": {
-      "count": 373,
-      "total_stars": 1304691,
+      "count": 376,
+      "total_stars": 1345153,
       "repos": [
+        "alchaincyf/huashu-motion",
+        "openai/php2shell-checker",
+        "Ebony-Vinyl/dsh-our-free-model",
         "alchaincyf/huashu-motion",
         "humblemuzzu/dumbtv",
         "Ebony-Vinyl/dsh-our-free-model",
@@ -52292,9 +52828,11 @@
       ]
     },
     "Unknown": {
-      "count": 251,
-      "total_stars": 227321,
+      "count": 253,
+      "total_stars": 228903,
       "repos": [
+        "JoasASantos/REA-Prompts",
+        "WizardPulseas/BloodStrike-region-limit-resocket",
         "JoasASantos/REA-Prompts",
         "xscreensaver-official/xscreensaver",
         "JoasASantos/REA-Prompts",
@@ -52549,9 +53087,12 @@
       ]
     },
     "Rust": {
-      "count": 215,
-      "total_stars": 2050155,
+      "count": 218,
+      "total_stars": 2123535,
       "repos": [
+        "ELY-Open-Source/ElyOffice",
+        "colinhacks/reylo",
+        "storytold/photocraft",
         "reason-machines/reason-network",
         "ELY-Open-Source/ElyOffice",
         "storytold/photocraft",
@@ -52770,9 +53311,13 @@
       ]
     },
     "HTML": {
-      "count": 140,
-      "total_stars": 540013,
+      "count": 144,
+      "total_stars": 540623,
       "repos": [
+        "df-tools-bn/.github",
+        "dex-tool-best/.github",
+        "dex-tools-new/.github",
+        "mw-tools-123/.github",
         "Noniv/web-ocean",
         "helloianneo/ian-xhs-carousel",
         "Noniv/web-ocean",
@@ -53021,9 +53566,11 @@
       ]
     },
     "C": {
-      "count": 82,
-      "total_stars": 332089,
+      "count": 84,
+      "total_stars": 337869,
       "repos": [
+        "ly05010419/MacNativeGames",
+        "EthanArbuckle/fairplay-decrypt",
         "ly05010419/MacNativeGames",
         "oosexgang/hackios-xnu-kernel",
         "oosexgang/hackios-xnu-userland",
@@ -53109,9 +53656,10 @@
       ]
     },
     "C++": {
-      "count": 82,
-      "total_stars": 439833,
+      "count": 83,
+      "total_stars": 470705,
       "repos": [
+        "Niko1221/Strata",
         "Niko1221/Strata",
         "Supermedo/uncharted_pc",
         "Niko1221/Strata",
@@ -53283,9 +53831,10 @@
       ]
     },
     "Shell": {
-      "count": 47,
-      "total_stars": 31784,
+      "count": 48,
+      "total_stars": 32710,
       "repos": [
+        "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
         "t4t5/omdrop-owl",
         "t4t5/omdrop-owl",
         "t4t5/omdrop-owl",
@@ -53389,10 +53938,37 @@
         "openai/ten-proofs"
       ]
     },
-    "Kotlin": {
-      "count": 18,
-      "total_stars": 42787,
+    "Java": {
+      "count": 20,
+      "total_stars": 91917,
       "repos": [
+        "Gathin23/cleanyourtv",
+        "simbasjungles/free-my-tv",
+        "Ansub/tv-detox",
+        "humblemuzzu/dumbtv",
+        "Gathin23/cleanyourtv",
+        "simbasjungles/free-my-tv",
+        "Ansub/tv-detox",
+        "Gathin23/cleanyourtv",
+        "simbasjungles/free-my-tv",
+        "Ansub/tv-detox",
+        "Gathin23/cleanyourtv",
+        "simbasjungles/free-my-tv",
+        "Gathin23/cleanyourtv",
+        "blendi-remade/agentcraft",
+        "blendi-remade/agentcraft",
+        "kalai2005bse-del/Smart-Bus",
+        "haishishushu/auth-center",
+        "ZSvirt/zsvirt",
+        "ZSvirt/zsvirt",
+        "SmellyToes67/Calculate-Minecraft-Coordinates-From-Bedrock-Formation-"
+      ]
+    },
+    "Kotlin": {
+      "count": 19,
+      "total_stars": 46350,
+      "repos": [
+        "pengchujin/aerial-tv",
         "pengchujin/aerial-tv",
         "pengchujin/aerial-tv",
         "shaonialife/cardeck",
@@ -53411,28 +53987,6 @@
         "Chuloo/mural",
         "Supersonic/TLPE",
         "sam1am/localdex"
-      ]
-    },
-    "Java": {
-      "count": 16,
-      "total_stars": 59532,
-      "repos": [
-        "Gathin23/cleanyourtv",
-        "simbasjungles/free-my-tv",
-        "Ansub/tv-detox",
-        "Gathin23/cleanyourtv",
-        "simbasjungles/free-my-tv",
-        "Ansub/tv-detox",
-        "Gathin23/cleanyourtv",
-        "simbasjungles/free-my-tv",
-        "Gathin23/cleanyourtv",
-        "blendi-remade/agentcraft",
-        "blendi-remade/agentcraft",
-        "kalai2005bse-del/Smart-Bus",
-        "haishishushu/auth-center",
-        "ZSvirt/zsvirt",
-        "ZSvirt/zsvirt",
-        "SmellyToes67/Calculate-Minecraft-Coordinates-From-Bedrock-Formation-"
       ]
     },
     "CSS": {
@@ -53649,6 +54203,14 @@
         "canonicalise/up"
       ]
     },
+    "Assembly": {
+      "count": 2,
+      "total_stars": 3812,
+      "repos": [
+        "tek-sys-hub/Rubix-lang",
+        "tek-sys-hub/Rubix-lang"
+      ]
+    },
     "QML": {
       "count": 2,
       "total_stars": 486,
@@ -53663,13 +54225,6 @@
       "repos": [
         "DramaticShape/DramaticShapeVoxelMod",
         "DramaticShape/DramaticShapeVoxelMod"
-      ]
-    },
-    "Assembly": {
-      "count": 1,
-      "total_stars": 1897,
-      "repos": [
-        "tek-sys-hub/Rubix-lang"
       ]
     },
     "Makefile": {
@@ -53688,6 +54243,11 @@
     }
   },
   "date_stats": {
+    "2026-10-23": {
+      "count": 29,
+      "total_stars": 220474,
+      "ai_count": 0
+    },
     "2026-10-22": {
       "count": 29,
       "total_stars": 226199,
@@ -54757,6 +55317,26 @@
       "is_ai_dev": false
     },
     {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "stars": 71615,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "rust"
+      ],
+      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "date": "2026-10-23",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "stars": 71455,
@@ -55080,31 +55660,6 @@
       "topics": [],
       "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
       "date": "2026-10-06",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "storytold/photocraft",
-      "url": "https://github.com/storytold/photocraft",
-      "stars": 44549,
-      "language": "Rust",
-      "created": "2026-09-30",
-      "topics": [
-        "adobe",
-        "adobe-photoshop-2026",
-        "adobe-photoshop-2026-ai",
-        "art",
-        "image-editing",
-        "image-editing-software",
-        "image-editor",
-        "images",
-        "photo-editing",
-        "photoshop",
-        "psd",
-        "rust"
-      ],
-      "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
-      "date": "2026-10-11",
       "section": "monthly",
       "is_ai_dev": false
     }
