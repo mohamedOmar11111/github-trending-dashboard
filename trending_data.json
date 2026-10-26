@@ -1,9 +1,535 @@
 {
-  "last_updated": "2026-10-25T10:15:26.599712",
-  "total_repos": 3101,
-  "total_dates": 105,
+  "last_updated": "2026-10-26T11:40:21.402666",
+  "total_repos": 3131,
+  "total_dates": 106,
   "total_unique_languages": 37,
   "repos": [
+    {
+      "name": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "stars": 5765,
+      "language": "Kotlin",
+      "created": "2026-10-20",
+      "topics": [],
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "stars": 3472,
+      "language": "C",
+      "created": "2026-10-23",
+      "topics": [],
+      "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wesbos/3d-model-anything",
+      "url": "https://github.com/wesbos/3d-model-anything",
+      "stars": 2014,
+      "language": "Swift",
+      "created": "2026-10-21",
+      "topics": [],
+      "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xevrion/hatchzip",
+      "url": "https://github.com/xevrion/hatchzip",
+      "stars": 2001,
+      "language": "Rust",
+      "created": "2026-10-21",
+      "topics": [
+        "7z",
+        "7zip",
+        "archive",
+        "archive-extractor",
+        "cli",
+        "crash-safe",
+        "disk-space",
+        "extract",
+        "extractor",
+        "gui",
+        "in-place",
+        "linux",
+        "macos",
+        "rar",
+        "rust",
+        "tar",
+        "unrar",
+        "unzip",
+        "windows",
+        "zip"
+      ],
+      "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Jakeschincariol/day-trader-skill",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "stars": 1854,
+      "language": "Python",
+      "created": "2026-10-20",
+      "topics": [
+        "backtesting",
+        "claude",
+        "claude-skills",
+        "day-trading",
+        "stock-market"
+      ],
+      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ikow/php2shell-poc",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "stars": 1819,
+      "language": "Python",
+      "created": "2026-10-21",
+      "topics": [
+        "cve-2026-109618",
+        "cve-2026-109619",
+        "detection-rules",
+        "exploit",
+        "php-exploit",
+        "php-security",
+        "php2shell",
+        "poc",
+        "rce",
+        "session-upload-progress",
+        "suricata-rules",
+        "vulnerability-research",
+        "waf-rules",
+        "wordpress-security"
+      ],
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "oosexgang/hackios-xnu-kernel",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "stars": 1553,
+      "language": "C",
+      "created": "2026-10-22",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "9bie/php2shell-bypass-aslr-exp",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "stars": 1463,
+      "language": "Python",
+      "created": "2026-10-21",
+      "topics": [],
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "stars": 1447,
+      "language": "Python",
+      "created": "2026-10-24",
+      "topics": [
+        "adb",
+        "ai-agent",
+        "android",
+        "coloros",
+        "debloat",
+        "hyperos",
+        "magicos",
+        "originos"
+      ],
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "openai/php2shell-checker",
+      "url": "https://github.com/openai/php2shell-checker",
+      "stars": 1407,
+      "language": "JavaScript",
+      "created": "2026-10-21",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "colinhacks/reylo",
+      "url": "https://github.com/colinhacks/reylo",
+      "stars": 1283,
+      "language": "Rust",
+      "created": "2026-10-21",
+      "topics": [],
+      "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "stars": 1234,
+      "language": "TypeScript",
+      "created": "2026-10-25",
+      "topics": [
+        "chinese",
+        "dataset",
+        "english-learning",
+        "flashcards",
+        "fsrs",
+        "ielts",
+        "language-learning",
+        "pwa",
+        "react",
+        "spaced-repetition",
+        "vocabulary",
+        "webgl"
+      ],
+      "description": "词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lyramakesmusic/neuron-explorer",
+      "url": "https://github.com/lyramakesmusic/neuron-explorer",
+      "stars": 1020,
+      "language": "Python",
+      "created": "2026-10-21",
+      "topics": [
+        "interpretability",
+        "mechanistic-interpretability",
+        "qwen",
+        "steering"
+      ],
+      "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "stars": 1014,
+      "language": "Shell",
+      "created": "2026-10-21",
+      "topics": [],
+      "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "eagle-hq/EAGLE-4",
+      "url": "https://github.com/eagle-hq/EAGLE-4",
+      "stars": 1001,
+      "language": "Python",
+      "created": "2026-10-20",
+      "topics": [
+        "eagle",
+        "gpu",
+        "llm-inference",
+        "sglang",
+        "speculative-decoding",
+        "tokenspeed",
+        "vllm"
+      ],
+      "description": "Official Inference Code of EAGLE-4",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "morganlinton/BeautifulRust",
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "stars": 998,
+      "language": "Python",
+      "created": "2026-10-23",
+      "topics": [
+        "claude-code",
+        "claude-plugin",
+        "claude-skills",
+        "coding-agent",
+        "rust",
+        "style-guide"
+      ],
+      "description": "A Claude Code plugin that teaches Claude to write idiomatic, robust Rust",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Snapintosh/Snapintosh",
+      "url": "https://github.com/Snapintosh/Snapintosh",
+      "stars": 959,
+      "language": "Python",
+      "created": "2026-10-22",
+      "topics": [],
+      "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "assetnote/php2shell-scanner",
+      "url": "https://github.com/assetnote/php2shell-scanner",
+      "stars": 919,
+      "language": "Python",
+      "created": "2026-10-22",
+      "topics": [],
+      "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "enesozturk/dimensional-drawing",
+      "url": "https://github.com/enesozturk/dimensional-drawing",
+      "stars": 733,
+      "language": "HTML",
+      "created": "2026-10-23",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "t3dotgg/tstack",
+      "url": "https://github.com/t3dotgg/tstack",
+      "stars": 724,
+      "language": "Python",
+      "created": "2026-10-24",
+      "topics": [],
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "date": "2026-10-26",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "stars": 312,
+      "language": "TypeScript",
+      "created": "2026-10-26",
+      "topics": [],
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "date": "2026-10-26",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "free-cracks/Adobe-Acrobat-Pro",
+      "url": "https://github.com/free-cracks/Adobe-Acrobat-Pro",
+      "stars": 287,
+      "language": "Unknown",
+      "created": "2026-10-26",
+      "topics": [
+        "adobe-acrobat",
+        "ai",
+        "ilovepdf",
+        "pdf",
+        "pdf-compressor",
+        "pdf-converter",
+        "pdf-editor-pdf",
+        "pdf-lib",
+        "pdf-to-jpg",
+        "pdf-to-json",
+        "pdf-to-png",
+        "pdfeditor",
+        "pdftoword",
+        "pythia8",
+        "split-pdf",
+        "splitpdf",
+        "watermark-pdf"
+      ],
+      "description": "",
+      "date": "2026-10-26",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "pro-tools-workspace/Canva-Pro",
+      "url": "https://github.com/pro-tools-workspace/Canva-Pro",
+      "stars": 255,
+      "language": "Unknown",
+      "created": "2026-10-26",
+      "topics": [
+        "canva-app",
+        "canva-editor-tools",
+        "canva-free",
+        "canva-pro",
+        "canva-pro-team-2026",
+        "canvas",
+        "canvas-api",
+        "canvas-lms",
+        "figma-design",
+        "social-media-app",
+        "social-media-design"
+      ],
+      "description": "",
+      "date": "2026-10-26",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yaojingang/GEOInflow",
+      "url": "https://github.com/yaojingang/GEOInflow",
+      "stars": 190,
+      "language": "TypeScript",
+      "created": "2026-10-26",
+      "topics": [
+        "ai-analytics",
+        "geo",
+        "mit",
+        "postgresql",
+        "self-hosted",
+        "web-analytics"
+      ],
+      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "date": "2026-10-26",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "arcade-tools/Roblox-script",
+      "url": "https://github.com/arcade-tools/Roblox-script",
+      "stars": 177,
+      "language": "Unknown",
+      "created": "2026-10-26",
+      "topics": [
+        "aimlock",
+        "any-game-cheats",
+        "generate-alts",
+        "roblox",
+        "roblox-aim-assist",
+        "roblox-fly-noclip",
+        "roblox-hub-2026",
+        "roblox-menu-pc",
+        "roblox-mod-loader",
+        "roblox-mod-menu-2026",
+        "roblox-universal-cheats",
+        "ui-library",
+        "universal-roblox-menu"
+      ],
+      "description": "",
+      "date": "2026-10-26",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "stars": 73114,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "rust"
+      ],
+      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "date": "2026-10-26",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "stars": 37371,
+      "language": "Python",
+      "created": "2026-10-17",
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal",
+        "claude-code",
+        "debloat",
+        "fire-tv",
+        "google-tv",
+        "launcher",
+        "privacy",
+        "smart-tv",
+        "sony-bravia",
+        "tcl",
+        "vibe-coding",
+        "xiaomi"
+      ],
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "date": "2026-10-26",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "stars": 22796,
+      "language": "Python",
+      "created": "2026-10-16",
+      "topics": [],
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "date": "2026-10-26",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "stars": 20861,
+      "language": "JavaScript",
+      "created": "2026-10-08",
+      "topics": [
+        "agent-skill",
+        "open-source",
+        "svg",
+        "vizualization"
+      ],
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "date": "2026-10-26",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "google-research/harness2",
+      "url": "https://github.com/google-research/harness2",
+      "stars": 19960,
+      "language": "Python",
+      "created": "2026-10-06",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-26",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
@@ -50497,6 +51023,15 @@
     }
   ],
   "metadata": {
+    "2026-10-26": {
+      "ai_relevant_count": 9,
+      "top_ai_pick": {
+        "name": "xevrion/hatchzip",
+        "url": "https://github.com/xevrion/hatchzip",
+        "stars": 2001,
+        "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI."
+      }
+    },
     "2026-10-25": {
       "ai_relevant_count": 8,
       "top_ai_pick": {
@@ -51440,9 +51975,22 @@
   },
   "language_stats": {
     "Python": {
-      "count": 925,
-      "total_stars": 3637472,
+      "count": 938,
+      "total_stars": 3729803,
       "repos": [
+        "Jakeschincariol/day-trader-skill",
+        "ikow/php2shell-poc",
+        "9bie/php2shell-bypass-aslr-exp",
+        "rddmwmddr/android-ad-cleaner",
+        "lyramakesmusic/neuron-explorer",
+        "eagle-hq/EAGLE-4",
+        "morganlinton/BeautifulRust",
+        "Snapintosh/Snapintosh",
+        "assetnote/php2shell-scanner",
+        "t3dotgg/tstack",
+        "Gathin23/cleanyourtv",
+        "deepseek-ai/DeepInfer",
+        "google-research/harness2",
         "ikow/php2shell-poc",
         "9bie/php2shell-bypass-aslr-exp",
         "Jakeschincariol/day-trader-skill",
@@ -52371,9 +52919,12 @@
       ]
     },
     "TypeScript": {
-      "count": 571,
-      "total_stars": 7118120,
+      "count": 574,
+      "total_stars": 7119856,
       "repos": [
+        "designfuchen/word-atlas",
+        "andyhuo520/digital-human-koubo",
+        "yaojingang/GEOInflow",
         "stackedlol/ascii-sharks",
         "chenglou/handwired",
         "chenglou/handwired",
@@ -52948,9 +53499,11 @@
       ]
     },
     "JavaScript": {
-      "count": 378,
-      "total_stars": 1366877,
+      "count": 380,
+      "total_stars": 1389145,
       "repos": [
+        "openai/php2shell-checker",
+        "wheresryan22/anatomy",
         "openai/php2shell-checker",
         "wheresryan22/anatomy",
         "alchaincyf/huashu-motion",
@@ -53332,9 +53885,12 @@
       ]
     },
     "Unknown": {
-      "count": 256,
-      "total_stars": 231357,
+      "count": 259,
+      "total_stars": 232076,
       "repos": [
+        "free-cracks/Adobe-Acrobat-Pro",
+        "pro-tools-workspace/Canva-Pro",
+        "arcade-tools/Roblox-script",
         "JoasASantos/REA-Prompts",
         "breakbrawlerheart/pixeluxe-ai",
         "aideveloper-web/Free-Deepseek",
@@ -53594,9 +54150,12 @@
       ]
     },
     "Rust": {
-      "count": 223,
-      "total_stars": 2200399,
+      "count": 226,
+      "total_stars": 2276797,
       "repos": [
+        "xevrion/hatchzip",
+        "colinhacks/reylo",
+        "storytold/photocraft",
         "xevrion/hatchzip",
         "colinhacks/reylo",
         "ELY-Open-Source/ElyOffice",
@@ -53823,9 +54382,10 @@
       ]
     },
     "HTML": {
-      "count": 144,
-      "total_stars": 540623,
+      "count": 145,
+      "total_stars": 541356,
       "repos": [
+        "enesozturk/dimensional-drawing",
         "df-tools-bn/.github",
         "dex-tool-best/.github",
         "dex-tools-new/.github",
@@ -53973,9 +54533,10 @@
       ]
     },
     "Swift": {
-      "count": 100,
-      "total_stars": 194310,
+      "count": 101,
+      "total_stars": 196324,
       "repos": [
+        "wesbos/3d-model-anything",
         "wesbos/3d-model-anything",
         "rossark0/rossark-motion-skill",
         "ARahim3/DigUp",
@@ -54079,9 +54640,11 @@
       ]
     },
     "C": {
-      "count": 88,
-      "total_stars": 342976,
+      "count": 90,
+      "total_stars": 348001,
       "repos": [
+        "JustAResearcher/gpu-unlock-ada",
+        "oosexgang/hackios-xnu-kernel",
         "EthanArbuckle/fairplay-decrypt",
         "JustAResearcher/gpu-unlock-ada",
         "oosexgang/hackios-xnu-kernel",
@@ -54348,9 +54911,10 @@
       ]
     },
     "Shell": {
-      "count": 49,
-      "total_stars": 33700,
+      "count": 50,
+      "total_stars": 34714,
       "repos": [
+        "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
         "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
         "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
         "t4t5/omdrop-owl",
@@ -54430,6 +54994,33 @@
         "SmellyToes67/Calculate-Minecraft-Coordinates-From-Bedrock-Formation-"
       ]
     },
+    "Kotlin": {
+      "count": 21,
+      "total_stars": 56776,
+      "repos": [
+        "pengchujin/aerial-tv",
+        "pengchujin/aerial-tv",
+        "pengchujin/aerial-tv",
+        "pengchujin/aerial-tv",
+        "pengchujin/aerial-tv",
+        "shaonialife/cardeck",
+        "YXBwbWFya2V0/AppMarket",
+        "shihabal3amri/DiPlay",
+        "shihabal3amri/DiPlay",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "Chuloo/mural",
+        "Chuloo/mural",
+        "zhdmm35/obsidian-mobile-companion",
+        "Chuloo/mural",
+        "Supersonic/TLPE",
+        "sam1am/localdex"
+      ]
+    },
     "C#": {
       "count": 21,
       "total_stars": 16867,
@@ -54482,32 +55073,6 @@
         "anthropics/fermats-last-theorem",
         "openai/ten-proofs",
         "openai/ten-proofs"
-      ]
-    },
-    "Kotlin": {
-      "count": 20,
-      "total_stars": 51011,
-      "repos": [
-        "pengchujin/aerial-tv",
-        "pengchujin/aerial-tv",
-        "pengchujin/aerial-tv",
-        "pengchujin/aerial-tv",
-        "shaonialife/cardeck",
-        "YXBwbWFya2V0/AppMarket",
-        "shihabal3amri/DiPlay",
-        "shihabal3amri/DiPlay",
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "Chuloo/mural",
-        "Chuloo/mural",
-        "zhdmm35/obsidian-mobile-companion",
-        "Chuloo/mural",
-        "Supersonic/TLPE",
-        "sam1am/localdex"
       ]
     },
     "CSS": {
@@ -54764,6 +55329,11 @@
     }
   },
   "date_stats": {
+    "2026-10-26": {
+      "count": 30,
+      "total_stars": 208003,
+      "ai_count": 0
+    },
     "2026-10-25": {
       "count": 30,
       "total_stars": 201421,
@@ -55845,6 +56415,26 @@
     {
       "name": "storytold/photocraft",
       "url": "https://github.com/storytold/photocraft",
+      "stars": 73114,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "rust"
+      ],
+      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "date": "2026-10-26",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
       "stars": 72565,
       "language": "Rust",
       "created": "2026-09-30",
@@ -56174,26 +56764,6 @@
       ],
       "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
       "date": "2026-10-14",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "storytold/photocraft",
-      "url": "https://github.com/storytold/photocraft",
-      "stars": 55975,
-      "language": "Rust",
-      "created": "2026-09-30",
-      "topics": [
-        "art",
-        "image-editing",
-        "image-editing-software",
-        "image-editor",
-        "images",
-        "photo-editing",
-        "rust"
-      ],
-      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-      "date": "2026-10-13",
       "section": "monthly",
       "is_ai_dev": false
     }
