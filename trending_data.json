@@ -1,9 +1,366 @@
 {
-  "last_updated": "2026-10-26T11:40:21.402666",
-  "total_repos": 3131,
-  "total_dates": 106,
+  "last_updated": "2026-10-27T11:09:10.660562",
+  "total_repos": 3152,
+  "total_dates": 107,
   "total_unique_languages": 37,
   "repos": [
+    {
+      "name": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "stars": 4077,
+      "language": "C",
+      "created": "2026-10-23",
+      "topics": [],
+      "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "date": "2026-10-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "stars": 2155,
+      "language": "TypeScript",
+      "created": "2026-10-25",
+      "topics": [
+        "chinese",
+        "dataset",
+        "english-learning",
+        "flashcards",
+        "fsrs",
+        "ielts",
+        "language-learning",
+        "pwa",
+        "react",
+        "spaced-repetition",
+        "vocabulary",
+        "webgl"
+      ],
+      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "date": "2026-10-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xevrion/hatchzip",
+      "url": "https://github.com/xevrion/hatchzip",
+      "stars": 2094,
+      "language": "Rust",
+      "created": "2026-10-21",
+      "topics": [
+        "7z",
+        "7zip",
+        "archive",
+        "archive-extractor",
+        "cli",
+        "crash-safe",
+        "disk-space",
+        "extract",
+        "extractor",
+        "gui",
+        "in-place",
+        "linux",
+        "macos",
+        "rar",
+        "rust",
+        "tar",
+        "unrar",
+        "unzip",
+        "windows",
+        "zip"
+      ],
+      "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+      "date": "2026-10-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "t3dotgg/tstack",
+      "url": "https://github.com/t3dotgg/tstack",
+      "stars": 1762,
+      "language": "Python",
+      "created": "2026-10-24",
+      "topics": [],
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "date": "2026-10-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "oosexgang/hackios-xnu-kernel",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "stars": 1752,
+      "language": "C",
+      "created": "2026-10-22",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "9bie/php2shell-bypass-aslr-exp",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "stars": 1487,
+      "language": "Python",
+      "created": "2026-10-21",
+      "topics": [],
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "date": "2026-10-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "openai/php2shell-checker",
+      "url": "https://github.com/openai/php2shell-checker",
+      "stars": 1432,
+      "language": "JavaScript",
+      "created": "2026-10-21",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "enesozturk/dimensional-drawing",
+      "url": "https://github.com/enesozturk/dimensional-drawing",
+      "stars": 1110,
+      "language": "HTML",
+      "created": "2026-10-23",
+      "topics": [
+        "skills",
+        "ui"
+      ],
+      "description": "Create Apple style dimensional drawings of UI components.",
+      "date": "2026-10-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "stars": 940,
+      "language": "TypeScript",
+      "created": "2026-10-26",
+      "topics": [],
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "date": "2026-10-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "assetnote/php2shell-scanner",
+      "url": "https://github.com/assetnote/php2shell-scanner",
+      "stars": 940,
+      "language": "Python",
+      "created": "2026-10-22",
+      "topics": [],
+      "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+      "date": "2026-10-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "KillaBoi/StealMyBitcoin-PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "stars": 908,
+      "language": "Python",
+      "created": "2026-10-25",
+      "topics": [],
+      "description": "A public release of the Steal My Bitcoin challenge",
+      "date": "2026-10-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "GrandeurPikeman/Roblox-MM2-Utility-2026",
+      "url": "https://github.com/GrandeurPikeman/Roblox-MM2-Utility-2026",
+      "stars": 144,
+      "language": "JavaScript",
+      "created": "2026-10-27",
+      "topics": [
+        "gameplay",
+        "helper",
+        "mm2",
+        "mm2-dupe-script",
+        "mm2-tools",
+        "murder-mystery-2",
+        "murder-mystery-2-auto-murder",
+        "murder-mystery-2026",
+        "performance",
+        "qol",
+        "qol-mod",
+        "roblox",
+        "roblox-afk-farm",
+        "utility",
+        "utility-tool"
+      ],
+      "description": "Lightweight desktop utility for Roblox Murder Mystery 2. Convenient helpers, quality-of-life features and performance improvements for better gameplay experience. Simple installation, regularly updated",
+      "date": "2026-10-27",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "PierreTucker147/deepseek-uncensored",
+      "url": "https://github.com/PierreTucker147/deepseek-uncensored",
+      "stars": 73,
+      "language": "Python",
+      "created": "2026-10-27",
+      "topics": [
+        "abliterated-models",
+        "ai-api",
+        "ai-jailbreaks",
+        "anthropic-compatible",
+        "claude-code",
+        "deepseek",
+        "deepseek-ai",
+        "deepseek-uncensored",
+        "deepseek-uncensored-api",
+        "deepseek-v4",
+        "deepseek-v4-1",
+        "jailbreak-prompts",
+        "llm-api",
+        "llm-jailbreak",
+        "openai-compatible",
+        "pay-per-token",
+        "prompt-research",
+        "uncensored",
+        "uncensored-ai",
+        "uncensored-ai-model"
+      ],
+      "description": "DeepSeek Uncensored from RouterHub — the website for model guide and API access, with GPT, Claude, GLM, Qwen and Grok under one key.",
+      "date": "2026-10-27",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "QuixiAI/QuixiDesk",
+      "url": "https://github.com/QuixiAI/QuixiDesk",
+      "stars": 56,
+      "language": "HTML",
+      "created": "2026-10-27",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-27",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Shagg88/COGBox",
+      "url": "https://github.com/Shagg88/COGBox",
+      "stars": 42,
+      "language": "C++",
+      "created": "2026-10-27",
+      "topics": [],
+      "description": "This is an open source all-in-one launcher for the amazing series on Xbox 360: \"Gears of War\" franchise. 75% of this amazing series never received a proper remaster, so here I am bringing this project to life! Enjoy!",
+      "date": "2026-10-27",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ios151/Insav-releases",
+      "url": "https://github.com/ios151/Insav-releases",
+      "stars": 23,
+      "language": "HTML",
+      "created": "2026-10-27",
+      "topics": [],
+      "description": "INSAV 的安装包发布页（只发布 IPA，不含源码）",
+      "date": "2026-10-27",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "stars": 73648,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "rust"
+      ],
+      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "date": "2026-10-27",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "stars": 40461,
+      "language": "Python",
+      "created": "2026-10-17",
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal",
+        "claude-code",
+        "debloat",
+        "fire-tv",
+        "google-tv",
+        "launcher",
+        "privacy",
+        "smart-tv",
+        "sony-bravia",
+        "tcl",
+        "vibe-coding",
+        "xiaomi"
+      ],
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "date": "2026-10-27",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "stars": 23263,
+      "language": "Python",
+      "created": "2026-10-16",
+      "topics": [],
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "date": "2026-10-27",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "stars": 21252,
+      "language": "JavaScript",
+      "created": "2026-10-08",
+      "topics": [
+        "agent-skill",
+        "open-source",
+        "svg",
+        "vizualization"
+      ],
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "date": "2026-10-27",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "google-research/harness2",
+      "url": "https://github.com/google-research/harness2",
+      "stars": 20342,
+      "language": "Python",
+      "created": "2026-10-06",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-27",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
@@ -51023,6 +51380,15 @@
     }
   ],
   "metadata": {
+    "2026-10-27": {
+      "ai_relevant_count": 4,
+      "top_ai_pick": {
+        "name": "xevrion/hatchzip",
+        "url": "https://github.com/xevrion/hatchzip",
+        "stars": 2094,
+        "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI."
+      }
+    },
     "2026-10-26": {
       "ai_relevant_count": 9,
       "top_ai_pick": {
@@ -51975,9 +52341,17 @@
   },
   "language_stats": {
     "Python": {
-      "count": 938,
-      "total_stars": 3729803,
+      "count": 946,
+      "total_stars": 3819039,
       "repos": [
+        "t3dotgg/tstack",
+        "9bie/php2shell-bypass-aslr-exp",
+        "assetnote/php2shell-scanner",
+        "KillaBoi/StealMyBitcoin-PoC",
+        "PierreTucker147/deepseek-uncensored",
+        "Gathin23/cleanyourtv",
+        "deepseek-ai/DeepInfer",
+        "google-research/harness2",
         "Jakeschincariol/day-trader-skill",
         "ikow/php2shell-poc",
         "9bie/php2shell-bypass-aslr-exp",
@@ -52919,9 +53293,11 @@
       ]
     },
     "TypeScript": {
-      "count": 574,
-      "total_stars": 7119856,
+      "count": 576,
+      "total_stars": 7122951,
       "repos": [
+        "designfuchen/word-atlas",
+        "andyhuo520/digital-human-koubo",
         "designfuchen/word-atlas",
         "andyhuo520/digital-human-koubo",
         "yaojingang/GEOInflow",
@@ -53499,9 +53875,12 @@
       ]
     },
     "JavaScript": {
-      "count": 380,
-      "total_stars": 1389145,
+      "count": 383,
+      "total_stars": 1411973,
       "repos": [
+        "openai/php2shell-checker",
+        "GrandeurPikeman/Roblox-MM2-Utility-2026",
+        "wheresryan22/anatomy",
         "openai/php2shell-checker",
         "wheresryan22/anatomy",
         "openai/php2shell-checker",
@@ -54150,9 +54529,11 @@
       ]
     },
     "Rust": {
-      "count": 226,
-      "total_stars": 2276797,
+      "count": 228,
+      "total_stars": 2352539,
       "repos": [
+        "xevrion/hatchzip",
+        "storytold/photocraft",
         "xevrion/hatchzip",
         "colinhacks/reylo",
         "storytold/photocraft",
@@ -54382,9 +54763,12 @@
       ]
     },
     "HTML": {
-      "count": 145,
-      "total_stars": 541356,
+      "count": 148,
+      "total_stars": 542545,
       "repos": [
+        "enesozturk/dimensional-drawing",
+        "QuixiAI/QuixiDesk",
+        "ios151/Insav-releases",
         "enesozturk/dimensional-drawing",
         "df-tools-bn/.github",
         "dex-tool-best/.github",
@@ -54640,9 +55024,11 @@
       ]
     },
     "C": {
-      "count": 90,
-      "total_stars": 348001,
+      "count": 92,
+      "total_stars": 353830,
       "repos": [
+        "JustAResearcher/gpu-unlock-ada",
+        "oosexgang/hackios-xnu-kernel",
         "JustAResearcher/gpu-unlock-ada",
         "oosexgang/hackios-xnu-kernel",
         "EthanArbuckle/fairplay-decrypt",
@@ -54736,9 +55122,10 @@
       ]
     },
     "C++": {
-      "count": 83,
-      "total_stars": 470705,
+      "count": 84,
+      "total_stars": 470747,
       "repos": [
+        "Shagg88/COGBox",
         "Niko1221/Strata",
         "Niko1221/Strata",
         "Supermedo/uncharted_pc",
@@ -55329,6 +55716,11 @@
     }
   },
   "date_stats": {
+    "2026-10-27": {
+      "count": 21,
+      "total_stars": 197961,
+      "ai_count": 0
+    },
     "2026-10-26": {
       "count": 30,
       "total_stars": 208003,
@@ -56415,6 +56807,26 @@
     {
       "name": "storytold/photocraft",
       "url": "https://github.com/storytold/photocraft",
+      "stars": 73648,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "rust"
+      ],
+      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "date": "2026-10-27",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
       "stars": 73114,
       "language": "Rust",
       "created": "2026-09-30",
@@ -56744,26 +57156,6 @@
       ],
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "date": "2026-06-27",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "storytold/photocraft",
-      "url": "https://github.com/storytold/photocraft",
-      "stars": 59409,
-      "language": "Rust",
-      "created": "2026-09-30",
-      "topics": [
-        "art",
-        "image-editing",
-        "image-editing-software",
-        "image-editor",
-        "images",
-        "photo-editing",
-        "rust"
-      ],
-      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-      "date": "2026-10-14",
       "section": "monthly",
       "is_ai_dev": false
     }
