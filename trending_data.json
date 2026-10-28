@@ -1,9 +1,509 @@
 {
-  "last_updated": "2026-10-27T11:09:10.660562",
-  "total_repos": 3152,
-  "total_dates": 107,
+  "last_updated": "2026-10-28T11:43:47.710327",
+  "total_repos": 3182,
+  "total_dates": 108,
   "total_unique_languages": 37,
   "repos": [
+    {
+      "name": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "stars": 4351,
+      "language": "C",
+      "created": "2026-10-23",
+      "topics": [],
+      "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "stars": 4033,
+      "language": "Python",
+      "created": "2026-10-24",
+      "topics": [
+        "adb",
+        "ai-agent",
+        "android",
+        "coloros",
+        "debloat",
+        "hyperos",
+        "magicos",
+        "originos"
+      ],
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "stars": 3152,
+      "language": "Unknown",
+      "created": "2026-10-25",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "stars": 2921,
+      "language": "TypeScript",
+      "created": "2026-10-25",
+      "topics": [
+        "chinese",
+        "dataset",
+        "english-learning",
+        "flashcards",
+        "fsrs",
+        "ielts",
+        "language-learning",
+        "pwa",
+        "react",
+        "spaced-repetition",
+        "vocabulary",
+        "webgl"
+      ],
+      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "t3dotgg/tstack",
+      "url": "https://github.com/t3dotgg/tstack",
+      "stars": 2142,
+      "language": "Python",
+      "created": "2026-10-24",
+      "topics": [],
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "oosexgang/hackios-xnu-kernel",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "stars": 1874,
+      "language": "C",
+      "created": "2026-10-22",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "stars": 1751,
+      "language": "Python",
+      "created": "2026-10-25",
+      "topics": [],
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "morganlinton/BeautifulRust",
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "stars": 1348,
+      "language": "Python",
+      "created": "2026-10-23",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-plugin",
+        "claude-skills",
+        "clippy",
+        "code-review",
+        "coding-agent",
+        "cursor",
+        "rust",
+        "style-guide"
+      ],
+      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "stars": 1345,
+      "language": "HTML",
+      "created": "2026-10-27",
+      "topics": [
+        "ai-art",
+        "chinese",
+        "cloudflare-pages",
+        "gallery",
+        "i18n",
+        "pose",
+        "reference-images",
+        "static-site"
+      ],
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "enesozturk/dimensional-drawing",
+      "url": "https://github.com/enesozturk/dimensional-drawing",
+      "stars": 1324,
+      "language": "HTML",
+      "created": "2026-10-23",
+      "topics": [
+        "skills",
+        "ui"
+      ],
+      "description": "Create Apple style dimensional drawings of UI components.",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "stars": 1230,
+      "language": "TypeScript",
+      "created": "2026-10-26",
+      "topics": [],
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "DenisSergeevitch/ex-ussr-kinship-research",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "stars": 1107,
+      "language": "Python",
+      "created": "2026-10-25",
+      "topics": [
+        "agent-skills",
+        "archives",
+        "claude-code",
+        "codex",
+        "family-history",
+        "familysearch",
+        "genealogy",
+        "ussr"
+      ],
+      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Snapintosh/Snapintosh",
+      "url": "https://github.com/Snapintosh/Snapintosh",
+      "stars": 1019,
+      "language": "Python",
+      "created": "2026-10-22",
+      "topics": [],
+      "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "KillaBoi/StealMyBitcoin-PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "stars": 970,
+      "language": "Python",
+      "created": "2026-10-25",
+      "topics": [],
+      "description": "A public release of the Steal My Bitcoin challenge",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "assetnote/php2shell-scanner",
+      "url": "https://github.com/assetnote/php2shell-scanner",
+      "stars": 954,
+      "language": "Python",
+      "created": "2026-10-22",
+      "topics": [],
+      "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mizorewww/gdirect",
+      "url": "https://github.com/mizorewww/gdirect",
+      "stars": 754,
+      "language": "Rust",
+      "created": "2026-10-25",
+      "topics": [],
+      "description": "Rust Google Drive direct downloader using pinned libaria2",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ZiChuanLan/agent-purge",
+      "url": "https://github.com/ZiChuanLan/agent-purge",
+      "stars": 745,
+      "language": "JavaScript",
+      "created": "2026-10-25",
+      "topics": [
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "deepseek-harness",
+        "harness",
+        "omp",
+        "opencode",
+        "pi",
+        "system-prompt"
+      ],
+      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "surendrapandar/minilytics",
+      "url": "https://github.com/surendrapandar/minilytics",
+      "stars": 740,
+      "language": "TypeScript",
+      "created": "2026-10-23",
+      "topics": [],
+      "description": "Opensource Revenue-first analytics for indie hackers & solo founders",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kargulstudio/calender-app-design",
+      "url": "https://github.com/kargulstudio/calender-app-design",
+      "stars": 728,
+      "language": "TypeScript",
+      "created": "2026-10-26",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Motionsites-AI/claude-skill",
+      "url": "https://github.com/Motionsites-AI/claude-skill",
+      "stars": 717,
+      "language": "Python",
+      "created": "2026-10-26",
+      "topics": [],
+      "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "date": "2026-10-28",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "vaishantsah/watson-AI-osint-all-in-one",
+      "url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
+      "stars": 274,
+      "language": "TypeScript",
+      "created": "2026-10-28",
+      "topics": [
+        "cybersecurity",
+        "desktop-app",
+        "digital-footprint",
+        "electron",
+        "free",
+        "infosec",
+        "intelligence",
+        "investigation",
+        "open-source-intelligence",
+        "osint",
+        "people-search",
+        "privacy",
+        "react",
+        "security-tools",
+        "social-media-search",
+        "tailwindcss",
+        "typescript",
+        "username-check",
+        "vite",
+        "windows"
+      ],
+      "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
+      "date": "2026-10-28",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "smithjohn78390/tongjiang-lab",
+      "url": "https://github.com/smithjohn78390/tongjiang-lab",
+      "stars": 217,
+      "language": "HTML",
+      "created": "2026-10-28",
+      "topics": [
+        "3d",
+        "biology",
+        "chemistry",
+        "education",
+        "geography",
+        "high-school",
+        "interactive",
+        "open-educational-resources",
+        "physics",
+        "threejs",
+        "webgl"
+      ],
+      "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+      "date": "2026-10-28",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "addozhang/leancast",
+      "url": "https://github.com/addozhang/leancast",
+      "stars": 102,
+      "language": "Kotlin",
+      "created": "2026-10-28",
+      "topics": [],
+      "description": "Ad-free DLNA / UPnP cast receiver for Android TV · 极简无广告投屏接收器",
+      "date": "2026-10-28",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ExitGooseEntrance/relay-v2.2.0",
+      "url": "https://github.com/ExitGooseEntrance/relay-v2.2.0",
+      "stars": 102,
+      "language": "Unknown",
+      "created": "2026-10-28",
+      "topics": [
+        "fps",
+        "gaming",
+        "racing",
+        "rpg",
+        "strategy"
+      ],
+      "description": "Published: 2026-10-28",
+      "date": "2026-10-28",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Lookouteiseparator/droids-v1.5.2",
+      "url": "https://github.com/Lookouteiseparator/droids-v1.5.2",
+      "stars": 102,
+      "language": "Unknown",
+      "created": "2026-10-28",
+      "topics": [
+        "fps",
+        "gaming",
+        "racing",
+        "rpg",
+        "strategy"
+      ],
+      "description": "Published: 2026-10-28",
+      "date": "2026-10-28",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "stars": 74170,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "rust"
+      ],
+      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "date": "2026-10-28",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "stars": 42892,
+      "language": "Python",
+      "created": "2026-10-17",
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal",
+        "claude-code",
+        "debloat",
+        "fire-tv",
+        "google-tv",
+        "launcher",
+        "privacy",
+        "smart-tv",
+        "sony-bravia",
+        "tcl",
+        "vibe-coding",
+        "xiaomi"
+      ],
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "date": "2026-10-28",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "stars": 23635,
+      "language": "Python",
+      "created": "2026-10-16",
+      "topics": [],
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "date": "2026-10-28",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "stars": 21687,
+      "language": "JavaScript",
+      "created": "2026-10-08",
+      "topics": [
+        "agent-skill",
+        "open-source",
+        "svg",
+        "vizualization"
+      ],
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "date": "2026-10-28",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "google-research/harness2",
+      "url": "https://github.com/google-research/harness2",
+      "stars": 20771,
+      "language": "Python",
+      "created": "2026-10-06",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-28",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
@@ -51380,6 +51880,15 @@
     }
   ],
   "metadata": {
+    "2026-10-28": {
+      "ai_relevant_count": 10,
+      "top_ai_pick": {
+        "name": "rddmwmddr/android-ad-cleaner",
+        "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+        "stars": 4033,
+        "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
+      }
+    },
     "2026-10-27": {
       "ai_relevant_count": 4,
       "top_ai_pick": {
@@ -52341,9 +52850,21 @@
   },
   "language_stats": {
     "Python": {
-      "count": 946,
-      "total_stars": 3819039,
+      "count": 958,
+      "total_stars": 3920378,
       "repos": [
+        "rddmwmddr/android-ad-cleaner",
+        "t3dotgg/tstack",
+        "interplains/Zero-Breach-Toolkit",
+        "morganlinton/BeautifulRust",
+        "DenisSergeevitch/ex-ussr-kinship-research",
+        "Snapintosh/Snapintosh",
+        "KillaBoi/StealMyBitcoin-PoC",
+        "assetnote/php2shell-scanner",
+        "Motionsites-AI/claude-skill",
+        "Gathin23/cleanyourtv",
+        "deepseek-ai/DeepInfer",
+        "google-research/harness2",
         "t3dotgg/tstack",
         "9bie/php2shell-bypass-aslr-exp",
         "assetnote/php2shell-scanner",
@@ -53293,9 +53814,14 @@
       ]
     },
     "TypeScript": {
-      "count": 576,
-      "total_stars": 7122951,
+      "count": 581,
+      "total_stars": 7128844,
       "repos": [
+        "designfuchen/word-atlas",
+        "andyhuo520/digital-human-koubo",
+        "surendrapandar/minilytics",
+        "kargulstudio/calender-app-design",
+        "vaishantsah/watson-AI-osint-all-in-one",
         "designfuchen/word-atlas",
         "andyhuo520/digital-human-koubo",
         "designfuchen/word-atlas",
@@ -53875,9 +54401,11 @@
       ]
     },
     "JavaScript": {
-      "count": 383,
-      "total_stars": 1411973,
+      "count": 385,
+      "total_stars": 1434405,
       "repos": [
+        "ZiChuanLan/agent-purge",
+        "wheresryan22/anatomy",
         "openai/php2shell-checker",
         "GrandeurPikeman/Roblox-MM2-Utility-2026",
         "wheresryan22/anatomy",
@@ -54264,9 +54792,12 @@
       ]
     },
     "Unknown": {
-      "count": 259,
-      "total_stars": 232076,
+      "count": 262,
+      "total_stars": 235432,
       "repos": [
+        "unclebob/ub-mode",
+        "ExitGooseEntrance/relay-v2.2.0",
+        "Lookouteiseparator/droids-v1.5.2",
         "free-cracks/Adobe-Acrobat-Pro",
         "pro-tools-workspace/Canva-Pro",
         "arcade-tools/Roblox-script",
@@ -54529,9 +55060,11 @@
       ]
     },
     "Rust": {
-      "count": 228,
-      "total_stars": 2352539,
+      "count": 230,
+      "total_stars": 2427463,
       "repos": [
+        "mizorewww/gdirect",
+        "storytold/photocraft",
         "xevrion/hatchzip",
         "storytold/photocraft",
         "xevrion/hatchzip",
@@ -54763,9 +55296,12 @@
       ]
     },
     "HTML": {
-      "count": 148,
-      "total_stars": 542545,
+      "count": 151,
+      "total_stars": 545431,
       "repos": [
+        "anhao/ai-pose-gallery-zh",
+        "enesozturk/dimensional-drawing",
+        "smithjohn78390/tongjiang-lab",
         "enesozturk/dimensional-drawing",
         "QuixiAI/QuixiDesk",
         "ios151/Insav-releases",
@@ -55024,9 +55560,11 @@
       ]
     },
     "C": {
-      "count": 92,
-      "total_stars": 353830,
+      "count": 94,
+      "total_stars": 360055,
       "repos": [
+        "JustAResearcher/gpu-unlock-ada",
+        "oosexgang/hackios-xnu-kernel",
         "JustAResearcher/gpu-unlock-ada",
         "oosexgang/hackios-xnu-kernel",
         "JustAResearcher/gpu-unlock-ada",
@@ -55353,6 +55891,34 @@
         "tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark"
       ]
     },
+    "Kotlin": {
+      "count": 22,
+      "total_stars": 56878,
+      "repos": [
+        "addozhang/leancast",
+        "pengchujin/aerial-tv",
+        "pengchujin/aerial-tv",
+        "pengchujin/aerial-tv",
+        "pengchujin/aerial-tv",
+        "pengchujin/aerial-tv",
+        "shaonialife/cardeck",
+        "YXBwbWFya2V0/AppMarket",
+        "shihabal3amri/DiPlay",
+        "shihabal3amri/DiPlay",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "jev-chat/jev-chat-jarvis",
+        "Chuloo/mural",
+        "Chuloo/mural",
+        "zhdmm35/obsidian-mobile-companion",
+        "Chuloo/mural",
+        "Supersonic/TLPE",
+        "sam1am/localdex"
+      ]
+    },
     "Java": {
       "count": 22,
       "total_stars": 129337,
@@ -55379,33 +55945,6 @@
         "ZSvirt/zsvirt",
         "ZSvirt/zsvirt",
         "SmellyToes67/Calculate-Minecraft-Coordinates-From-Bedrock-Formation-"
-      ]
-    },
-    "Kotlin": {
-      "count": 21,
-      "total_stars": 56776,
-      "repos": [
-        "pengchujin/aerial-tv",
-        "pengchujin/aerial-tv",
-        "pengchujin/aerial-tv",
-        "pengchujin/aerial-tv",
-        "pengchujin/aerial-tv",
-        "shaonialife/cardeck",
-        "YXBwbWFya2V0/AppMarket",
-        "shihabal3amri/DiPlay",
-        "shihabal3amri/DiPlay",
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "jev-chat/jev-chat-jarvis",
-        "Chuloo/mural",
-        "Chuloo/mural",
-        "zhdmm35/obsidian-mobile-companion",
-        "Chuloo/mural",
-        "Supersonic/TLPE",
-        "sam1am/localdex"
       ]
     },
     "C#": {
@@ -55716,6 +56255,11 @@
     }
   },
   "date_stats": {
+    "2026-10-28": {
+      "count": 30,
+      "total_stars": 217157,
+      "ai_count": 0
+    },
     "2026-10-27": {
       "count": 21,
       "total_stars": 197961,
@@ -56807,6 +57351,26 @@
     {
       "name": "storytold/photocraft",
       "url": "https://github.com/storytold/photocraft",
+      "stars": 74170,
+      "language": "Rust",
+      "created": "2026-09-30",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "rust"
+      ],
+      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "date": "2026-10-28",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
       "stars": 73648,
       "language": "Rust",
       "created": "2026-09-30",
@@ -57133,29 +57697,6 @@
       ],
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "date": "2026-06-28",
-      "section": "monthly",
-      "is_ai_dev": false
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 61647,
-      "language": "JavaScript",
-      "created": "2026-06-12",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
-      ],
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "date": "2026-06-27",
       "section": "monthly",
       "is_ai_dev": false
     }
