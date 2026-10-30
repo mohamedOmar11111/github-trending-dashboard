@@ -1,9 +1,502 @@
 {
-  "last_updated": "2026-10-29T11:52:13.382994",
-  "total_repos": 3212,
-  "total_dates": 109,
+  "last_updated": "2026-10-30T11:44:52.505421",
+  "total_repos": 3242,
+  "total_dates": 110,
   "total_unique_languages": 37,
   "repos": [
+    {
+      "name": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "stars": 5155,
+      "language": "Unknown",
+      "created": "2026-10-25",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "stars": 4944,
+      "language": "Python",
+      "created": "2026-10-24",
+      "topics": [
+        "adb",
+        "ai-agent",
+        "android",
+        "coloros",
+        "debloat",
+        "hyperos",
+        "magicos",
+        "originos"
+      ],
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "stars": 3735,
+      "language": "Python",
+      "created": "2026-10-25",
+      "topics": [],
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "stars": 3699,
+      "language": "HTML",
+      "created": "2026-10-27",
+      "topics": [
+        "ai-art",
+        "chinese",
+        "cloudflare-pages",
+        "gallery",
+        "i18n",
+        "pose",
+        "reference-images",
+        "static-site"
+      ],
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "stars": 3312,
+      "language": "TypeScript",
+      "created": "2026-10-25",
+      "topics": [
+        "chinese",
+        "dataset",
+        "english-learning",
+        "flashcards",
+        "fsrs",
+        "ielts",
+        "language-learning",
+        "pwa",
+        "react",
+        "spaced-repetition",
+        "vocabulary",
+        "webgl"
+      ],
+      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "t3dotgg/tstack",
+      "url": "https://github.com/t3dotgg/tstack",
+      "stars": 2432,
+      "language": "Python",
+      "created": "2026-10-24",
+      "topics": [],
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "stars": 1642,
+      "language": "Dart",
+      "created": "2026-10-25",
+      "topics": [
+        "ai-agent",
+        "android",
+        "android-app",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-tui",
+        "flutter",
+        "llm"
+      ],
+      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "stars": 1534,
+      "language": "TypeScript",
+      "created": "2026-10-26",
+      "topics": [],
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "DenisSergeevitch/ex-ussr-kinship-research",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "stars": 1285,
+      "language": "Python",
+      "created": "2026-10-25",
+      "topics": [
+        "agent-skills",
+        "archives",
+        "claude-code",
+        "codex",
+        "family-history",
+        "familysearch",
+        "genealogy",
+        "ussr"
+      ],
+      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "qybaihe/bla",
+      "url": "https://github.com/qybaihe/bla",
+      "stars": 1156,
+      "language": "TypeScript",
+      "created": "2026-10-25",
+      "topics": [
+        "adversarial-ai",
+        "claude-code",
+        "cursor",
+        "electron-security",
+        "llm-security",
+        "mcp",
+        "mcp-server",
+        "obfuscation",
+        "reverse-engineering",
+        "webassembly"
+      ],
+      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "aschmelyun/print-my-profile-pic",
+      "url": "https://github.com/aschmelyun/print-my-profile-pic",
+      "stars": 1138,
+      "language": "Unknown",
+      "created": "2026-10-27",
+      "topics": [],
+      "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Motionsites-AI/claude-skill",
+      "url": "https://github.com/Motionsites-AI/claude-skill",
+      "stars": 1121,
+      "language": "Python",
+      "created": "2026-10-26",
+      "topics": [],
+      "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "smithjohn78390/tongjiang-lab",
+      "url": "https://github.com/smithjohn78390/tongjiang-lab",
+      "stars": 1072,
+      "language": "HTML",
+      "created": "2026-10-28",
+      "topics": [
+        "3d",
+        "biology",
+        "chemistry",
+        "education",
+        "geography",
+        "high-school",
+        "interactive",
+        "open-educational-resources",
+        "physics",
+        "threejs",
+        "webgl"
+      ],
+      "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "KillaBoi/StealMyBitcoin-PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "stars": 1011,
+      "language": "Python",
+      "created": "2026-10-25",
+      "topics": [],
+      "description": "A public release of the Steal My Bitcoin challenge",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "stars": 942,
+      "language": "C",
+      "created": "2026-10-29",
+      "topics": [],
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ZiChuanLan/agent-purge",
+      "url": "https://github.com/ZiChuanLan/agent-purge",
+      "stars": 902,
+      "language": "JavaScript",
+      "created": "2026-10-25",
+      "topics": [
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "deepseek-harness",
+        "harness",
+        "omp",
+        "opencode",
+        "pi",
+        "system-prompt"
+      ],
+      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "daveebbelaar/bama",
+      "url": "https://github.com/daveebbelaar/bama",
+      "stars": 847,
+      "language": "Swift",
+      "created": "2026-10-24",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "app-clone",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "computer-use",
+        "liquid-glass",
+        "macos",
+        "macos-app",
+        "native-apps",
+        "skills",
+        "swift",
+        "swiftdata",
+        "swiftui"
+      ],
+      "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anonnerdfrenzy/survival-llm",
+      "url": "https://github.com/anonnerdfrenzy/survival-llm",
+      "stars": 838,
+      "language": "Python",
+      "created": "2026-10-24",
+      "topics": [],
+      "description": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kargulstudio/calender-app-design",
+      "url": "https://github.com/kargulstudio/calender-app-design",
+      "stars": 815,
+      "language": "TypeScript",
+      "created": "2026-10-26",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "paipiange/nvzhuang",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "stars": 803,
+      "language": "Go",
+      "created": "2026-10-29",
+      "topics": [],
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "date": "2026-10-30",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026",
+      "url": "https://github.com/mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026",
+      "stars": 263,
+      "language": "Python",
+      "created": "2026-10-30",
+      "topics": [],
+      "description": "Powerful Valorant ESP featuring player boxes, names, health bars, distance and skeleton rendering. Fully customizable overlay with clean interface. Updated for the latest patch.",
+      "date": "2026-10-30",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alchaincyf/huashu-bird-sticker",
+      "url": "https://github.com/alchaincyf/huashu-bird-sticker",
+      "stars": 92,
+      "language": "Unknown",
+      "created": "2026-10-30",
+      "topics": [],
+      "description": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
+      "date": "2026-10-30",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "stars": 49,
+      "language": "JavaScript",
+      "created": "2026-10-30",
+      "topics": [
+        "agent-skills",
+        "animation",
+        "canvas",
+        "claude-code-plugin",
+        "gamedev",
+        "pixel-art",
+        "sprite-sheet",
+        "vfx"
+      ],
+      "description": "232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "date": "2026-10-30",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "OpenBMB/ForgeKernel",
+      "url": "https://github.com/OpenBMB/ForgeKernel",
+      "stars": 45,
+      "language": "Python",
+      "created": "2026-10-30",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-30",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kevinraymond/florilegium",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "stars": 37,
+      "language": "Lua",
+      "created": "2026-10-30",
+      "topics": [],
+      "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+      "date": "2026-10-30",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "stars": 46074,
+      "language": "Python",
+      "created": "2026-10-17",
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal",
+        "claude-code",
+        "debloat",
+        "fire-tv",
+        "google-tv",
+        "launcher",
+        "privacy",
+        "smart-tv",
+        "sony-bravia",
+        "tcl",
+        "vibe-coding",
+        "xiaomi"
+      ],
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "date": "2026-10-30",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "stars": 24411,
+      "language": "Python",
+      "created": "2026-10-16",
+      "topics": [],
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "date": "2026-10-30",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "stars": 22824,
+      "language": "JavaScript",
+      "created": "2026-10-08",
+      "topics": [
+        "agent-skill",
+        "open-source",
+        "svg",
+        "vizualization"
+      ],
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "date": "2026-10-30",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "google-research/harness2",
+      "url": "https://github.com/google-research/harness2",
+      "stars": 21420,
+      "language": "Python",
+      "created": "2026-10-06",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-30",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "openai/math",
+      "url": "https://github.com/openai/math",
+      "stars": 17093,
+      "language": "Lean",
+      "created": "2026-10-06",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-30",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
@@ -52408,6 +52901,15 @@
     }
   ],
   "metadata": {
+    "2026-10-30": {
+      "ai_relevant_count": 13,
+      "top_ai_pick": {
+        "name": "rddmwmddr/android-ad-cleaner",
+        "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+        "stars": 4944,
+        "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
+      }
+    },
     "2026-10-29": {
       "ai_relevant_count": 11,
       "top_ai_pick": {
@@ -53387,9 +53889,21 @@
   },
   "language_stats": {
     "Python": {
-      "count": 968,
-      "total_stars": 4025007,
+      "count": 980,
+      "total_stars": 4132586,
       "repos": [
+        "rddmwmddr/android-ad-cleaner",
+        "interplains/Zero-Breach-Toolkit",
+        "t3dotgg/tstack",
+        "DenisSergeevitch/ex-ussr-kinship-research",
+        "Motionsites-AI/claude-skill",
+        "KillaBoi/StealMyBitcoin-PoC",
+        "anonnerdfrenzy/survival-llm",
+        "mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026",
+        "OpenBMB/ForgeKernel",
+        "Gathin23/cleanyourtv",
+        "deepseek-ai/DeepInfer",
+        "google-research/harness2",
         "rddmwmddr/android-ad-cleaner",
         "interplains/Zero-Breach-Toolkit",
         "t3dotgg/tstack",
@@ -54361,9 +54875,13 @@
       ]
     },
     "TypeScript": {
-      "count": 586,
-      "total_stars": 7135700,
+      "count": 590,
+      "total_stars": 7142517,
       "repos": [
+        "designfuchen/word-atlas",
+        "andyhuo520/digital-human-koubo",
+        "qybaihe/bla",
+        "kargulstudio/calender-app-design",
         "designfuchen/word-atlas",
         "andyhuo520/digital-human-koubo",
         "kargulstudio/calender-app-design",
@@ -54953,9 +55471,12 @@
       ]
     },
     "JavaScript": {
-      "count": 387,
-      "total_stars": 1457658,
+      "count": 390,
+      "total_stars": 1481433,
       "repos": [
+        "ZiChuanLan/agent-purge",
+        "patch-gg/pixelfx",
+        "wheresryan22/anatomy",
         "ZiChuanLan/agent-purge",
         "wheresryan22/anatomy",
         "ZiChuanLan/agent-purge",
@@ -55346,9 +55867,12 @@
       ]
     },
     "Unknown": {
-      "count": 268,
-      "total_stars": 240577,
+      "count": 271,
+      "total_stars": 246962,
       "repos": [
+        "unclebob/ub-mode",
+        "aschmelyun/print-my-profile-pic",
+        "alchaincyf/huashu-bird-sticker",
         "unclebob/ub-mode",
         "GumshoeRampart/Adobe-After-Effects",
         "CaveVerseNight/Adobe-InDesign",
@@ -55858,9 +56382,11 @@
       ]
     },
     "HTML": {
-      "count": 154,
-      "total_stars": 550299,
+      "count": 156,
+      "total_stars": 555070,
       "repos": [
+        "anhao/ai-pose-gallery-zh",
+        "smithjohn78390/tongjiang-lab",
         "anhao/ai-pose-gallery-zh",
         "enesozturk/dimensional-drawing",
         "smithjohn78390/tongjiang-lab",
@@ -56018,9 +56544,10 @@
       ]
     },
     "Swift": {
-      "count": 101,
-      "total_stars": 196324,
+      "count": 102,
+      "total_stars": 197171,
       "repos": [
+        "daveebbelaar/bama",
         "wesbos/3d-model-anything",
         "wesbos/3d-model-anything",
         "rossark0/rossark-motion-skill",
@@ -56125,9 +56652,10 @@
       ]
     },
     "C": {
-      "count": 95,
-      "total_stars": 364524,
+      "count": 96,
+      "total_stars": 365466,
       "repos": [
+        "valentderah/totk-pc-recomp",
         "JustAResearcher/gpu-unlock-ada",
         "JustAResearcher/gpu-unlock-ada",
         "oosexgang/hackios-xnu-kernel",
@@ -56316,9 +56844,10 @@
       ]
     },
     "Go": {
-      "count": 81,
-      "total_stars": 139174,
+      "count": 82,
+      "total_stars": 139977,
       "repos": [
+        "paipiange/nvzhuang",
         "DrWhax/unfairplay",
         "yetone/magpie",
         "feder-cr/git-ai",
@@ -56458,6 +56987,34 @@
         "tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark"
       ]
     },
+    "Lean": {
+      "count": 22,
+      "total_stars": 106699,
+      "repos": [
+        "openai/math",
+        "openai/math",
+        "openai/math",
+        "openai/math",
+        "openai/math",
+        "openai/math",
+        "openai/math",
+        "openai/NavierStokesAndEuler",
+        "openai/NavierStokesAndEuler",
+        "openai/NavierStokesAndEuler",
+        "openai/NavierStokesAndEuler",
+        "openai/NavierStokesAndEuler",
+        "anthropics/fermats-last-theorem",
+        "openai/NavierStokesAndEuler",
+        "anthropics/fermats-last-theorem",
+        "anthropics/fermats-last-theorem",
+        "tristanbuckmaster/fluid_lean",
+        "anthropics/fermats-last-theorem",
+        "anthropics/fermats-last-theorem",
+        "anthropics/fermats-last-theorem",
+        "openai/ten-proofs",
+        "openai/ten-proofs"
+      ]
+    },
     "Kotlin": {
       "count": 22,
       "total_stars": 56878,
@@ -56541,33 +57098,6 @@
         "PostmanReminisce/Wisp-VPN"
       ]
     },
-    "Lean": {
-      "count": 21,
-      "total_stars": 89606,
-      "repos": [
-        "openai/math",
-        "openai/math",
-        "openai/math",
-        "openai/math",
-        "openai/math",
-        "openai/math",
-        "openai/NavierStokesAndEuler",
-        "openai/NavierStokesAndEuler",
-        "openai/NavierStokesAndEuler",
-        "openai/NavierStokesAndEuler",
-        "openai/NavierStokesAndEuler",
-        "anthropics/fermats-last-theorem",
-        "openai/NavierStokesAndEuler",
-        "anthropics/fermats-last-theorem",
-        "anthropics/fermats-last-theorem",
-        "tristanbuckmaster/fluid_lean",
-        "anthropics/fermats-last-theorem",
-        "anthropics/fermats-last-theorem",
-        "anthropics/fermats-last-theorem",
-        "openai/ten-proofs",
-        "openai/ten-proofs"
-      ]
-    },
     "CSS": {
       "count": 11,
       "total_stars": 7821,
@@ -56617,6 +57147,21 @@
         "alexafinode/claude-arbitrage-bot"
       ]
     },
+    "Dart": {
+      "count": 9,
+      "total_stars": 4023,
+      "repos": [
+        "ccch1mneyyy/dsh-Go",
+        "lordsinstitute/star-projects",
+        "v-modal/vmodal_sdk_flutter",
+        "v-modal/vmodal_sdk_flutter",
+        "v-modal/vmodal_sdk_flutter",
+        "std-microblock/NovelHub",
+        "std-microblock/NovelHub",
+        "std-microblock/NovelHub",
+        "iebb/mithka"
+      ]
+    },
     "PowerShell": {
       "count": 9,
       "total_stars": 23750,
@@ -56644,20 +57189,6 @@
         "bryllim/workout-guide",
         "bryllim/workout-guide",
         "bryllim/workout-guide"
-      ]
-    },
-    "Dart": {
-      "count": 8,
-      "total_stars": 2381,
-      "repos": [
-        "lordsinstitute/star-projects",
-        "v-modal/vmodal_sdk_flutter",
-        "v-modal/vmodal_sdk_flutter",
-        "v-modal/vmodal_sdk_flutter",
-        "std-microblock/NovelHub",
-        "std-microblock/NovelHub",
-        "std-microblock/NovelHub",
-        "iebb/mithka"
       ]
     },
     "PHP": {
@@ -56755,6 +57286,15 @@
         "BottomKomodoCorridor/youtube-unban"
       ]
     },
+    "Lua": {
+      "count": 3,
+      "total_stars": 1025,
+      "repos": [
+        "kevinraymond/florilegium",
+        "DramaticShape/DramaticShapeVoxelMod",
+        "DramaticShape/DramaticShapeVoxelMod"
+      ]
+    },
     "Jupyter Notebook": {
       "count": 3,
       "total_stars": 185,
@@ -56798,14 +57338,6 @@
         "diinki/linux-antiquity"
       ]
     },
-    "Lua": {
-      "count": 2,
-      "total_stars": 988,
-      "repos": [
-        "DramaticShape/DramaticShapeVoxelMod",
-        "DramaticShape/DramaticShapeVoxelMod"
-      ]
-    },
     "Makefile": {
       "count": 1,
       "total_stars": 15,
@@ -56822,6 +57354,11 @@
     }
   },
   "date_stats": {
+    "2026-10-30": {
+      "count": 30,
+      "total_stars": 170691,
+      "ai_count": 0
+    },
     "2026-10-29": {
       "count": 30,
       "total_stars": 225357,
