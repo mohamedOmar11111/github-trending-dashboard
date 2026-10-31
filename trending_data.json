@@ -1,9 +1,547 @@
 {
-  "last_updated": "2026-10-30T11:44:52.505421",
-  "total_repos": 3242,
-  "total_dates": 110,
+  "last_updated": "2026-10-31T11:18:45.656966",
+  "total_repos": 3272,
+  "total_dates": 111,
   "total_unique_languages": 37,
   "repos": [
+    {
+      "name": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "stars": 5512,
+      "language": "Unknown",
+      "created": "2026-10-25",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "stars": 4368,
+      "language": "TypeScript",
+      "created": "2026-10-27",
+      "topics": [
+        "ai-art",
+        "chinese",
+        "cloudflare-pages",
+        "gallery",
+        "i18n",
+        "pose",
+        "reference-images",
+        "static-site"
+      ],
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "stars": 3933,
+      "language": "Python",
+      "created": "2026-10-25",
+      "topics": [],
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "stars": 3471,
+      "language": "TypeScript",
+      "created": "2026-10-25",
+      "topics": [
+        "chinese",
+        "dataset",
+        "english-learning",
+        "flashcards",
+        "fsrs",
+        "ielts",
+        "language-learning",
+        "pwa",
+        "react",
+        "spaced-repetition",
+        "vocabulary",
+        "webgl"
+      ],
+      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "stars": 3160,
+      "language": "Dart",
+      "created": "2026-10-25",
+      "topics": [
+        "ai-agent",
+        "android",
+        "android-app",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-tui",
+        "flutter",
+        "llm"
+      ],
+      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "stars": 2246,
+      "language": "JavaScript",
+      "created": "2026-10-29",
+      "topics": [],
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "stars": 2092,
+      "language": "Kotlin",
+      "created": "2026-10-29",
+      "topics": [
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation",
+        "jetpack-compose",
+        "kotlin",
+        "llm",
+        "mobile-agent"
+      ],
+      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "stars": 2049,
+      "language": "C",
+      "created": "2026-10-29",
+      "topics": [],
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "qybaihe/bla",
+      "url": "https://github.com/qybaihe/bla",
+      "stars": 1588,
+      "language": "TypeScript",
+      "created": "2026-10-25",
+      "topics": [
+        "adversarial-ai",
+        "claude-code",
+        "cursor",
+        "electron-security",
+        "llm-security",
+        "mcp",
+        "mcp-server",
+        "obfuscation",
+        "reverse-engineering",
+        "webassembly"
+      ],
+      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "stars": 1569,
+      "language": "TypeScript",
+      "created": "2026-10-26",
+      "topics": [],
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "paipiange/nvzhuang",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "stars": 1504,
+      "language": "Go",
+      "created": "2026-10-29",
+      "topics": [],
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "aschmelyun/print-my-profile-pic",
+      "url": "https://github.com/aschmelyun/print-my-profile-pic",
+      "stars": 1374,
+      "language": "Unknown",
+      "created": "2026-10-27",
+      "topics": [],
+      "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "DenisSergeevitch/ex-ussr-kinship-research",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "stars": 1373,
+      "language": "Python",
+      "created": "2026-10-25",
+      "topics": [
+        "agent-skills",
+        "archives",
+        "claude-code",
+        "codex",
+        "family-history",
+        "familysearch",
+        "genealogy",
+        "ussr"
+      ],
+      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Motionsites-AI/claude-skill",
+      "url": "https://github.com/Motionsites-AI/claude-skill",
+      "stars": 1229,
+      "language": "Python",
+      "created": "2026-10-26",
+      "topics": [],
+      "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lexifina/global-law",
+      "url": "https://github.com/lexifina/global-law",
+      "stars": 1203,
+      "language": "HTML",
+      "created": "2026-10-28",
+      "topics": [],
+      "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "smithjohn78390/tongjiang-lab",
+      "url": "https://github.com/smithjohn78390/tongjiang-lab",
+      "stars": 1136,
+      "language": "HTML",
+      "created": "2026-10-28",
+      "topics": [
+        "3d",
+        "biology",
+        "chemistry",
+        "education",
+        "geography",
+        "high-school",
+        "interactive",
+        "open-educational-resources",
+        "physics",
+        "threejs",
+        "webgl"
+      ],
+      "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepopen-com/deepopen-3d-webs",
+      "url": "https://github.com/deepopen-com/deepopen-3d-webs",
+      "stars": 1093,
+      "language": "Python",
+      "created": "2026-10-26",
+      "topics": [
+        "3d",
+        "gaussian-filter",
+        "gaussian-splatting"
+      ],
+      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "KillaBoi/StealMyBitcoin-PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "stars": 1019,
+      "language": "Python",
+      "created": "2026-10-25",
+      "topics": [],
+      "description": "A public release of the Steal My Bitcoin challenge",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ZiChuanLan/agent-purge",
+      "url": "https://github.com/ZiChuanLan/agent-purge",
+      "stars": 928,
+      "language": "JavaScript",
+      "created": "2026-10-25",
+      "topics": [
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "deepseek-harness",
+        "harness",
+        "omp",
+        "opencode",
+        "pi",
+        "system-prompt"
+      ],
+      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kevinraymond/florilegium",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "stars": 918,
+      "language": "Lua",
+      "created": "2026-10-30",
+      "topics": [],
+      "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+      "date": "2026-10-31",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
+      "url": "https://github.com/TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
+      "stars": 300,
+      "language": "Python",
+      "created": "2026-10-31",
+      "topics": [
+        "2026",
+        "account-manager",
+        "configuration",
+        "multi-account",
+        "open-source",
+        "profile-manager",
+        "roblox",
+        "roblox-tool",
+        "session-manager"
+      ],
+      "description": "Powerful Roblox Account Manager for easy multi-account control. Switch accounts, manage sessions and organize profiles with a clean interface. Simple setup and regularly updated.",
+      "date": "2026-10-31",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "joeblau/subvox",
+      "url": "https://github.com/joeblau/subvox",
+      "stars": 135,
+      "language": "Swift",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-31",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "darkareaminaret/MetaTrader-5-Bot",
+      "url": "https://github.com/darkareaminaret/MetaTrader-5-Bot",
+      "stars": 109,
+      "language": "Unknown",
+      "created": "2026-10-31",
+      "topics": [
+        "automation",
+        "background-process",
+        "developer-tools",
+        "metatrader5-no-gui",
+        "mt5-api",
+        "mt5-bot",
+        "mt5-ea",
+        "mt5-headless",
+        "mt5-no-gui",
+        "mt5-python",
+        "mt5-run-background",
+        "mt5-stealth",
+        "mt5-stealth-mode",
+        "open-source",
+        "pymt5",
+        "pymt5-application",
+        "python",
+        "scripts",
+        "software-engineering",
+        "xauusd"
+      ],
+      "description": "Metatrader 5 Bot 2026: Full working installer with automated trading scripts ready to run.",
+      "date": "2026-10-31",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mythicassemblyladle/RX-11-Audio-Editor",
+      "url": "https://github.com/mythicassemblyladle/RX-11-Audio-Editor",
+      "stars": 105,
+      "language": "Unknown",
+      "created": "2026-10-31",
+      "topics": [
+        "audio-mastering",
+        "audio-restoration",
+        "automation",
+        "descript-pro",
+        "desktop",
+        "developer-tools",
+        "music-production-for-beginners",
+        "open-source",
+        "podcast-audio-fix",
+        "podcast-editor",
+        "python",
+        "scripts",
+        "software-engineering",
+        "stem-separation",
+        "system",
+        "trial-software",
+        "utility",
+        "windows-app"
+      ],
+      "description": "Rx 11 Audio Editor 2026 complete standalone installation setup. Ready-to-run desktop edition with all features unlocked.",
+      "date": "2026-10-31",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Pointoocupola/Hwid-Spoofer",
+      "url": "https://github.com/Pointoocupola/Hwid-Spoofer",
+      "stars": 104,
+      "language": "Unknown",
+      "created": "2026-10-31",
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "disk-serial-changer",
+        "dse-bypass",
+        "latency-fix",
+        "mac-address-generator",
+        "open-source",
+        "patchguard-bypass",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "description": "Complete standalone setup for Hwid Spoofer Free, pre-activated and ready to run.",
+      "date": "2026-10-31",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "stars": 47266,
+      "language": "Python",
+      "created": "2026-10-17",
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal",
+        "claude-code",
+        "debloat",
+        "fire-tv",
+        "google-tv",
+        "launcher",
+        "privacy",
+        "smart-tv",
+        "sony-bravia",
+        "tcl",
+        "vibe-coding",
+        "xiaomi"
+      ],
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "date": "2026-10-31",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "stars": 24581,
+      "language": "Python",
+      "created": "2026-10-16",
+      "topics": [],
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "date": "2026-10-31",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "stars": 23142,
+      "language": "JavaScript",
+      "created": "2026-10-08",
+      "topics": [
+        "agent-skill",
+        "open-source",
+        "svg",
+        "vizualization"
+      ],
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "date": "2026-10-31",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "google-research/harness2",
+      "url": "https://github.com/google-research/harness2",
+      "stars": 21561,
+      "language": "Python",
+      "created": "2026-10-06",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-31",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "openai/math",
+      "url": "https://github.com/openai/math",
+      "stars": 17158,
+      "language": "Lean",
+      "created": "2026-10-06",
+      "topics": [],
+      "description": "",
+      "date": "2026-10-31",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
@@ -52901,6 +53439,15 @@
     }
   ],
   "metadata": {
+    "2026-10-31": {
+      "ai_relevant_count": 11,
+      "top_ai_pick": {
+        "name": "anhao/ai-pose-gallery-zh",
+        "url": "https://github.com/anhao/ai-pose-gallery-zh",
+        "stars": 4368,
+        "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
+      }
+    },
     "2026-10-30": {
       "ai_relevant_count": 13,
       "top_ai_pick": {
@@ -53889,9 +54436,18 @@
   },
   "language_stats": {
     "Python": {
-      "count": 980,
-      "total_stars": 4132586,
+      "count": 989,
+      "total_stars": 4234941,
       "repos": [
+        "interplains/Zero-Breach-Toolkit",
+        "DenisSergeevitch/ex-ussr-kinship-research",
+        "Motionsites-AI/claude-skill",
+        "deepopen-com/deepopen-3d-webs",
+        "KillaBoi/StealMyBitcoin-PoC",
+        "TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
+        "Gathin23/cleanyourtv",
+        "deepseek-ai/DeepInfer",
+        "google-research/harness2",
         "rddmwmddr/android-ad-cleaner",
         "interplains/Zero-Breach-Toolkit",
         "t3dotgg/tstack",
@@ -54875,9 +55431,13 @@
       ]
     },
     "TypeScript": {
-      "count": 590,
-      "total_stars": 7142517,
+      "count": 594,
+      "total_stars": 7153513,
       "repos": [
+        "anhao/ai-pose-gallery-zh",
+        "designfuchen/word-atlas",
+        "qybaihe/bla",
+        "andyhuo520/digital-human-koubo",
         "designfuchen/word-atlas",
         "andyhuo520/digital-human-koubo",
         "qybaihe/bla",
@@ -55471,9 +56031,12 @@
       ]
     },
     "JavaScript": {
-      "count": 390,
-      "total_stars": 1481433,
+      "count": 393,
+      "total_stars": 1507749,
       "repos": [
+        "heydamir/unslop",
+        "ZiChuanLan/agent-purge",
+        "wheresryan22/anatomy",
         "ZiChuanLan/agent-purge",
         "patch-gg/pixelfx",
         "wheresryan22/anatomy",
@@ -55867,9 +56430,14 @@
       ]
     },
     "Unknown": {
-      "count": 271,
-      "total_stars": 246962,
+      "count": 276,
+      "total_stars": 254166,
       "repos": [
+        "unclebob/ub-mode",
+        "aschmelyun/print-my-profile-pic",
+        "darkareaminaret/MetaTrader-5-Bot",
+        "mythicassemblyladle/RX-11-Audio-Editor",
+        "Pointoocupola/Hwid-Spoofer",
         "unclebob/ub-mode",
         "aschmelyun/print-my-profile-pic",
         "alchaincyf/huashu-bird-sticker",
@@ -56382,9 +56950,11 @@
       ]
     },
     "HTML": {
-      "count": 156,
-      "total_stars": 555070,
+      "count": 158,
+      "total_stars": 557409,
       "repos": [
+        "lexifina/global-law",
+        "smithjohn78390/tongjiang-lab",
         "anhao/ai-pose-gallery-zh",
         "smithjohn78390/tongjiang-lab",
         "anhao/ai-pose-gallery-zh",
@@ -56544,9 +57114,10 @@
       ]
     },
     "Swift": {
-      "count": 102,
-      "total_stars": 197171,
+      "count": 103,
+      "total_stars": 197306,
       "repos": [
+        "joeblau/subvox",
         "daveebbelaar/bama",
         "wesbos/3d-model-anything",
         "wesbos/3d-model-anything",
@@ -56652,9 +57223,10 @@
       ]
     },
     "C": {
-      "count": 96,
-      "total_stars": 365466,
+      "count": 97,
+      "total_stars": 367515,
       "repos": [
+        "valentderah/totk-pc-recomp",
         "valentderah/totk-pc-recomp",
         "JustAResearcher/gpu-unlock-ada",
         "JustAResearcher/gpu-unlock-ada",
@@ -56844,9 +57416,10 @@
       ]
     },
     "Go": {
-      "count": 82,
-      "total_stars": 139977,
+      "count": 83,
+      "total_stars": 141481,
       "repos": [
+        "paipiange/nvzhuang",
         "paipiange/nvzhuang",
         "DrWhax/unfairplay",
         "yetone/magpie",
@@ -56987,38 +57560,11 @@
         "tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark"
       ]
     },
-    "Lean": {
-      "count": 22,
-      "total_stars": 106699,
-      "repos": [
-        "openai/math",
-        "openai/math",
-        "openai/math",
-        "openai/math",
-        "openai/math",
-        "openai/math",
-        "openai/math",
-        "openai/NavierStokesAndEuler",
-        "openai/NavierStokesAndEuler",
-        "openai/NavierStokesAndEuler",
-        "openai/NavierStokesAndEuler",
-        "openai/NavierStokesAndEuler",
-        "anthropics/fermats-last-theorem",
-        "openai/NavierStokesAndEuler",
-        "anthropics/fermats-last-theorem",
-        "anthropics/fermats-last-theorem",
-        "tristanbuckmaster/fluid_lean",
-        "anthropics/fermats-last-theorem",
-        "anthropics/fermats-last-theorem",
-        "anthropics/fermats-last-theorem",
-        "openai/ten-proofs",
-        "openai/ten-proofs"
-      ]
-    },
     "Kotlin": {
-      "count": 22,
-      "total_stars": 56878,
+      "count": 23,
+      "total_stars": 58970,
       "repos": [
+        "wangzan101/Mika",
         "addozhang/leancast",
         "pengchujin/aerial-tv",
         "pengchujin/aerial-tv",
@@ -57041,6 +57587,35 @@
         "Chuloo/mural",
         "Supersonic/TLPE",
         "sam1am/localdex"
+      ]
+    },
+    "Lean": {
+      "count": 23,
+      "total_stars": 123857,
+      "repos": [
+        "openai/math",
+        "openai/math",
+        "openai/math",
+        "openai/math",
+        "openai/math",
+        "openai/math",
+        "openai/math",
+        "openai/math",
+        "openai/NavierStokesAndEuler",
+        "openai/NavierStokesAndEuler",
+        "openai/NavierStokesAndEuler",
+        "openai/NavierStokesAndEuler",
+        "openai/NavierStokesAndEuler",
+        "anthropics/fermats-last-theorem",
+        "openai/NavierStokesAndEuler",
+        "anthropics/fermats-last-theorem",
+        "anthropics/fermats-last-theorem",
+        "tristanbuckmaster/fluid_lean",
+        "anthropics/fermats-last-theorem",
+        "anthropics/fermats-last-theorem",
+        "anthropics/fermats-last-theorem",
+        "openai/ten-proofs",
+        "openai/ten-proofs"
       ]
     },
     "Java": {
@@ -57115,6 +57690,22 @@
         "spiritov/ds.css"
       ]
     },
+    "Dart": {
+      "count": 10,
+      "total_stars": 7183,
+      "repos": [
+        "ccch1mneyyy/dsh-Go",
+        "ccch1mneyyy/dsh-Go",
+        "lordsinstitute/star-projects",
+        "v-modal/vmodal_sdk_flutter",
+        "v-modal/vmodal_sdk_flutter",
+        "v-modal/vmodal_sdk_flutter",
+        "std-microblock/NovelHub",
+        "std-microblock/NovelHub",
+        "std-microblock/NovelHub",
+        "iebb/mithka"
+      ]
+    },
     "Markdown": {
       "count": 10,
       "total_stars": 6736,
@@ -57145,21 +57736,6 @@
         "MIgHTy-alIeN/MEV-Arbitrage-Bot",
         "MIgHTy-alIeN/Trading-Bot",
         "alexafinode/claude-arbitrage-bot"
-      ]
-    },
-    "Dart": {
-      "count": 9,
-      "total_stars": 4023,
-      "repos": [
-        "ccch1mneyyy/dsh-Go",
-        "lordsinstitute/star-projects",
-        "v-modal/vmodal_sdk_flutter",
-        "v-modal/vmodal_sdk_flutter",
-        "v-modal/vmodal_sdk_flutter",
-        "std-microblock/NovelHub",
-        "std-microblock/NovelHub",
-        "std-microblock/NovelHub",
-        "iebb/mithka"
       ]
     },
     "PowerShell": {
@@ -57266,6 +57842,16 @@
         "unicity-astrid/book"
       ]
     },
+    "Lua": {
+      "count": 4,
+      "total_stars": 1943,
+      "repos": [
+        "kevinraymond/florilegium",
+        "kevinraymond/florilegium",
+        "DramaticShape/DramaticShapeVoxelMod",
+        "DramaticShape/DramaticShapeVoxelMod"
+      ]
+    },
     "Vue": {
       "count": 4,
       "total_stars": 1594,
@@ -57284,15 +57870,6 @@
         "HydromancerRoute/DiscordFix",
         "BottomKomodoCorridor/telegram-fix-2.0.0",
         "BottomKomodoCorridor/youtube-unban"
-      ]
-    },
-    "Lua": {
-      "count": 3,
-      "total_stars": 1025,
-      "repos": [
-        "kevinraymond/florilegium",
-        "DramaticShape/DramaticShapeVoxelMod",
-        "DramaticShape/DramaticShapeVoxelMod"
       ]
     },
     "Jupyter Notebook": {
@@ -57354,6 +57931,11 @@
     }
   },
   "date_stats": {
+    "2026-10-31": {
+      "count": 30,
+      "total_stars": 176226,
+      "ai_count": 0
+    },
     "2026-10-30": {
       "count": 30,
       "total_stars": 170691,
