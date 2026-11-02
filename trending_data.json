@@ -1,9 +1,549 @@
 {
-  "last_updated": "2026-11-01T12:08:39.192439",
-  "total_repos": 3302,
-  "total_dates": 112,
+  "last_updated": "2026-11-02T13:57:56.962102",
+  "total_repos": 3332,
+  "total_dates": 113,
   "total_unique_languages": 37,
   "repos": [
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "stars": 11656,
+      "language": "TypeScript",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Towards a More Autonomous Agent System",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "stars": 5589,
+      "language": "JavaScript",
+      "created": "2026-10-29",
+      "topics": [],
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "stars": 5427,
+      "language": "TypeScript",
+      "created": "2026-10-27",
+      "topics": [
+        "ai-art",
+        "chinese",
+        "cloudflare-pages",
+        "gallery",
+        "i18n",
+        "pose",
+        "reference-images",
+        "static-site"
+      ],
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "stars": 4966,
+      "language": "Kotlin",
+      "created": "2026-10-29",
+      "topics": [
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation",
+        "jetpack-compose",
+        "kotlin",
+        "llm",
+        "mobile-agent"
+      ],
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "stars": 3661,
+      "language": "C",
+      "created": "2026-10-29",
+      "topics": [],
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "stars": 3245,
+      "language": "JavaScript",
+      "created": "2026-10-30",
+      "topics": [
+        "agent-skills",
+        "animation",
+        "canvas",
+        "claude-code-plugin",
+        "gamedev",
+        "pixel-art",
+        "sprite-sheet",
+        "vfx"
+      ],
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "stars": 2608,
+      "language": "Rust",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Djihads80/Eglantine",
+      "url": "https://github.com/Djihads80/Eglantine",
+      "stars": 2255,
+      "language": "C++",
+      "created": "2026-10-29",
+      "topics": [],
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "haydenschmitty/floorplan",
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "stars": 2076,
+      "language": "JavaScript",
+      "created": "2026-10-27",
+      "topics": [
+        "ai-coding",
+        "architecture-diagram",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "codebase-visualization",
+        "codex",
+        "codex-plugin",
+        "developer-tools",
+        "onboarding",
+        "openai",
+        "vibe-coding"
+      ],
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "paipiange/nvzhuang",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "stars": 2029,
+      "language": "Go",
+      "created": "2026-10-29",
+      "topics": [],
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "aschmelyun/print-my-profile-pic",
+      "url": "https://github.com/aschmelyun/print-my-profile-pic",
+      "stars": 1724,
+      "language": "Unknown",
+      "created": "2026-10-27",
+      "topics": [],
+      "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lexifina/global-law",
+      "url": "https://github.com/lexifina/global-law",
+      "stars": 1658,
+      "language": "HTML",
+      "created": "2026-10-28",
+      "topics": [],
+      "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "BryceYuuu/RUN",
+      "url": "https://github.com/BryceYuuu/RUN",
+      "stars": 1431,
+      "language": "Python",
+      "created": "2026-10-29",
+      "topics": [],
+      "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "smithjohn78390/tongjiang-lab",
+      "url": "https://github.com/smithjohn78390/tongjiang-lab",
+      "stars": 1417,
+      "language": "HTML",
+      "created": "2026-10-28",
+      "topics": [
+        "3d",
+        "biology",
+        "chemistry",
+        "education",
+        "geography",
+        "high-school",
+        "interactive",
+        "open-educational-resources",
+        "physics",
+        "threejs",
+        "webgl"
+      ],
+      "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kevinraymond/florilegium",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "stars": 1338,
+      "language": "Lua",
+      "created": "2026-10-30",
+      "topics": [
+        "generative-art",
+        "latex",
+        "latex-package",
+        "lua",
+        "lualatex",
+        "postscript",
+        "procedural-generation",
+        "svg",
+        "typography"
+      ],
+      "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Arjun-Ingole/hop",
+      "url": "https://github.com/Arjun-Ingole/hop",
+      "stars": 1333,
+      "language": "PowerShell",
+      "created": "2026-10-30",
+      "topics": [],
+      "description": "Install Linux next to Windows without a USB stick",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "modelflare-ai/AnyModelBot",
+      "url": "https://github.com/modelflare-ai/AnyModelBot",
+      "stars": 1280,
+      "language": "TypeScript",
+      "created": "2026-10-27",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "chatbot",
+        "claude",
+        "computer-use",
+        "deepseek",
+        "desktop-app",
+        "dsh",
+        "electron",
+        "feishu",
+        "gemini",
+        "gpt",
+        "grok",
+        "llm",
+        "local-first",
+        "modelflare",
+        "multi-model",
+        "openai-compatible",
+        "personal-ai-agent",
+        "wechat"
+      ],
+      "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "elvarofficial/teardown",
+      "url": "https://github.com/elvarofficial/teardown",
+      "stars": 1134,
+      "language": "JavaScript",
+      "created": "2026-10-30",
+      "topics": [],
+      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "HRuiCcc/RuiC-PoseAtlas",
+      "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
+      "stars": 1035,
+      "language": "JavaScript",
+      "created": "2026-10-28",
+      "topics": [
+        "3d-modeling",
+        "ai-art",
+        "art-reference",
+        "gallery",
+        "photography",
+        "pose-reference",
+        "ruic",
+        "static-site",
+        "trilingual",
+        "vanilla-javascript"
+      ],
+      "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Verlintas/NOIR",
+      "url": "https://github.com/Verlintas/NOIR",
+      "stars": 965,
+      "language": "Kotlin",
+      "created": "2026-10-31",
+      "topics": [
+        "adb",
+        "android",
+        "android-privacy",
+        "android-security",
+        "android-tools",
+        "apk-analysis",
+        "bloatware",
+        "cli",
+        "cross-platform",
+        "debloat",
+        "jadx",
+        "kotlin",
+        "kotlin-multiplatform",
+        "privacy",
+        "privacy-tools",
+        "security-audit",
+        "static-analysis",
+        "telemetry",
+        "terminal-ui",
+        "tui"
+      ],
+      "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "date": "2026-11-02",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "AssassinCreator/steam-stash-value-report-card",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "stars": 470,
+      "language": "Python",
+      "created": "2026-11-02",
+      "topics": [
+        "cli",
+        "inventory",
+        "price-check",
+        "python",
+        "report-card",
+        "steam",
+        "steam-market",
+        "valuation"
+      ],
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "date": "2026-11-02",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wideeyededi/uncensored-nsfw-ai-video-api",
+      "url": "https://github.com/wideeyededi/uncensored-nsfw-ai-video-api",
+      "stars": 415,
+      "language": "Unknown",
+      "created": "2026-11-02",
+      "topics": [
+        "123vips",
+        "ai-api",
+        "ai-companion",
+        "ai-video",
+        "ai-video-api",
+        "ai-video-generator",
+        "comfyui",
+        "image-to-video",
+        "nsfw",
+        "nsfw-ai",
+        "seedance",
+        "seedance-api",
+        "spicy",
+        "text-to-video",
+        "uncensored",
+        "uncensored-ai",
+        "video-api",
+        "video-generation",
+        "wan",
+        "wan-video"
+      ],
+      "description": "Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-video / image-to-video: async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分计费、接入指南。",
+      "date": "2026-11-02",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "maxwilsoneng2098t9/pdf-compressor-offline",
+      "url": "https://github.com/maxwilsoneng2098t9/pdf-compressor-offline",
+      "stars": 300,
+      "language": "Python",
+      "created": "2026-11-02",
+      "topics": [
+        "2026",
+        "batch-compression",
+        "compress-pdf",
+        "offline-pdf-tool",
+        "open-source",
+        "pdf-compression",
+        "pdf-compressor",
+        "pdf-optimizer",
+        "reduce-pdf-size"
+      ],
+      "description": "Offline PDF compressor for Windows 2026. Reduce PDF file size up to 90% with minimal quality loss. Supports batch mode, drag & drop and works without internet connection.",
+      "date": "2026-11-02",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "davidlopez-x05x8/minecraft-aim-assist",
+      "url": "https://github.com/davidlopez-x05x8/minecraft-aim-assist",
+      "stars": 300,
+      "language": "Python",
+      "created": "2026-11-02",
+      "topics": [
+        "minecraft"
+      ],
+      "description": "Minecraft Aim Assist 2026 — Smooth aiming assistance for 1.21.4 Fabric. Adaptive tracking, customizable FOV, visibility check and clean UI. Easy install, regularly updated",
+      "date": "2026-11-02",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "justrach/nanolight",
+      "url": "https://github.com/justrach/nanolight",
+      "stars": 117,
+      "language": "Zig",
+      "created": "2026-11-02",
+      "topics": [],
+      "description": "A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X",
+      "date": "2026-11-02",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "stars": 49880,
+      "language": "Python",
+      "created": "2026-10-17",
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal",
+        "claude-code",
+        "debloat",
+        "fire-tv",
+        "google-tv",
+        "launcher",
+        "privacy",
+        "smart-tv",
+        "sony-bravia",
+        "tcl",
+        "vibe-coding",
+        "xiaomi"
+      ],
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "date": "2026-11-02",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "stars": 24981,
+      "language": "Python",
+      "created": "2026-10-16",
+      "topics": [],
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "date": "2026-11-02",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "stars": 24010,
+      "language": "JavaScript",
+      "created": "2026-10-08",
+      "topics": [
+        "agent-skill",
+        "open-source",
+        "svg",
+        "vizualization"
+      ],
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "date": "2026-11-02",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "google-research/harness2",
+      "url": "https://github.com/google-research/harness2",
+      "stars": 22034,
+      "language": "Python",
+      "created": "2026-10-06",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-02",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "openai/math",
+      "url": "https://github.com/openai/math",
+      "stars": 17267,
+      "language": "Lean",
+      "created": "2026-10-06",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-02",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
@@ -53988,6 +54528,15 @@
     }
   ],
   "metadata": {
+    "2026-11-02": {
+      "ai_relevant_count": 12,
+      "top_ai_pick": {
+        "name": "deepseek-ai/dsh-superagent-prototype",
+        "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+        "stars": 11656,
+        "description": "Towards a More Autonomous Agent System"
+      }
+    },
     "2026-11-01": {
       "ai_relevant_count": 11,
       "top_ai_pick": {
@@ -54994,9 +55543,16 @@
   },
   "language_stats": {
     "Python": {
-      "count": 995,
-      "total_stars": 4333451,
+      "count": 1002,
+      "total_stars": 4432847,
       "repos": [
+        "BryceYuuu/RUN",
+        "AssassinCreator/steam-stash-value-report-card",
+        "maxwilsoneng2098t9/pdf-compressor-offline",
+        "davidlopez-x05x8/minecraft-aim-assist",
+        "Gathin23/cleanyourtv",
+        "deepseek-ai/DeepInfer",
+        "google-research/harness2",
         "Motionsites-AI/claude-skill",
         "deepopen-com/deepopen-3d-webs",
         "BryceYuuu/RUN",
@@ -55995,9 +56551,12 @@
       ]
     },
     "TypeScript": {
-      "count": 598,
-      "total_stars": 7166283,
+      "count": 601,
+      "total_stars": 7184646,
       "repos": [
+        "deepseek-ai/dsh-superagent-prototype",
+        "anhao/ai-pose-gallery-zh",
+        "modelflare-ai/AnyModelBot",
         "deepseek-ai/dsh-superagent-prototype",
         "anhao/ai-pose-gallery-zh",
         "andyhuo520/digital-human-koubo",
@@ -56599,9 +57158,15 @@
       ]
     },
     "JavaScript": {
-      "count": 398,
-      "total_stars": 1539505,
+      "count": 404,
+      "total_stars": 1576594,
       "repos": [
+        "heydamir/unslop",
+        "patch-gg/pixelfx",
+        "haydenschmitty/floorplan",
+        "elvarofficial/teardown",
+        "HRuiCcc/RuiC-PoseAtlas",
+        "wheresryan22/anatomy",
         "heydamir/unslop",
         "patch-gg/pixelfx",
         "haydenschmitty/floorplan",
@@ -57003,9 +57568,11 @@
       ]
     },
     "Unknown": {
-      "count": 282,
-      "total_stars": 256852,
+      "count": 284,
+      "total_stars": 258991,
       "repos": [
+        "aschmelyun/print-my-profile-pic",
+        "wideeyededi/uncensored-nsfw-ai-video-api",
         "aschmelyun/print-my-profile-pic",
         "Speedzyaminaret/UnlockTool",
         "ConsciousnessVision/Touch-Copy",
@@ -57291,9 +57858,10 @@
       ]
     },
     "Rust": {
-      "count": 232,
-      "total_stars": 2502849,
+      "count": 233,
+      "total_stars": 2505457,
       "repos": [
+        "storytold/craft-anything",
         "mizorewww/gdirect",
         "storytold/photocraft",
         "mizorewww/gdirect",
@@ -57529,9 +58097,11 @@
       ]
     },
     "HTML": {
-      "count": 160,
-      "total_stars": 560139,
+      "count": 162,
+      "total_stars": 563214,
       "repos": [
+        "lexifina/global-law",
+        "smithjohn78390/tongjiang-lab",
         "lexifina/global-law",
         "smithjohn78390/tongjiang-lab",
         "lexifina/global-law",
@@ -57804,9 +58374,10 @@
       ]
     },
     "C": {
-      "count": 98,
-      "total_stars": 370393,
+      "count": 99,
+      "total_stars": 374054,
       "repos": [
+        "valentderah/totk-pc-recomp",
         "valentderah/totk-pc-recomp",
         "valentderah/totk-pc-recomp",
         "valentderah/totk-pc-recomp",
@@ -57908,9 +58479,10 @@
       ]
     },
     "C++": {
-      "count": 85,
-      "total_stars": 472329,
+      "count": 86,
+      "total_stars": 474584,
       "repos": [
+        "Djihads80/Eglantine",
         "Djihads80/Eglantine",
         "Shagg88/COGBox",
         "Niko1221/Strata",
@@ -57999,9 +58571,10 @@
       ]
     },
     "Go": {
-      "count": 84,
-      "total_stars": 143309,
+      "count": 85,
+      "total_stars": 145338,
       "repos": [
+        "paipiange/nvzhuang",
         "paipiange/nvzhuang",
         "paipiange/nvzhuang",
         "paipiange/nvzhuang",
@@ -58145,9 +58718,11 @@
       ]
     },
     "Kotlin": {
-      "count": 24,
-      "total_stars": 62287,
+      "count": 26,
+      "total_stars": 68218,
       "repos": [
+        "wangzan101/Mika",
+        "Verlintas/NOIR",
         "wangzan101/Mika",
         "wangzan101/Mika",
         "addozhang/leancast",
@@ -58175,9 +58750,10 @@
       ]
     },
     "Lean": {
-      "count": 24,
-      "total_stars": 141082,
+      "count": 25,
+      "total_stars": 158349,
       "repos": [
+        "openai/math",
         "openai/math",
         "openai/math",
         "openai/math",
@@ -58259,6 +58835,23 @@
         "PostmanReminisce/Wisp-VPN"
       ]
     },
+    "PowerShell": {
+      "count": 11,
+      "total_stars": 26014,
+      "repos": [
+        "Arjun-Ingole/hop",
+        "Arjun-Ingole/hop",
+        "Mayuqi-crypto/everything-search-skill",
+        "Foadsf/vintage-latex",
+        "yjh051108/dsh-routing-suite",
+        "yjh051108/dsh-routing-suite",
+        "yjh051108/dsh-routing-suite",
+        "yjh051108/dsh-routing-suite",
+        "yjh051108/dsh-routing-suite",
+        "olicesx/kixparadigm",
+        "tybhy/tybhy-workflow"
+      ]
+    },
     "CSS": {
       "count": 11,
       "total_stars": 7821,
@@ -58274,22 +58867,6 @@
         "MetaMask-AI/metamask-desktop",
         "MetaMask-AI/metamask-desktop",
         "spiritov/ds.css"
-      ]
-    },
-    "PowerShell": {
-      "count": 10,
-      "total_stars": 24681,
-      "repos": [
-        "Arjun-Ingole/hop",
-        "Mayuqi-crypto/everything-search-skill",
-        "Foadsf/vintage-latex",
-        "yjh051108/dsh-routing-suite",
-        "yjh051108/dsh-routing-suite",
-        "yjh051108/dsh-routing-suite",
-        "yjh051108/dsh-routing-suite",
-        "yjh051108/dsh-routing-suite",
-        "olicesx/kixparadigm",
-        "tybhy/tybhy-workflow"
       ]
     },
     "Dart": {
@@ -58368,6 +58945,19 @@
         "THARUNRAJ15/Student-Expense-Tracker"
       ]
     },
+    "Zig": {
+      "count": 7,
+      "total_stars": 7012,
+      "repos": [
+        "justrach/nanolight",
+        "xrarlenal/godot-lunastream",
+        "duty1g/x64dbg-mcp-server",
+        "duty1g/x64dbg-mcp-server",
+        "duty1g/x64dbg-mcp-server",
+        "duty1g/x64dbg-mcp-server",
+        "duty1g/x64dbg-mcp-server"
+      ]
+    },
     "Dockerfile": {
       "count": 7,
       "total_stars": 5369,
@@ -58381,6 +58971,18 @@
         "x4gKing/Marzban-Node"
       ]
     },
+    "Lua": {
+      "count": 6,
+      "total_stars": 4495,
+      "repos": [
+        "kevinraymond/florilegium",
+        "kevinraymond/florilegium",
+        "kevinraymond/florilegium",
+        "kevinraymond/florilegium",
+        "DramaticShape/DramaticShapeVoxelMod",
+        "DramaticShape/DramaticShapeVoxelMod"
+      ]
+    },
     "Objective-C": {
       "count": 6,
       "total_stars": 2033,
@@ -58391,18 +58993,6 @@
         "nfzerox/VirtualMacOniPad",
         "nfzerox/VirtualMacOniPad",
         "nfzerox/VirtualMacOniPad"
-      ]
-    },
-    "Zig": {
-      "count": 6,
-      "total_stars": 6895,
-      "repos": [
-        "xrarlenal/godot-lunastream",
-        "duty1g/x64dbg-mcp-server",
-        "duty1g/x64dbg-mcp-server",
-        "duty1g/x64dbg-mcp-server",
-        "duty1g/x64dbg-mcp-server",
-        "duty1g/x64dbg-mcp-server"
       ]
     },
     "TeX": {
@@ -58427,17 +59017,6 @@
         "unicity-astrid/book",
         "unicity-astrid/book",
         "unicity-astrid/book"
-      ]
-    },
-    "Lua": {
-      "count": 5,
-      "total_stars": 3157,
-      "repos": [
-        "kevinraymond/florilegium",
-        "kevinraymond/florilegium",
-        "kevinraymond/florilegium",
-        "DramaticShape/DramaticShapeVoxelMod",
-        "DramaticShape/DramaticShapeVoxelMod"
       ]
     },
     "Vue": {
@@ -58519,6 +59098,11 @@
     }
   },
   "date_stats": {
+    "2026-11-02": {
+      "count": 30,
+      "total_stars": 196601,
+      "ai_count": 0
+    },
     "2026-11-01": {
       "count": 30,
       "total_stars": 177427,
