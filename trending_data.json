@@ -1,9 +1,554 @@
 {
-  "last_updated": "2026-11-08T12:17:47.962420",
-  "total_repos": 3476,
-  "total_dates": 118,
+  "last_updated": "2026-11-09T14:29:53.893829",
+  "total_repos": 3506,
+  "total_dates": 119,
   "total_unique_languages": 37,
   "repos": [
+    {
+      "name": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "stars": 5136,
+      "language": "TypeScript",
+      "created": "2026-11-03",
+      "topics": [
+        "android",
+        "drama",
+        "free",
+        "movie-web-app",
+        "reels",
+        "windows"
+      ],
+      "description": "YellowFruit third-party client",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "stars": 4250,
+      "language": "TypeScript",
+      "created": "2026-11-03",
+      "topics": [
+        "ai-agents",
+        "automation",
+        "claude-code",
+        "cli",
+        "codex",
+        "event-driven",
+        "mcp",
+        "nodejs",
+        "self-hosted",
+        "typescript",
+        "workflow"
+      ],
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot",
+      "stars": 4038,
+      "language": "C++",
+      "created": "2026-11-05",
+      "topics": [],
+      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "url": "https://github.com/govijr/terminal-mac",
+      "stars": 2474,
+      "language": "Swift",
+      "created": "2026-11-03",
+      "topics": [
+        "cli",
+        "gui",
+        "macos",
+        "shell",
+        "swift",
+        "terminal",
+        "tui"
+      ],
+      "description": "Entire MacOS running in your terminal.",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "stars": 1958,
+      "language": "C",
+      "created": "2026-11-07",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "stars": 1906,
+      "language": "JavaScript",
+      "created": "2026-11-06",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sarpstar/cinecode",
+      "url": "https://github.com/sarpstar/cinecode",
+      "stars": 1825,
+      "language": "Python",
+      "created": "2026-11-03",
+      "topics": [],
+      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Sandflow-ai/sand3d",
+      "url": "https://github.com/Sandflow-ai/sand3d",
+      "stars": 1569,
+      "language": "HTML",
+      "created": "2026-11-03",
+      "topics": [
+        "3d",
+        "blender",
+        "cad",
+        "llm",
+        "procedural-modeling",
+        "python",
+        "usd"
+      ],
+      "description": "3D modeling in Python, built for LLMs.",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "stars": 1468,
+      "language": "C#",
+      "created": "2026-11-08",
+      "topics": [
+        "apple-silicon",
+        "arm64",
+        "game-porting",
+        "ios",
+        "ipados",
+        "macos",
+        "metal",
+        "s2arm",
+        "static-recompilation",
+        "switch"
+      ],
+      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "CzJam/gjgjxweb",
+      "url": "https://github.com/CzJam/gjgjxweb",
+      "stars": 1415,
+      "language": "HTML",
+      "created": "2026-11-03",
+      "topics": [],
+      "description": "《搞机工具箱》Web移植版",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "livliv-dev/player",
+      "url": "https://github.com/livliv-dev/player",
+      "stars": 1383,
+      "language": "TypeScript",
+      "created": "2026-11-04",
+      "topics": [
+        "avatar",
+        "character",
+        "face-tracking",
+        "lip-sync",
+        "pngtuber",
+        "vrm",
+        "vtuber",
+        "webgl2"
+      ],
+      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "shanselman/gputaskman",
+      "url": "https://github.com/shanselman/gputaskman",
+      "stars": 1365,
+      "language": "Python",
+      "created": "2026-11-03",
+      "topics": [],
+      "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mmdoctor/google-pro-helper",
+      "url": "https://github.com/mmdoctor/google-pro-helper",
+      "stars": 1329,
+      "language": "Python",
+      "created": "2026-11-05",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "DIYgod/pinky",
+      "url": "https://github.com/DIYgod/pinky",
+      "stars": 1322,
+      "language": "Go",
+      "created": "2026-11-06",
+      "topics": [],
+      "description": "Let AI agents use your phone, with you in the loop.",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "janestreet/agent_skills",
+      "url": "https://github.com/janestreet/agent_skills",
+      "stars": 1263,
+      "language": "Unknown",
+      "created": "2026-11-03",
+      "topics": [],
+      "description": "Agent skills",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "voyager-so/vork",
+      "url": "https://github.com/voyager-so/vork",
+      "stars": 1245,
+      "language": "Rust",
+      "created": "2026-11-05",
+      "topics": [
+        "3d",
+        "ai-agents",
+        "gpu",
+        "metal",
+        "ray-tracing",
+        "rendering",
+        "rust",
+        "slang",
+        "vfx",
+        "vulkan"
+      ],
+      "description": "Headless 3D and VFX engine for agents. Research preview.",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "IainKay/ram-altman",
+      "url": "https://github.com/IainKay/ram-altman",
+      "stars": 1161,
+      "language": "Shell",
+      "created": "2026-11-05",
+      "topics": [
+        "bash",
+        "cron",
+        "dram",
+        "email",
+        "humor",
+        "linux",
+        "meminfo",
+        "memory",
+        "monitoring",
+        "openai",
+        "parody",
+        "ram",
+        "ram-altman",
+        "sam-altman",
+        "sam-altman-openai",
+        "shell-script",
+        "sysadmin"
+      ],
+      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "egoist/mygo-music",
+      "url": "https://github.com/egoist/mygo-music",
+      "stars": 1085,
+      "language": "Go",
+      "created": "2026-11-04",
+      "topics": [],
+      "description": "A native music player you extend with plugins",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sostenesfreitas/ocarina-recomp",
+      "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+      "stars": 1025,
+      "language": "C",
+      "created": "2026-11-06",
+      "topics": [],
+      "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "WoYun520/gif-factory",
+      "url": "https://github.com/WoYun520/gif-factory",
+      "stars": 1003,
+      "language": "Python",
+      "created": "2026-11-05",
+      "topics": [],
+      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "date": "2026-11-09",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "stars": 761,
+      "language": "Swift",
+      "created": "2026-11-09",
+      "topics": [],
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+      "date": "2026-11-09",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "outpostalbatrossmove/seedphrasegenerator",
+      "url": "https://github.com/outpostalbatrossmove/seedphrasegenerator",
+      "stars": 400,
+      "language": "Unknown",
+      "created": "2026-11-09",
+      "topics": [
+        "automation",
+        "crypto-checker-tool",
+        "developer-tools",
+        "ethereum-checker",
+        "guide-setup-seedphrasegenerator",
+        "how-to-install-seedphrasegenerator",
+        "how-to-setup-seedphrasegenerator",
+        "mnemonic-phrase",
+        "open-source",
+        "phrase-generator",
+        "python",
+        "recovery-crypto",
+        "scripts",
+        "seed-generator",
+        "seed-phase-checker",
+        "seed-phrases-generate",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "description": "Seedphrasegenerator 2026 pre-configured environment for secure desktop software utility deployment.",
+      "date": "2026-11-09",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Oceanderhide/kms-pico",
+      "url": "https://github.com/Oceanderhide/kms-pico",
+      "stars": 400,
+      "language": "Unknown",
+      "created": "2026-11-09",
+      "topics": [
+        "activation-fix",
+        "free-excel-word",
+        "it-reference",
+        "key-management-system",
+        "kms-auto-2026",
+        "kms-auto-get",
+        "kms-auto-tools",
+        "kms-pico-free",
+        "kmsauto-get",
+        "microsoft-office-26",
+        "microsoft-office-tool",
+        "microsoft-office-tools",
+        "oci-kms",
+        "office-2026-activation-tool",
+        "office-activation-utility-free",
+        "sysadmin-notes",
+        "windows-activaton",
+        "windows-console-tools",
+        "windows-downloader",
+        "windows-setup"
+      ],
+      "description": "Kms Pico Free 2023 pre-configured environment for streamlined desktop software utility deployment on isolated workstations.",
+      "date": "2026-11-09",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Nightgrudistinguish/sonyvegas",
+      "url": "https://github.com/Nightgrudistinguish/sonyvegas",
+      "stars": 400,
+      "language": "Unknown",
+      "created": "2026-11-09",
+      "topics": [
+        "automation",
+        "borisfx-plugin-free",
+        "developer-tools",
+        "guide-setup-sonyvegas",
+        "how-to-install-sonyvegas",
+        "how-to-setup-sonyvegas",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "sony-vegas-crack-2026",
+        "sony-vegas-cracked-2026",
+        "sony-vegas-professional",
+        "sony-vegas-professional-crack",
+        "sony-vegas-professional-cracked",
+        "sony-vegas-professional-free",
+        "sony-vegas-windows",
+        "sonysoftware",
+        "video-editing-for-professionals",
+        "video-editor-2026"
+      ],
+      "description": "Sony Vegas Pro 18.5 pre-configured environment for professional video editing, screen recording, and visual effects production in isolated...",
+      "date": "2026-11-09",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Octagoniocupola/flash-crypto-generator",
+      "url": "https://github.com/Octagoniocupola/flash-crypto-generator",
+      "stars": 400,
+      "language": "Unknown",
+      "created": "2026-11-09",
+      "topics": [
+        "automation",
+        "bitcoin-transaction-tool",
+        "bnb-flash-software-2025",
+        "desktop",
+        "developer-tools",
+        "erc20-generator",
+        "exodus-sol-flasher",
+        "guide-setup-flash-crypto-generator",
+        "how-to-install-flash-crypto-generator",
+        "how-to-setup-flash-crypto-generator",
+        "ledger-api",
+        "open-source",
+        "phrase-generator",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "description": "Flash Crypto Generator 2026 pre-configured environment for secure and efficient desktop software utility deployment.",
+      "date": "2026-11-09",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "stars": 55194,
+      "language": "Python",
+      "created": "2026-10-17",
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal",
+        "claude-code",
+        "debloat",
+        "fire-tv",
+        "google-tv",
+        "launcher",
+        "privacy",
+        "smart-tv",
+        "sony-bravia",
+        "tcl",
+        "vibe-coding",
+        "xiaomi"
+      ],
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "date": "2026-11-09",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "stars": 25728,
+      "language": "Python",
+      "created": "2026-10-16",
+      "topics": [],
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "date": "2026-11-09",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "stars": 23919,
+      "language": "Rust",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "date": "2026-11-09",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "stars": 21637,
+      "language": "TypeScript",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Towards a More Autonomous Agent System",
+      "date": "2026-11-09",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Zagitta/gpu-unlock",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "stars": 18301,
+      "language": "C",
+      "created": "2026-10-18",
+      "topics": [],
+      "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
+      "date": "2026-11-09",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
@@ -57224,6 +57769,15 @@
     }
   ],
   "metadata": {
+    "2026-11-09": {
+      "ai_relevant_count": 11,
+      "top_ai_pick": {
+        "name": "Minireel/HGhub",
+        "url": "https://github.com/Minireel/HGhub",
+        "stars": 5136,
+        "description": "YellowFruit third-party client"
+      }
+    },
     "2026-11-08": {
       "ai_relevant_count": 9,
       "top_ai_pick": {
@@ -58284,9 +58838,15 @@
   },
   "language_stats": {
     "Python": {
-      "count": 1033,
-      "total_stars": 4795766,
+      "count": 1039,
+      "total_stars": 4882210,
       "repos": [
+        "sarpstar/cinecode",
+        "shanselman/gputaskman",
+        "mmdoctor/google-pro-helper",
+        "WoYun520/gif-factory",
+        "Gathin23/cleanyourtv",
+        "deepseek-ai/DeepInfer",
         "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
         "sarpstar/cinecode",
         "mmdoctor/google-pro-helper",
@@ -59323,9 +59883,13 @@
       ]
     },
     "TypeScript": {
-      "count": 627,
-      "total_stars": 7318625,
+      "count": 631,
+      "total_stars": 7351031,
       "repos": [
+        "Minireel/HGhub",
+        "KKKKhazix/agent-autoloop",
+        "livliv-dev/player",
+        "deepseek-ai/dsh-superagent-prototype",
         "KKKKhazix/agent-autoloop",
         "Minireel/HGhub",
         "livliv-dev/player",
@@ -59956,9 +60520,10 @@
       ]
     },
     "JavaScript": {
-      "count": 420,
-      "total_stars": 1662014,
+      "count": 421,
+      "total_stars": 1663920,
       "repos": [
+        "JenkinWoo/sheeridVerify",
         "JenkinWoo/sheeridVerify",
         "JenkinWoo/sheeridVerify",
         "Gezine/CivSwitch",
@@ -60382,9 +60947,14 @@
       ]
     },
     "Unknown": {
-      "count": 300,
-      "total_stars": 263322,
+      "count": 305,
+      "total_stars": 266185,
       "repos": [
+        "janestreet/agent_skills",
+        "outpostalbatrossmove/seedphrasegenerator",
+        "Oceanderhide/kms-pico",
+        "Nightgrudistinguish/sonyvegas",
+        "Octagoniocupola/flash-crypto-generator",
         "PaladinSmash84/aida-64-extreme",
         "PaladinDiscriminate/adobe-substance-3d",
         "updatesealeradicate/start11",
@@ -60688,9 +61258,11 @@
       ]
     },
     "Rust": {
-      "count": 245,
-      "total_stars": 2585682,
+      "count": 247,
+      "total_stars": 2610846,
       "repos": [
+        "voyager-so/vork",
+        "storytold/craft-anything",
         "libracoder/kiri",
         "voyager-so/vork",
         "storytold/craft-anything",
@@ -60939,9 +61511,11 @@
       ]
     },
     "HTML": {
-      "count": 168,
-      "total_stars": 569731,
+      "count": 170,
+      "total_stars": 572715,
       "repos": [
+        "Sandflow-ai/sand3d",
+        "CzJam/gjgjxweb",
         "Sandflow-ai/sand3d",
         "CzJam/gjgjxweb",
         "Sandflow-ai/sand3d",
@@ -61113,9 +61687,11 @@
       ]
     },
     "Swift": {
-      "count": 111,
-      "total_stars": 209739,
+      "count": 113,
+      "total_stars": 212974,
       "repos": [
+        "govijr/terminal-mac",
+        "huamidev/GestaltX",
         "govijr/terminal-mac",
         "govijr/terminal-mac",
         "wquguru/cicada",
@@ -61230,9 +61806,12 @@
       ]
     },
     "C": {
-      "count": 107,
-      "total_stars": 438712,
+      "count": 110,
+      "total_stars": 459996,
       "repos": [
+        "tangerineturtle1/NX2navi",
+        "sostenesfreitas/ocarina-recomp",
+        "Zagitta/gpu-unlock",
         "Leviidev/Henge",
         "sostenesfreitas/ocarina-recomp",
         "tangerineturtle1/NX2navi",
@@ -61343,9 +61922,10 @@
       ]
     },
     "C++": {
-      "count": 91,
-      "total_stars": 486953,
+      "count": 92,
+      "total_stars": 490991,
       "repos": [
+        "NotRexed/Hookshot",
         "NotRexed/Hookshot",
         "NotRexed/Hookshot",
         "zortos293/Lichii",
@@ -61440,9 +62020,11 @@
       ]
     },
     "Go": {
-      "count": 89,
-      "total_stars": 150688,
+      "count": 91,
+      "total_stars": 153095,
       "repos": [
+        "DIYgod/pinky",
+        "egoist/mygo-music",
         "egoist/mygo-music",
         "paipiange/nvzhuang",
         "protonversestudio/wow-forever-builds-kindred",
@@ -61535,9 +62117,10 @@
       ]
     },
     "Shell": {
-      "count": 50,
-      "total_stars": 34714,
+      "count": 51,
+      "total_stars": 35875,
       "repos": [
+        "IainKay/ram-altman",
         "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
         "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
         "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
@@ -61661,6 +62244,34 @@
         "openai/ten-proofs"
       ]
     },
+    "C#": {
+      "count": 22,
+      "total_stars": 18335,
+      "repos": [
+        "jhaizhou-ops/S2Arm",
+        "ahwootech/BRUTAL",
+        "ahwootech/BRUTAL",
+        "ahwootech/BRUTAL",
+        "ahwootech/BRUTAL",
+        "ahwootech/BRUTAL",
+        "CAPCOM-TD-OSS/REDox",
+        "CAPCOM-TD-OSS/REDox",
+        "CAPCOM-TD-OSS/REDox",
+        "CAPCOM-TD-OSS/REDox",
+        "mattxslv/childstream",
+        "angusdevgo/IDM_Pro_Tool",
+        "angusdevgo/IDM_Pro_Tool",
+        "angusdevgo/IDM_Pro_Tool",
+        "angusdevgo/IDM_Pro_Tool",
+        "angusdevgo/IDM_Pro_Tool",
+        "angusdevgo/IDM_Pro_Tool",
+        "Smart-Paocai/VioletToolBox",
+        "Leveetememorialize/gta-6-download-cyberleek",
+        "C-Clarke-Institute/DevOps_Workshop_.NET",
+        "johnclark-lab2093p9/fortnite-macro-2026",
+        "PostmanReminisce/Wisp-VPN"
+      ]
+    },
     "Java": {
       "count": 22,
       "total_stars": 129337,
@@ -61687,33 +62298,6 @@
         "ZSvirt/zsvirt",
         "ZSvirt/zsvirt",
         "SmellyToes67/Calculate-Minecraft-Coordinates-From-Bedrock-Formation-"
-      ]
-    },
-    "C#": {
-      "count": 21,
-      "total_stars": 16867,
-      "repos": [
-        "ahwootech/BRUTAL",
-        "ahwootech/BRUTAL",
-        "ahwootech/BRUTAL",
-        "ahwootech/BRUTAL",
-        "ahwootech/BRUTAL",
-        "CAPCOM-TD-OSS/REDox",
-        "CAPCOM-TD-OSS/REDox",
-        "CAPCOM-TD-OSS/REDox",
-        "CAPCOM-TD-OSS/REDox",
-        "mattxslv/childstream",
-        "angusdevgo/IDM_Pro_Tool",
-        "angusdevgo/IDM_Pro_Tool",
-        "angusdevgo/IDM_Pro_Tool",
-        "angusdevgo/IDM_Pro_Tool",
-        "angusdevgo/IDM_Pro_Tool",
-        "angusdevgo/IDM_Pro_Tool",
-        "Smart-Paocai/VioletToolBox",
-        "Leveetememorialize/gta-6-download-cyberleek",
-        "C-Clarke-Institute/DevOps_Workshop_.NET",
-        "johnclark-lab2093p9/fortnite-macro-2026",
-        "PostmanReminisce/Wisp-VPN"
       ]
     },
     "PowerShell": {
@@ -61983,6 +62567,11 @@
     }
   },
   "date_stats": {
+    "2026-11-09": {
+      "count": 30,
+      "total_stars": 185360,
+      "ai_count": 0
+    },
     "2026-11-08": {
       "count": 30,
       "total_stars": 172386,
