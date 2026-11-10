@@ -1,9 +1,531 @@
 {
-  "last_updated": "2026-11-09T14:29:53.893829",
-  "total_repos": 3506,
-  "total_dates": 119,
+  "last_updated": "2026-11-10T13:51:39.577102",
+  "total_repos": 3535,
+  "total_dates": 120,
   "total_unique_languages": 37,
   "repos": [
+    {
+      "name": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot",
+      "stars": 5985,
+      "language": "C++",
+      "created": "2026-11-05",
+      "topics": [],
+      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "stars": 4077,
+      "language": "Swift",
+      "created": "2026-11-09",
+      "topics": [],
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "stars": 2667,
+      "language": "C",
+      "created": "2026-11-07",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "stars": 2281,
+      "language": "C#",
+      "created": "2026-11-08",
+      "topics": [
+        "apple-silicon",
+        "arm64",
+        "game-porting",
+        "ios",
+        "ipados",
+        "macos",
+        "metal",
+        "s2arm",
+        "static-recompilation",
+        "switch"
+      ],
+      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "stars": 2002,
+      "language": "JavaScript",
+      "created": "2026-11-06",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "IainKay/ram-altman",
+      "url": "https://github.com/IainKay/ram-altman",
+      "stars": 1683,
+      "language": "Shell",
+      "created": "2026-11-05",
+      "topics": [
+        "bash",
+        "cron",
+        "dram",
+        "email",
+        "humor",
+        "linux",
+        "meminfo",
+        "memory",
+        "monitoring",
+        "openai",
+        "parody",
+        "ram",
+        "ram-altman",
+        "sam-altman",
+        "sam-altman-openai",
+        "shell-script",
+        "sysadmin"
+      ],
+      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "DIYgod/pinky",
+      "url": "https://github.com/DIYgod/pinky",
+      "stars": 1622,
+      "language": "Go",
+      "created": "2026-11-06",
+      "topics": [],
+      "description": "Let AI agents use your phone, with you in the loop.",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mmdoctor/google-pro-helper",
+      "url": "https://github.com/mmdoctor/google-pro-helper",
+      "stars": 1587,
+      "language": "Python",
+      "created": "2026-11-05",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jamesondh/chimera-vocal-synth",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth",
+      "stars": 1479,
+      "language": "Rust",
+      "created": "2026-11-05",
+      "topics": [],
+      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "livliv-dev/player",
+      "url": "https://github.com/livliv-dev/player",
+      "stars": 1440,
+      "language": "TypeScript",
+      "created": "2026-11-04",
+      "topics": [
+        "avatar",
+        "character",
+        "face-tracking",
+        "lip-sync",
+        "pngtuber",
+        "vrm",
+        "vtuber",
+        "webgl2"
+      ],
+      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "voyager-so/vork",
+      "url": "https://github.com/voyager-so/vork",
+      "stars": 1344,
+      "language": "Rust",
+      "created": "2026-11-05",
+      "topics": [
+        "3d",
+        "ai-agents",
+        "gpu",
+        "metal",
+        "ray-tracing",
+        "rendering",
+        "rust",
+        "slang",
+        "vfx",
+        "vulkan"
+      ],
+      "description": "Headless 3D and VFX engine for agents. Research preview.",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "egoist/mygo-music",
+      "url": "https://github.com/egoist/mygo-music",
+      "stars": 1175,
+      "language": "Go",
+      "created": "2026-11-04",
+      "topics": [],
+      "description": "A native music player you extend with plugins",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sostenesfreitas/ocarina-recomp",
+      "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+      "stars": 1075,
+      "language": "C",
+      "created": "2026-11-06",
+      "topics": [],
+      "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "WoYun520/gif-factory",
+      "url": "https://github.com/WoYun520/gif-factory",
+      "stars": 1067,
+      "language": "Python",
+      "created": "2026-11-05",
+      "topics": [],
+      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Th0rgal/satmux",
+      "url": "https://github.com/Th0rgal/satmux",
+      "stars": 1023,
+      "language": "Python",
+      "created": "2026-11-07",
+      "topics": [],
+      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JosssphZhou/poki",
+      "url": "https://github.com/JosssphZhou/poki",
+      "stars": 880,
+      "language": "Swift",
+      "created": "2026-11-05",
+      "topics": [
+        "ai-agents",
+        "automation",
+        "ios",
+        "iphone",
+        "mcp",
+        "model-context-protocol"
+      ],
+      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yappologistic/CUI",
+      "url": "https://github.com/yappologistic/CUI",
+      "stars": 829,
+      "language": "C",
+      "created": "2026-11-05",
+      "topics": [
+        "c",
+        "c99",
+        "cross-platform",
+        "gui",
+        "native",
+        "ui-components"
+      ],
+      "description": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sassiestrhihno/boxshelf-beta",
+      "url": "https://github.com/sassiestrhihno/boxshelf-beta",
+      "stars": 786,
+      "language": "Unknown",
+      "created": "2026-11-05",
+      "topics": [
+        "android-handheld",
+        "ayn-thor",
+        "box-art",
+        "electron",
+        "emulation",
+        "emulator-frontend",
+        "game-launcher",
+        "retro-gaming",
+        "steam-deck"
+      ],
+      "description": "Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps.",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN",
+      "stars": 760,
+      "language": "Swift",
+      "created": "2026-11-10",
+      "topics": [],
+      "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "AtomIllusionistDwell/watson-username-footprint-finder",
+      "url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
+      "stars": 727,
+      "language": "TypeScript",
+      "created": "2026-11-05",
+      "topics": [
+        "digital-footprint",
+        "electron",
+        "people-search",
+        "react",
+        "reverse-lookup",
+        "sherlock",
+        "social-media-search",
+        "username-lookup",
+        "windows"
+      ],
+      "description": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
+      "date": "2026-11-10",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "RobustAI24/Autocad-For-Windows",
+      "url": "https://github.com/RobustAI24/Autocad-For-Windows",
+      "stars": 98,
+      "language": "Unknown",
+      "created": "2026-11-10",
+      "topics": [
+        "autocad",
+        "autocad-for-win",
+        "autocad-for-windows-2026",
+        "autocad-for-windows-crack",
+        "autocad-for-windows-download",
+        "autocad-for-windows-free",
+        "automation",
+        "cad-automation",
+        "desktop",
+        "developer-tools",
+        "fsharp-interactive",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "description": "AutoCAD for Windows — professional CAD software for precise 2D drafting and 3D modeling with annotation, dynamic blocks and industry tools for architecture and engineering.",
+      "date": "2026-11-10",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Vig-13/Acrobat-Pro-For-Windows",
+      "url": "https://github.com/Vig-13/Acrobat-Pro-For-Windows",
+      "stars": 96,
+      "language": "Unknown",
+      "created": "2026-11-10",
+      "topics": [
+        "acrobat",
+        "acrobat-editor",
+        "acrobat-for-free-2026",
+        "acrobat-no-limits",
+        "acrobat-pdf",
+        "acrobat-pro-dc-key",
+        "acrobat-utility",
+        "adobe-acrobat",
+        "adobe-creative-cloud",
+        "interactive-pdfs",
+        "pdf-library",
+        "pdf-processing",
+        "pdf-to-text",
+        "pdf-viewer",
+        "pythi",
+        "pythia8",
+        "pythin3"
+      ],
+      "description": "Acrobat Pro for Windows — professional PDF editor for editing text and images, converting files, OCR, forms, document protection and electronic signatures.Markdown",
+      "date": "2026-11-10",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "raohj9773-ship-it/Adobe-Indesign-For-Windows",
+      "url": "https://github.com/raohj9773-ship-it/Adobe-Indesign-For-Windows",
+      "stars": 96,
+      "language": "Unknown",
+      "created": "2026-11-10",
+      "topics": [
+        "adobe-indesign",
+        "automation",
+        "desktop",
+        "developer-tools",
+        "indesign-document",
+        "indesign-free-soft",
+        "indesign-scripts",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "description": "Adobe InDesign for Windows — professional publishing and page layout software for print and digital design, typography, master pages and multi-page documents.",
+      "date": "2026-11-10",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Arafilaksmana/Capcut-Pro-For-Windows",
+      "url": "https://github.com/Arafilaksmana/Capcut-Pro-For-Windows",
+      "stars": 95,
+      "language": "Unknown",
+      "created": "2026-11-10",
+      "topics": [
+        "automation",
+        "capcut-activated",
+        "capcut-crack-2026",
+        "capcut-cracked-2026",
+        "capcut-exe",
+        "capcut-for-free",
+        "capcut-free-2026",
+        "capcut-tiktok",
+        "capcut-videocreator",
+        "capcut-videoeditor",
+        "capcut-windows10",
+        "capcut-windows11",
+        "developer-tools",
+        "effectrs-library",
+        "open-source",
+        "premium-enabler",
+        "python",
+        "scripts",
+        "software-engineering",
+        "video-capcut"
+      ],
+      "description": "CapCut Pro for Windows — free professional video editor with AI auto captions, effects, keyframes, transitions and high-quality 4K export for content creators.",
+      "date": "2026-11-10",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "stars": 55777,
+      "language": "Python",
+      "created": "2026-10-17",
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal",
+        "claude-code",
+        "debloat",
+        "fire-tv",
+        "google-tv",
+        "launcher",
+        "privacy",
+        "smart-tv",
+        "sony-bravia",
+        "tcl",
+        "vibe-coding",
+        "xiaomi"
+      ],
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "date": "2026-11-10",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "stars": 25788,
+      "language": "Python",
+      "created": "2026-10-16",
+      "topics": [],
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "date": "2026-11-10",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "stars": 25574,
+      "language": "Rust",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "date": "2026-11-10",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "stars": 22075,
+      "language": "TypeScript",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Towards a More Autonomous Agent System",
+      "date": "2026-11-10",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Zagitta/gpu-unlock",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "stars": 18493,
+      "language": "C",
+      "created": "2026-10-18",
+      "topics": [],
+      "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
+      "date": "2026-11-10",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
@@ -57769,6 +58291,15 @@
     }
   ],
   "metadata": {
+    "2026-11-10": {
+      "ai_relevant_count": 6,
+      "top_ai_pick": {
+        "name": "jhaizhou-ops/S2Arm",
+        "url": "https://github.com/jhaizhou-ops/S2Arm",
+        "stars": 2281,
+        "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。"
+      }
+    },
     "2026-11-09": {
       "ai_relevant_count": 11,
       "top_ai_pick": {
@@ -58838,9 +59369,14 @@
   },
   "language_stats": {
     "Python": {
-      "count": 1039,
-      "total_stars": 4882210,
+      "count": 1044,
+      "total_stars": 4967452,
       "repos": [
+        "mmdoctor/google-pro-helper",
+        "WoYun520/gif-factory",
+        "Th0rgal/satmux",
+        "Gathin23/cleanyourtv",
+        "deepseek-ai/DeepInfer",
         "sarpstar/cinecode",
         "shanselman/gputaskman",
         "mmdoctor/google-pro-helper",
@@ -59883,9 +60419,12 @@
       ]
     },
     "TypeScript": {
-      "count": 631,
-      "total_stars": 7351031,
+      "count": 634,
+      "total_stars": 7375273,
       "repos": [
+        "livliv-dev/player",
+        "AtomIllusionistDwell/watson-username-footprint-finder",
+        "deepseek-ai/dsh-superagent-prototype",
         "Minireel/HGhub",
         "KKKKhazix/agent-autoloop",
         "livliv-dev/player",
@@ -60520,9 +61059,10 @@
       ]
     },
     "JavaScript": {
-      "count": 421,
-      "total_stars": 1663920,
+      "count": 422,
+      "total_stars": 1665922,
       "repos": [
+        "JenkinWoo/sheeridVerify",
         "JenkinWoo/sheeridVerify",
         "JenkinWoo/sheeridVerify",
         "JenkinWoo/sheeridVerify",
@@ -60947,9 +61487,14 @@
       ]
     },
     "Unknown": {
-      "count": 305,
-      "total_stars": 266185,
+      "count": 310,
+      "total_stars": 267356,
       "repos": [
+        "sassiestrhihno/boxshelf-beta",
+        "RobustAI24/Autocad-For-Windows",
+        "Vig-13/Acrobat-Pro-For-Windows",
+        "raohj9773-ship-it/Adobe-Indesign-For-Windows",
+        "Arafilaksmana/Capcut-Pro-For-Windows",
         "janestreet/agent_skills",
         "outpostalbatrossmove/seedphrasegenerator",
         "Oceanderhide/kms-pico",
@@ -61258,9 +61803,12 @@
       ]
     },
     "Rust": {
-      "count": 247,
-      "total_stars": 2610846,
+      "count": 250,
+      "total_stars": 2639243,
       "repos": [
+        "jamesondh/chimera-vocal-synth",
+        "voyager-so/vork",
+        "storytold/craft-anything",
         "voyager-so/vork",
         "storytold/craft-anything",
         "libracoder/kiri",
@@ -61687,9 +62235,12 @@
       ]
     },
     "Swift": {
-      "count": 113,
-      "total_stars": 212974,
+      "count": 116,
+      "total_stars": 218691,
       "repos": [
+        "huamidev/GestaltX",
+        "JosssphZhou/poki",
+        "Kianuni/Erosion-CN",
         "govijr/terminal-mac",
         "huamidev/GestaltX",
         "govijr/terminal-mac",
@@ -61806,9 +62357,13 @@
       ]
     },
     "C": {
-      "count": 110,
-      "total_stars": 459996,
+      "count": 114,
+      "total_stars": 483060,
       "repos": [
+        "tangerineturtle1/NX2navi",
+        "sostenesfreitas/ocarina-recomp",
+        "yappologistic/CUI",
+        "Zagitta/gpu-unlock",
         "tangerineturtle1/NX2navi",
         "sostenesfreitas/ocarina-recomp",
         "Zagitta/gpu-unlock",
@@ -61922,9 +62477,10 @@
       ]
     },
     "C++": {
-      "count": 92,
-      "total_stars": 490991,
+      "count": 93,
+      "total_stars": 496976,
       "repos": [
+        "NotRexed/Hookshot",
         "NotRexed/Hookshot",
         "NotRexed/Hookshot",
         "NotRexed/Hookshot",
@@ -62020,9 +62576,11 @@
       ]
     },
     "Go": {
-      "count": 91,
-      "total_stars": 153095,
+      "count": 93,
+      "total_stars": 155892,
       "repos": [
+        "DIYgod/pinky",
+        "egoist/mygo-music",
         "DIYgod/pinky",
         "egoist/mygo-music",
         "egoist/mygo-music",
@@ -62117,9 +62675,10 @@
       ]
     },
     "Shell": {
-      "count": 51,
-      "total_stars": 35875,
+      "count": 52,
+      "total_stars": 37558,
       "repos": [
+        "IainKay/ram-altman",
         "IainKay/ram-altman",
         "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
         "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
@@ -62245,9 +62804,10 @@
       ]
     },
     "C#": {
-      "count": 22,
-      "total_stars": 18335,
+      "count": 23,
+      "total_stars": 20616,
       "repos": [
+        "jhaizhou-ops/S2Arm",
         "jhaizhou-ops/S2Arm",
         "ahwootech/BRUTAL",
         "ahwootech/BRUTAL",
@@ -62567,6 +63127,11 @@
     }
   },
   "date_stats": {
+    "2026-11-10": {
+      "count": 29,
+      "total_stars": 182581,
+      "ai_count": 0
+    },
     "2026-11-09": {
       "count": 30,
       "total_stars": 185360,
