@@ -1,9 +1,564 @@
 {
-  "last_updated": "2026-11-13T13:30:04.073861",
-  "total_repos": 3625,
-  "total_dates": 123,
-  "total_unique_languages": 37,
+  "last_updated": "2026-11-14T12:36:11.199207",
+  "total_repos": 3655,
+  "total_dates": 124,
+  "total_unique_languages": 38,
   "repos": [
+    {
+      "name": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "stars": 7482,
+      "language": "Swift",
+      "created": "2026-11-09",
+      "topics": [],
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "stars": 2920,
+      "language": "C#",
+      "created": "2026-11-08",
+      "topics": [
+        "apple-silicon",
+        "arm64",
+        "game-porting",
+        "ios",
+        "ipados",
+        "macos",
+        "metal",
+        "s2arm",
+        "static-recompilation",
+        "switch"
+      ],
+      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN",
+      "stars": 2005,
+      "language": "Swift",
+      "created": "2026-11-10",
+      "topics": [],
+      "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "stars": 1652,
+      "language": "C++",
+      "created": "2026-11-11",
+      "topics": [],
+      "description": "Apex Neural Rendering (ANR) by Apex Compute",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "stars": 1477,
+      "language": "Python",
+      "created": "2026-11-10",
+      "topics": [],
+      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "stars": 1428,
+      "language": "TypeScript",
+      "created": "2026-11-12",
+      "topics": [],
+      "description": "Chat Demo",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "stars": 1366,
+      "language": "TypeScript",
+      "created": "2026-11-09",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "browser-automation",
+        "chat",
+        "claude",
+        "claude-code",
+        "codex",
+        "collaboration",
+        "computer-use",
+        "docker-compose",
+        "gemini",
+        "grok",
+        "human-in-the-loop",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "self-hosted",
+        "slack-alternative",
+        "team-chat"
+      ],
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "stars": 1359,
+      "language": "TypeScript",
+      "created": "2026-11-10",
+      "topics": [
+        "ai-meeting-assistant",
+        "ai-notetaker",
+        "electron",
+        "granola-alternative",
+        "linux",
+        "llama-cpp",
+        "local-ai",
+        "local-first",
+        "macos",
+        "mcp",
+        "meeting-minutes",
+        "meeting-notes",
+        "offline-first",
+        "open-source",
+        "privacy",
+        "speech-to-text",
+        "transcription",
+        "whisper",
+        "whisper-cpp",
+        "windows"
+      ],
+      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "HolyArrs/HolyArrs",
+      "url": "https://github.com/HolyArrs/HolyArrs",
+      "stars": 1139,
+      "language": "Go",
+      "created": "2026-11-09",
+      "topics": [
+        "docker",
+        "homelab",
+        "jellyfin",
+        "media-server",
+        "plex",
+        "self-hosted"
+      ],
+      "description": "One self-hosted app for your shows, movies and music.",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+      "stars": 1042,
+      "language": "Visual Basic .NET",
+      "created": "2026-11-12",
+      "topics": [
+        "converter",
+        "ffmpeg",
+        "ffmpeg-command",
+        "ffmpeg-gui",
+        "ffmpeg-libraries",
+        "ffmpeg-script",
+        "gui",
+        "gui-application",
+        "image-compression",
+        "media-converter",
+        "media-converter-windows",
+        "video-editing",
+        "video-editor",
+        "video-processing",
+        "windows",
+        "windows-10",
+        "windows-11",
+        "windows-app",
+        "windows-package",
+        "windows-tools"
+      ],
+      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "kolbicz/WQFiles",
+      "url": "https://github.com/kolbicz/WQFiles",
+      "stars": 836,
+      "language": "Objective-C",
+      "created": "2026-11-09",
+      "topics": [],
+      "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "adriadam10/mkw-recomp",
+      "url": "https://github.com/adriadam10/mkw-recomp",
+      "stars": 776,
+      "language": "C",
+      "created": "2026-11-09",
+      "topics": [],
+      "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alexeyw/lot-map",
+      "url": "https://github.com/alexeyw/lot-map",
+      "stars": 775,
+      "language": "TypeScript",
+      "created": "2026-11-09",
+      "topics": [
+        "agent-observability",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "developer-tools",
+        "svg-animation",
+        "typescript",
+        "visualization"
+      ],
+      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "serveroshq/panel",
+      "url": "https://github.com/serveroshq/panel",
+      "stars": 769,
+      "language": "PHP",
+      "created": "2026-11-09",
+      "topics": [
+        "agpl",
+        "control-panel",
+        "devops",
+        "laravel",
+        "open-source",
+        "self-hosted",
+        "server-management",
+        "serveros",
+        "vps"
+      ],
+      "description": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JDhruv14/line-art-animation",
+      "url": "https://github.com/JDhruv14/line-art-animation",
+      "stars": 695,
+      "language": "TypeScript",
+      "created": "2026-11-10",
+      "topics": [
+        "claude-skill",
+        "line-art",
+        "svg-animation",
+        "typescript"
+      ],
+      "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "forcequitOS/worse_query",
+      "url": "https://github.com/forcequitOS/worse_query",
+      "stars": 623,
+      "language": "Objective-C",
+      "created": "2026-11-08",
+      "topics": [],
+      "description": "A sandbox escape for iOS 26 and 27, again",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "AIRzZ90/study-materials-fork",
+      "url": "https://github.com/AIRzZ90/study-materials-fork",
+      "stars": 579,
+      "language": "TypeScript",
+      "created": "2026-11-12",
+      "topics": [],
+      "description": "A cross-platform Tauri 2 interface and interaction practice project",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "opencoredev/islandcn",
+      "url": "https://github.com/opencoredev/islandcn",
+      "stars": 569,
+      "language": "TypeScript",
+      "created": "2026-11-13",
+      "topics": [
+        "dynamic-island",
+        "nextjs",
+        "react",
+        "shadcn",
+        "typescript",
+        "ui-components"
+      ],
+      "description": "The open-source Dynamic Island for React, installed with shadcn.",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "makepad/relax",
+      "url": "https://github.com/makepad/relax",
+      "stars": 523,
+      "language": "Rust",
+      "created": "2026-11-11",
+      "topics": [],
+      "description": "Relax Rust JIT",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Robbyant/lingbot-touch",
+      "url": "https://github.com/Robbyant/lingbot-touch",
+      "stars": 514,
+      "language": "Python",
+      "created": "2026-11-09",
+      "topics": [],
+      "description": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "date": "2026-11-14",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "stars": 357,
+      "language": "Python",
+      "created": "2026-11-14",
+      "topics": [],
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "date": "2026-11-14",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "brisk-thrush-husky/malware-defender-desktop",
+      "url": "https://github.com/brisk-thrush-husky/malware-defender-desktop",
+      "stars": 269,
+      "language": "C++",
+      "created": "2026-11-14",
+      "topics": [
+        "download-malware-defender",
+        "firewall",
+        "malware-defender-download",
+        "malware-defender-latest-version",
+        "real-time-protection",
+        "rootkit-removal",
+        "spyware-removal",
+        "trial-version"
+      ],
+      "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11",
+      "date": "2026-11-14",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "bradburns2001/topaz-video-ai-desktop",
+      "url": "https://github.com/bradburns2001/topaz-video-ai-desktop",
+      "stars": 267,
+      "language": "C++",
+      "created": "2026-11-14",
+      "topics": [
+        "topaz-activated",
+        "topaz-desktop",
+        "topaz-premiere-plugin",
+        "topaz-starlight",
+        "topaz-video-free-trial",
+        "topaz-video-premiere-pro",
+        "video-ai-2026",
+        "video-ai-tool",
+        "video-enhancer",
+        "video-quality-ai",
+        "video-upscale-8k"
+      ],
+      "description": "Topaz Video AI 2026 desktop setup with AI upscaling up to 16K with detail recovery, frame interpolation for smooth slow-motion, plus deinterlace, denoise and stabilize footage for Windows 11",
+      "date": "2026-11-14",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "brave-shell-07/izotope-rx-11-desktop",
+      "url": "https://github.com/brave-shell-07/izotope-rx-11-desktop",
+      "stars": 266,
+      "language": "C++",
+      "created": "2026-11-14",
+      "topics": [
+        "audio-repair-desktop",
+        "dialogue-cleanup",
+        "how-to-install-rx",
+        "izotope-rx",
+        "izotope-rx11",
+        "podcast-repair-suite",
+        "post-audio-2026",
+        "rx-desktop-package",
+        "rx-windows",
+        "spectral-edit-tools"
+      ],
+      "description": "iZotope RX 11 2026 desktop setup with AI audio repair, denoise, de-reverb and de-click, dialogue isolation and spectral editor, plus music rebalance to remix stems from a mix for Windows 11",
+      "date": "2026-11-14",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "brave-plum-co/leonardo-ai-desktop",
+      "url": "https://github.com/brave-plum-co/leonardo-ai-desktop",
+      "stars": 266,
+      "language": "C++",
+      "created": "2026-11-14",
+      "topics": [
+        "ai-art-platform",
+        "ai-creative-suite",
+        "ai-generation-tools",
+        "ai-image-generator",
+        "ai-image-tools",
+        "generative-ai-art",
+        "leonardo-ai-api",
+        "leonardo-ai-api-wrapper",
+        "leonardo-ai-automation",
+        "leonardo-ai-extension",
+        "leonardo-ai-generator",
+        "leonardo-ai-integration",
+        "leonardo-ai-models",
+        "leonardo-ai-prompt-tools",
+        "leonardo-ai-scripts",
+        "leonardo-ai-style-tools",
+        "leonardo-ai-tools",
+        "leonardo-ai-utilities",
+        "leonardo-ai-workflow"
+      ],
+      "description": "Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11",
+      "date": "2026-11-14",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "stars": 57634,
+      "language": "Python",
+      "created": "2026-10-17",
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal",
+        "claude-code",
+        "debloat",
+        "fire-tv",
+        "google-tv",
+        "launcher",
+        "privacy",
+        "smart-tv",
+        "sony-bravia",
+        "tcl",
+        "vibe-coding",
+        "xiaomi"
+      ],
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "date": "2026-11-14",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "stars": 32112,
+      "language": "Rust",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "date": "2026-11-14",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "stars": 26003,
+      "language": "Python",
+      "created": "2026-10-16",
+      "topics": [],
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "date": "2026-11-14",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "stars": 23097,
+      "language": "TypeScript",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Towards a More Autonomous Agent System",
+      "date": "2026-11-14",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "stars": 22349,
+      "language": "Dart",
+      "created": "2026-10-25",
+      "topics": [
+        "ai-agent",
+        "android",
+        "android-app",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-tui",
+        "flutter",
+        "llm"
+      ],
+      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "date": "2026-11-14",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
@@ -60025,6 +60580,15 @@
     }
   ],
   "metadata": {
+    "2026-11-14": {
+      "ai_relevant_count": 9,
+      "top_ai_pick": {
+        "name": "jhaizhou-ops/S2Arm",
+        "url": "https://github.com/jhaizhou-ops/S2Arm",
+        "stars": 2920,
+        "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。"
+      }
+    },
     "2026-11-13": {
       "ai_relevant_count": 10,
       "top_ai_pick": {
@@ -61130,9 +61694,14 @@
   },
   "language_stats": {
     "Python": {
-      "count": 1061,
-      "total_stars": 5226004,
+      "count": 1066,
+      "total_stars": 5311989,
       "repos": [
+        "HybridRobotics/supermimic",
+        "Robbyant/lingbot-touch",
+        "duwqijlk/muse-protocol",
+        "Gathin23/cleanyourtv",
+        "deepseek-ai/DeepInfer",
         "HybridRobotics/supermimic",
         "Th0rgal/satmux",
         "Goblinmine/homelab-diagram",
@@ -62197,9 +62766,17 @@
       ]
     },
     "TypeScript": {
-      "count": 644,
-      "total_stars": 7449560,
+      "count": 652,
+      "total_stars": 7479428,
       "repos": [
+        "deepseek-ai/chat-demo",
+        "agentes-chat/agentes-chat",
+        "FrigadeHQ/yogurt",
+        "alexeyw/lot-map",
+        "JDhruv14/line-art-animation",
+        "AIRzZ90/study-materials-fork",
+        "opencoredev/islandcn",
+        "deepseek-ai/dsh-superagent-prototype",
         "agentes-chat/agentes-chat",
         "FrigadeHQ/yogurt",
         "alexeyw/lot-map",
@@ -63601,9 +64178,11 @@
       ]
     },
     "Rust": {
-      "count": 256,
-      "total_stars": 2731376,
+      "count": 258,
+      "total_stars": 2764011,
       "repos": [
+        "makepad/relax",
+        "storytold/craft-anything",
         "storytold/craft-anything",
         "storytold/craft-anything",
         "jamesondh/chimera-vocal-synth",
@@ -64051,9 +64630,11 @@
       ]
     },
     "Swift": {
-      "count": 123,
-      "total_stars": 244399,
+      "count": 125,
+      "total_stars": 253886,
       "repos": [
+        "huamidev/GestaltX",
+        "Kianuni/Erosion-CN",
         "huamidev/GestaltX",
         "Kianuni/Erosion-CN",
         "huamidev/GestaltX",
@@ -64180,9 +64761,10 @@
       ]
     },
     "C": {
-      "count": 121,
-      "total_stars": 495986,
+      "count": 122,
+      "total_stars": 496762,
       "repos": [
+        "adriadam10/mkw-recomp",
         "tangerineturtle1/NX2navi",
         "adriadam10/mkw-recomp",
         "tangerineturtle1/NX2navi",
@@ -64307,9 +64889,14 @@
       ]
     },
     "C++": {
-      "count": 98,
-      "total_stars": 506149,
+      "count": 103,
+      "total_stars": 508869,
       "repos": [
+        "apex-compute/ANR",
+        "brisk-thrush-husky/malware-defender-desktop",
+        "bradburns2001/topaz-video-ai-desktop",
+        "brave-shell-07/izotope-rx-11-desktop",
+        "brave-plum-co/leonardo-ai-desktop",
         "apex-compute/ANR",
         "Goldoire/fefw-recomp",
         "Teamvyajoint/3D-Modeling-With-Sketchup",
@@ -64411,9 +64998,10 @@
       ]
     },
     "Go": {
-      "count": 96,
-      "total_stars": 160718,
+      "count": 97,
+      "total_stars": 161857,
       "repos": [
+        "HolyArrs/HolyArrs",
         "HolyArrs/HolyArrs",
         "DIYgod/pinky",
         "DIYgod/pinky",
@@ -64612,9 +65200,10 @@
       ]
     },
     "C#": {
-      "count": 26,
-      "total_stars": 28715,
+      "count": 27,
+      "total_stars": 31635,
       "repos": [
+        "jhaizhou-ops/S2Arm",
         "jhaizhou-ops/S2Arm",
         "jhaizhou-ops/S2Arm",
         "jhaizhou-ops/S2Arm",
@@ -64703,6 +65292,26 @@
         "SmellyToes67/Calculate-Minecraft-Coordinates-From-Bedrock-Formation-"
       ]
     },
+    "Dart": {
+      "count": 14,
+      "total_stars": 90894,
+      "repos": [
+        "ccch1mneyyy/dsh-Go",
+        "ccch1mneyyy/dsh-Go",
+        "ccch1mneyyy/dsh-Go",
+        "ccch1mneyyy/dsh-Go",
+        "ccch1mneyyy/dsh-Go",
+        "ccch1mneyyy/dsh-Go",
+        "lordsinstitute/star-projects",
+        "v-modal/vmodal_sdk_flutter",
+        "v-modal/vmodal_sdk_flutter",
+        "v-modal/vmodal_sdk_flutter",
+        "std-microblock/NovelHub",
+        "std-microblock/NovelHub",
+        "std-microblock/NovelHub",
+        "iebb/mithka"
+      ]
+    },
     "PowerShell": {
       "count": 14,
       "total_stars": 28965,
@@ -64723,23 +65332,21 @@
         "tybhy/tybhy-workflow"
       ]
     },
-    "Dart": {
-      "count": 13,
-      "total_stars": 68545,
+    "PHP": {
+      "count": 11,
+      "total_stars": 6615,
       "repos": [
-        "ccch1mneyyy/dsh-Go",
-        "ccch1mneyyy/dsh-Go",
-        "ccch1mneyyy/dsh-Go",
-        "ccch1mneyyy/dsh-Go",
-        "ccch1mneyyy/dsh-Go",
-        "lordsinstitute/star-projects",
-        "v-modal/vmodal_sdk_flutter",
-        "v-modal/vmodal_sdk_flutter",
-        "v-modal/vmodal_sdk_flutter",
-        "std-microblock/NovelHub",
-        "std-microblock/NovelHub",
-        "std-microblock/NovelHub",
-        "iebb/mithka"
+        "serveroshq/panel",
+        "serveroshq/panel",
+        "smm-gg/smm-panel-api",
+        "Faizpi/bank-sampah",
+        "Faizpi/bank-sampah",
+        "Faizpi/bank-sampah",
+        "Faizpi/bank-sampah",
+        "Faizpi/bank-sampah",
+        "Faizpi/bank-sampah",
+        "Faizpi/bank-sampah",
+        "THARUNRAJ15/Student-Expense-Tracker"
       ]
     },
     "CSS": {
@@ -64759,20 +65366,20 @@
         "spiritov/ds.css"
       ]
     },
-    "PHP": {
+    "Objective-C": {
       "count": 10,
-      "total_stars": 5846,
+      "total_stars": 4877,
       "repos": [
-        "serveroshq/panel",
-        "smm-gg/smm-panel-api",
-        "Faizpi/bank-sampah",
-        "Faizpi/bank-sampah",
-        "Faizpi/bank-sampah",
-        "Faizpi/bank-sampah",
-        "Faizpi/bank-sampah",
-        "Faizpi/bank-sampah",
-        "Faizpi/bank-sampah",
-        "THARUNRAJ15/Student-Expense-Tracker"
+        "kolbicz/WQFiles",
+        "forcequitOS/worse_query",
+        "kolbicz/WQFiles",
+        "forcequitOS/worse_query",
+        "mszhangopopop/SFSymbolReplacer",
+        "sonicloudco/recorder",
+        "0xjohnnydev/FilzaSlop",
+        "nfzerox/VirtualMacOniPad",
+        "nfzerox/VirtualMacOniPad",
+        "nfzerox/VirtualMacOniPad"
       ]
     },
     "Markdown": {
@@ -64805,20 +65412,6 @@
         "MIgHTy-alIeN/MEV-Arbitrage-Bot",
         "MIgHTy-alIeN/Trading-Bot",
         "alexafinode/claude-arbitrage-bot"
-      ]
-    },
-    "Objective-C": {
-      "count": 8,
-      "total_stars": 3418,
-      "repos": [
-        "kolbicz/WQFiles",
-        "forcequitOS/worse_query",
-        "mszhangopopop/SFSymbolReplacer",
-        "sonicloudco/recorder",
-        "0xjohnnydev/FilzaSlop",
-        "nfzerox/VirtualMacOniPad",
-        "nfzerox/VirtualMacOniPad",
-        "nfzerox/VirtualMacOniPad"
       ]
     },
     "Astro": {
@@ -64962,6 +65555,13 @@
         "diinki/linux-antiquity"
       ]
     },
+    "Visual Basic .NET": {
+      "count": 1,
+      "total_stars": 1042,
+      "repos": [
+        "DevedevT/FFmpeg-GUI-Editor-Windows"
+      ]
+    },
     "Makefile": {
       "count": 1,
       "total_stars": 15,
@@ -64978,6 +65578,11 @@
     }
   },
   "date_stats": {
+    "2026-11-14": {
+      "count": 30,
+      "total_stars": 191149,
+      "ai_count": 0
+    },
     "2026-11-13": {
       "count": 30,
       "total_stars": 189040,
