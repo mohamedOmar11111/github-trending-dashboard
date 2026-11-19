@@ -1,9 +1,538 @@
 {
-  "last_updated": "2026-11-18T14:40:29.222519",
-  "total_repos": 3775,
-  "total_dates": 128,
+  "last_updated": "2026-11-19T14:47:05.929389",
+  "total_repos": 3805,
+  "total_dates": 129,
   "total_unique_languages": 38,
   "repos": [
+    {
+      "name": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "stars": 4524,
+      "language": "Rust",
+      "created": "2026-11-16",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "cli",
+        "code-migration",
+        "codex",
+        "ffi",
+        "golang",
+        "java",
+        "javascript",
+        "mcp",
+        "migration",
+        "napi",
+        "performance",
+        "porting",
+        "pyo3",
+        "python",
+        "rewrite",
+        "ruby",
+        "rust",
+        "typescript"
+      ],
+      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 4417,
+      "language": "C++",
+      "created": "2026-11-16",
+      "topics": [],
+      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "gylive/google-ultra",
+      "url": "https://github.com/gylive/google-ultra",
+      "stars": 2405,
+      "language": "Python",
+      "created": "2026-11-17",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "stars": 1662,
+      "language": "Python",
+      "created": "2026-11-15",
+      "topics": [],
+      "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "stars": 1647,
+      "language": "Python",
+      "created": "2026-11-14",
+      "topics": [],
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "CzzzzzzJ/mdldm-maitian",
+      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+      "stars": 1553,
+      "language": "JavaScript",
+      "created": "2026-11-14",
+      "topics": [
+        "automation",
+        "chrome-extension",
+        "creator-tools",
+        "dashboard",
+        "feishu",
+        "social-media"
+      ],
+      "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "haziqahmedqasmi/PeakCut",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut",
+      "stars": 1222,
+      "language": "Python",
+      "created": "2026-11-14",
+      "topics": [],
+      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "stars": 1201,
+      "language": "Python",
+      "created": "2026-11-16",
+      "topics": [
+        "agent-skill",
+        "benchmarking",
+        "claude-code",
+        "inference",
+        "llm",
+        "speculative-decoding"
+      ],
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "joshpuckett/allo",
+      "url": "https://github.com/joshpuckett/allo",
+      "stars": 1118,
+      "language": "Python",
+      "created": "2026-11-15",
+      "topics": [],
+      "description": "Allo is your friendly neighborhood typeface, free and open source",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "zephyr4123/snug",
+      "url": "https://github.com/zephyr4123/snug",
+      "stars": 1084,
+      "language": "Swift",
+      "created": "2026-11-13",
+      "topics": [
+        "android",
+        "gestures",
+        "ipad",
+        "iphone",
+        "macos",
+        "macos-app",
+        "menubar-app",
+        "multi-monitor",
+        "productivity",
+        "remote-control",
+        "remote-desktop",
+        "swift",
+        "swiftui",
+        "tablet",
+        "uu-remote",
+        "virtual-display",
+        "window-management"
+      ],
+      "description": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every phone, tablet and computer, with native touch gestures and an App Library.",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "chuanqisun/spaceship",
+      "url": "https://github.com/chuanqisun/spaceship",
+      "stars": 913,
+      "language": "HTML",
+      "created": "2026-11-16",
+      "topics": [],
+      "description": "Steer your ideas in realtime",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "opencoredev/islandcn",
+      "url": "https://github.com/opencoredev/islandcn",
+      "stars": 815,
+      "language": "TypeScript",
+      "created": "2026-11-13",
+      "topics": [
+        "dynamic-island",
+        "nextjs",
+        "react",
+        "shadcn",
+        "typescript",
+        "ui-components"
+      ],
+      "description": "The open-source Dynamic Island for React, installed with shadcn.",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "n4ze3m/tiny-voca",
+      "url": "https://github.com/n4ze3m/tiny-voca",
+      "stars": 760,
+      "language": "Python",
+      "created": "2026-11-14",
+      "topics": [
+        "onnx",
+        "text-to-speech",
+        "tts"
+      ],
+      "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "yetanotherbrowser/yab",
+      "url": "https://github.com/yetanotherbrowser/yab",
+      "stars": 733,
+      "language": "Swift",
+      "created": "2026-11-14",
+      "topics": [],
+      "description": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mit-han-lab/pear",
+      "url": "https://github.com/mit-han-lab/pear",
+      "stars": 715,
+      "language": "Python",
+      "created": "2026-11-13",
+      "topics": [],
+      "description": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "boringmarketer/boring-marketing-skills",
+      "url": "https://github.com/boringmarketer/boring-marketing-skills",
+      "stars": 695,
+      "language": "Python",
+      "created": "2026-11-16",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "copywriting",
+        "local-seo",
+        "marketing",
+        "seo"
+      ],
+      "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "siliconjungle/shapeshift-labs-ink-studio",
+      "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+      "stars": 663,
+      "language": "JavaScript",
+      "created": "2026-11-16",
+      "topics": [],
+      "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "quer3q/kraken-mount",
+      "url": "https://github.com/quer3q/kraken-mount",
+      "stars": 539,
+      "language": "Rust",
+      "created": "2026-11-13",
+      "topics": [
+        "homebrew",
+        "ps5"
+      ],
+      "description": "Minimalist PS5 game mounter supporting PKG, folder dumps, zstd and lz4",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ybblab/Jiumi",
+      "url": "https://github.com/ybblab/Jiumi",
+      "stars": 523,
+      "language": "Kotlin",
+      "created": "2026-11-13",
+      "topics": [
+        "android",
+        "android-app",
+        "app-management",
+        "app-monitoring",
+        "appops",
+        "kotlin",
+        "network-monitoring",
+        "privacy",
+        "shizuku",
+        "wireless-debugging"
+      ],
+      "description": "揪咪 Jiumi：开源安卓应用行为监测与管理，查看权限访问和网络活动。Android app activity & privacy monitor. No root required.",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "faizwashere/ScanDot",
+      "url": "https://github.com/faizwashere/ScanDot",
+      "stars": 523,
+      "language": "Kotlin",
+      "created": "2026-11-13",
+      "topics": [
+        "3d-scanning",
+        "android",
+        "photogrammetry",
+        "point-cloud"
+      ],
+      "description": "Experimental Android 3D scanning and point-cloud viewer",
+      "date": "2026-11-19",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MilliMailmanOverpass/KytyPS5-Enhanced",
+      "url": "https://github.com/MilliMailmanOverpass/KytyPS5-Enhanced",
+      "stars": 131,
+      "language": "Unknown",
+      "created": "2026-11-19",
+      "topics": [
+        "cpp",
+        "emulator",
+        "kyty",
+        "kytyps5",
+        "playstation-5",
+        "playstation-5-emulator",
+        "ps5",
+        "ps5-emulator",
+        "vulkan"
+      ],
+      "description": "Enhanced KytyPS5 PS5 emulator with launcher, shader cache, frame pacing and per-game profiles. Tuned for Grand Theft Auto VI on Windows. Bring your own legally dumped game.",
+      "date": "2026-11-19",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "duwqijlk/google-trial-tool",
+      "url": "https://github.com/duwqijlk/google-trial-tool",
+      "stars": 130,
+      "language": "JavaScript",
+      "created": "2026-11-19",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-19",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "PolygonMaintenance/FlstudioAIproducer",
+      "url": "https://github.com/PolygonMaintenance/FlstudioAIproducer",
+      "stars": 85,
+      "language": "Go",
+      "created": "2026-11-19",
+      "topics": [
+        "audio-engineering",
+        "beat-making",
+        "digital-audio-workstation",
+        "fl",
+        "fl-studio-10",
+        "fl-studio-classic",
+        "fruity-loops",
+        "image-line",
+        "mixing-and-mastering",
+        "music-production-for-beginners",
+        "music-software",
+        "professional-music-software",
+        "recording-software",
+        "software-fl-studio",
+        "technical-resource"
+      ],
+      "description": "How to get Fl studio Producer 2026",
+      "date": "2026-11-19",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "setyamickala/airdrop-agent",
+      "url": "https://github.com/setyamickala/airdrop-agent",
+      "stars": 68,
+      "language": "Python",
+      "created": "2026-11-19",
+      "topics": [
+        "airdrop",
+        "automation",
+        "cli",
+        "evm",
+        "mcp",
+        "playwright",
+        "python",
+        "solana",
+        "testnet",
+        "web3"
+      ],
+      "description": "Autonomous airdrop operator: identities, wallets, socials, testnets, quests, radar — guarded CLI + MCP",
+      "date": "2026-11-19",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "emblembathollow/MsOfficeLatestVersion2026",
+      "url": "https://github.com/emblembathollow/MsOfficeLatestVersion2026",
+      "stars": 65,
+      "language": "Go",
+      "created": "2026-11-19",
+      "topics": [
+        "microsoft-keys",
+        "microsoft-office",
+        "microsoft-office-26",
+        "microsoft-suite",
+        "microsoft365",
+        "office365-activated"
+      ],
+      "description": "how to get Office 2026",
+      "date": "2026-11-19",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "stars": 38028,
+      "language": "Rust",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "date": "2026-11-19",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "stars": 27950,
+      "language": "Dart",
+      "created": "2026-10-25",
+      "topics": [
+        "ai-agent",
+        "android",
+        "android-app",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-tui",
+        "flutter",
+        "llm"
+      ],
+      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "date": "2026-11-19",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "stars": 23935,
+      "language": "TypeScript",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Towards a More Autonomous Agent System",
+      "date": "2026-11-19",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "stars": 18532,
+      "language": "JavaScript",
+      "created": "2026-10-29",
+      "topics": [],
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "date": "2026-11-19",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anefzaoui/misterdownloadmanager",
+      "url": "https://github.com/anefzaoui/misterdownloadmanager",
+      "stars": 13571,
+      "language": "Rust",
+      "created": "2026-10-29",
+      "topics": [
+        "bittorrent-client",
+        "debrid",
+        "download-accelerator",
+        "download-manager",
+        "downloadmanager",
+        "egui",
+        "file-downloader",
+        "gallery-dl",
+        "idm",
+        "idm-alternative",
+        "internet-download-manager",
+        "m3u8-downloader",
+        "magnet",
+        "playlist-downloader",
+        "real-debrid",
+        "rust",
+        "torrent-client",
+        "video-downloader",
+        "youtube-downloader",
+        "yt-dlp"
+      ],
+      "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+      "date": "2026-11-19",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
@@ -62606,6 +63135,15 @@
     }
   ],
   "metadata": {
+    "2026-11-19": {
+      "ai_relevant_count": 10,
+      "top_ai_pick": {
+        "name": "erkamyaman/rust-anything",
+        "url": "https://github.com/erkamyaman/rust-anything",
+        "stars": 4524,
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java."
+      }
+    },
     "2026-11-18": {
       "ai_relevant_count": 12,
       "top_ai_pick": {
@@ -63756,9 +64294,19 @@
   },
   "language_stats": {
     "Python": {
-      "count": 1092,
-      "total_stars": 5392032,
+      "count": 1102,
+      "total_stars": 5403525,
       "repos": [
+        "gylive/google-ultra",
+        "Hut-hzf/ung220z-tool",
+        "duwqijlk/muse-protocol",
+        "haziqahmedqasmi/PeakCut",
+        "sybil-solutions/inference-optimisation-skill",
+        "joshpuckett/allo",
+        "n4ze3m/tiny-voca",
+        "mit-han-lab/pear",
+        "boringmarketer/boring-marketing-skills",
+        "setyamickala/airdrop-agent",
         "Immortal-Protocols/lastbook",
         "duwqijlk/muse-protocol",
         "sybil-solutions/inference-optimisation-skill",
@@ -64854,9 +65402,11 @@
       ]
     },
     "TypeScript": {
-      "count": 679,
-      "total_stars": 7607265,
+      "count": 681,
+      "total_stars": 7632015,
       "repos": [
+        "opencoredev/islandcn",
+        "deepseek-ai/dsh-superagent-prototype",
         "deepseek-ai/chat-demo",
         "ZiChuanLan/freebie-radar",
         "opencoredev/islandcn",
@@ -65539,9 +66089,13 @@
       ]
     },
     "JavaScript": {
-      "count": 436,
-      "total_stars": 1731648,
+      "count": 440,
+      "total_stars": 1752526,
       "repos": [
+        "CzzzzzzJ/mdldm-maitian",
+        "siliconjungle/shapeshift-labs-ink-studio",
+        "duwqijlk/google-trial-tool",
+        "heydamir/unslop",
         "Noniv/abyssal-garden",
         "CzzzzzzJ/mdldm-maitian",
         "heydamir/unslop",
@@ -65981,9 +66535,10 @@
       ]
     },
     "Unknown": {
-      "count": 327,
-      "total_stars": 274860,
+      "count": 328,
+      "total_stars": 274991,
       "repos": [
+        "MilliMailmanOverpass/KytyPS5-Enhanced",
         "PlasterFlashBegin/ixl-browser-automation",
         "linknimiball1974/ai-texture-forge",
         "DrakeDelegate/RUST-private-cheat",
@@ -66314,9 +66869,13 @@
       ]
     },
     "Rust": {
-      "count": 267,
-      "total_stars": 2921071,
+      "count": 271,
+      "total_stars": 2977733,
       "repos": [
+        "erkamyaman/rust-anything",
+        "quer3q/kraken-mount",
+        "storytold/craft-anything",
+        "anefzaoui/misterdownloadmanager",
         "erkamyaman/rust-anything",
         "storytold/craft-anything",
         "anefzaoui/misterdownloadmanager",
@@ -66587,9 +67146,10 @@
       ]
     },
     "HTML": {
-      "count": 183,
-      "total_stars": 587471,
+      "count": 184,
+      "total_stars": 588384,
       "repos": [
+        "chuanqisun/spaceship",
         "chuanqisun/spaceship",
         "mahmoudtawfik1998/secure-pdf-document-processor",
         "hembramneeraj3-create/aida-64-extreme",
@@ -66776,9 +67336,11 @@
       ]
     },
     "Swift": {
-      "count": 132,
-      "total_stars": 268559,
+      "count": 134,
+      "total_stars": 270376,
       "repos": [
+        "zephyr4123/snug",
+        "yetanotherbrowser/yab",
         "zephyr4123/snug",
         "yetanotherbrowser/yab",
         "yetanotherbrowser/yab",
@@ -67045,9 +67607,10 @@
       ]
     },
     "C++": {
-      "count": 109,
-      "total_stars": 521083,
+      "count": 110,
+      "total_stars": 525500,
       "repos": [
+        "krisgfx9/Wireless-Device-Battery-Monitor",
         "krisgfx9/Wireless-Device-Battery-Monitor",
         "apex-compute/ANR",
         "krisgfx9/Wireless-Device-Battery-Monitor",
@@ -67160,9 +67723,11 @@
       ]
     },
     "Go": {
-      "count": 103,
-      "total_stars": 164113,
+      "count": 105,
+      "total_stars": 164263,
       "repos": [
+        "PolygonMaintenance/FlstudioAIproducer",
+        "emblembathollow/MsOfficeLatestVersion2026",
         "GladiatorSense/FlstudioAIproducer",
         "geerlingguy/chronytop",
         "LawmakerBoil/MsOfficeLatestVersion2026",
@@ -67329,9 +67894,11 @@
       ]
     },
     "Kotlin": {
-      "count": 39,
-      "total_stars": 104816,
+      "count": 41,
+      "total_stars": 105862,
       "repos": [
+        "ybblab/Jiumi",
+        "faizwashere/ScanDot",
         "Eynnzerr/TelemetryCleaner",
         "pengchujin/aerial-tv",
         "Eynnzerr/TelemetryCleaner",
@@ -67467,9 +68034,10 @@
       ]
     },
     "Dart": {
-      "count": 18,
-      "total_stars": 191415,
+      "count": 19,
+      "total_stars": 219365,
       "repos": [
+        "ccch1mneyyy/dsh-Go",
         "ccch1mneyyy/dsh-Go",
         "ccch1mneyyy/dsh-Go",
         "ccch1mneyyy/dsh-Go",
@@ -67760,6 +68328,11 @@
     }
   },
   "date_stats": {
+    "2026-11-19": {
+      "count": 30,
+      "total_stars": 150207,
+      "ai_count": 0
+    },
     "2026-11-18": {
       "count": 30,
       "total_stars": 148291,
