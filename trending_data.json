@@ -1,9 +1,588 @@
 {
-  "last_updated": "2026-11-20T14:28:37.414092",
-  "total_repos": 3835,
-  "total_dates": 130,
+  "last_updated": "2026-11-21T13:47:43.284578",
+  "total_repos": 3865,
+  "total_dates": 131,
   "total_unique_languages": 38,
   "repos": [
+    {
+      "name": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "stars": 7087,
+      "language": "Rust",
+      "created": "2026-11-16",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "cli",
+        "code-migration",
+        "codex",
+        "ffi",
+        "golang",
+        "java",
+        "javascript",
+        "mcp",
+        "migration",
+        "napi",
+        "performance",
+        "porting",
+        "pyo3",
+        "python",
+        "rewrite",
+        "ruby",
+        "rust",
+        "typescript"
+      ],
+      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 5625,
+      "language": "C++",
+      "created": "2026-11-16",
+      "topics": [],
+      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "gylive/google-ultra",
+      "url": "https://github.com/gylive/google-ultra",
+      "stars": 2569,
+      "language": "Python",
+      "created": "2026-11-17",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "stars": 2173,
+      "language": "Python",
+      "created": "2026-11-15",
+      "topics": [],
+      "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "stars": 1937,
+      "language": "Unknown",
+      "created": "2026-11-19",
+      "topics": [
+        "ai-agents",
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai",
+        "blender-automation",
+        "blender-mcp",
+        "blender-plugin",
+        "blender-scripting",
+        "bpy",
+        "chatgpt",
+        "claude",
+        "gemini",
+        "llm",
+        "mcp",
+        "mcp-for-blender",
+        "mcp-server",
+        "model-context-protocol",
+        "ollama",
+        "opencode"
+      ],
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "stars": 1556,
+      "language": "Python",
+      "created": "2026-11-19",
+      "topics": [
+        "ai-video-clipper",
+        "clipping",
+        "faster-whisper",
+        "ffmpeg",
+        "gameplay-clipper",
+        "local-llm",
+        "ollama",
+        "open-source-video-editor",
+        "opusclip-alternative",
+        "shorts",
+        "twitch-clips",
+        "vertical-video",
+        "video",
+        "whisper",
+        "youtube-shorts-generator",
+        "yt-dlp"
+      ],
+      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "stars": 1421,
+      "language": "Python",
+      "created": "2026-11-16",
+      "topics": [
+        "agent-skill",
+        "benchmarking",
+        "claude-code",
+        "inference",
+        "llm",
+        "speculative-decoding"
+      ],
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "joshpuckett/allo",
+      "url": "https://github.com/joshpuckett/allo",
+      "stars": 1285,
+      "language": "Python",
+      "created": "2026-11-15",
+      "topics": [],
+      "description": "Allo is your friendly neighborhood typeface, free and open source",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "chuanqisun/spaceship",
+      "url": "https://github.com/chuanqisun/spaceship",
+      "stars": 1006,
+      "language": "HTML",
+      "created": "2026-11-16",
+      "topics": [],
+      "description": "Steer ideas like a space pilot!",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "siliconjungle/shapeshift-labs-ink-studio",
+      "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+      "stars": 909,
+      "language": "JavaScript",
+      "created": "2026-11-16",
+      "topics": [],
+      "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Lemxy/WinRust",
+      "url": "https://github.com/Lemxy/WinRust",
+      "stars": 870,
+      "language": "Rust",
+      "created": "2026-11-17",
+      "topics": [],
+      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "boringmarketer/boring-marketing-skills",
+      "url": "https://github.com/boringmarketer/boring-marketing-skills",
+      "stars": 762,
+      "language": "Python",
+      "created": "2026-11-16",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "copywriting",
+        "local-seo",
+        "marketing",
+        "seo"
+      ],
+      "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "hatsunemiku-ai/google-one-tools",
+      "url": "https://github.com/hatsunemiku-ai/google-one-tools",
+      "stars": 713,
+      "language": "Python",
+      "created": "2026-11-20",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MSNightmare/FastUnlock",
+      "url": "https://github.com/MSNightmare/FastUnlock",
+      "stars": 630,
+      "language": "Unknown",
+      "created": "2026-11-19",
+      "topics": [],
+      "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "0xkaka/homeport",
+      "url": "https://github.com/0xkaka/homeport",
+      "stars": 612,
+      "language": "HTML",
+      "created": "2026-11-17",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nilbuild/stick-scene",
+      "url": "https://github.com/nilbuild/stick-scene",
+      "stars": 548,
+      "language": "JavaScript",
+      "created": "2026-11-15",
+      "topics": [],
+      "description": "Skill to draw stick figure animated visuals",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+      "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+      "stars": 516,
+      "language": "Python",
+      "created": "2026-11-19",
+      "topics": [],
+      "description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "replit/datacat",
+      "url": "https://github.com/replit/datacat",
+      "stars": 487,
+      "language": "TypeScript",
+      "created": "2026-11-17",
+      "topics": [
+        "alerting",
+        "apm",
+        "clickhouse",
+        "dashboards",
+        "logging",
+        "metrics",
+        "monitoring",
+        "observability",
+        "opentelemetry",
+        "postgresql",
+        "self-hosted",
+        "tracing"
+      ],
+      "description": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "YellowLaborerMarket/Gemini-Config-Checker-",
+      "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+      "stars": 474,
+      "language": "Makefile",
+      "created": "2026-11-15",
+      "topics": [
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli",
+        "config-checker",
+        "gemeni",
+        "gemeni-checker",
+        "generative-ai",
+        "lim-seo",
+        "llm",
+        "mcp-server",
+        "nextjs",
+        "open-code",
+        "seo-checker",
+        "seo-tool",
+        "typescript"
+      ],
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "weightcashiercupola/Gemini-Config-Checker-",
+      "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+      "stars": 473,
+      "language": "Makefile",
+      "created": "2026-11-15",
+      "topics": [
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli",
+        "config-checker",
+        "gemeni",
+        "gemeni-checker",
+        "generative-ai",
+        "lim-seo",
+        "llm",
+        "mcp-server",
+        "nextjs",
+        "open-code",
+        "seo-checker",
+        "seo-tool",
+        "typescript"
+      ],
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "date": "2026-11-21",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sybil-solutions/skill-distill",
+      "url": "https://github.com/sybil-solutions/skill-distill",
+      "stars": 149,
+      "language": "Python",
+      "created": "2026-11-21",
+      "topics": [],
+      "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+      "date": "2026-11-21",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ahmedbkareno1-stack/windows-activation-script-lekalin",
+      "url": "https://github.com/ahmedbkareno1-stack/windows-activation-script-lekalin",
+      "stars": 139,
+      "language": "HTML",
+      "created": "2026-11-21",
+      "topics": [
+        "microsoft-copilot",
+        "microsoft365",
+        "microsoftexcel",
+        "office-scripts",
+        "office-suite",
+        "windows-10",
+        "windows-11"
+      ],
+      "description": "Streamline Windows setup with Lekalin, a practical setup scripting tool.",
+      "date": "2026-11-21",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "lidija52/filmora-license-short-video-studio",
+      "url": "https://github.com/lidija52/filmora-license-short-video-studio",
+      "stars": 134,
+      "language": "HTML",
+      "created": "2026-11-21",
+      "topics": [
+        "auto-captions",
+        "filmora-alternative-access",
+        "filmora-creative-tools",
+        "filmora-creative-workflow",
+        "filmora-desktop",
+        "filmora-editing",
+        "filmora-pc",
+        "filmora-photo-tools",
+        "motion-tracking",
+        "screen-recording",
+        "social-video",
+        "video-editor",
+        "video-transitions"
+      ],
+      "description": "Compact studio for short-form video editing and terms-aware project workflows.",
+      "date": "2026-11-21",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "heracliomc-create/vegas-pro-23-bebaron",
+      "url": "https://github.com/heracliomc-create/vegas-pro-23-bebaron",
+      "stars": 131,
+      "language": "HTML",
+      "created": "2026-11-21",
+      "topics": [
+        "audio-mixing",
+        "blu-ray-authoring",
+        "color-correction",
+        "color-grading",
+        "content-creation",
+        "dvd-authoring",
+        "keyframe-animation",
+        "magix-vegas",
+        "nle",
+        "timeline-editor",
+        "vegas-pro-edi",
+        "vegas-pro-full",
+        "video-editing",
+        "video-editor",
+        "video-effects",
+        "video-processing",
+        "video-production",
+        "windows-video-editor"
+      ],
+      "description": "Professional video editing suite with timeline-based tools for multi-track projects.",
+      "date": "2026-11-21",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "bgleeson180-afk/cinema-4d-sacerin-motion-studio",
+      "url": "https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio",
+      "stars": 130,
+      "language": "HTML",
+      "created": "2026-11-21",
+      "topics": [
+        "3d",
+        "3d-animation",
+        "3d-rendering",
+        "animation",
+        "c4d",
+        "cinema-4d",
+        "computer-graphics",
+        "digital-art",
+        "maxon",
+        "mograph",
+        "motion",
+        "motion-design",
+        "motion-graphics",
+        "redshift",
+        "rendering",
+        "typography",
+        "vfx",
+        "video-editing",
+        "video-production",
+        "visualization"
+      ],
+      "description": "Builds Cinema 4D Sacerin motion scenes through a structured studio workflow.",
+      "date": "2026-11-21",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "stars": 39950,
+      "language": "Rust",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "date": "2026-11-21",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "stars": 29382,
+      "language": "Dart",
+      "created": "2026-10-25",
+      "topics": [
+        "ai-agent",
+        "android",
+        "android-app",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-tui",
+        "flutter",
+        "llm"
+      ],
+      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "date": "2026-11-21",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "stars": 24138,
+      "language": "TypeScript",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Towards a More Autonomous Agent System",
+      "date": "2026-11-21",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "stars": 19564,
+      "language": "JavaScript",
+      "created": "2026-10-29",
+      "topics": [],
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "date": "2026-11-21",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anefzaoui/misterdownloadmanager",
+      "url": "https://github.com/anefzaoui/misterdownloadmanager",
+      "stars": 14988,
+      "language": "Rust",
+      "created": "2026-10-29",
+      "topics": [
+        "bittorrent-client",
+        "debrid",
+        "download-accelerator",
+        "download-manager",
+        "downloadmanager",
+        "egui",
+        "file-downloader",
+        "gallery-dl",
+        "idm",
+        "idm-alternative",
+        "internet-download-manager",
+        "m3u8-downloader",
+        "magnet",
+        "playlist-downloader",
+        "real-debrid",
+        "rust",
+        "torrent-client",
+        "video-downloader",
+        "youtube-downloader",
+        "yt-dlp"
+      ],
+      "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+      "date": "2026-11-21",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
@@ -63655,6 +64234,15 @@
     }
   ],
   "metadata": {
+    "2026-11-21": {
+      "ai_relevant_count": 10,
+      "top_ai_pick": {
+        "name": "erkamyaman/rust-anything",
+        "url": "https://github.com/erkamyaman/rust-anything",
+        "stars": 7087,
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java."
+      }
+    },
     "2026-11-20": {
       "ai_relevant_count": 11,
       "top_ai_pick": {
@@ -64823,9 +65411,18 @@
   },
   "language_stats": {
     "Python": {
-      "count": 1112,
-      "total_stars": 5416746,
+      "count": 1121,
+      "total_stars": 5427890,
       "repos": [
+        "gylive/google-ultra",
+        "Hut-hzf/ung220z-tool",
+        "iamajmeena/neonclipping",
+        "sybil-solutions/inference-optimisation-skill",
+        "joshpuckett/allo",
+        "boringmarketer/boring-marketing-skills",
+        "hatsunemiku-ai/google-one-tools",
+        "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+        "sybil-solutions/skill-distill",
         "gylive/google-ultra",
         "Hut-hzf/ung220z-tool",
         "duwqijlk/muse-protocol",
@@ -65941,9 +66538,11 @@
       ]
     },
     "TypeScript": {
-      "count": 682,
-      "total_stars": 7656065,
+      "count": 684,
+      "total_stars": 7680690,
       "repos": [
+        "replit/datacat",
+        "deepseek-ai/dsh-superagent-prototype",
         "deepseek-ai/dsh-superagent-prototype",
         "opencoredev/islandcn",
         "deepseek-ai/dsh-superagent-prototype",
@@ -66629,9 +67228,12 @@
       ]
     },
     "JavaScript": {
-      "count": 443,
-      "total_stars": 1774045,
+      "count": 446,
+      "total_stars": 1795066,
       "repos": [
+        "siliconjungle/shapeshift-labs-ink-studio",
+        "nilbuild/stick-scene",
+        "heydamir/unslop",
         "CzzzzzzJ/mdldm-maitian",
         "siliconjungle/shapeshift-labs-ink-studio",
         "heydamir/unslop",
@@ -67078,9 +67680,11 @@
       ]
     },
     "Unknown": {
-      "count": 334,
-      "total_stars": 277328,
+      "count": 336,
+      "total_stars": 279895,
       "repos": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "MSNightmare/FastUnlock",
         "bookwjitchieni1986/blender-ai-mcp-addon",
         "0marContreras/gta6recomp",
         "HandcuffPerfumer/fl-studio-audio",
@@ -67418,9 +68022,13 @@
       ]
     },
     "Rust": {
-      "count": 275,
-      "total_stars": 3037851,
+      "count": 279,
+      "total_stars": 3100746,
       "repos": [
+        "erkamyaman/rust-anything",
+        "Lemxy/WinRust",
+        "storytold/craft-anything",
+        "anefzaoui/misterdownloadmanager",
         "erkamyaman/rust-anything",
         "Lemxy/WinRust",
         "storytold/craft-anything",
@@ -67699,9 +68307,15 @@
       ]
     },
     "HTML": {
-      "count": 186,
-      "total_stars": 589886,
+      "count": 192,
+      "total_stars": 592038,
       "repos": [
+        "chuanqisun/spaceship",
+        "0xkaka/homeport",
+        "ahmedbkareno1-stack/windows-activation-script-lekalin",
+        "lidija52/filmora-license-short-video-studio",
+        "heracliomc-create/vegas-pro-23-bebaron",
+        "bgleeson180-afk/cinema-4d-sacerin-motion-studio",
         "chuanqisun/spaceship",
         "0xkaka/homeport",
         "chuanqisun/spaceship",
@@ -68163,9 +68777,10 @@
       ]
     },
     "C++": {
-      "count": 111,
-      "total_stars": 530549,
+      "count": 112,
+      "total_stars": 536174,
       "repos": [
+        "krisgfx9/Wireless-Device-Battery-Monitor",
         "krisgfx9/Wireless-Device-Battery-Monitor",
         "krisgfx9/Wireless-Device-Battery-Monitor",
         "krisgfx9/Wireless-Device-Battery-Monitor",
@@ -68592,9 +69207,10 @@
       ]
     },
     "Dart": {
-      "count": 20,
-      "total_stars": 248174,
+      "count": 21,
+      "total_stars": 277556,
       "repos": [
+        "ccch1mneyyy/dsh-Go",
         "ccch1mneyyy/dsh-Go",
         "ccch1mneyyy/dsh-Go",
         "ccch1mneyyy/dsh-Go",
@@ -68820,6 +69436,15 @@
         "BottomKomodoCorridor/youtube-unban"
       ]
     },
+    "Makefile": {
+      "count": 3,
+      "total_stars": 962,
+      "repos": [
+        "YellowLaborerMarket/Gemini-Config-Checker-",
+        "weightcashiercupola/Gemini-Config-Checker-",
+        "YuKongA/twrp_device_xiaomi_sm8850"
+      ]
+    },
     "Jupyter Notebook": {
       "count": 3,
       "total_stars": 185,
@@ -68871,13 +69496,6 @@
         "diinki/linux-antiquity"
       ]
     },
-    "Makefile": {
-      "count": 1,
-      "total_stars": 15,
-      "repos": [
-        "YuKongA/twrp_device_xiaomi_sm8850"
-      ]
-    },
     "Pascal": {
       "count": 1,
       "total_stars": 29,
@@ -68887,6 +69505,11 @@
     }
   },
   "date_stats": {
+    "2026-11-21": {
+      "count": 30,
+      "total_stars": 160358,
+      "ai_count": 0
+    },
     "2026-11-20": {
       "count": 30,
       "total_stars": 157474,
