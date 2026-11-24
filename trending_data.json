@@ -1,9 +1,601 @@
 {
-  "last_updated": "2026-11-23T16:38:53.620188",
-  "total_repos": 3924,
-  "total_dates": 133,
+  "last_updated": "2026-11-24T16:34:47.692105",
+  "total_repos": 3954,
+  "total_dates": 134,
   "total_unique_languages": 39,
   "repos": [
+    {
+      "name": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "stars": 9828,
+      "language": "Rust",
+      "created": "2026-11-23",
+      "topics": [],
+      "description": "An attempt at running GTA VI on PC",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ivall/xcl",
+      "url": "https://github.com/ivall/xcl",
+      "stars": 7149,
+      "language": "Rust",
+      "created": "2026-11-20",
+      "topics": [
+        "d3d12",
+        "gdk",
+        "rdna2",
+        "xbox"
+      ],
+      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "stars": 3521,
+      "language": "Rust",
+      "created": "2026-11-21",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "developer-tools",
+        "ffi",
+        "mcp",
+        "mcp-server",
+        "napi-rs",
+        "nodejs",
+        "optimization",
+        "performance",
+        "profiler",
+        "pyo3",
+        "python",
+        "rewrite-it-in-rust",
+        "ruby",
+        "rust",
+        "typescript"
+      ],
+      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "stars": 3103,
+      "language": "Objective-C++",
+      "created": "2026-11-20",
+      "topics": [],
+      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "stars": 2422,
+      "language": "Python",
+      "created": "2026-11-19",
+      "topics": [
+        "ai-video-clipper",
+        "clipping",
+        "faster-whisper",
+        "ffmpeg",
+        "gameplay-clipper",
+        "local-llm",
+        "ollama",
+        "open-source-video-editor",
+        "opusclip-alternative",
+        "shorts",
+        "twitch-clips",
+        "vertical-video",
+        "video",
+        "whisper",
+        "youtube-shorts-generator",
+        "yt-dlp"
+      ],
+      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "stars": 2204,
+      "language": "JavaScript",
+      "created": "2026-11-21",
+      "topics": [],
+      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "url": "https://github.com/R0Y00/Xbox2Windows",
+      "stars": 1847,
+      "language": "Python",
+      "created": "2026-11-20",
+      "topics": [
+        "d3d12",
+        "directx-raytracing",
+        "scarlett",
+        "static-recompilation",
+        "windows",
+        "xbox",
+        "xbox-series-x"
+      ],
+      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator",
+      "stars": 1778,
+      "language": "Rust",
+      "created": "2026-11-21",
+      "topics": [],
+      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "os6/nospeaker",
+      "url": "https://github.com/os6/nospeaker",
+      "stars": 1683,
+      "language": "Swift",
+      "created": "2026-11-22",
+      "topics": [
+        "haptics",
+        "macos",
+        "swift",
+        "trackpad"
+      ],
+      "description": "make your macbook's trackpad talk using its haptic motor",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ubiquitarianism/leonida",
+      "url": "https://github.com/ubiquitarianism/leonida",
+      "stars": 1463,
+      "language": "Python",
+      "created": "2026-11-23",
+      "topics": [],
+      "description": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "INK-Q/agy-fast",
+      "url": "https://github.com/INK-Q/agy-fast",
+      "stars": 1063,
+      "language": "TypeScript",
+      "created": "2026-11-19",
+      "topics": [
+        "ai-agent",
+        "ai-coding",
+        "antigravity",
+        "antigravity-cli",
+        "antigravity-ide",
+        "antigravity-plugins",
+        "coding-agent",
+        "context-optimization",
+        "developer-productivity",
+        "developer-tools",
+        "gemini",
+        "google-antigravity",
+        "latency-optimization",
+        "mcp",
+        "mcp-plugin",
+        "mcp-server",
+        "model-context-protocol",
+        "performance",
+        "plugin",
+        "token-optimization"
+      ],
+      "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "leanprover-community/riemann-hypothesis",
+      "url": "https://github.com/leanprover-community/riemann-hypothesis",
+      "stars": 990,
+      "language": "Lean",
+      "created": "2026-11-20",
+      "topics": [],
+      "description": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "danielwh2/sprite-stacking",
+      "url": "https://github.com/danielwh2/sprite-stacking",
+      "stars": 754,
+      "language": "HTML",
+      "created": "2026-11-20",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "cursor",
+        "fake-3d",
+        "gamedev",
+        "pixel-art",
+        "sprite-stacking",
+        "voxel"
+      ],
+      "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+      "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+      "stars": 722,
+      "language": "Python",
+      "created": "2026-11-19",
+      "topics": [],
+      "description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "MSNightmare/FastUnlock",
+      "url": "https://github.com/MSNightmare/FastUnlock",
+      "stars": 714,
+      "language": "Unknown",
+      "created": "2026-11-19",
+      "topics": [],
+      "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "stars": 687,
+      "language": "Rust",
+      "created": "2026-11-22",
+      "topics": [
+        "dearrow",
+        "desktop-app",
+        "gpui",
+        "mpv",
+        "rust",
+        "sponsorblock",
+        "windows",
+        "youtube",
+        "youtube-client"
+      ],
+      "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ItsNotRexed/Hookshot",
+      "url": "https://github.com/ItsNotRexed/Hookshot",
+      "stars": 686,
+      "language": "C++",
+      "created": "2026-11-20",
+      "topics": [],
+      "description": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+      "url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+      "stars": 666,
+      "language": "HTML",
+      "created": "2026-11-21",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "game-preservation",
+        "grand-theft-auto-vi",
+        "gta-6",
+        "gta-vi",
+        "gta6",
+        "gtavi",
+        "modding",
+        "rage9",
+        "rdna2",
+        "recompilation",
+        "reverse-engineering",
+        "rpf9",
+        "rust",
+        "scarlett",
+        "ttpf",
+        "xbox-series"
+      ],
+      "description": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "sybil-solutions/skill-distill",
+      "url": "https://github.com/sybil-solutions/skill-distill",
+      "stars": 639,
+      "language": "Python",
+      "created": "2026-11-21",
+      "topics": [],
+      "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ThreatDefence/agentic-attack-detections",
+      "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+      "stars": 611,
+      "language": "Python",
+      "created": "2026-11-20",
+      "topics": [
+        "agentic-ai",
+        "ai-security",
+        "blue-team",
+        "defender-xdr",
+        "detection-engineering",
+        "ioc",
+        "kql",
+        "llm-security",
+        "microsoft-sentinel",
+        "sigma",
+        "sigma-rules",
+        "stix",
+        "suricata",
+        "suricata-rules",
+        "threat-detection",
+        "threat-hunting",
+        "threat-intelligence",
+        "yara",
+        "yara-rules",
+        "zeek"
+      ],
+      "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+      "date": "2026-11-24",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "LeonidaReforge/Leonida",
+      "url": "https://github.com/LeonidaReforge/Leonida",
+      "stars": 421,
+      "language": "Python",
+      "created": "2026-11-24",
+      "topics": [],
+      "description": "Community-driven continuation of the Leonida project",
+      "date": "2026-11-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ProjectLeonidaL/leonida",
+      "url": "https://github.com/ProjectLeonidaL/leonida",
+      "stars": 307,
+      "language": "Python",
+      "created": "2026-11-24",
+      "topics": [
+        "community-driven",
+        "cpp",
+        "gta6",
+        "gta6-pc",
+        "gtavi",
+        "leonida",
+        "open-source",
+        "pc-port",
+        "reverse-enginnering",
+        "rockstargames",
+        "runtime",
+        "shader-translation",
+        "static-recompilation",
+        "vulkan",
+        "windows",
+        "xbox",
+        "xbox-series-x"
+      ],
+      "description": "Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through static recompilation.",
+      "date": "2026-11-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "injectingon5m-alt/pubg-map-hack",
+      "url": "https://github.com/injectingon5m-alt/pubg-map-hack",
+      "stars": 178,
+      "language": "HTML",
+      "created": "2026-11-24",
+      "topics": [],
+      "description": "Live map intel and HUD overlays that keep PUBG squad decisions sharp.",
+      "date": "2026-11-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "isadhanjana-cpu/gta-5-enhanced-mod-menu",
+      "url": "https://github.com/isadhanjana-cpu/gta-5-enhanced-mod-menu",
+      "stars": 178,
+      "language": "HTML",
+      "created": "2026-11-24",
+      "topics": [
+        "cmake",
+        "configuration",
+        "cpp",
+        "directx-11",
+        "directx-12",
+        "gta5-enhanced",
+        "imgui",
+        "multithreading",
+        "performance-tuning",
+        "system-design",
+        "vulkan",
+        "win32-api",
+        "windows-11",
+        "yimmenu",
+        "yimmenu-v2"
+      ],
+      "description": "In-game tools and live stats for GTA 5 Enhanced, built for quick access.",
+      "date": "2026-11-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "carllouisepamittan/sketchup-pro-befalor",
+      "url": "https://github.com/carllouisepamittan/sketchup-pro-befalor",
+      "stars": 177,
+      "language": "HTML",
+      "created": "2026-11-24",
+      "topics": [
+        "3d-modeling-software",
+        "architectural-visualization",
+        "blender-3d-download",
+        "design-pipeline",
+        "guide-setup-sketchup",
+        "how-to-install-sketchup",
+        "how-to-setup-sketchup",
+        "measurement-tools",
+        "open-source",
+        "premium-software",
+        "python",
+        "render-ready",
+        "sketch-pro-download",
+        "sketch-up",
+        "sketch-up-free",
+        "sketch-up-pro",
+        "sketchup",
+        "sketchup-tool",
+        "sketchup-up-pro",
+        "v-ray"
+      ],
+      "description": "Sketchup Pro Befalor delivers focused modeling tools with structured workflows for design work.",
+      "date": "2026-11-24",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "stars": 42672,
+      "language": "Rust",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "date": "2026-11-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "stars": 24459,
+      "language": "TypeScript",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Towards a More Autonomous Agent System",
+      "date": "2026-11-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "stars": 21180,
+      "language": "JavaScript",
+      "created": "2026-10-29",
+      "topics": [],
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "date": "2026-11-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anefzaoui/misterdownloadmanager",
+      "url": "https://github.com/anefzaoui/misterdownloadmanager",
+      "stars": 17720,
+      "language": "Rust",
+      "created": "2026-10-29",
+      "topics": [
+        "bittorrent-client",
+        "debrid",
+        "download-accelerator",
+        "download-manager",
+        "downloadmanager",
+        "egui",
+        "file-downloader",
+        "gallery-dl",
+        "idm",
+        "idm-alternative",
+        "internet-download-manager",
+        "m3u8-downloader",
+        "magnet",
+        "playlist-downloader",
+        "real-debrid",
+        "rust",
+        "torrent-client",
+        "video-downloader",
+        "youtube-downloader",
+        "yt-dlp"
+      ],
+      "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+      "date": "2026-11-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JuneYaooo/rea-video",
+      "url": "https://github.com/JuneYaooo/rea-video",
+      "stars": 12949,
+      "language": "Python",
+      "created": "2026-10-29",
+      "topics": [
+        "agent-skills",
+        "ai-video",
+        "aigc-detection",
+        "claude-code",
+        "codex",
+        "ffmpeg",
+        "prompt-engineering",
+        "remotion",
+        "reverse-engineering",
+        "short-video",
+        "shot-detection",
+        "subtitles",
+        "video-analysis",
+        "video-breakdown",
+        "video-editing",
+        "video-generation",
+        "videomd",
+        "vlm"
+      ],
+      "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
+      "date": "2026-11-24",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "ItsNotRexed/Leonida",
       "url": "https://github.com/ItsNotRexed/Leonida",
@@ -65379,6 +65971,15 @@
     }
   ],
   "metadata": {
+    "2026-11-24": {
+      "ai_relevant_count": 8,
+      "top_ai_pick": {
+        "name": "EL4CTEO/fast-anything",
+        "url": "https://github.com/EL4CTEO/fast-anything",
+        "stars": 3521,
+        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same."
+      }
+    },
     "2026-11-23": {
       "ai_relevant_count": 8,
       "top_ai_pick": {
@@ -66574,9 +67175,18 @@
   },
   "language_stats": {
     "Python": {
-      "count": 1134,
-      "total_stars": 5477007,
+      "count": 1143,
+      "total_stars": 5498388,
       "repos": [
+        "iamajmeena/neonclipping",
+        "R0Y00/Xbox2Windows",
+        "ubiquitarianism/leonida",
+        "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+        "sybil-solutions/skill-distill",
+        "ThreatDefence/agentic-attack-detections",
+        "LeonidaReforge/Leonida",
+        "ProjectLeonidaL/leonida",
+        "JuneYaooo/rea-video",
         "ItsNotRexed/Leonida",
         "iamajmeena/neonclipping",
         "R0Y00/Xbox2Windows",
@@ -67714,9 +68324,11 @@
       ]
     },
     "TypeScript": {
-      "count": 689,
-      "total_stars": 7731122,
+      "count": 691,
+      "total_stars": 7756644,
       "repos": [
+        "INK-Q/agy-fast",
+        "deepseek-ai/dsh-superagent-prototype",
         "INK-Q/agy-fast",
         "replit/datacat",
         "deepseek-ai/dsh-superagent-prototype",
@@ -68409,9 +69021,11 @@
       ]
     },
     "JavaScript": {
-      "count": 449,
-      "total_stars": 1836766,
+      "count": 451,
+      "total_stars": 1860150,
       "repos": [
+        "4lwayz/portwatch-vi",
+        "heydamir/unslop",
         "heydamir/unslop",
         "siliconjungle/shapeshift-labs-ink-studio",
         "heydamir/unslop",
@@ -68864,9 +69478,10 @@
       ]
     },
     "Unknown": {
-      "count": 343,
-      "total_stars": 287892,
+      "count": 344,
+      "total_stars": 288606,
       "repos": [
+        "MSNightmare/FastUnlock",
         "bookwjitchieni1986/blender-ai-mcp-addon",
         "MSNightmare/FastUnlock",
         "realdody/americas-recomp",
@@ -69213,9 +69828,16 @@
       ]
     },
     "Rust": {
-      "count": 289,
-      "total_stars": 3216447,
+      "count": 296,
+      "total_stars": 3299802,
       "repos": [
+        "Marvisak/VIctory",
+        "ivall/xcl",
+        "EL4CTEO/fast-anything",
+        "omonkeyz/xbox-emulator",
+        "Avaneesh-Inamdar/Stream-Tube-Desktop",
+        "storytold/craft-anything",
+        "anefzaoui/misterdownloadmanager",
         "EL4CTEO/fast-anything",
         "omonkeyz/xbox-emulator",
         "Lemxy/WinRust",
@@ -69508,9 +70130,14 @@
       ]
     },
     "HTML": {
-      "count": 198,
-      "total_stars": 595527,
+      "count": 203,
+      "total_stars": 597480,
       "repos": [
+        "danielwh2/sprite-stacking",
+        "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+        "injectingon5m-alt/pubg-map-hack",
+        "isadhanjana-cpu/gta-5-enhanced-mod-menu",
+        "carllouisepamittan/sketchup-pro-befalor",
         "0xkaka/homeport",
         "danielwh2/sprite-stacking",
         "lenguyenkhang816792-arch/gta-6-pc-emulator",
@@ -69712,9 +70339,10 @@
       ]
     },
     "Swift": {
-      "count": 136,
-      "total_stars": 272260,
+      "count": 137,
+      "total_stars": 273943,
       "repos": [
+        "os6/nospeaker",
         "os6/nospeaker",
         "yetanotherbrowser/yab",
         "zephyr4123/snug",
@@ -69985,9 +70613,10 @@
       ]
     },
     "C++": {
-      "count": 116,
-      "total_stars": 543122,
+      "count": 117,
+      "total_stars": 543808,
       "repos": [
+        "ItsNotRexed/Hookshot",
         "ItsNotRexed/Hookshot",
         "chanke17/KuroCat",
         "krisgfx9/Wireless-Device-Battery-Monitor",
@@ -70326,9 +70955,10 @@
       ]
     },
     "Lean": {
-      "count": 29,
-      "total_stars": 177496,
+      "count": 30,
+      "total_stars": 178486,
       "repos": [
+        "leanprover-community/riemann-hypothesis",
         "leanprover-community/riemann-hypothesis",
         "CocoSgt/riemann-hypothesis-lean",
         "leanprover-community/riemann-hypothesis",
@@ -70693,6 +71323,14 @@
         "canonicalise/up"
       ]
     },
+    "Objective-C++": {
+      "count": 2,
+      "total_stars": 4486,
+      "repos": [
+        "AFK-surf/xnulinux",
+        "AFK-surf/xnulinux"
+      ]
+    },
     "Visual Basic .NET": {
       "count": 2,
       "total_stars": 2577,
@@ -70717,13 +71355,6 @@
         "diinki/linux-antiquity"
       ]
     },
-    "Objective-C++": {
-      "count": 1,
-      "total_stars": 1383,
-      "repos": [
-        "AFK-surf/xnulinux"
-      ]
-    },
     "Pascal": {
       "count": 1,
       "total_stars": 29,
@@ -70733,6 +71364,11 @@
     }
   },
   "date_stats": {
+    "2026-11-24": {
+      "count": 30,
+      "total_stars": 162771,
+      "ai_count": 0
+    },
     "2026-11-23": {
       "count": 29,
       "total_stars": 164296,
