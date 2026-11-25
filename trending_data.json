@@ -1,9 +1,537 @@
 {
-  "last_updated": "2026-11-24T16:34:47.692105",
-  "total_repos": 3954,
-  "total_dates": 134,
+  "last_updated": "2026-11-25T16:17:33.709150",
+  "total_repos": 3982,
+  "total_dates": 135,
   "total_unique_languages": 39,
   "repos": [
+    {
+      "name": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "stars": 12280,
+      "language": "Rust",
+      "created": "2026-11-23",
+      "topics": [],
+      "description": "An attempt at running GTA VI on PC",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "xcl-dev/xcl",
+      "url": "https://github.com/xcl-dev/xcl",
+      "stars": 8175,
+      "language": "Rust",
+      "created": "2026-11-20",
+      "topics": [
+        "d3d12",
+        "gdk",
+        "rdna2",
+        "xbox"
+      ],
+      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "stars": 3855,
+      "language": "Rust",
+      "created": "2026-11-21",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "developer-tools",
+        "ffi",
+        "mcp",
+        "mcp-server",
+        "napi-rs",
+        "nodejs",
+        "optimization",
+        "performance",
+        "profiler",
+        "pyo3",
+        "python",
+        "rewrite-it-in-rust",
+        "ruby",
+        "rust",
+        "typescript"
+      ],
+      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "stars": 3807,
+      "language": "C",
+      "created": "2026-11-20",
+      "topics": [],
+      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "stars": 3563,
+      "language": "JavaScript",
+      "created": "2026-11-21",
+      "topics": [],
+      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "fxceless/victory-fork",
+      "url": "https://github.com/fxceless/victory-fork",
+      "stars": 2837,
+      "language": "Rust",
+      "created": "2026-11-24",
+      "topics": [],
+      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "stars": 2596,
+      "language": "Python",
+      "created": "2026-11-19",
+      "topics": [
+        "ai-video-clipper",
+        "clipping",
+        "faster-whisper",
+        "ffmpeg",
+        "gameplay-clipper",
+        "local-llm",
+        "ollama",
+        "open-source-video-editor",
+        "opusclip-alternative",
+        "shorts",
+        "twitch-clips",
+        "vertical-video",
+        "video",
+        "whisper",
+        "youtube-shorts-generator",
+        "yt-dlp"
+      ],
+      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ubiquitarianism/leonida",
+      "url": "https://github.com/ubiquitarianism/leonida",
+      "stars": 2217,
+      "language": "Python",
+      "created": "2026-11-23",
+      "topics": [],
+      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "url": "https://github.com/R0Y00/Xbox2Windows",
+      "stars": 1944,
+      "language": "Python",
+      "created": "2026-11-20",
+      "topics": [
+        "d3d12",
+        "directx-raytracing",
+        "scarlett",
+        "static-recompilation",
+        "windows",
+        "xbox",
+        "xbox-series-x"
+      ],
+      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "os6/nospeaker",
+      "url": "https://github.com/os6/nospeaker",
+      "stars": 1851,
+      "language": "Swift",
+      "created": "2026-11-22",
+      "topics": [
+        "haptics",
+        "macos",
+        "swift",
+        "trackpad"
+      ],
+      "description": "make your macbook's trackpad talk using its haptic motor",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator",
+      "stars": 1841,
+      "language": "Rust",
+      "created": "2026-11-21",
+      "topics": [],
+      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Zettrox/ztrx",
+      "url": "https://github.com/Zettrox/ztrx",
+      "stars": 1499,
+      "language": "Rust",
+      "created": "2026-11-25",
+      "topics": [],
+      "description": "Run the Xbox Series build of the game natively on Windows PCs with NVIDIA GPUs",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Belobug/VIctory-Belobug-AMD",
+      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
+      "stars": 1484,
+      "language": "Rust",
+      "created": "2026-11-25",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "INK-Q/agy-fast",
+      "url": "https://github.com/INK-Q/agy-fast",
+      "stars": 1468,
+      "language": "TypeScript",
+      "created": "2026-11-19",
+      "topics": [
+        "ai-agent",
+        "ai-coding",
+        "antigravity",
+        "antigravity-cli",
+        "antigravity-ide",
+        "antigravity-plugins",
+        "coding-agent",
+        "context-optimization",
+        "developer-productivity",
+        "developer-tools",
+        "gemini",
+        "google-antigravity",
+        "latency-optimization",
+        "mcp",
+        "mcp-plugin",
+        "mcp-server",
+        "model-context-protocol",
+        "performance",
+        "plugin",
+        "token-optimization"
+      ],
+      "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Indigo-0167/universal-game-mod-manager",
+      "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+      "stars": 1300,
+      "language": "Rust",
+      "created": "2026-11-23",
+      "topics": [
+        "automation",
+        "desktop",
+        "epic-games",
+        "game-development",
+        "game-engine",
+        "game-mods",
+        "game-tools",
+        "gaming",
+        "gog",
+        "itch",
+        "mod-manager",
+        "modding",
+        "open-source",
+        "pc-gaming",
+        "rust",
+        "steam",
+        "tauri",
+        "unity",
+        "unreal",
+        "windows"
+      ],
+      "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Umbra9179/clipboard-history-manager-windows",
+      "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+      "stars": 1265,
+      "language": "C#",
+      "created": "2026-11-23",
+      "topics": [
+        "clipboard",
+        "clipboard-history",
+        "clipboard-manager",
+        "desktop-app",
+        "desktop-application",
+        "dotnet",
+        "fluent",
+        "open-source",
+        "productivity",
+        "utility",
+        "windows",
+        "windows-10",
+        "windows-11",
+        "windows-app-sdk",
+        "windows-application",
+        "winui"
+      ],
+      "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "leanprover-community/riemann-hypothesis",
+      "url": "https://github.com/leanprover-community/riemann-hypothesis",
+      "stars": 1169,
+      "language": "Lean",
+      "created": "2026-11-20",
+      "topics": [],
+      "description": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "stars": 1140,
+      "language": "Rust",
+      "created": "2026-11-22",
+      "topics": [
+        "dearrow",
+        "desktop-app",
+        "gpui",
+        "mpv",
+        "rust",
+        "sponsorblock",
+        "windows",
+        "youtube",
+        "youtube-client"
+      ],
+      "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "crhywun/g1-acq",
+      "url": "https://github.com/crhywun/g1-acq",
+      "stars": 1106,
+      "language": "JavaScript",
+      "created": "2026-11-22",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "solv4626/steam-achievement-manager-windows",
+      "url": "https://github.com/solv4626/steam-achievement-manager-windows",
+      "stars": 1063,
+      "language": "Rust",
+      "created": "2026-11-23",
+      "topics": [
+        "achievement-management",
+        "achievements",
+        "desktop",
+        "desktop-application",
+        "game-stats",
+        "game-utility",
+        "games",
+        "gaming",
+        "gaming-tools",
+        "gtk",
+        "gui",
+        "linux",
+        "open-source",
+        "productivity",
+        "steam",
+        "steam-achievement-manager",
+        "windows"
+      ],
+      "description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
+      "date": "2026-11-25",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "HoangMinh-sikula/rob-run-mod-trainer",
+      "url": "https://github.com/HoangMinh-sikula/rob-run-mod-trainer",
+      "stars": 334,
+      "language": "HTML",
+      "created": "2026-11-25",
+      "topics": [
+        "kefir",
+        "robrun-mod",
+        "robrun-radar",
+        "robrun-utility"
+      ],
+      "description": "Rob Run Mod Trainer: Shape Your Run, Bend the Rules, Build the Mod",
+      "date": "2026-11-25",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ReachProject-Git/Reach-Project-Emulator-For-GTA-6",
+      "url": "https://github.com/ReachProject-Git/Reach-Project-Emulator-For-GTA-6",
+      "stars": 197,
+      "language": "Unknown",
+      "created": "2026-11-25",
+      "topics": [],
+      "description": "For GTA 6 files are not yet released but you can check for updates here : https://x.com/RainReachDetail",
+      "date": "2026-11-25",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "mgreen5197/PClabs",
+      "url": "https://github.com/mgreen5197/PClabs",
+      "stars": 186,
+      "language": "TypeScript",
+      "created": "2026-11-25",
+      "topics": [
+        "clipping",
+        "gta6-preload",
+        "tiktok"
+      ],
+      "description": "",
+      "date": "2026-11-25",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "stars": 43321,
+      "language": "Rust",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "date": "2026-11-25",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "stars": 24568,
+      "language": "TypeScript",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Towards a More Autonomous Agent System",
+      "date": "2026-11-25",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "stars": 21587,
+      "language": "JavaScript",
+      "created": "2026-10-29",
+      "topics": [],
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "date": "2026-11-25",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anefzaoui/misterdownloadmanager",
+      "url": "https://github.com/anefzaoui/misterdownloadmanager",
+      "stars": 18091,
+      "language": "Rust",
+      "created": "2026-10-29",
+      "topics": [
+        "bittorrent-client",
+        "debrid",
+        "download-accelerator",
+        "download-manager",
+        "downloadmanager",
+        "egui",
+        "file-downloader",
+        "gallery-dl",
+        "idm",
+        "idm-alternative",
+        "internet-download-manager",
+        "m3u8-downloader",
+        "magnet",
+        "playlist-downloader",
+        "real-debrid",
+        "rust",
+        "torrent-client",
+        "video-downloader",
+        "youtube-downloader",
+        "yt-dlp"
+      ],
+      "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+      "date": "2026-11-25",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "JuneYaooo/rea-video",
+      "url": "https://github.com/JuneYaooo/rea-video",
+      "stars": 13298,
+      "language": "Python",
+      "created": "2026-10-29",
+      "topics": [
+        "agent-skills",
+        "ai-video",
+        "aigc-detection",
+        "claude-code",
+        "codex",
+        "ffmpeg",
+        "prompt-engineering",
+        "remotion",
+        "reverse-engineering",
+        "short-video",
+        "shot-detection",
+        "subtitles",
+        "video-analysis",
+        "video-breakdown",
+        "video-editing",
+        "video-generation",
+        "videomd",
+        "vlm"
+      ],
+      "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
+      "date": "2026-11-25",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
@@ -65971,6 +66499,15 @@
     }
   ],
   "metadata": {
+    "2026-11-25": {
+      "ai_relevant_count": 7,
+      "top_ai_pick": {
+        "name": "EL4CTEO/fast-anything",
+        "url": "https://github.com/EL4CTEO/fast-anything",
+        "stars": 3855,
+        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same."
+      }
+    },
     "2026-11-24": {
       "ai_relevant_count": 8,
       "top_ai_pick": {
@@ -67175,9 +67712,13 @@
   },
   "language_stats": {
     "Python": {
-      "count": 1143,
-      "total_stars": 5498388,
+      "count": 1147,
+      "total_stars": 5518443,
       "repos": [
+        "iamajmeena/neonclipping",
+        "ubiquitarianism/leonida",
+        "R0Y00/Xbox2Windows",
+        "JuneYaooo/rea-video",
         "iamajmeena/neonclipping",
         "R0Y00/Xbox2Windows",
         "ubiquitarianism/leonida",
@@ -68324,9 +68865,12 @@
       ]
     },
     "TypeScript": {
-      "count": 691,
-      "total_stars": 7756644,
+      "count": 694,
+      "total_stars": 7782866,
       "repos": [
+        "INK-Q/agy-fast",
+        "mgreen5197/PClabs",
+        "deepseek-ai/dsh-superagent-prototype",
         "INK-Q/agy-fast",
         "deepseek-ai/dsh-superagent-prototype",
         "INK-Q/agy-fast",
@@ -69021,9 +69565,12 @@
       ]
     },
     "JavaScript": {
-      "count": 451,
-      "total_stars": 1860150,
+      "count": 454,
+      "total_stars": 1886406,
       "repos": [
+        "4lwayz/portwatch-vi",
+        "crhywun/g1-acq",
+        "heydamir/unslop",
         "4lwayz/portwatch-vi",
         "heydamir/unslop",
         "heydamir/unslop",
@@ -69478,9 +70025,10 @@
       ]
     },
     "Unknown": {
-      "count": 344,
-      "total_stars": 288606,
+      "count": 345,
+      "total_stars": 288803,
       "repos": [
+        "ReachProject-Git/Reach-Project-Emulator-For-GTA-6",
         "MSNightmare/FastUnlock",
         "bookwjitchieni1986/blender-ai-mcp-addon",
         "MSNightmare/FastUnlock",
@@ -69828,9 +70376,21 @@
       ]
     },
     "Rust": {
-      "count": 296,
-      "total_stars": 3299802,
+      "count": 308,
+      "total_stars": 3396688,
       "repos": [
+        "Marvisak/VIctory",
+        "xcl-dev/xcl",
+        "EL4CTEO/fast-anything",
+        "fxceless/victory-fork",
+        "omonkeyz/xbox-emulator",
+        "Zettrox/ztrx",
+        "Belobug/VIctory-Belobug-AMD",
+        "Indigo-0167/universal-game-mod-manager",
+        "Avaneesh-Inamdar/Stream-Tube-Desktop",
+        "solv4626/steam-achievement-manager-windows",
+        "storytold/craft-anything",
+        "anefzaoui/misterdownloadmanager",
         "Marvisak/VIctory",
         "ivall/xcl",
         "EL4CTEO/fast-anything",
@@ -70130,9 +70690,10 @@
       ]
     },
     "HTML": {
-      "count": 203,
-      "total_stars": 597480,
+      "count": 204,
+      "total_stars": 597814,
       "repos": [
+        "HoangMinh-sikula/rob-run-mod-trainer",
         "danielwh2/sprite-stacking",
         "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
         "injectingon5m-alt/pubg-map-hack",
@@ -70339,9 +70900,10 @@
       ]
     },
     "Swift": {
-      "count": 137,
-      "total_stars": 273943,
+      "count": 138,
+      "total_stars": 275794,
       "repos": [
+        "os6/nospeaker",
         "os6/nospeaker",
         "os6/nospeaker",
         "yetanotherbrowser/yab",
@@ -70482,9 +71044,10 @@
       ]
     },
     "C": {
-      "count": 125,
-      "total_stars": 537382,
+      "count": 126,
+      "total_stars": 541189,
       "repos": [
+        "AFK-surf/xnulinux",
         "Zagitta/gpu-unlock",
         "adriadam10/mkw-recomp",
         "Zagitta/gpu-unlock",
@@ -70955,9 +71518,10 @@
       ]
     },
     "Lean": {
-      "count": 30,
-      "total_stars": 178486,
+      "count": 31,
+      "total_stars": 179655,
       "repos": [
+        "leanprover-community/riemann-hypothesis",
         "leanprover-community/riemann-hypothesis",
         "leanprover-community/riemann-hypothesis",
         "CocoSgt/riemann-hypothesis-lean",
@@ -70991,9 +71555,10 @@
       ]
     },
     "C#": {
-      "count": 27,
-      "total_stars": 31635,
+      "count": 28,
+      "total_stars": 32900,
       "repos": [
+        "Umbra9179/clipboard-history-manager-windows",
         "jhaizhou-ops/S2Arm",
         "jhaizhou-ops/S2Arm",
         "jhaizhou-ops/S2Arm",
@@ -71364,6 +71929,11 @@
     }
   },
   "date_stats": {
+    "2026-11-25": {
+      "count": 28,
+      "total_stars": 178042,
+      "ai_count": 0
+    },
     "2026-11-24": {
       "count": 30,
       "total_stars": 162771,
