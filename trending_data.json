@@ -1,9 +1,607 @@
 {
-  "last_updated": "2026-11-26T15:53:46.935834",
-  "total_repos": 4012,
-  "total_dates": 136,
+  "last_updated": "2026-11-27T15:42:25.182125",
+  "total_repos": 4042,
+  "total_dates": 137,
   "total_unique_languages": 39,
   "repos": [
+    {
+      "name": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "stars": 13677,
+      "language": "Rust",
+      "created": "2026-11-23",
+      "topics": [],
+      "description": "An attempt at running GTA VI on PC",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "stars": 6398,
+      "language": "JavaScript",
+      "created": "2026-11-21",
+      "topics": [],
+      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "stars": 4408,
+      "language": "Rust",
+      "created": "2026-11-21",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "developer-tools",
+        "ffi",
+        "mcp",
+        "mcp-server",
+        "napi-rs",
+        "nodejs",
+        "optimization",
+        "performance",
+        "profiler",
+        "pyo3",
+        "python",
+        "rewrite-it-in-rust",
+        "ruby",
+        "rust",
+        "typescript"
+      ],
+      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Belobug/VIctory-Belobug-AMD",
+      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
+      "stars": 4082,
+      "language": "Rust",
+      "created": "2026-11-25",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "fxceless/victory-fork",
+      "url": "https://github.com/fxceless/victory-fork",
+      "stars": 3337,
+      "language": "Rust",
+      "created": "2026-11-24",
+      "topics": [],
+      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ubiquitarianism/leonida",
+      "url": "https://github.com/ubiquitarianism/leonida",
+      "stars": 2603,
+      "language": "Python",
+      "created": "2026-11-23",
+      "topics": [],
+      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "os6/nospeaker",
+      "url": "https://github.com/os6/nospeaker",
+      "stars": 1983,
+      "language": "Swift",
+      "created": "2026-11-22",
+      "topics": [
+        "haptics",
+        "macos",
+        "swift",
+        "trackpad"
+      ],
+      "description": "make your macbook's trackpad talk using its haptic motor",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "nexu-io/opengame",
+      "url": "https://github.com/nexu-io/opengame",
+      "stars": 1947,
+      "language": "TypeScript",
+      "created": "2026-11-25",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-game-generator",
+        "claude-code",
+        "codex",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "game-development",
+        "game-engine",
+        "indie-game",
+        "local-first",
+        "mcp",
+        "mini-games",
+        "threejs",
+        "unity",
+        "unreal-engine",
+        "vibe-coding",
+        "wechat-minigame"
+      ],
+      "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "avatarmanz/VIctory-7900XTX",
+      "url": "https://github.com/avatarmanz/VIctory-7900XTX",
+      "stars": 1922,
+      "language": "Rust",
+      "created": "2026-11-25",
+      "topics": [],
+      "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "alesha-pro/llm.asm",
+      "url": "https://github.com/alesha-pro/llm.asm",
+      "stars": 1921,
+      "language": "Assembly",
+      "created": "2026-11-25",
+      "topics": [
+        "assembly",
+        "avx2",
+        "bare-metal",
+        "llm",
+        "machine-learning",
+        "nasm",
+        "osdev",
+        "qwen",
+        "transformer",
+        "x86-64"
+      ],
+      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator",
+      "stars": 1852,
+      "language": "Rust",
+      "created": "2026-11-21",
+      "topics": [],
+      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "crhywun/g1-acq",
+      "url": "https://github.com/crhywun/g1-acq",
+      "stars": 1752,
+      "language": "JavaScript",
+      "created": "2026-11-22",
+      "topics": [],
+      "description": "",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "qianyiai/KuroCat",
+      "url": "https://github.com/qianyiai/KuroCat",
+      "stars": 1736,
+      "language": "TypeScript",
+      "created": "2026-11-21",
+      "topics": [
+        "3d",
+        "ai-companion",
+        "android",
+        "bongo-cat",
+        "bongocat",
+        "claude-code",
+        "codex",
+        "cross-platform",
+        "desktop-pet",
+        "keyboard-visualizer",
+        "kurocat",
+        "linux",
+        "macos",
+        "mcp",
+        "obs-studio",
+        "open-source",
+        "rust",
+        "tauri",
+        "typing-cat",
+        "windows"
+      ],
+      "description": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "stars": 1620,
+      "language": "Rust",
+      "created": "2026-11-22",
+      "topics": [
+        "dearrow",
+        "desktop-app",
+        "gpui",
+        "mpv",
+        "rust",
+        "sponsorblock",
+        "windows",
+        "youtube",
+        "youtube-client"
+      ],
+      "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Reukix/Reloc",
+      "url": "https://github.com/Reukix/Reloc",
+      "stars": 1326,
+      "language": "Swift",
+      "created": "2026-11-25",
+      "topics": [],
+      "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Indigo-0167/universal-game-mod-manager",
+      "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+      "stars": 1300,
+      "language": "Rust",
+      "created": "2026-11-23",
+      "topics": [
+        "automation",
+        "desktop",
+        "epic-games",
+        "game-development",
+        "game-engine",
+        "game-mods",
+        "game-tools",
+        "gaming",
+        "gog",
+        "itch",
+        "mod-manager",
+        "modding",
+        "open-source",
+        "pc-gaming",
+        "rust",
+        "steam",
+        "tauri",
+        "unity",
+        "unreal",
+        "windows"
+      ],
+      "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Umbra9179/clipboard-history-manager-windows",
+      "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+      "stars": 1267,
+      "language": "C#",
+      "created": "2026-11-23",
+      "topics": [
+        "clipboard",
+        "clipboard-history",
+        "clipboard-manager",
+        "desktop-app",
+        "desktop-application",
+        "dotnet",
+        "fluent",
+        "open-source",
+        "productivity",
+        "utility",
+        "windows",
+        "windows-10",
+        "windows-11",
+        "windows-app-sdk",
+        "windows-application",
+        "winui"
+      ],
+      "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Pixel679-cmyk/windows-titlebar-blur-customizer",
+      "url": "https://github.com/Pixel679-cmyk/windows-titlebar-blur-customizer",
+      "stars": 1206,
+      "language": "C++",
+      "created": "2026-11-26",
+      "topics": [
+        "acrylic",
+        "aero",
+        "aeroglass",
+        "blur",
+        "cplusplus",
+        "cpp",
+        "desktop",
+        "desktop-customization",
+        "dwm",
+        "glassmorphism",
+        "mica",
+        "personalization",
+        "transparency",
+        "win10",
+        "win11",
+        "windows",
+        "windows-10",
+        "windows-11",
+        "windows-customization"
+      ],
+      "description": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deterministic-machines/deslop-please",
+      "url": "https://github.com/deterministic-machines/deslop-please",
+      "stars": 1179,
+      "language": "Rust",
+      "created": "2026-11-22",
+      "topics": [],
+      "description": "Bring (back) sanity to your code",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ZigZagBoi1/ScarlettPort",
+      "url": "https://github.com/ZigZagBoi1/ScarlettPort",
+      "stars": 1065,
+      "language": "Rust",
+      "created": "2026-11-24",
+      "topics": [
+        "amd",
+        "compatibility-layer",
+        "d3d12",
+        "directx12",
+        "dxil",
+        "game-port",
+        "native-port",
+        "nvidia",
+        "pc-port",
+        "rust",
+        "shader-recompiler",
+        "shader-translation",
+        "victory",
+        "windows",
+        "xbox",
+        "xbox-series-s",
+        "xbox-series-x"
+      ],
+      "description": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
+      "date": "2026-11-27",
+      "section": "weekly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "dazacode/vilauncher",
+      "url": "https://github.com/dazacode/vilauncher",
+      "stars": 221,
+      "language": "Rust",
+      "created": "2026-11-27",
+      "topics": [
+        "game-tools",
+        "launcher",
+        "rust",
+        "tauri",
+        "windows"
+      ],
+      "description": "VILauncher by the VIPortLive team: install, update and play community game projects. You bring your own game build.",
+      "date": "2026-11-27",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "Arekejoker/sprite-turntable",
+      "url": "https://github.com/Arekejoker/sprite-turntable",
+      "stars": 182,
+      "language": "Python",
+      "created": "2026-11-27",
+      "topics": [],
+      "description": "从一张定妆图制作可拖动旋转的 360° 角色转台，包含 72 帧透明素材、制作流程和离线展示页。",
+      "date": "2026-11-27",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ZiZc3/VI-Patch",
+      "url": "https://github.com/ZiZc3/VI-Patch",
+      "stars": 173,
+      "language": "Unknown",
+      "created": "2026-11-27",
+      "topics": [],
+      "description": "VI patches for PS5",
+      "date": "2026-11-27",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "shahroz-0/robrun-cheat-undetect",
+      "url": "https://github.com/shahroz-0/robrun-cheat-undetect",
+      "stars": 153,
+      "language": "HTML",
+      "created": "2026-11-27",
+      "topics": [
+        "kefir-robrun-awx19",
+        "robrun-aim-n63gi",
+        "robrun-aimbot-c1mjr",
+        "robrun-cheat-download-m9dzq",
+        "robrun-esp-tool-788an",
+        "robrun-external-9isgy",
+        "robrun-hacks-pmn7g",
+        "robrun-infinity-money-lclt8",
+        "robrun-injector-lyt6y",
+        "robrun-internal-xhlcy",
+        "robrun-loot-bt3qo",
+        "robrun-mod-zvt65",
+        "robrun-modmenu-hj0an",
+        "robrun-overlay-f8zki",
+        "robrun-radar-v7si6",
+        "robrun-trainer-tpnzl",
+        "robrun-trainers-rxy5d",
+        "robrun-utility-6atq7"
+      ],
+      "description": "Robrun Cheat Undetect keeps your Robrun toolkit hidden while surfacing live match data.",
+      "date": "2026-11-27",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "ziosatya/rob-run-aim",
+      "url": "https://github.com/ziosatya/rob-run-aim",
+      "stars": 153,
+      "language": "HTML",
+      "created": "2026-11-27",
+      "topics": [
+        "kefir-robrun-9vn2c",
+        "robrun-aim-ydqvb",
+        "robrun-aimbot-zgo31",
+        "robrun-cheat-download-bzn2w",
+        "robrun-esp-tool-1p5ug",
+        "robrun-external-ky24v",
+        "robrun-hacks-e3xmc",
+        "robrun-infinity-money-9jsdt",
+        "robrun-injector-v0lgk",
+        "robrun-internal-5odsm",
+        "robrun-loot-3vnsp",
+        "robrun-mod-owwz9",
+        "robrun-modmenu-udgwv",
+        "robrun-overlay-hrc6l",
+        "robrun-radar-slo05",
+        "robrun-trainer-4aopd",
+        "robrun-trainers-51xru",
+        "robrun-utility-fnmp7"
+      ],
+      "description": "In-game combat aid with real-time intel panels for Rob Run Aim.",
+      "date": "2026-11-27",
+      "section": "daily",
+      "is_ai_dev": false
+    },
+    {
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "stars": 44511,
+      "language": "Rust",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "date": "2026-11-27",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "stars": 24731,
+      "language": "TypeScript",
+      "created": "2026-10-31",
+      "topics": [],
+      "description": "Towards a More Autonomous Agent System",
+      "date": "2026-11-27",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "stars": 22486,
+      "language": "JavaScript",
+      "created": "2026-10-29",
+      "topics": [],
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "date": "2026-11-27",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "anefzaoui/misterdownloadmanager",
+      "url": "https://github.com/anefzaoui/misterdownloadmanager",
+      "stars": 18844,
+      "language": "Rust",
+      "created": "2026-10-29",
+      "topics": [
+        "bittorrent-client",
+        "debrid",
+        "download-accelerator",
+        "download-manager",
+        "downloadmanager",
+        "egui",
+        "file-downloader",
+        "gallery-dl",
+        "idm",
+        "idm-alternative",
+        "internet-download-manager",
+        "m3u8-downloader",
+        "magnet",
+        "playlist-downloader",
+        "real-debrid",
+        "rust",
+        "torrent-client",
+        "video-downloader",
+        "youtube-downloader",
+        "yt-dlp"
+      ],
+      "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+      "date": "2026-11-27",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
+    {
+      "name": "libracoder/kiri",
+      "url": "https://github.com/libracoder/kiri",
+      "stars": 13980,
+      "language": "Rust",
+      "created": "2026-11-02",
+      "topics": [
+        "containers",
+        "docker",
+        "kubernetes",
+        "linux",
+        "macos",
+        "oci",
+        "windows"
+      ],
+      "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+      "date": "2026-11-27",
+      "section": "monthly",
+      "is_ai_dev": false
+    },
     {
       "name": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
@@ -67067,6 +67665,15 @@
     }
   ],
   "metadata": {
+    "2026-11-27": {
+      "ai_relevant_count": 8,
+      "top_ai_pick": {
+        "name": "4lwayz/portwatch-vi",
+        "url": "https://github.com/4lwayz/portwatch-vi",
+        "stars": 6398,
+        "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily."
+      }
+    },
     "2026-11-26": {
       "ai_relevant_count": 7,
       "top_ai_pick": {
@@ -68289,9 +68896,11 @@
   },
   "language_stats": {
     "Python": {
-      "count": 1150,
-      "total_stars": 5522949,
+      "count": 1152,
+      "total_stars": 5525734,
       "repos": [
+        "ubiquitarianism/leonida",
+        "Arekejoker/sprite-turntable",
         "ubiquitarianism/leonida",
         "R0Y00/Xbox2Windows",
         "SolarFirefly/Autodesk-AutoCAD-2027-AI",
@@ -69445,9 +70054,12 @@
       ]
     },
     "TypeScript": {
-      "count": 696,
-      "total_stars": 7808831,
+      "count": 699,
+      "total_stars": 7837245,
       "repos": [
+        "nexu-io/opengame",
+        "qianyiai/KuroCat",
+        "deepseek-ai/dsh-superagent-prototype",
         "qianyiai/kurocat",
         "deepseek-ai/dsh-superagent-prototype",
         "INK-Q/agy-fast",
@@ -70147,9 +70759,12 @@
       ]
     },
     "JavaScript": {
-      "count": 457,
-      "total_stars": 1915234,
+      "count": 460,
+      "total_stars": 1945870,
       "repos": [
+        "4lwayz/portwatch-vi",
+        "crhywun/g1-acq",
+        "heydamir/unslop",
         "4lwayz/portwatch-vi",
         "crhywun/g1-acq",
         "heydamir/unslop",
@@ -70610,9 +71225,10 @@
       ]
     },
     "Unknown": {
-      "count": 345,
-      "total_stars": 288803,
+      "count": 346,
+      "total_stars": 288976,
       "repos": [
+        "ZiZc3/VI-Patch",
         "ReachProject-Git/Reach-Project-Emulator-For-GTA-6",
         "MSNightmare/FastUnlock",
         "bookwjitchieni1986/blender-ai-mcp-addon",
@@ -70961,9 +71577,23 @@
       ]
     },
     "Rust": {
-      "count": 323,
-      "total_stars": 3511553,
+      "count": 337,
+      "total_stars": 3623551,
       "repos": [
+        "Marvisak/VIctory",
+        "EL4CTEO/fast-anything",
+        "Belobug/VIctory-Belobug-AMD",
+        "fxceless/victory-fork",
+        "avatarmanz/VIctory-7900XTX",
+        "omonkeyz/xbox-emulator",
+        "Avaneesh-Inamdar/Stream-Tube-Desktop",
+        "Indigo-0167/universal-game-mod-manager",
+        "deterministic-machines/deslop-please",
+        "ZigZagBoi1/ScarlettPort",
+        "dazacode/vilauncher",
+        "storytold/craft-anything",
+        "anefzaoui/misterdownloadmanager",
+        "libracoder/kiri",
         "Marvisak/VIctory",
         "xcl-dev/xcl",
         "EL4CTEO/fast-anything",
@@ -71290,9 +71920,11 @@
       ]
     },
     "HTML": {
-      "count": 204,
-      "total_stars": 597814,
+      "count": 206,
+      "total_stars": 598120,
       "repos": [
+        "shahroz-0/robrun-cheat-undetect",
+        "ziosatya/rob-run-aim",
         "HoangMinh-sikula/rob-run-mod-trainer",
         "danielwh2/sprite-stacking",
         "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
@@ -71500,9 +72132,11 @@
       ]
     },
     "Swift": {
-      "count": 139,
-      "total_stars": 277727,
+      "count": 141,
+      "total_stars": 281036,
       "repos": [
+        "os6/nospeaker",
+        "Reukix/Reloc",
         "os6/nospeaker",
         "os6/nospeaker",
         "os6/nospeaker",
@@ -71778,9 +72412,10 @@
       ]
     },
     "C++": {
-      "count": 117,
-      "total_stars": 543808,
+      "count": 118,
+      "total_stars": 545014,
       "repos": [
+        "Pixel679-cmyk/windows-titlebar-blur-customizer",
         "ItsNotRexed/Hookshot",
         "ItsNotRexed/Hookshot",
         "chanke17/KuroCat",
@@ -72159,9 +72794,10 @@
       ]
     },
     "C#": {
-      "count": 29,
-      "total_stars": 34163,
+      "count": 30,
+      "total_stars": 35430,
       "repos": [
+        "Umbra9179/clipboard-history-manager-windows",
         "Umbra9179/clipboard-history-manager-windows",
         "Umbra9179/clipboard-history-manager-windows",
         "jhaizhou-ops/S2Arm",
@@ -72447,6 +73083,16 @@
         "unicity-astrid/book"
       ]
     },
+    "Assembly": {
+      "count": 4,
+      "total_stars": 6915,
+      "repos": [
+        "alesha-pro/llm.asm",
+        "alesha-pro/llm.asm",
+        "tek-sys-hub/Rubix-lang",
+        "tek-sys-hub/Rubix-lang"
+      ]
+    },
     "Vue": {
       "count": 4,
       "total_stars": 1594,
@@ -72465,15 +73111,6 @@
         "HydromancerRoute/DiscordFix",
         "BottomKomodoCorridor/telegram-fix-2.0.0",
         "BottomKomodoCorridor/youtube-unban"
-      ]
-    },
-    "Assembly": {
-      "count": 3,
-      "total_stars": 4994,
-      "repos": [
-        "alesha-pro/llm.asm",
-        "tek-sys-hub/Rubix-lang",
-        "tek-sys-hub/Rubix-lang"
       ]
     },
     "Makefile": {
@@ -72536,6 +73173,11 @@
     }
   },
   "date_stats": {
+    "2026-11-27": {
+      "count": 30,
+      "total_stars": 182015,
+      "ai_count": 0
+    },
     "2026-11-26": {
       "count": 30,
       "total_stars": 184464,
